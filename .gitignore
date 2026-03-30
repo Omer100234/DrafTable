@@ -1,0 +1,4 @@
+.env
+.claude/
+scrapers/.claude/
+__pycache__/

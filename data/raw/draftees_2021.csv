@@ -1,0 +1,260 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeamId,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade
+4360310.0,104734,228,Clemson,ACC,30,Jacksonville,2021,1,1,1,Trevor Lawrence,Quarterback,78,213,1.0,1.0,97.0
+4361259.0,104933,252,BYU,FBS Independents,20,New York,2021,2,1,2,Zach Wilson,Quarterback,74,214,4.0,2.0,93.0
+4383351.0,104742,2449,North Dakota State,MVFC,25,San Francisco,2021,3,1,3,Trey Lance,Quarterback,76,224,9.0,3.0,92.0
+4360248.0,104760,57,Florida,SEC,1,Atlanta,2021,4,1,4,Kyle Pitts,Tight End,78,245,2.0,1.0,94.0
+4362628.0,104737,99,LSU,SEC,4,Cincinnati,2021,5,1,5,Ja'Marr Chase,Wide Receiver,72,201,3.0,1.0,94.0
+4372016.0,104744,333,Alabama,SEC,15,Miami,2021,6,1,6,Jaylen Waddle,Wide Receiver,70,180,7.0,3.0,93.0
+4373825.0,104735,2483,Oregon,Pac-12,8,Detroit,2021,7,1,7,Penei Sewell,Offensive Tackle,77,331,5.0,1.0,93.0
+4362847.0,104938,2579,South Carolina,SEC,29,Carolina,2021,8,1,8,Jaycee Horn,Cornerback,73,205,14.0,2.0,91.0
+4372012.0,104736,333,Alabama,SEC,7,Denver,2021,9,1,9,Pat Surtain II,Cornerback,74,208,10.0,1.0,92.0
+4241478.0,104741,333,Alabama,SEC,21,Philadelphia,2021,10,1,10,DeVonta Smith,Wide Receiver,72,170,6.0,2.0,93.0
+4362887.0,104739,194,Ohio State,Big Ten,3,Chicago,2021,11,1,11,Justin Fields,Quarterback,75,227,11.0,4.0,91.0
+4361423.0,104738,213,Penn State,Big Ten,6,Dallas,2021,12,1,12,Micah Parsons,Inside Linebacker,75,246,16.0,2.0,90.0
+4242283.0,104761,77,Northwestern,Big Ten,24,Los Angeles,2021,13,1,13,Rashawn Slater,Offensive Tackle,76,304,8.0,2.0,93.0
+4259646.0,104771,30,USC,Pac-12,20,New York,2021,14,1,14,Alijah Vera-Tucker,Offensive Guard,77,308,13.0,1.0,91.0
+4241464.0,104935,333,Alabama,SEC,17,New England,2021,15,1,15,Mac Jones,Quarterback,75,217,15.0,5.0,90.0
+4244606.0,105138,202,Tulsa,American Athletic,22,Arizona,2021,16,1,16,Zaven Collins,Outside Linebacker,77,259,27.0,1.0,89.0
+4241466.0,104806,333,Alabama,SEC,13,Las Vegas,2021,17,1,17,Alex Leatherwood,Offensive Tackle,77,312,60.0,2.0,80.0
+4242975.0,105141,2390,Miami,ACC,15,Miami,2021,18,1,18,Jaelan Phillips,Defensive End,78,260,21.0,2.0,90.0
+4240778.0,105250,96,Kentucky,SEC,28,Washington,2021,19,1,19,Jamin Davis,Inside Linebacker,76,234,25.0,3.0,90.0
+4240600.0,105142,57,Florida,SEC,19,New York,2021,20,1,20,Kadarius Toney,Wide Receiver,72,193,32.0,6.0,88.0
+4258194.0,104780,130,Michigan,Big Ten,11,Indianapolis,2021,21,1,21,Kwity Paye,Defensive End,75,261,18.0,1.0,90.0
+4240859.0,104751,259,Virginia Tech,ACC,10,Tennessee,2021,22,1,22,Caleb Farley,Cornerback,74,197,19.0,3.0,90.0
+4361985.0,105134,259,Virginia Tech,ACC,16,Minnesota,2021,23,1,23,Christian Darrisaw,Offensive Tackle,77,322,20.0,3.0,90.0
+4241457.0,104766,333,Alabama,SEC,23,Pittsburgh,2021,24,1,24,Najee Harris,Running Back,73,232,28.0,2.0,89.0
+4239996.0,104752,228,Clemson,ACC,30,Jacksonville,2021,25,1,25,Travis Etienne,Running Back,70,215,22.0,1.0,90.0
+4361266.0,105268,77,Northwestern,Big Ten,5,Cleveland,2021,26,1,26,Greg Newsome II,Cornerback,72,192,24.0,4.0,90.0
+4360939.0,104740,135,Minnesota,Big Ten,33,Baltimore,2021,27,1,27,Rashod Bateman,Wide Receiver,72,190,29.0,5.0,89.0
+4240269.0,105148,248,Houston,American Athletic,18,New Orleans,2021,28,1,28,Payton Turner,Defensive End,78,268,73.0,9.0,76.0
+4259561.0,105145,61,Georgia,SEC,9,Green Bay,2021,29,1,29,Eric Stokes,Cornerback,73,194,71.0,10.0,76.0
+4362506.0,104745,2390,Miami,ACC,2,Buffalo,2021,30,1,30,Gregory Rousseau,Defensive End,79,266,48.0,7.0,84.0
+4361422.0,105249,213,Penn State,Big Ten,33,Baltimore,2021,31,1,31,Odafe Oweh,Outside Linebacker,77,257,38.0,5.0,87.0
+4243333.0,104773,264,Washington,Pac-12,27,Tampa Bay,2021,32,1,32,Joe Tryon,Outside Linebacker,77,259,37.0,4.0,88.0
+4379397.0,104842,61,Georgia,SEC,30,Jacksonville,2021,33,2,1,Tyson Campbell,Cornerback,73,193,41.0,6.0,86.0
+4372414.0,105139,145,Ole Miss,SEC,20,New York,2021,34,2,2,Elijah Moore,Wide Receiver,70,178,23.0,4.0,90.0
+4361579.0,105146,153,North Carolina,ACC,7,Denver,2021,35,2,3,Javonte Williams,Running Back,70,212,35.0,3.0,88.0
+4373809.0,104753,2483,Oregon,Pac-12,15,Miami,2021,36,2,4,Jevon Holland,Safety,73,207,56.0,4.0,81.0
+4035624.0,104813,333,Alabama,SEC,21,Philadelphia,2021,37,2,5,Landon Dickerson,Center,78,333,45.0,1.0,85.0
+4372030.0,104936,333,Alabama,SEC,17,New England,2021,38,2,6,Christian Barmore,Defensive Tackle,76,310,30.0,1.0,89.0
+4038457.0,104775,197,Oklahoma State,Big 12,3,Chicago,2021,39,2,7,Teven Jenkins,Offensive Tackle,78,317,26.0,4.0,89.0
+4042119.0,105187,2116,UCF,American Athletic,1,Atlanta,2021,40,2,8,Richie Grant,Safety,72,197,53.0,3.0,82.0
+4039020.0,104804,264,Washington,Pac-12,8,Detroit,2021,41,2,9,Levi Onwuzurike,Defensive Tackle,75,290,42.0,2.0,86.0
+4046694.0,104827,87,Notre Dame,FBS Independents,15,Miami,2021,42,2,10,Liam Eichenberg,Offensive Tackle,78,306,33.0,5.0,88.0
+4362487.0,104755,2628,TCU,Big 12,13,Las Vegas,2021,43,2,11,Trevon Moehrig,Safety,73,202,17.0,1.0,90.0
+4362629.0,105270,96,Kentucky,SEC,6,Dallas,2021,44,2,12,Kelvin Joseph,Cornerback,72,197,64.0,9.0,79.0
+4242554.0,104789,24,Stanford,Pac-12,30,Jacksonville,2021,45,2,13,Walker Little,Offensive Tackle,79,313,62.0,7.0,80.0
+4360320.0,105279,228,Clemson,ACC,4,Cincinnati,2021,46,2,14,Jackson Carman,Offensive Tackle,77,317,78.0,4.0,75.0
+4363034.0,105143,52,Florida State,ACC,24,Los Angeles,2021,47,2,15,Asante Samuel Jr.,Cornerback,70,180,34.0,5.0,88.0
+4242390.0,105178,87,Notre Dame,FBS Independents,25,San Francisco,2021,48,2,16,Aaron Banks,Offensive Guard,77,325,92.0,6.0,73.0
+4372485.0,104779,2509,Purdue,Big Ten,22,Arizona,2021,49,2,17,Rondale Moore,Wide Receiver,67,181,54.0,9.0,81.0
+4379409.0,105162,61,Georgia,SEC,19,New York,2021,50,2,18,Azeez Ojulari,Outside Linebacker,74,249,31.0,2.0,88.0
+4262199.0,104743,251,Texas,Big 12,28,Washington,2021,51,2,19,Samuel Cosmi,Offensive Tackle,78,314,66.0,8.0,78.0
+4258599.0,104749,87,Notre Dame,FBS Independents,5,Cleveland,2021,52,2,20,Jeremiah Owusu-Koramoah,Inside Linebacker,74,221,12.0,1.0,91.0
+4040945.0,104787,2449,North Dakota State,MVFC,10,Tennessee,2021,53,2,21,Dillon Radunz,Offensive Tackle,78,301,39.0,6.0,87.0
+4242659.0,104809,238,Vanderbilt,SEC,11,Indianapolis,2021,54,2,22,Dayo Odeyingbo,Defensive End,77,285,109.0,10.0,70.0
+4361411.0,104757,213,Penn State,Big Ten,23,Pittsburgh,2021,55,2,23,Pat Freiermuth,Tight End,77,251,58.0,3.0,80.0
+4043016.0,105167,2711,Western Michigan,Mid-American,26,Seattle,2021,56,2,24,D'Wayne Eskridge,Wide Receiver,69,190,57.0,10.0,80.0
+4360797.0,104822,97,Louisville,ACC,14,Los Angeles,2021,57,2,25,Tutu Atwell,Wide Receiver,69,155,44.0,7.0,85.0
+4362759.0,104934,142,Missouri,SEC,12,Kansas City,2021,58,2,26,Nick Bolton,Inside Linebacker,71,237,40.0,4.0,87.0
+4362630.0,105140,99,LSU,SEC,29,Carolina,2021,59,2,27,Terrace Marshall Jr.,Wide Receiver,75,205,46.0,8.0,84.0
+4241993.0,104769,194,Ohio State,Big Ten,18,New Orleans,2021,60,2,28,Pete Werner,Inside Linebacker,75,238,99.0,7.0,71.0
+4037239.0,104747,154,Wake Forest,ACC,2,Buffalo,2021,61,2,29,Carlos Basham Jr.,Defensive End,75,274,43.0,6.0,86.0
+4242000.0,104832,194,Ohio State,Big Ten,9,Green Bay,2021,62,2,30,Josh Myers,Center,77,310,106.0,3.0,70.0
+4241385.0,104819,201,Oklahoma,Big 12,12,Kansas City,2021,63,2,31,Creed Humphrey,Center,76,302,55.0,2.0,81.0
+4034946.0,105144,57,Florida,SEC,27,Tampa Bay,2021,64,2,32,Kyle Trask,Quarterback,77,236,65.0,7.0,78.0
+4361939.0,104824,183,Syracuse,ACC,30,Jacksonville,2021,65,3,1,Andre Cisco,Safety,73,216,50.0,2.0,82.0
+4240904.0,104791,245,Texas A&M,SEC,16,Minnesota,2021,66,3,2,Kellen Mond,Quarterback,75,211,67.0,8.0,77.0
+4242546.0,105275,24,Stanford,Pac-12,34,Houston,2021,67,3,3,Davis Mills,Quarterback,76,217,63.0,6.0,79.0
+4372093.0,104800,130,Michigan,Big Ten,1,Atlanta,2021,68,3,4,Jalen Mayfield,Offensive Tackle,77,326,112.0,11.0,70.0
+4362094.0,104834,251,Texas,Big 12,4,Cincinnati,2021,69,3,5,Joseph Ossai,Defensive End,76,256,84.0,4.0,74.0
+4256062.0,105304,252,BYU,FBS Independents,29,Carolina,2021,70,3,6,Brady Christensen,Offensive Tackle,77,302,238.0,17.0,39.0
+4040979.0,104893,2116,UCF,American Athletic,19,New York,2021,71,3,7,Aaron Robinson,Cornerback,72,186,74.0,11.0,76.0
+4361662.0,105272,152,NC State,ACC,8,Detroit,2021,72,3,8,Alim McNeill,Defensive Tackle,74,317,70.0,3.0,77.0
+4239699.0,105278,2348,Louisiana Tech,Conference USA,21,Philadelphia,2021,73,3,9,Milton Williams,Defensive Tackle,75,284,80.0,4.0,75.0
+4258206.0,105213,135,Minnesota,Big Ten,28,Washington,2021,74,3,10,Benjamin St-Juste,Cornerback,75,202,81.0,12.0,75.0
+4035840.0,104884,26,UCLA,Pac-12,6,Dallas,2021,75,3,11,Osa Odighizuwa,Defensive Tackle,74,282,87.0,5.0,73.0
+4242547.0,104762,24,Stanford,Pac-12,18,New Orleans,2021,76,3,12,Paulson Adebo,Cornerback,73,198,95.0,15.0,72.0
+4242433.0,104837,2633,Tennessee,SEC,24,Los Angeles,2021,77,3,14,Josh Palmer,Wide Receiver,73,210,183.0,31.0,55.0
+4037521.0,104808,153,North Carolina,ACC,16,Minnesota,2021,78,3,15,Chazz Surratt,Inside Linebacker,74,229,51.0,6.0,82.0
+4239719.0,105447,2084,Buffalo,Mid-American,13,Las Vegas,2021,79,3,16,Malcolm Koonce,Outside Linebacker,74,249,191.0,20.0,53.0
+4037626.0,104845,259,Virginia Tech,ACC,13,Las Vegas,2021,80,3,17,Divine Deablo,Safety,75,226,202.0,17.0,50.0
+4239944.0,105163,103,Boston College,ACC,15,Miami,2021,81,3,18,Hunter Long,Tight End,77,254,52.0,2.0,82.0
+4361577.0,105274,153,North Carolina,ACC,28,Washington,2021,82,3,19,Dyami Brown,Wide Receiver,73,189,98.0,17.0,71.0
+4372780.0,105276,87,Notre Dame,FBS Independents,29,Carolina,2021,83,3,20,Tommy Tremble,Tight End,75,241,93.0,4.0,73.0
+4036132.0,104923,2294,Iowa,Big Ten,6,Dallas,2021,84,3,21,Chauncey Golston,Defensive End,77,269,177.0,17.0,56.0
+4239992.0,105190,228,Clemson,ACC,9,Green Bay,2021,85,3,22,Amari Rodgers,Wide Receiver,70,212,86.0,14.0,74.0
+4241999.0,104763,194,Ohio State,Big Ten,16,Minnesota,2021,86,3,23,Wyatt Davis,Offensive Guard,76,315,82.0,5.0,74.0
+4240548.0,105421,356,Illinois,Big Ten,23,Pittsburgh,2021,87,3,24,Kendrick Green,Center,76,315,168.0,13.0,58.0
+4241401.0,104844,194,Ohio State,Big Ten,25,San Francisco,2021,88,3,25,Trey Sermon,Running Back,72,215,79.0,4.0,75.0
+4258173.0,104759,130,Michigan,Big Ten,34,Houston,2021,89,3,26,Nico Collins,Wide Receiver,76,215,76.0,13.0,75.0
+4036063.0,104770,221,Pittsburgh,ACC,16,Minnesota,2021,90,3,27,Patrick Jones II,Defensive End,76,261,68.0,8.0,77.0
+4371986.0,105302,2,Auburn,SEC,5,Cleveland,2021,91,3,28,Anthony Schwartz,Wide Receiver,72,186,72.0,11.0,76.0
+4240692.0,104778,61,Georgia,SEC,10,Tennessee,2021,92,3,29,Monty Rice,Inside Linebacker,72,233,119.0,9.0,68.0
+4030899.0,104777,2460,Northern Iowa,MVFC,2,Buffalo,2021,93,3,30,Spencer Brown,Offensive Tackle,80,311,77.0,9.0,75.0
+4035002.0,105199,61,Georgia,SEC,33,Baltimore,2021,94,3,31,Ben Cleveland,Offensive Guard,78,343,132.0,9.0,66.0
+4242391.0,105189,87,Notre Dame,FBS Independents,27,Tampa Bay,2021,95,3,32,Robert Hainsey,Offensive Tackle,77,306,175.0,15.0,57.0
+4360274.0,105269,201,Oklahoma,Big 12,17,New England,2021,96,3,33,Ronnie Perkins,Defensive End,75,253,36.0,3.0,88.0
+4240023.0,105180,61,Georgia,SEC,24,Los Angeles,2021,97,3,34,Tre' McKitty,Tight End,76,246,121.0,6.0,68.0
+4608138.0,105181,1000211,Wisconsin-Whitewater,,7,Denver,2021,98,3,35,Quinn Meinerz,Offensive Guard,75,320,61.0,3.0,80.0
+4570470.0,105313,204,Oregon State,Pac-12,6,Dallas,2021,99,3,36,Nahshon Wright,Cornerback,76,183,272.0,34.0,34.0
+4243328.0,104784,264,Washington,Pac-12,10,Tennessee,2021,100,3,37,Elijah Molden,Cornerback,70,192,49.0,7.0,83.0
+4240401.0,105166,183,Syracuse,ACC,8,Detroit,2021,101,3,38,Ifeatu Melifonwu,Cornerback,75,205,59.0,8.0,80.0
+4258209.0,104817,130,Michigan,Big Ten,25,San Francisco,2021,102,3,39,Ambry Thomas,Cornerback,72,191,166.0,25.0,58.0
+4362851.0,105281,2579,South Carolina,SEC,14,Los Angeles,2021,103,3,40,Ernest Jones,Inside Linebacker,74,230,127.0,10.0,67.0
+4035824.0,105303,2567,SMU,American Athletic,33,Baltimore,2021,104,3,41,Brandon Stephens,Cornerback,72,213,236.0,29.0,39.0
+4241987.0,104785,194,Ohio State,Big Ten,7,Denver,2021,105,3,42,Baron Browning,Outside Linebacker,75,245,107.0,5.0,70.0
+4259647.0,104768,30,USC,Pac-12,30,Jacksonville,2021,106,4,1,Jay Tufele,Defensive Tackle,74,305,97.0,6.0,72.0
+4240657.0,104826,153,North Carolina,ACC,20,New York,2021,107,4,2,Michael Carter,Running Back,68,201,83.0,5.0,74.0
+4261606.0,105209,21,San Diego State,Mountain West,1,Atlanta,2021,108,4,3,Darren Hall,Cornerback,71,188,262.0,33.0,35.0
+4036026.0,105171,97,Louisville,ACC,10,Tennessee,2021,109,4,4,Dez Fitzpatrick,Wide Receiver,74,208,176.0,29.0,57.0
+4258181.0,105164,2132,Cincinnati,American Athletic,5,Cleveland,2021,110,4,5,James Hudson,Offensive Tackle,77,313,88.0,10.0,73.0
+4243923.0,105201,2655,Tulane,American Athletic,4,Cincinnati,2021,111,4,6,Cameron Sample,Defensive End,75,267,281.0,24.0,33.0
+4374302.0,105283,30,USC,Pac-12,8,Detroit,2021,112,4,7,Amon-Ra St. Brown,Wide Receiver,72,197,133.0,21.0,66.0
+4260409.0,105212,2509,Purdue,Big Ten,8,Detroit,2021,113,4,8,Derrick Barnes,Inside Linebacker,72,238,252.0,18.0,37.0
+4242553.0,105287,24,Stanford,Pac-12,1,Atlanta,2021,114,4,9,Drew Dalman,Center,75,299,152.0,5.0,60.0
+4040940.0,104754,99,LSU,SEC,6,Dallas,2021,115,4,10,Jabril Cox,Inside Linebacker,75,232,47.0,5.0,84.0
+4030924.0,104916,2460,Northern Iowa,MVFC,19,New York,2021,116,4,11,Elerson Smith,Outside Linebacker,78,252,136.0,6.0,65.0
+4372518.0,105280,245,Texas A&M,SEC,14,Los Angeles,2021,117,4,12,Bobby Brown III,Defensive Tackle,76,321,126.0,11.0,67.0
+4240475.0,104767,150,Duke,ACC,24,Los Angeles,2021,118,4,13,Chris Rumph II,Outside Linebacker,75,244,69.0,3.0,77.0
+4035537.0,105481,66,Iowa State,Big 12,16,Minnesota,2021,119,4,14,Kene Nwangwu,Running Back,73,210,,,
+4569173.0,105165,201,Oklahoma,Big 12,17,New England,2021,120,4,15,Rhamondre Stevenson,Running Back,72,231,110.0,6.0,70.0
+4034957.0,105169,5,UAB,Conference USA,30,Jacksonville,2021,121,4,16,Jordan Smith,Defensive End,78,264,161.0,8.0,59.0
+4242228.0,104756,99,LSU,SEC,4,Cincinnati,2021,122,4,17,Tyler Shelvin,Defensive Tackle,74,350,116.0,9.0,69.0
+4045161.0,105438,2641,Texas Tech,Big 12,21,Philadelphia,2021,123,4,18,Zech McPhearson,Cornerback,71,191,317.0,38.0,30.0
+4048228.0,105423,68,Boise State,Mountain West,28,Washington,2021,124,4,19,John Bates,Tight End,77,250,189.0,9.0,53.0
+4035861.0,104811,25,California,Pac-12,16,Minnesota,2021,125,4,20,Camryn Bynum,Cornerback,72,196,130.0,21.0,66.0
+4241416.0,104765,197,Oklahoma State,Big 12,29,Carolina,2021,126,4,21,Chuba Hubbard,Running Back,72,210,150.0,9.0,61.0
+4039160.0,105195,2567,SMU,American Athletic,11,Indianapolis,2021,127,4,22,Kylen Granson,Tight End,74,241,235.0,13.0,40.0
+4240920.0,105168,245,Texas A&M,SEC,23,Pittsburgh,2021,128,4,23,Dan Moore Jr.,Offensive Tackle,78,311,120.0,12.0,68.0
+4243830.0,105435,249,North Texas,Conference USA,27,Tampa Bay,2021,129,4,24,Jaelon Darden,Wide Receiver,68,174,314.0,47.0,31.0
+4032200.0,104825,2110,Central Arkansas,Southland,14,Los Angeles,2021,130,4,25,Robert Rochell,Cornerback,72,193,113.0,18.0,69.0
+4241424.0,104781,197,Oklahoma State,Big 12,33,Baltimore,2021,131,4,26,Tylan Wallace,Wide Receiver,71,194,75.0,12.0,76.0
+4361366.0,105285,194,Ohio State,Big Ten,5,Cleveland,2021,132,4,27,Tommy Togiai,Defensive Tackle,74,296,135.0,12.0,65.0
+4046678.0,105150,87,Notre Dame,FBS Independents,18,New Orleans,2021,133,4,28,Ian Book,Quarterback,72,211,221.0,10.0,43.0
+4035604.0,105177,52,Florida State,ACC,16,Minnesota,2021,134,4,29,Janarius Robinson,Defensive End,77,263,201.0,21.0,50.0
+4036076.0,104797,221,Pittsburgh,ACC,10,Tennessee,2021,135,4,30,Rashad Weaver,Defensive End,76,259,114.0,11.0,69.0
+4240595.0,104772,57,Florida,SEC,22,Arizona,2021,136,4,31,Marco Wilson,Cornerback,72,191,108.0,17.0,70.0
+4241373.0,104847,201,Oklahoma,Big 12,26,Seattle,2021,137,4,32,Tre Brown,Cornerback,70,185,138.0,22.0,64.0
+4035626.0,104877,276,Marshall,Conference USA,6,Dallas,2021,138,4,33,Josh Ball,Offensive Tackle,79,308,218.0,16.0,44.0
+4038565.0,105289,151,East Carolina,American Athletic,4,Cincinnati,2021,139,4,34,D'Ante Smith,Offensive Tackle,77,305,162.0,13.0,59.0
+4240900.0,105431,245,Texas A&M,SEC,23,Pittsburgh,2021,140,4,35,Buddy Johnson,Inside Linebacker,73,229,293.0,23.0,32.0
+3932144.0,105482,2116,UCF,American Athletic,14,Los Angeles,2021,141,4,36,Jacob Harris,Wide Receiver,77,211,,,
+4047660.0,105200,145,Ole Miss,SEC,9,Green Bay,2021,142,4,37,Royce Newman,Offensive Guard,77,310,245.0,19.0,38.0
+4241195.0,105306,142,Missouri,SEC,13,Las Vegas,2021,143,4,38,Tyree Gillespie,Safety,72,207,157.0,12.0,59.0
+4240026.0,105291,52,Florida State,ACC,12,Kansas City,2021,144,4,39,Joshua Kaindoh,Defensive End,78,260,167.0,14.0,58.0
+4040612.0,105351,194,Ohio State,Big Ten,30,Jacksonville,2021,145,5,1,Luke Farrell,Tight End,78,251,313.0,17.0,31.0
+4361331.0,105284,2,Auburn,SEC,20,New York,2021,146,5,2,Jamien Sherwood,Safety,74,216,187.0,14.0,53.0
+4362504.0,104786,2390,Miami,ACC,34,Houston,2021,147,5,3,Brevin Jordan,Tight End,75,247,104.0,5.0,71.0
+4262197.0,105184,251,Texas,Big 12,1,Atlanta,2021,148,5,4,Ta'Quon Graham,Defensive Tackle,75,292,263.0,23.0,35.0
+4360234.0,105347,57,Florida,SEC,4,Cincinnati,2021,149,5,5,Evan McPherson,Place Kicker,71,185,309.0,2.0,31.0
+4371733.0,104788,235,Memphis,American Athletic,21,Philadelphia,2021,150,5,6,Kenneth Gainwell,Running Back,68,201,142.0,8.0,63.0
+4241217.0,105309,142,Missouri,SEC,3,Chicago,2021,151,5,7,Larry Borom,Offensive Tackle,77,322,259.0,19.0,36.0
+4362077.0,104807,251,Texas,Big 12,7,Denver,2021,152,5,8,Caden Sterns,Safety,72,202,139.0,10.0,64.0
+4245655.0,104876,277,West Virginia,Big 12,5,Cleveland,2021,153,5,9,Tony Fields II,Inside Linebacker,72,222,193.0,16.0,52.0
+4240456.0,105441,150,Duke,ACC,20,New York,2021,154,5,10,Michael Carter II,Safety,70,184,320.0,40.0,30.0
+4043041.0,105173,2711,Western Michigan,Mid-American,25,San Francisco,2021,155,5,11,Jaylon Moore,Offensive Guard,76,311,147.0,10.0,62.0
+4035798.0,105483,275,Wisconsin,Big Ten,23,Pittsburgh,2021,156,5,12,Isaiahh Loudermilk,Defensive Tackle,79,293,,,
+4240573.0,104790,2294,Iowa,Big Ten,16,Minnesota,2021,157,5,13,Ihmir Smith-Marsette,Wide Receiver,73,181,170.0,28.0,58.0
+4360484.0,105137,2294,Iowa,Big Ten,29,Carolina,2021,158,5,14,Daviyon Nixon,Defensive Tackle,75,313,103.0,7.0,71.0
+4240800.0,104932,158,Nebraska,Big Ten,24,Los Angeles,2021,159,5,15,Brenden Jaimes,Offensive Tackle,77,298,270.0,20.0,35.0
+4241995.0,104746,194,Ohio State,Big Ten,33,Baltimore,2021,160,5,16,Shaun Wade,Cornerback,73,196,101.0,16.0,71.0
+4038986.0,104820,193,Miami (OH),Mid-American,2,Buffalo,2021,161,5,17,Tommy Doyle,Offensive Tackle,80,320,153.0,11.0,60.0
+4240472.0,104821,150,Duke,ACC,12,Kansas City,2021,162,5,18,Noah Gray,Tight End,75,240,164.0,7.0,59.0
+4239088.0,105430,2132,Cincinnati,American Athletic,28,Washington,2021,163,5,19,Darrick Forrest,Safety,72,206,291.0,27.0,32.0
+4371949.0,105293,84,Indiana,Big Ten,7,Denver,2021,164,5,20,Jamar Johnson,Safety,72,205,91.0,5.0,73.0
+4240602.0,104793,57,Florida,SEC,11,Indianapolis,2021,165,5,21,Shawn Davis,Safety,71,202,192.0,15.0,52.0
+4243332.0,105208,264,Washington,Pac-12,29,Carolina,2021,166,5,22,Keith Taylor,Cornerback,74,187,256.0,32.0,36.0
+4240542.0,105484,356,Illinois,Big Ten,13,Las Vegas,2021,167,5,23,Nate Hobbs,Cornerback,72,195,,,
+,105422,1000928,Central Missouri,,16,Minnesota,2021,168,5,24,Zach Davidson,Tight End,79,245,179.0,8.0,56.0
+4240686.0,104803,61,Georgia,SEC,5,Cleveland,2021,169,5,25,Richard LeCounte,Safety,71,196,96.0,6.0,72.0
+4241807.0,104853,2628,TCU,Big 12,34,Houston,2021,170,5,26,Garret Wallow,Inside Linebacker,74,220,186.0,14.0,54.0
+4039028.0,105147,87,Notre Dame,FBS Independents,33,Baltimore,2021,171,5,27,Daelin Hayes,Defensive End,76,253,134.0,12.0,65.0
+4242488.0,105440,2483,Oregon,Pac-12,25,San Francisco,2021,172,5,28,Deommodore Lenoir,Cornerback,70,199,319.0,39.0,30.0
+4240612.0,105457,57,Florida,SEC,9,Green Bay,2021,173,5,29,Tedarrell Slaton,Defensive Tackle,76,330,335.0,21.0,30.0
+4242292.0,105439,77,Northwestern,Big Ten,14,Los Angeles,2021,174,5,30,Earnest Brown IV,Defensive End,77,270,318.0,28.0,30.0
+4240706.0,105485,221,Pittsburgh,ACC,20,New York,2021,175,5,31,Jason Pinnock,Cornerback,72,200,,,
+4242521.0,104841,2,Auburn,SEC,27,Tampa Bay,2021,176,5,32,K.J. Britt,Inside Linebacker,73,235,131.0,11.0,66.0
+4372085.0,105288,130,Michigan,Big Ten,17,New England,2021,177,5,33,Cameron McGrone,Inside Linebacker,73,234,159.0,13.0,59.0
+4036430.0,105486,2026,App State,Sun Belt,9,Green Bay,2021,178,5,34,Shemar Jean-Charles,Cornerback,71,190,,,
+4360739.0,105292,24,Stanford,Pac-12,6,Dallas,2021,179,5,35,Simi Fehoko,Wide Receiver,76,222,180.0,30.0,56.0
+4360853.0,105296,30,USC,Pac-12,25,San Francisco,2021,180,5,36,Talanoa Hufanga,Safety,72,199,212.0,20.0,46.0
+4035465.0,105203,228,Clemson,ACC,12,Kansas City,2021,181,5,37,Cornell Powell,Wide Receiver,72,204,230.0,39.0,41.0
+4046693.0,104905,87,Notre Dame,FBS Independents,1,Atlanta,2021,182,5,38,Adetokunbo Ogundeji,Defensive End,77,260,181.0,18.0,55.0
+4048259.0,105487,68,Boise State,Mountain West,1,Atlanta,2021,183,5,39,Avery Williams,Cornerback,69,195,,,
+4258190.0,105192,130,Michigan,Big Ten,33,Baltimore,2021,184,5,40,Ben Mason,Fullback,75,246,265.0,1.0,35.0
+4036141.0,105477,2294,Iowa,Big Ten,24,Los Angeles,2021,185,6,1,Nick Niemann,Inside Linebacker,75,234,347.0,25.0,30.0
+4240030.0,104835,52,Florida State,ACC,20,New York,2021,186,6,2,Hamsah Nasirildeen,Safety,75,215,102.0,7.0,71.0
+4047836.0,105197,9,Arizona State,Pac-12,1,Atlanta,2021,187,6,3,Frank Darby,Wide Receiver,72,201,137.0,22.0,65.0
+4241199.0,105328,142,Missouri,SEC,17,New England,2021,188,6,4,Joshuah Bledsoe,Safety,71,204,174.0,13.0,57.0
+4243218.0,105174,30,USC,Pac-12,21,Philadelphia,2021,189,6,5,Marlon Tuipulotu,Defensive Tackle,74,307,123.0,10.0,68.0
+4361787.0,105286,61,Georgia,SEC,4,Cincinnati,2021,190,6,6,Trey Hill,Center,76,319,146.0,4.0,62.0
+4052031.0,105175,324,Coastal Carolina,Sun Belt,21,Philadelphia,2021,191,6,7,Tarron Jackson,Defensive End,74,254,185.0,19.0,54.0
+4259978.0,104840,96,Kentucky,SEC,6,Dallas,2021,192,6,8,Quinton Bohanna,Defensive Tackle,76,327,197.0,14.0,51.0
+4040962.0,104849,333,Alabama,SEC,29,Carolina,2021,193,6,9,Deonte Brown,Offensive Guard,75,344,128.0,8.0,67.0
+4241555.0,104852,309,Louisiana,Sun Belt,25,San Francisco,2021,194,6,10,Elijah Mitchell,Running Back,70,201,211.0,14.0,47.0
+4040805.0,105480,12,Arizona,Pac-12,34,Houston,2021,195,6,11,Roy Lopez,Defensive Tackle,74,304,350.0,22.0,30.0
+4245645.0,105350,12,Arizona,Pac-12,19,New York,2021,196,6,12,Gary Brightwell,Running Back,71,218,312.0,24.0,31.0
+4243186.0,105332,38,Colorado,Pac-12,17,New England,2021,197,6,13,William Sherman,Offensive Tackle,75,304,294.0,23.0,32.0
+4241205.0,104867,142,Missouri,SEC,24,Los Angeles,2021,198,6,14,Larry Rountree III,Running Back,71,211,182.0,12.0,55.0
+4240716.0,104810,221,Pittsburgh,ACC,16,Minnesota,2021,199,6,15,Jaylen Twyman,Defensive Tackle,74,301,158.0,13.0,59.0
+4567979.0,104860,96,Kentucky,SEC,20,New York,2021,200,6,16,Brandin Echols,Cornerback,70,179,200.0,27.0,50.0
+4038430.0,105196,197,Oklahoma State,Big 12,19,New York,2021,201,6,17,Rodarius Williams,Cornerback,72,189,242.0,30.0,38.0
+4046530.0,104783,130,Michigan,Big Ten,4,Cincinnati,2021,202,6,18,Chris Evans,Running Back,71,211,178.0,11.0,56.0
+4039307.0,104798,248,Houston,American Athletic,2,Buffalo,2021,203,6,19,Marquez Stevenson,Wide Receiver,70,180,143.0,24.0,63.0
+4259499.0,104917,2579,South Carolina,SEC,29,Carolina,2021,204,6,20,Shi Smith,Wide Receiver,70,186,89.0,15.0,73.0
+4242231.0,105188,99,LSU,SEC,10,Tennessee,2021,205,6,21,Racey McMath,Wide Receiver,75,211,241.0,40.0,39.0
+4035079.0,105323,96,Kentucky,SEC,18,New Orleans,2021,206,6,22,Landon Young,Offensive Tackle,78,310,287.0,22.0,33.0
+4035590.0,105307,8,Arkansas,SEC,20,New York,2021,207,6,23,Jonathan Marshall,Defensive Tackle,75,310,243.0,16.0,38.0
+4034962.0,105448,57,Florida,SEC,26,Seattle,2021,208,6,24,Stone Forsythe,Offensive Tackle,80,307,326.0,25.0,30.0
+4037311.0,105488,59,Georgia Tech,ACC,30,Jacksonville,2021,209,6,25,Jalen Camp,Wide Receiver,74,220,,,
+4240464.0,105453,150,Duke,ACC,22,Arizona,2021,210,6,26,Victor Dimukeje,Defensive End,74,262,331.0,29.0,30.0
+4035826.0,105149,26,UCLA,Pac-12,5,Cleveland,2021,211,6,27,Demetric Felton,Wide Receiver,69,189,140.0,7.0,64.0
+4036060.0,104875,221,Pittsburgh,ACC,2,Buffalo,2021,212,6,28,Damar Hamlin,Safety,73,200,118.0,8.0,68.0
+4372560.0,105277,275,Wisconsin,Big Ten,2,Buffalo,2021,213,6,29,Rachad Wildgoose,Cornerback,70,191,124.0,20.0,67.0
+4035791.0,105429,275,Wisconsin,Big Ten,9,Green Bay,2021,214,6,30,Cole Van Lanen,Offensive Tackle,76,305,286.0,23.0,33.0
+4038944.0,105425,2483,Oregon,Pac-12,10,Tennessee,2021,215,6,31,Brady Breeze,Safety,72,197,264.0,24.0,35.0
+4044145.0,104868,2390,Miami,ACC,23,Pittsburgh,2021,216,6,32,Quincy Roche,Outside Linebacker,75,245,173.0,16.0,57.0
+4035886.0,105172,259,Virginia Tech,ACC,3,Chicago,2021,217,6,33,Khalil Herbert,Running Back,69,210,213.0,15.0,46.0
+4241820.0,104851,251,Texas,Big 12,11,Indianapolis,2021,218,6,34,Sam Ehlinger,Quarterback,73,220,247.0,12.0,38.0
+4371974.0,105290,2,Auburn,SEC,7,Denver,2021,219,6,35,Seth Williams,Wide Receiver,75,211,165.0,27.0,59.0
+4239947.0,105311,103,Boston College,ACC,9,Green Bay,2021,220,6,36,Isaiah McDuffie,Inside Linebacker,73,227,257.0,19.0,36.0
+4240661.0,105308,153,North Carolina,ACC,3,Chicago,2021,221,6,37,Dazz Newsome,Wide Receiver,70,190,255.0,41.0,37.0
+4241455.0,105198,333,Alabama,SEC,29,Carolina,2021,222,6,38,Thomas Fletcher,Long Snapper,73,235,285.0,1.0,33.0
+4568981.0,105420,2116,UCF,American Athletic,22,Arizona,2021,223,6,39,Tay Gowan,Cornerback,73,186,85.0,13.0,74.0
+4242204.0,104802,99,LSU,SEC,21,Philadelphia,2021,224,6,40,JaCoby Stevens,Safety,73,212,205.0,18.0,49.0
+4046543.0,105489,130,Michigan,Big Ten,28,Washington,2021,225,6,41,Camaron Cheeseman,Long Snapper,76,230,,,
+4242459.0,104748,2633,Tennessee,SEC,12,Kansas City,2021,226,6,42,Trey Smith,Offensive Guard,78,321,100.0,7.0,71.0
+4362855.0,104758,2579,South Carolina,SEC,6,Dallas,2021,227,6,43,Israel Mukuamu,Cornerback,76,212,171.0,26.0,57.0
+4242485.0,105202,2483,Oregon,Pac-12,3,Chicago,2021,228,6,44,Thomas Graham Jr.,Cornerback,70,192,250.0,31.0,37.0
+4589245.0,105299,2128,University Of Charleston (WV),Mountain East,11,Indianapolis,2021,229,7,1,Mike Strachan,Wide Receiver,77,226,223.0,37.0,43.0
+4046165.0,104891,221,Pittsburgh,ACC,13,Las Vegas,2021,230,7,2,Jimmy Morrissey,Center,75,303,267.0,8.0,35.0
+4044519.0,105490,113,Massachusetts,FBS Independents,15,Miami,2021,231,7,3,Larnel Coleman,Offensive Tackle,78,315,,,
+4259989.0,105491,96,Kentucky,SEC,29,Carolina,2021,232,7,4,Phil Hoskins,Defensive Tackle,77,315,,,
+4036224.0,105492,120,Maryland,Big Ten,14,Los Angeles,2021,233,7,5,Jake Funk,Running Back,70,205,,,
+4243916.0,105345,2655,Tulane,American Athletic,21,Philadelphia,2021,234,7,6,Patrick Johnson,Outside Linebacker,74,240,253.0,11.0,37.0
+4241344.0,105207,2306,Kansas State,Big 12,4,Cincinnati,2021,235,7,7,Wyatt Hubert,Defensive End,75,258,290.0,25.0,32.0
+4241844.0,104887,2641,Texas Tech,Big 12,2,Buffalo,2021,236,7,8,Jack Anderson,Offensive Guard,77,314,194.0,14.0,52.0
+4242211.0,104863,99,LSU,SEC,7,Denver,2021,237,7,9,Kary Vincent Jr.,Cornerback,70,185,155.0,24.0,59.0
+4034843.0,105493,158,Nebraska,Big Ten,6,Dallas,2021,238,7,10,Matt Farniok,Offensive Guard,78,330,,,
+4040608.0,105336,194,Ohio State,Big Ten,7,Denver,2021,239,7,11,Jonathon Cooper,Defensive End,75,253,300.0,26.0,31.0
+4036476.0,104816,239,Baylor,Big 12,28,Washington,2021,240,7,12,William Bradley-King,Outside Linebacker,76,252,172.0,15.0,57.0
+4259570.0,104843,61,Georgia,SEC,24,Los Angeles,2021,241,7,13,Mark Webb,Safety,74,207,208.0,19.0,48.0
+4047648.0,105436,2116,UCF,American Athletic,17,New England,2021,242,7,15,Tre Nixon,Wide Receiver,72,187,315.0,48.0,31.0
+4044064.0,105300,2132,Cincinnati,American Athletic,22,Arizona,2021,243,7,16,James Wiggins,Safety,71,209,224.0,22.0,42.0
+4037478.0,105494,2132,Cincinnati,American Athletic,15,Miami,2021,244,7,17,Gerrid Doaks,Running Back,72,230,,,
+4241396.0,105314,201,Oklahoma,Big 12,23,Pittsburgh,2021,245,7,18,Tre Norwood,Cornerback,72,192,273.0,25.0,34.0
+4045169.0,104908,213,Penn State,Big Ten,28,Washington,2021,246,7,19,Shaka Toney,Defensive End,75,242,156.0,13.0,59.0
+4045174.0,104866,213,Penn State,Big Ten,22,Arizona,2021,247,7,20,Michal Menet,Center,76,301,198.0,6.0,51.0
+4045176.0,105449,213,Penn State,Big Ten,11,Indianapolis,2021,248,7,21,Will Fries,Offensive Tackle,78,309,327.0,26.0,30.0
+4035656.0,105179,87,Notre Dame,FBS Independents,14,Los Angeles,2021,249,7,22,Ben Skowronek,Wide Receiver,75,220,210.0,36.0,48.0
+4256074.0,105321,252,BYU,FBS Independents,3,Chicago,2021,250,7,23,Khyiris Tonga,Defensive Tackle,74,325,283.0,18.0,33.0
+4046652.0,105455,252,BYU,FBS Independents,27,Tampa Bay,2021,251,7,24,Chris Wilcox,Cornerback,74,198,333.0,43.0,30.0
+4820589.0,105495,3066,Concordia University St Paul,Northern Sun,14,Los Angeles,2021,252,7,25,Chris Garrett,Outside Linebacker,76,250,,,
+4035372.0,105437,344,Mississippi State,SEC,7,Denver,2021,253,7,26,Marquiss Spencer,Defensive End,76,301,316.0,27.0,30.0
+4240485.0,105459,59,Georgia Tech,ACC,23,Pittsburgh,2021,254,7,27,Pressley Harvin III,Punter,71,263,337.0,4.0,30.0
+4068152.0,105496,6,South Alabama,Sun Belt,18,New Orleans,2021,255,7,28,Kawaan Baker,Wide Receiver,73,215,,,
+4259805.0,104931,344,Mississippi State,SEC,9,Green Bay,2021,256,7,29,Kylin Hill,Running Back,71,214,219.0,16.0,44.0
+4374033.0,105325,204,Oregon State,Pac-12,8,Detroit,2021,257,7,30,Jermar Jefferson,Running Back,70,206,163.0,10.0,59.0
+4373642.0,105318,252,BYU,FBS Independents,28,Washington,2021,258,7,31,Dax Milne,Wide Receiver,73,193,279.0,44.0,34.0
+4240255.0,105194,248,Houston,American Athletic,27,Tampa Bay,2021,259,7,32,Grant Stuard,Outside Linebacker,72,225,216.0,9.0,45.0

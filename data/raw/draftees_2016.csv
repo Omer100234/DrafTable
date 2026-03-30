@@ -1,0 +1,254 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeamId,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade
+547401.0,49986,25,California,Pac-12,14,Los Angeles,2016,1,1,1,Jared Goff,Quarterback,76.0,215,11.0,2.0,91.0
+2573079.0,49988,2449,North Dakota State,MVFC,21,Philadelphia,2016,2,1,2,Carson Wentz,Quarterback,77.0,237,10.0,1.0,91.0
+549808.0,49517,194,Ohio State,Big Ten,24,Los Angeles,2016,3,1,3,Joey Bosa,Defensive End,77.0,269,1.0,1.0,94.0
+549811.0,50025,194,Ohio State,Big Ten,6,Dallas,2016,4,1,4,Ezekiel Elliott,Running Back,72.0,225,4.0,1.0,93.0
+546810.0,49428,52,Florida State,ACC,30,Jacksonville,2016,5,1,5,Jalen Ramsey,Cornerback,73.0,209,3.0,1.0,93.0
+-1026408.0,49919,87,Notre Dame,FBS Independents,33,Baltimore,2016,6,1,6,Ronnie Stanley,Offensive Tackle,78.0,312,5.0,2.0,93.0
+530870.0,49518,2483,Oregon,Pac-12,25,San Francisco,2016,7,1,7,DeForest Buckner,Defensive End,79.0,291,6.0,2.0,92.0
+-1020735.0,49920,127,Michigan State,Big Ten,10,Tennessee,2016,8,1,8,Jack Conklin,Offensive Tackle,78.0,308,7.0,3.0,92.0
+-1011681.0,49876,61,Georgia,SEC,3,Chicago,2016,9,1,9,Leonard Floyd,Outside Linebacker,78.0,244,9.0,2.0,91.0
+545623.0,50243,194,Ohio State,Big Ten,19,New York,2016,10,1,10,Eli Apple,Cornerback,73.0,199,25.0,4.0,89.0
+551319.0,49429,57,Florida,SEC,27,Tampa Bay,2016,11,1,11,Vernon Hargreaves III,Cornerback,71.0,204,23.0,3.0,89.0
+530381.0,49651,97,Louisville,ACC,18,New Orleans,2016,12,1,12,Sheldon Rankins,Defensive Tackle,73.0,299,12.0,1.0,91.0
+550015.0,49918,145,Ole Miss,SEC,15,Miami,2016,13,1,13,Laremy Tunsil,Offensive Tackle,77.0,310,2.0,1.0,94.0
+534504.0,49597,277,West Virginia,Big 12,13,Las Vegas,2016,14,1,14,Karl Joseph,Safety,70.0,205,24.0,1.0,89.0
+535497.0,50135,239,Baylor,Big 12,5,Cleveland,2016,15,1,15,Corey Coleman,Wide Receiver,71.0,194,20.0,3.0,90.0
+-1027110.0,49921,194,Ohio State,Big Ten,8,Detroit,2016,16,1,16,Taylor Decker,Offensive Tackle,79.0,310,16.0,4.0,90.0
+551326.0,49589,57,Florida,SEC,1,Atlanta,2016,17,1,17,Keanu Neal,Safety,73.0,211,44.0,3.0,83.0
+-1000885.0,50307,333,Alabama,SEC,11,Indianapolis,2016,18,1,18,Ryan Kelly,Center,76.0,311,32.0,1.0,88.0
+-1007357.0,49519,228,Clemson,ACC,2,Buffalo,2016,19,1,19,Shaq Lawson,Defensive End,75.0,269,17.0,3.0,90.0
+549817.0,49873,194,Ohio State,Big Ten,20,New York,2016,20,1,20,Darron Lee,Outside Linebacker,73.0,232,13.0,3.0,91.0
+-1026400.0,50132,87,Notre Dame,FBS Independents,34,Houston,2016,21,1,21,Will Fuller,Wide Receiver,72.0,186,21.0,4.0,90.0
+516301.0,50131,2628,TCU,Big 12,28,Washington,2016,22,1,22,Josh Doctson,Wide Receiver,74.0,202,15.0,2.0,91.0
+550014.0,50129,145,Ole Miss,SEC,16,Minnesota,2016,23,1,23,Laquon Treadwell,Wide Receiver,74.0,221,14.0,1.0,91.0
+553531.0,49438,248,Houston,American Athletic,4,Cincinnati,2016,24,1,24,William Jackson III,Cornerback,72.0,189,22.0,2.0,90.0
+550044.0,49437,2390,Miami,ACC,23,Pittsburgh,2016,25,1,25,Artie Burns,Cornerback,72.0,193,31.0,5.0,88.0
+534849.0,49985,235,Memphis,American Athletic,7,Denver,2016,26,1,26,Paxton Lynch,Quarterback,79.0,244,38.0,3.0,85.0
+3122752.0,49654,26,UCLA,Pac-12,9,Green Bay,2016,27,1,27,Kenny Clark,Defensive Tackle,75.0,314,41.0,7.0,84.0
+-1032989.0,49829,24,Stanford,Pac-12,25,San Francisco,2016,28,1,28,Joshua Garnett,Offensive Guard,76.0,312,50.0,1.0,81.0
+550011.0,49649,145,Ole Miss,SEC,22,Arizona,2016,29,1,29,Robert Nkemdiche,Defensive Tackle,76.0,294,35.0,5.0,87.0
+-1017020.0,49664,2348,Louisiana Tech,Conference USA,29,Carolina,2016,30,1,30,Vernon Butler,Defensive Tackle,76.0,323,26.0,4.0,89.0
+-1035119.0,50385,245,Texas A&M,SEC,26,Seattle,2016,31,1,31,Germain Ifedi,Offensive Tackle,78.0,324,29.0,5.0,88.0
+-1027849.0,49521,197,Oklahoma State,Big 12,5,Cleveland,2016,32,2,1,Emmanuel Ogbah,Defensive End,76.0,273,57.0,7.0,80.0
+-1007353.0,50257,228,Clemson,ACC,10,Tennessee,2016,33,2,2,Kevin Dodd,Defensive End,77.0,277,33.0,4.0,87.0
+550965.0,49872,87,Notre Dame,FBS Independents,6,Dallas,2016,34,2,3,Jaylon Smith,Outside Linebacker,74.0,223,76.0,7.0,77.0
+547233.0,50097,8,Arkansas,SEC,24,Los Angeles,2016,35,2,4,Hunter Henry,Tight End,77.0,250,27.0,1.0,89.0
+547604.0,49874,26,UCLA,Pac-12,30,Jacksonville,2016,36,2,5,Myles Jack,Outside Linebacker,73.0,245,8.0,1.0,92.0
+-1022063.0,50282,344,Mississippi State,SEC,12,Kansas City,2016,37,2,6,Chris Jones,Defensive Tackle,78.0,310,28.0,3.0,89.0
+535503.0,50245,239,Baylor,Big 12,15,Miami,2016,38,2,7,Xavien Howard,Cornerback,72.0,201,80.0,9.0,76.0
+2976313.0,49885,2198,Eastern Kentucky,OVC,27,Tampa Bay,2016,39,2,8,Noah Spence,Outside Linebacker,75.0,251,56.0,6.0,80.0
+534448.0,50143,201,Oklahoma,Big 12,19,New York,2016,40,2,9,Sterling Shepard,Wide Receiver,70.0,194,61.0,9.0,79.0
+535756.0,49756,333,Alabama,SEC,2,Buffalo,2016,41,2,10,Reggie Ragland,Inside Linebacker,73.0,247,18.0,1.0,90.0
+546286.0,50361,68,Boise State,Mountain West,33,Baltimore,2016,42,2,11,Kamalei Correa,Outside Linebacker,75.0,243,34.0,4.0,87.0
+-1029095.0,49655,213,Penn State,Big Ten,10,Tennessee,2016,43,2,12,Austin Johnson,Defensive Tackle,76.0,314,47.0,9.0,82.0
+-1013593.0,49537,356,Illinois,Big Ten,13,Las Vegas,2016,44,2,13,Jihad Ward,Defensive End,77.0,297,55.0,6.0,81.0
+546368.0,50026,333,Alabama,SEC,10,Tennessee,2016,45,2,14,Derrick Henry,Running Back,75.0,247,52.0,2.0,81.0
+-1000893.0,49652,333,Alabama,SEC,8,Detroit,2016,46,2,15,A'Shawn Robinson,Defensive Tackle,76.0,307,36.0,6.0,86.0
+534311.0,50539,194,Ohio State,Big Ten,18,New Orleans,2016,47,2,16,Michael Thomas,Wide Receiver,75.0,212,37.0,5.0,86.0
+-1013943.0,49923,84,Indiana,Big Ten,9,Green Bay,2016,48,2,17,Jason Spriggs,Offensive Tackle,78.0,301,54.0,6.0,81.0
+-1000892.0,49650,333,Alabama,SEC,26,Seattle,2016,49,2,18,Jarran Reed,Defensive Tackle,75.0,307,19.0,2.0,90.0
+-1026402.0,49817,87,Notre Dame,FBS Independents,34,Houston,2016,50,2,19,Nick Martin,Center,76.0,299,63.0,2.0,79.0
+552329.0,49989,213,Penn State,Big Ten,20,New York,2016,51,2,20,Christian Hackenberg,Quarterback,76.0,223,49.0,5.0,81.0
+534432.0,49883,99,LSU,SEC,1,Atlanta,2016,52,2,21,Deion Jones,Outside Linebacker,73.0,222,53.0,5.0,81.0
+546417.0,49586,30,USC,Pac-12,28,Washington,2016,53,2,22,Su'a Cravens,Safety,73.0,226,73.0,5.0,77.0
+-1007346.0,49435,228,Clemson,ACC,16,Minnesota,2016,54,2,23,Mackensie Alexander,Cornerback,70.0,190,48.0,7.0,81.0
+546650.0,50133,221,Pittsburgh,ACC,4,Cincinnati,2016,55,2,24,Tyler Boyd,Wide Receiver,74.0,197,39.0,6.0,84.0
+-1015423.0,49833,2306,Kansas State,Big 12,3,Chicago,2016,56,2,25,Cody Whitehair,Offensive Guard,76.0,301,59.0,2.0,79.0
+546634.0,50477,228,Clemson,ACC,11,Indianapolis,2016,57,2,26,T.J. Green,Safety,75.0,209,99.0,8.0,70.0
+534247.0,50278,120,Maryland,Big Ten,23,Pittsburgh,2016,58,2,27,Sean Davis,Safety,73.0,201,135.0,15.0,62.0
+535422.0,50410,52,Florida State,ACC,27,Tampa Bay,2016,59,2,28,Roberto Aguayo,Place Kicker,72.0,207,188.0,1.0,54.0
+535750.0,49451,333,Alabama,SEC,17,New England,2016,60,2,29,Cyrus Jones,Cornerback,70.0,197,74.0,8.0,77.0
+549807.0,50270,194,Ohio State,Big Ten,18,New Orleans,2016,61,2,30,Vonn Bell,Safety,71.0,199,30.0,2.0,88.0
+2572841.0,49442,2535,Samford,Southern,29,Carolina,2016,62,2,31,James Bradberry,Cornerback,73.0,211,125.0,19.0,65.0
+531131.0,49525,59,Georgia Tech,ACC,7,Denver,2016,63,2,32,Adam Gotsis,Defensive End,77.0,287,68.0,8.0,78.0
+512368.0,49609,2393,Middle Tennessee,Conference USA,10,Tennessee,2016,64,3,1,Kevin Byard,Safety,71.0,212,183.0,19.0,55.0
+524841.0,49526,213,Penn State,Big Ten,5,Cleveland,2016,65,3,2,Carl Nassib,Defensive End,79.0,277,81.0,10.0,76.0
+531005.0,50309,30,USC,Pac-12,24,Los Angeles,2016,66,3,3,Max Tuerk,Center,77.0,298,115.0,3.0,68.0
+-1023343.0,49653,158,Nebraska,Big Ten,6,Dallas,2016,67,3,4,Maliek Collins,Defensive Tackle,74.0,311,78.0,14.0,76.0
+531409.0,49434,344,Mississippi State,SEC,25,San Francisco,2016,68,3,5,Will Redmond,Cornerback,71.0,182,100.0,12.0,70.0
+550835.0,50472,120,Maryland,Big Ten,30,Jacksonville,2016,69,3,6,Yannick Ngakoue,Defensive End,74.0,252,159.0,15.0,59.0
+536127.0,49535,252,BYU,FBS Independents,33,Baltimore,2016,70,3,7,Bronson Kaufusi,Defensive End,79.0,285,91.0,11.0,72.0
+517347.0,49591,68,Boise State,Mountain West,19,New York,2016,71,3,8,Darian Thompson,Safety,74.0,208,64.0,4.0,79.0
+-1009784.0,50474,57,Florida,SEC,3,Chicago,2016,72,3,9,Jonathan Bullard,Defensive End,75.0,285,42.0,5.0,83.0
+535744.0,50038,333,Alabama,SEC,15,Miami,2016,73,3,10,Kenyan Drake,Running Back,73.0,210,98.0,7.0,70.0
+2980150.0,49441,87,Notre Dame,FBS Independents,12,Kansas City,2016,74,3,11,Keivarae Russell,Cornerback,71.0,192,84.0,10.0,75.0
+512701.0,49522,127,Michigan State,Big Ten,13,Las Vegas,2016,75,3,12,Shilique Calhoun,Defensive End,76.0,251,75.0,9.0,77.0
+-1003641.0,50386,2,Auburn,SEC,5,Cleveland,2016,76,3,13,Shon Coleman,Offensive Tackle,78.0,307,89.0,8.0,73.0
+546053.0,50247,277,West Virginia,Big 12,29,Carolina,2016,77,3,14,Daryl Worley,Cornerback,73.0,204,87.0,11.0,74.0
+-1025138.0,50341,152,NC State,ACC,17,New England,2016,78,3,15,Joe Thuney,Offensive Guard,77.0,304,167.0,10.0,58.0
+-1028759.0,50475,204,Oregon State,Pac-12,21,Philadelphia,2016,79,3,16,Isaac Seumalo,Center,76.0,303,187.0,7.0,54.0
+534312.0,49660,194,Ohio State,Big Ten,2,Buffalo,2016,80,3,17,Adolphus Washington,Defensive Tackle,75.0,301,77.0,13.0,77.0
+546471.0,50098,24,Stanford,Pac-12,1,Atlanta,2016,81,3,18,Austin Hooper,Tight End,76.0,254,62.0,3.0,79.0
+514483.0,50464,2641,Texas Tech,Big 12,11,Indianapolis,2016,82,3,19,Le'Raven Clark,Offensive Tackle,77.0,316,97.0,9.0,70.0
+534672.0,49875,61,Georgia,SEC,20,New York,2016,83,3,20,Jordan Jenkins,Outside Linebacker,75.0,259,93.0,8.0,71.0
+547021.0,49432,259,Virginia Tech,ACC,28,Washington,2016,84,3,21,Kendall Fuller,Cornerback,72.0,187,43.0,6.0,83.0
+512838.0,50146,194,Ohio State,Big Ten,34,Houston,2016,85,3,22,Braxton Miller,Wide Receiver,73.0,201,51.0,8.0,81.0
+537313.0,50149,164,Rutgers,Big Ten,15,Miami,2016,86,3,23,Leonte Carroo,Wide Receiver,72.0,211,67.0,10.0,78.0
+531204.0,50301,328,Utah State,Mountain West,4,Cincinnati,2016,87,3,24,Nick Vigil,Inside Linebacker,74.0,239,176.0,8.0,57.0
+514580.0,49888,328,Utah State,Mountain West,9,Green Bay,2016,88,3,25,Kyler Fackrell,Outside Linebacker,77.0,245,111.0,10.0,68.0
+2983055.0,49677,2569,South Carolina State,MEAC,23,Pittsburgh,2016,89,3,26,Javon Hargrave,Defensive Tackle,73.0,309,86.0,15.0,74.0
+535958.0,50030,87,Notre Dame,FBS Independents,26,Seattle,2016,90,3,27,C.J. Prosise,Running Back,73.0,220,88.0,5.0,73.0
+512191.0,49990,152,NC State,ACC,17,New England,2016,91,3,28,Jacoby Brissett,Quarterback,76.0,231,109.0,7.0,68.0
+532125.0,50465,245,Texas A&M,SEC,22,Arizona,2016,92,3,29,Brandon Williams,Cornerback,71.0,197,337.0,38.0,32.0
+513329.0,49991,30,USC,Pac-12,5,Cleveland,2016,93,3,30,Cody Kessler,Quarterback,73.0,220,209.0,10.0,50.0
+514185.0,50100,194,Ohio State,Big Ten,26,Seattle,2016,94,3,31,Nick Vannett,Tight End,78.0,257,58.0,2.0,80.0
+-1020423.0,50308,130,Michigan,Big Ten,8,Detroit,2016,95,3,32,Graham Glasgow,Center,78.0,307,122.0,4.0,66.0
+-1023366.0,50288,158,Nebraska,Big Ten,17,New England,2016,96,3,33,Vincent Valentine,Defensive Tackle,76.0,329,186.0,22.0,55.0
+-1005059.0,49840,68,Boise State,Mountain West,26,Seattle,2016,97,3,34,Rees Odhiambo,Offensive Guard,76.0,314,148.0,8.0,60.0
+530458.0,49617,103,Boston College,ACC,7,Denver,2016,98,3,35,Justin Simmons,Safety,74.0,202,90.0,6.0,73.0
+534828.0,50365,275,Wisconsin,Big Ten,5,Cleveland,2016,99,4,1,Joe Schobert,Outside Linebacker,73.0,244,95.0,9.0,70.0
+512705.0,49987,127,Michigan State,Big Ten,13,Las Vegas,2016,100,4,2,Connor Cook,Quarterback,76.0,217,40.0,4.0,84.0
+-1027487.0,49530,201,Oklahoma,Big 12,6,Dallas,2016,101,4,3,Charles Tapper,Defensive End,75.0,271,103.0,12.0,70.0
+2976306.0,49761,194,Ohio State,Big Ten,24,Los Angeles,2016,102,4,4,Joshua Perry,Inside Linebacker,76.0,254,71.0,2.0,78.0
+-1026398.0,49661,87,Notre Dame,FBS Independents,30,Jacksonville,2016,103,4,5,Sheldon Day,Defensive Tackle,73.0,293,60.0,10.0,79.0
+534336.0,49443,218,Temple,American Athletic,33,Baltimore,2016,104,4,6,Tavon Young,Cornerback,69.0,183,118.0,16.0,67.0
+-1007043.0,50479,2132,Cincinnati,American Athletic,12,Kansas City,2016,105,4,7,Parker Ehinger,Offensive Guard,78.0,310,177.0,12.0,56.0
+530737.0,49436,135,Minnesota,Big Ten,12,Kansas City,2016,106,4,8,Eric Murray,Cornerback,71.0,199,108.0,14.0,69.0
+512073.0,50140,2132,Cincinnati,American Athletic,33,Baltimore,2016,107,4,9,Chris Moore,Wide Receiver,73.0,206,46.0,7.0,82.0
+516587.0,49512,2428,North Carolina Central,MEAC,27,Tampa Bay,2016,108,4,10,Ryan Smith,Cornerback,71.0,189,144.0,20.0,61.0
+511204.0,49763,228,Clemson,ACC,19,New York,2016,109,4,11,B.J. Goodson,Inside Linebacker,73.0,242,106.0,4.0,69.0
+515708.0,50113,98,Western Kentucky,Conference USA,14,Los Angeles,2016,110,4,12,Tyler Higbee,Tight End,78.0,249,112.0,5.0,68.0
+2575164.0,49593,253,Southern Utah,Big Sky,8,Detroit,2016,111,4,13,Miles Killebrew,Safety,74.0,217,127.0,12.0,65.0
+512178.0,50163,61,Georgia,SEC,17,New England,2016,112,4,14,Malcolm Mitchell,Wide Receiver,72.0,198,123.0,14.0,66.0
+518146.0,49759,277,West Virginia,Big 12,3,Chicago,2016,113,4,15,Nick Kwiatkoski,Inside Linebacker,74.0,243,101.0,3.0,70.0
+530907.0,50176,2,Auburn,SEC,5,Cleveland,2016,114,4,16,Ricardo Louis,Wide Receiver,74.0,215,243.0,37.0,45.0
+545451.0,49895,135,Minnesota,Big Ten,1,Atlanta,2016,115,4,17,De'Vondre Campbell,Outside Linebacker,76.0,232,161.0,13.0,58.0
+-1034775.0,50283,251,Texas,Big 12,11,Indianapolis,2016,116,4,18,Hassan Ridgeway,Defensive Tackle,75.0,303,65.0,11.0,79.0
+548173.0,50138,2579,South Carolina,SEC,14,Los Angeles,2016,117,4,19,Pharoh Cooper,Wide Receiver,71.0,203,72.0,11.0,77.0
+511294.0,49471,152,NC State,ACC,20,New York,2016,118,4,20,Juston Burris,Cornerback,72.0,212,342.0,39.0,31.0
+512671.0,50035,23,San José State,Mountain West,34,Houston,2016,119,4,21,Tyler Ervin,Running Back,70.0,192,164.0,12.0,58.0
+4002046.0,50291,2770,MANITOBA,,18,New Orleans,2016,120,4,22,David Onyemata,Defensive Tackle,76.0,300,257.0,27.0,41.0
+519643.0,50337,2711,Western Michigan,Mid-American,16,Minnesota,2016,121,4,23,Willie Beavers,Offensive Guard,77.0,321,169.0,11.0,57.0
+-1004721.0,49656,239,Baylor,Big 12,4,Cincinnati,2016,122,4,24,Andrew Billings,Defensive Tackle,73.0,311,45.0,8.0,83.0
+534441.0,50393,99,LSU,SEC,23,Pittsburgh,2016,123,4,25,Jerald Hawkins,Offensive Tackle,78.0,305,126.0,10.0,65.0
+530311.0,49596,2390,Miami,ACC,3,Chicago,2016,124,4,26,Deon Bush,Safety,72.0,199,102.0,9.0,70.0
+2971051.0,49877,57,Florida,SEC,11,Indianapolis,2016,125,4,27,Antonio Morrison,Outside Linebacker,73.0,233,229.0,18.0,48.0
+546314.0,50445,57,Florida,SEC,12,Kansas City,2016,126,4,28,Demarcus Robinson,Wide Receiver,73.0,203,245.0,38.0,44.0
+537945.0,49448,2460,Northern Iowa,MVFC,3,Chicago,2016,127,4,29,Deiondre' Hall,Cornerback,74.0,199,198.0,24.0,52.0
+-1022388.0,50507,142,Missouri,SEC,22,Arizona,2016,128,4,30,Evan Boehm,Offensive Guard,74.0,302,121.0,5.0,66.0
+531237.0,49616,2628,TCU,Big 12,5,Cleveland,2016,129,4,31,Derrick Kindred,Safety,70.0,207,297.0,23.0,36.0
+3116110.0,49934,158,Nebraska,Big Ten,33,Baltimore,2016,130,4,32,Alex Lewis,Offensive Tackle,78.0,312,66.0,7.0,78.0
+535291.0,49760,24,Stanford,Pac-12,9,Green Bay,2016,131,4,33,Blake Martinez,Inside Linebacker,74.0,237,147.0,6.0,60.0
+535161.0,50286,130,Michigan,Big Ten,33,Baltimore,2016,132,4,34,Willie Henry,Defensive Tackle,75.0,303,70.0,12.0,78.0
+3042718.0,50252,99,LSU,SEC,25,San Francisco,2016,133,4,35,Rashard Robinson,Cornerback,74.0,171,222.0,26.0,49.0
+531310.0,50027,2348,Louisiana Tech,Conference USA,33,Baltimore,2016,134,4,36,Kenneth Dixon,Running Back,70.0,215,79.0,3.0,76.0
+512030.0,49992,344,Mississippi State,SEC,6,Dallas,2016,135,4,37,Dak Prescott,Quarterback,74.0,226,230.0,12.0,48.0
+3122866.0,50029,254,Utah,Pac-12,7,Denver,2016,136,4,38,Devontae Booker,Running Back,71.0,219,85.0,4.0,74.0
+533317.0,49538,77,Northwestern,Big Ten,9,Green Bay,2016,137,4,39,Dean Lowry,Defensive End,78.0,296,281.0,25.0,38.0
+2566659.0,50436,163,Princeton,Ivy,5,Cleveland,2016,138,4,40,Seth Devalve,Wide Receiver,74.0,244,,131.0,20.0
+534294.0,49993,194,Ohio State,Big Ten,2,Buffalo,2016,139,4,41,Cardale Jones,Quarterback,77.0,253,235.0,13.0,47.0
+537063.0,50158,113,Massachusetts,Mid-American,10,Tennessee,2016,140,5,1,Tajae Sharpe,Wide Receiver,74.0,194,180.0,22.0,56.0
+534452.0,50246,201,Oklahoma,Big 12,29,Carolina,2016,141,5,2,Zack Sanchez,Cornerback,71.0,185,124.0,18.0,66.0
+-1001215.0,50501,2026,App State,Sun Belt,25,San Francisco,2016,142,5,3,Ronald Blair,Defensive Tackle,74.0,284,96.0,16.0,70.0
+2577654.0,50057,2641,Texas Tech,Big 12,13,Las Vegas,2016,143,5,4,Deandre Washington,Running Back,68.0,204,212.0,16.0,50.0
+2577367.0,49837,142,Missouri,SEC,7,Denver,2016,144,5,5,Connor Mcgovern,Offensive Guard,76.0,306,114.0,4.0,68.0
+-1011697.0,49927,61,Georgia,SEC,25,San Francisco,2016,145,5,6,John Theus,Offensive Tackle,79.0,313,351.0,25.0,31.0
+,49529,125,Grand Valley State University,GLIAC,33,Baltimore,2016,146,5,7,Matt Judon,Defensive End,75.0,275,139.0,13.0,61.0
+517315.0,50287,120,Maryland,Big Ten,26,Seattle,2016,147,5,8,Quinton Jefferson,Defensive Tackle,76.0,291,173.0,20.0,57.0
+547613.0,50394,26,UCLA,Pac-12,27,Tampa Bay,2016,148,5,9,Caleb Benenoch,Offensive Tackle,78.0,311,138.0,11.0,61.0
+530982.0,50421,26,UCLA,Pac-12,19,New York,2016,149,5,10,Paul Perkins,Running Back,70.0,208,113.0,8.0,68.0
+552904.0,50420,84,Indiana,Big Ten,3,Chicago,2016,150,5,11,Jordan Howard,Running Back,72.0,230,94.0,6.0,71.0
+-1042315.0,49836,265,Washington State,Pac-12,8,Detroit,2016,151,5,12,Joe Dahl,Offensive Guard,76.0,304,132.0,7.0,63.0
+-1033953.0,49682,218,Temple,American Athletic,28,Washington,2016,152,5,13,Matt Ioannidis,Defensive Tackle,76.0,299,157.0,18.0,59.0
+546046.0,50424,277,West Virginia,Big 12,21,Philadelphia,2016,153,5,14,Wendell Smallwood,Running Back,71.0,208,175.0,13.0,57.0
+530981.0,50136,26,UCLA,Pac-12,5,Cleveland,2016,154,5,15,Jordan Payton,Wide Receiver,73.0,207,83.0,12.0,75.0
+2573103.0,49928,2449,North Dakota State,MVFC,11,Indianapolis,2016,155,5,16,Joe Haeg,Offensive Tackle,78.0,304,218.0,19.0,49.0
+535893.0,50043,8,Arkansas,SEC,2,Buffalo,2016,156,5,17,Jonathan Williams,Running Back,71.0,220,205.0,15.0,51.0
+2575171.0,49456,253,Southern Utah,Big Sky,10,Tennessee,2016,157,5,18,Leshaun Sims,Cornerback,73.0,203,258.0,29.0,41.0
+-1032044.0,49929,2579,South Carolina,SEC,20,New York,2016,158,5,19,Brandon Shell,Offensive Tackle,77.0,324,266.0,21.0,40.0
+-1042740.0,50496,277,West Virginia,Big 12,34,Houston,2016,159,5,20,KJ Dillon,Safety,72.0,210,162.0,18.0,58.0
+515208.0,49775,142,Missouri,SEC,16,Minnesota,2016,160,5,21,Kentrell Brothers,Inside Linebacker,72.0,245,182.0,10.0,55.0
+-1001911.0,49832,9,Arizona State,Pac-12,4,Cincinnati,2016,161,5,22,Christian Westerman,Offensive Guard,75.0,298,82.0,3.0,76.0
+516357.0,49998,24,Stanford,Pac-12,12,Kansas City,2016,162,5,23,Kevin Hogan,Quarterback,75.0,218,200.0,9.0,52.0
+516956.0,50448,25,California,Pac-12,9,Green Bay,2016,163,5,24,Trevor Davis,Wide Receiver,73.0,188,226.0,32.0,48.0
+-1033595.0,49935,2628,TCU,Big 12,21,Philadelphia,2016,164,5,25,Halapoulivaati Vaitai,Offensive Tackle,78.0,320,194.0,14.0,54.0
+3116406.0,50463,2695,West Alabama,Gulf South,12,Kansas City,2016,165,5,26,Tyreek Hill,Wide Receiver,70.0,185,,65.0,30.0
+-1007361.0,50473,228,Clemson,ACC,34,Houston,2016,166,5,27,D.J. Reader,Defensive Tackle,75.0,327,143.0,17.0,61.0
+,49647,2395,Midwestern State,Lone Star,22,Arizona,2016,167,5,28,Marqui Christian,Safety,71.0,196,,27.0,30.0
+-1004729.0,49925,239,Baylor,Big 12,5,Cleveland,2016,168,5,29,Spencer Drango,Offensive Tackle,78.0,315,197.0,15.0,53.0
+-1012105.0,49896,290,Georgia Southern,Sun Belt,8,Detroit,2016,169,5,30,Antwione Williams,Outside Linebacker,75.0,240,,43.0,30.0
+2969262.0,49926,108,Harvard,Ivy,22,Arizona,2016,170,5,31,Cole Toner,Offensive Tackle,77.0,306,291.0,23.0,37.0
+547203.0,50419,8,Arkansas,SEC,26,Seattle,2016,171,5,32,Alex Collins,Running Back,70.0,217,119.0,9.0,67.0
+546244.0,50139,36,Colorado State,Mountain West,5,Cleveland,2016,172,5,33,Rashard Higgins,Wide Receiver,73.0,196,140.0,17.0,61.0
+531490.0,49493,2433,UL Monroe,Sun Belt,5,Cleveland,2016,173,5,34,Trey Caldwell,Cornerback,69.0,188,,67.0,30.0
+-1021689.0,50401,145,Ole Miss,SEC,25,San Francisco,2016,174,5,35,Fahn Cooper,Offensive Tackle,77.0,303,146.0,12.0,60.0
+531846.0,50372,2006,Akron,Mid-American,24,Los Angeles,2016,175,5,36,Jatavis Brown,Outside Linebacker,71.0,227,151.0,12.0,59.0
+533286.0,50470,158,Nebraska,Big Ten,7,Denver,2016,176,6,1,Andy Janovich,Fullback,73.0,238,273.0,2.0,39.0
+2580330.0,50123,2569,South Carolina State,MEAC,14,Los Angeles,2016,177,6,2,Temarrick Hemingway,Tight End,77.0,244,242.0,9.0,45.0
+531111.0,49433,59,Georgia Tech,ACC,12,Kansas City,2016,178,6,3,D.J. White,Cornerback,71.0,193,116.0,15.0,68.0
+517486.0,49968,245,Texas A&M,SEC,24,Los Angeles,2016,179,6,4,Drew Kaser,Punter,74.0,212,305.0,1.0,35.0
+,50530,3,Birmingham-Southern,Southern Athletic,16,Minnesota,2016,180,6,5,Moritz Boehringer,Wide Receiver,76.0,225,,46.0,36.0
+2982949.0,49534,149,Montana,Big Sky,30,Jacksonville,2016,181,6,6,Tyrone Holmes,Defensive End,74.0,253,248.0,22.0,43.0
+530568.0,50460,2426,Navy,American Athletic,33,Baltimore,2016,182,6,7,Keenan Reynolds,Wide Receiver,70.0,190,334.0,51.0,32.0
+-1027457.0,49903,201,Oklahoma,Big 12,27,Tampa Bay,2016,183,6,8,Devante Bond,Outside Linebacker,73.0,235,310.0,24.0,34.0
+535353.0,50105,2579,South Carolina,SEC,19,New York,2016,184,6,9,Jerell Adams,Tight End,77.0,247,69.0,4.0,78.0
+2566034.0,50277,2729,William & Mary,CAA,3,Chicago,2016,185,6,10,Deandre Houston-Carson,Safety,73.0,201,107.0,10.0,69.0
+514493.0,50486,2641,Texas Tech,Big 12,15,Miami,2016,186,6,11,Jakeem Grant,Wide Receiver,66.0,165,303.0,47.0,35.0
+535825.0,50000,84,Indiana,Big Ten,28,Washington,2016,187,6,12,Nate Sudfeld,Quarterback,78.0,234,160.0,8.0,59.0
+2580052.0,50459,2636,UTSA,Conference USA,16,Minnesota,2016,188,6,13,David Morgan,Tight End,76.0,262,,19.0,30.0
+534774.0,49464,2509,Purdue,Big Ten,6,Dallas,2016,189,6,14,Anthony Brown,Cornerback,71.0,192,295.0,34.0,36.0
+517425.0,49781,96,Kentucky,SEC,14,Los Angeles,2016,190,6,15,Josh Forrest,Inside Linebacker,75.0,249,156.0,7.0,59.0
+518380.0,50003,130,Michigan,Big Ten,8,Detroit,2016,191,6,16,Jake Rudock,Quarterback,75.0,207,335.0,17.0,32.0
+531231.0,50154,2628,TCU,Big 12,2,Buffalo,2016,192,6,17,Kolby Listenbee,Wide Receiver,72.0,197,158.0,18.0,59.0
+501264.0,49830,8,Arkansas,SEC,10,Tennessee,2016,193,6,18,Sebastian Tretola,Offensive Guard,76.0,314,131.0,6.0,64.0
+-1008161.0,49886,36,Colorado State,Mountain West,13,Las Vegas,2016,194,6,19,Cory James,Outside Linebacker,73.0,229,289.0,21.0,37.0
+-1031403.0,49869,23,San José State,Mountain West,1,Atlanta,2016,195,6,20,Wes Schweitzer,Offensive Guard,76.0,300,,72.0,20.0
+511691.0,49470,2,Auburn,SEC,21,Philadelphia,2016,196,6,21,Blake Countess,Cornerback,70.0,184,,43.0,30.0
+-1026147.0,49718,77,Northwestern,Big Ten,27,Tampa Bay,2016,197,6,22,Dan Vitale,Fullback,73.0,239,259.0,1.0,41.0
+514234.0,49719,275,Wisconsin,Big Ten,24,Los Angeles,2016,198,6,23,Derek Watt,Fullback,74.0,235,300.0,4.0,36.0
+536197.0,50159,145,Ole Miss,SEC,4,Cincinnati,2016,199,6,24,Cody Core,Wide Receiver,75.0,205,278.0,44.0,38.0
+-1032993.0,49922,24,Stanford,Pac-12,9,Green Bay,2016,200,6,25,Kyle Murphy,Offensive Tackle,78.0,305,166.0,13.0,58.0
+515915.0,50001,8,Arkansas,SEC,30,Jacksonville,2016,201,6,26,Brandon Allen,Quarterback,73.0,217,105.0,6.0,69.0
+518208.0,49528,213,Penn State,Big Ten,8,Detroit,2016,202,6,27,Anthony Zettel,Defensive End,76.0,277,149.0,14.0,60.0
+515570.0,49878,259,Virginia Tech,ACC,12,Kansas City,2016,203,6,28,Dadi Lhomme Nicolas,Outside Linebacker,75.0,235,129.0,11.0,64.0
+535603.0,49602,213,Penn State,Big Ten,15,Miami,2016,204,6,29,Jordan Lucas,Safety,72.0,201,262.0,21.0,40.0
+533451.0,49466,2545,SE Louisiana,Southland,22,Arizona,2016,205,6,30,Harlan Miller,Cornerback,72.0,182,120.0,17.0,67.0
+3123986.0,50130,2572,Southern Miss,Conference USA,14,Los Angeles,2016,206,6,31,Michael Thomas,Wide Receiver,73.0,193,324.0,49.0,33.0
+511889.0,49999,2348,Louisiana Tech,Conference USA,25,San Francisco,2016,207,6,32,Jeff Driskel,Quarterback,76.0,234,214.0,11.0,49.0
+3050851.0,50543,2197,Eastern Illinois,OVC,17,New England,2016,208,6,33,Kamu Grugier-Hill,Cornerback,,215,,,
+535550.0,49454,258,Virginia,ACC,33,Baltimore,2016,209,6,34,Maurice Canady,Cornerback,73.0,193,153.0,21.0,59.0
+-1004739.0,49811,239,Baylor,Big 12,8,Detroit,2016,210,6,35,Jimmy Landes,Long Snapper,73.0,240,343.0,1.0,31.0
+546318.0,50422,57,Florida,SEC,25,San Francisco,2016,211,6,36,Kelvin Taylor,Running Back,70.0,207,136.0,10.0,62.0
+531445.0,50468,2117,Central Michigan,Mid-American,6,Dallas,2016,212,6,37,Kavon Frazier,Safety,72.0,217,133.0,14.0,63.0
+535857.0,50441,127,Michigan State,Big Ten,25,San Francisco,2016,213,6,38,Aaron Burbridge,Wide Receiver,72.0,206,134.0,16.0,62.0
+538490.0,50304,248,Houston,American Athletic,17,New England,2016,214,6,39,Elandon Roberts,Inside Linebacker,71.0,234,,34.0,30.0
+-1033576.0,50320,2628,TCU,Big 12,26,Seattle,2016,215,6,40,Joey Hunt,Center,74.0,299,,24.0,30.0
+536053.0,50426,2199,Eastern Michigan,Mid-American,6,Dallas,2016,216,6,41,Darius Jackson,Running Back,72.0,220,,26.0,30.0
+,50542,239,Baylor,Big 12,6,Dallas,2016,217,6,42,Rico Gathers,Tight End,,273,,,
+530991.0,49440,30,USC,Pac-12,2,Buffalo,2016,218,6,43,Kevon Seymour,Cornerback,72.0,186,193.0,23.0,54.0
+530842.0,49626,12,Arizona,Pac-12,7,Denver,2016,219,6,44,Will Parks,Safety,72.0,204,,33.0,30.0
+513048.0,49890,264,Washington,Pac-12,23,Pittsburgh,2016,220,6,45,Travis Feeney,Outside Linebacker,76.0,230,215.0,17.0,49.0
+-1013571.0,50338,356,Illinois,Big Ten,17,New England,2016,221,6,46,Ted Karras,Offensive Guard,76.0,307,,21.0,30.0
+-1038297.0,50458,26,UCLA,Pac-12,10,Tennessee,2016,222,7,1,Aaron Wallace,Outside Linebacker,74.0,242,,31.0,30.0
+504866.0,50002,98,Western Kentucky,Conference USA,15,Miami,2016,223,7,2,Brandon Doughty,Quarterback,75.0,213,272.0,14.0,39.0
+-1020734.0,50343,127,Michigan State,Big Ten,24,Los Angeles,2016,224,7,3,Donavon Clark,Offensive Guard,76.0,312,,27.0,30.0
+511983.0,50453,9,Arizona State,Pac-12,17,New England,2016,225,7,4,Devin Lucien,Wide Receiver,73.0,201,,55.0,30.0
+2567970.0,49551,2110,Central Arkansas,Southland,30,Jacksonville,2016,226,7,5,Jonathan Woodard,Defensive End,77.0,271,,53.0,30.0
+532004.0,50367,238,Vanderbilt,SEC,16,Minnesota,2016,227,7,6,Stephen Weatherly,Outside Linebacker,76.0,267,190.0,15.0,54.0
+514471.0,49970,183,Syracuse,ACC,7,Denver,2016,228,7,7,Riley Dixon,Punter,76.0,221,329.0,2.0,32.0
+545543.0,50440,248,Houston,American Athletic,23,Pittsburgh,2016,229,7,8,Demarcus Ayers,Wide Receiver,69.0,182,232.0,34.0,47.0
+532661.0,50447,2711,Western Michigan,Mid-American,3,Chicago,2016,230,7,9,Daniel Braverman,Wide Receiver,70.0,180,189.0,25.0,54.0
+547596.0,50443,26,UCLA,Pac-12,15,Miami,2016,231,7,10,Thomas Duarte,Wide Receiver,74.0,231,163.0,20.0,58.0
+530468.0,49793,103,Boston College,ACC,28,Washington,2016,232,7,11,Steven Daniels,Inside Linebacker,72.0,243,238.0,15.0,46.0
+534427.0,49592,99,LSU,SEC,21,Philadelphia,2016,233,7,12,Jalen Mills,Safety,72.0,191,92.0,7.0,72.0
+-1016533.0,49831,99,LSU,SEC,13,Las Vegas,2016,234,7,13,Vadal Alexander,Offensive Guard,77.0,326,150.0,9.0,59.0
+,50416,2534,Sam Houston,Southland,20,New York,2016,235,7,14,Loc Edwards,Punter,76.0,209,,5.0,30.0
+542080.0,50425,264,Washington,Pac-12,8,Detroit,2016,236,7,15,Dwayne Washington,Running Back,73.0,220,,29.0,30.0
+517016.0,50033,25,California,Pac-12,18,New Orleans,2016,237,7,16,Daniel Lasco,Running Back,72.0,209,191.0,14.0,54.0
+-1038275.0,50189,26,UCLA,Pac-12,1,Atlanta,2016,238,7,17,Devin Fuller,Wide Receiver,72.0,194,,64.0,30.0
+2585785.0,49910,311,Maine,CAA,11,Indianapolis,2016,239,7,18,Trevor Bates,Outside Linebacker,73.0,245,,52.0,30.0
+2980111.0,50263,57,Florida,SEC,21,Philadelphia,2016,240,7,19,Alex Mccalister,Defensive End,78.0,239,236.0,19.0,47.0
+511213.0,50165,228,Clemson,ACC,20,New York,2016,241,7,20,Charone Peake,Wide Receiver,74.0,209,117.0,13.0,68.0
+530937.0,50427,61,Georgia,SEC,28,Washington,2016,242,7,21,Keith Marshall,Running Back,71.0,219,263.0,19.0,40.0
+535270.0,50437,25,California,Pac-12,26,Seattle,2016,243,7,22,Kenny Lawler,Wide Receiver,75.0,203,128.0,15.0,65.0
+546636.0,50271,228,Clemson,ACC,16,Minnesota,2016,244,7,23,Jayron Kearse,Safety,76.0,216,141.0,16.0,61.0
+546066.0,49600,356,Illinois,Big Ten,4,Cincinnati,2016,245,7,24,Clayton Fejedelem,Safety,72.0,204,286.0,22.0,37.0
+534341.0,49769,218,Temple,American Athletic,23,Pittsburgh,2016,246,7,25,Tyler Matakevich,Inside Linebacker,72.0,238,142.0,5.0,61.0
+534582.0,50429,228,Clemson,ACC,26,Seattle,2016,247,7,26,Zac Brooks,Running Back,72.0,200,,38.0,30.0
+-1014291.0,50310,2294,Iowa,Big Ten,11,Indianapolis,2016,248,7,27,Austin Blythe,Center,74.0,298,170.0,5.0,57.0
+540670.0,50249,98,Western Kentucky,Conference USA,25,San Francisco,2016,249,7,28,Prince Charles Iworah,Cornerback,70.0,192,,42.0,30.0
+-1001489.0,49757,12,Arizona,Pac-12,5,Cleveland,2016,250,7,29,Scooby Wright III,Inside Linebacker,72.0,239,181.0,9.0,56.0
+546390.0,49786,2483,Oregon,Pac-12,21,Philadelphia,2016,251,7,30,Joe Walker,Inside Linebacker,74.0,236,,37.0,30.0
+3039705.0,50433,147,Montana State,Big Sky,29,Carolina,2016,252,7,31,Beau Sandland,Tight End,77.0,253,137.0,6.0,62.0
+531790.0,50254,2572,Southern Miss,Conference USA,10,Tennessee,2016,253,7,32,Kalan Reed,Cornerback,71.0,192,319.0,37.0,33.0

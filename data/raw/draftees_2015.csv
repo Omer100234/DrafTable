@@ -1,0 +1,257 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeamId,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade
+530308.0,46810,52,Florida State,ACC,27,Tampa Bay,2015,1,1,1,Jameis Winston,Quarterback,76.0,231,1.0,1.0,97.0
+511459.0,46814,2483,Oregon,Pac-12,10,Tennessee,2015,2,1,2,Marcus Mariota,Quarterback,76.0,222,5.0,2.0,93.0
+2980100.0,46813,57,Florida,SEC,30,Jacksonville,2015,3,1,3,Dante Fowler Jr.,Defensive End,75.0,261,4.0,2.0,93.0
+534458.0,46812,333,Alabama,SEC,13,Las Vegas,2015,4,1,4,Amari Cooper,Wide Receiver,73.0,211,3.0,1.0,94.0
+500839.0,46815,2294,Iowa,Big Ten,28,Washington,2015,5,1,5,Brandon Scherff,Offensive Tackle,77.0,319,6.0,1.0,93.0
+531014.0,46811,30,USC,Pac-12,20,New York,2015,6,1,6,Leonard Williams,Defensive End,77.0,302,2.0,1.0,96.0
+546052.0,46816,277,West Virginia,Big 12,3,Chicago,2015,7,1,7,Kevin White,Wide Receiver,75.0,215,7.0,2.0,93.0
+-1007369.0,46834,228,Clemson,ACC,1,Atlanta,2015,8,1,8,Vic Beasley,Outside Linebacker,75.0,246,25.0,3.0,89.0
+-1019743.0,46822,2390,Miami,ACC,19,New York,2015,9,1,9,Ereck Flowers,Offensive Tackle,78.0,329,13.0,3.0,90.0
+-1011711.0,46817,61,Georgia,SEC,14,Los Angeles,2015,10,1,10,Todd Gurley,Running Back,73.0,222,8.0,1.0,92.0
+512727.0,46819,127,Michigan State,Big Ten,16,Minnesota,2015,11,1,11,Trae Waynes,Cornerback,72.0,186,10.0,1.0,91.0
+513065.0,46823,264,Washington,Pac-12,5,Cleveland,2015,12,1,12,Danny Shelton,Defensive Tackle,74.0,339,14.0,1.0,90.0
+-1033012.0,46820,24,Stanford,Pac-12,18,New Orleans,2015,13,1,13,Andrus Peat,Offensive Tackle,79.0,313,11.0,2.0,91.0
+511615.0,46818,97,Louisville,ACC,15,Miami,2015,14,1,14,DeVante Parker,Wide Receiver,75.0,209,9.0,3.0,92.0
+514218.0,46826,275,Wisconsin,Big Ten,24,Los Angeles,2015,15,1,15,Melvin Gordon,Running Back,73.0,215,17.0,2.0,90.0
+500547.0,46824,154,Wake Forest,ACC,34,Houston,2015,16,1,16,Kevin Johnson,Cornerback,72.0,188,15.0,3.0,90.0
+-1028443.0,46821,2483,Oregon,Pac-12,25,San Francisco,2015,17,1,17,Arik Armstead,Defensive End,79.0,292,12.0,3.0,91.0
+513059.0,46830,264,Washington,Pac-12,12,Kansas City,2015,18,1,18,Marcus Peters,Cornerback,72.0,197,21.0,2.0,90.0
+-1010963.0,46825,52,Florida State,ACC,5,Cleveland,2015,19,1,19,Cameron Erving,Center,78.0,313,16.0,1.0,90.0
+531010.0,46832,30,USC,Pac-12,21,Philadelphia,2015,20,1,20,Nelson Agholor,Wide Receiver,72.0,198,23.0,5.0,89.0
+-1035153.0,46844,245,Texas A&M,SEC,4,Cincinnati,2015,21,1,21,Cedric Ogbuehi,Offensive Tackle,77.0,306,35.0,5.0,88.0
+517448.0,46833,96,Kentucky,SEC,23,Pittsburgh,2015,22,1,22,Bud Dupree,Outside Linebacker,76.0,269,24.0,2.0,89.0
+-1022444.0,46840,142,Missouri,SEC,7,Denver,2015,23,1,23,Shane Ray,Outside Linebacker,75.0,245,31.0,5.0,88.0
+-1009832.0,46841,57,Florida,SEC,22,Arizona,2015,24,1,24,D.J. Humphries,Offensive Tackle,77.0,307,32.0,6.0,88.0
+535329.0,46878,264,Washington,Pac-12,29,Carolina,2015,25,1,25,Shaq Thompson,Outside Linebacker,72.0,228,69.0,8.0,78.0
+531670.0,46829,2116,UCF,American Athletic,33,Baltimore,2015,26,1,26,Breshad Perriman,Wide Receiver,74.0,212,20.0,4.0,90.0
+502300.0,46846,41,UConn,American Athletic,6,Dallas,2015,27,1,27,Byron Jones,Cornerback,73.0,199,37.0,4.0,88.0
+-1008795.0,46862,150,Duke,ACC,8,Detroit,2015,28,1,28,Laken Tomlinson,Offensive Guard,75.0,323,53.0,1.0,82.0
+517570.0,46836,2390,Miami,ACC,11,Indianapolis,2015,29,1,29,Phillip Dorsett,Wide Receiver,70.0,185,27.0,6.0,88.0
+546460.0,46847,9,Arizona State,Pac-12,9,Green Bay,2015,30,1,30,Damarious Randall,Safety,71.0,196,38.0,2.0,87.0
+511197.0,46859,228,Clemson,ACC,18,New Orleans,2015,31,1,31,Stephone Anthony,Inside Linebacker,75.0,243,50.0,3.0,83.0
+-1034782.0,46828,251,Texas,Big 12,17,New England,2015,32,1,32,Malcom Brown,Defensive Tackle,74.0,319,19.0,2.0,90.0
+535742.0,46842,333,Alabama,SEC,19,New York,2015,33,2,1,Landon Collins,Safety,72.0,228,33.0,1.0,88.0
+-1029135.0,46856,213,Penn State,Big Ten,27,Tampa Bay,2015,34,2,2,Donovan Smith,Offensive Tackle,78.0,338,47.0,9.0,84.0
+530290.0,46857,52,Florida State,ACC,13,Las Vegas,2015,35,2,3,Mario Edwards Jr.,Defensive End,75.0,279,48.0,5.0,84.0
+534409.0,46873,333,Alabama,SEC,30,Jacksonville,2015,36,2,4,T.J. Yeldon,Running Back,73.0,226,64.0,4.0,79.0
+514181.0,46837,194,Ohio State,Big Ten,20,New York,2015,37,2,5,Devin Smith,Wide Receiver,72.0,196,28.0,7.0,88.0
+514711.0,46852,344,Mississippi State,SEC,28,Washington,2015,38,2,6,Preston Smith,Defensive End,77.0,271,43.0,4.0,86.0
+-1010966.0,46835,52,Florida State,ACC,3,Chicago,2015,39,2,7,Eddie Goldman,Defensive Tackle,76.0,336,26.0,3.0,89.0
+2971433.0,46868,142,Missouri,SEC,10,Tennessee,2015,40,2,8,Dorial Green-Beckham,Wide Receiver,77.0,237,59.0,11.0,80.0
+535145.0,46849,130,Michigan,Big Ten,29,Carolina,2015,41,2,9,Devin Funchess,Wide Receiver,76.0,232,40.0,9.0,87.0
+517218.0,46854,99,LSU,SEC,1,Atlanta,2015,42,2,10,Jalen Collins,Cornerback,74.0,203,45.0,5.0,85.0
+-1022086.0,46871,344,Mississippi State,SEC,34,Houston,2015,43,2,11,Benardrick McKinney,Inside Linebacker,76.0,246,62.0,4.0,80.0
+2509488.0,46851,264,Washington,Pac-12,18,New Orleans,2015,44,2,12,Hau'Oli Kikaha,Outside Linebacker,74.0,253,42.0,6.0,86.0
+500349.0,46838,26,UCLA,Pac-12,16,Minnesota,2015,45,2,13,Eric Kendricks,Inside Linebacker,72.0,232,29.0,1.0,88.0
+2509844.0,46908,2535,Samford,Southern,25,San Francisco,2015,46,2,14,Jaquiski Tartt,Safety,73.0,221,99.0,5.0,69.0
+516284.0,46863,254,Utah,Pac-12,21,Philadelphia,2015,47,2,15,Eric Rowe,Cornerback,73.0,205,54.0,6.0,82.0
+517587.0,46850,2390,Miami,ACC,24,Los Angeles,2015,48,2,16,Denzel Perryman,Inside Linebacker,71.0,236,41.0,2.0,87.0
+-1022442.0,46900,142,Missouri,SEC,12,Kansas City,2015,49,2,17,Mitch Morse,Offensive Guard,77.0,305,91.0,5.0,70.0
+530289.0,46869,52,Florida State,ACC,2,Buffalo,2015,50,2,18,Ronald Darby,Cornerback,71.0,193,60.0,8.0,80.0
+-1040024.0,46876,254,Utah,Pac-12,5,Cleveland,2015,51,2,19,Nate Orchard,Outside Linebacker,75.0,250,67.0,7.0,78.0
+-1027509.0,46855,201,Oklahoma,Big 12,15,Miami,2015,52,2,20,Jordan Phillips,Defensive Tackle,77.0,329,46.0,4.0,85.0
+511450.0,46848,2483,Oregon,Pac-12,4,Cincinnati,2015,53,2,21,Jake Fisher,Offensive Tackle,78.0,306,39.0,8.0,87.0
+514508.0,46853,158,Nebraska,Big Ten,8,Detroit,2015,54,2,22,Ameer Abdullah,Running Back,69.0,205,44.0,3.0,85.0
+530747.0,46858,135,Minnesota,Big Ten,33,Baltimore,2015,55,2,23,Maxx Williams,Tight End,76.0,249,49.0,1.0,83.0
+512007.0,46877,145,Ole Miss,SEC,23,Pittsburgh,2015,56,2,24,Senquez Golson,Cornerback,69.0,176,68.0,9.0,78.0
+2515613.0,46911,275,Wisconsin,Big Ten,14,Los Angeles,2015,57,2,25,Robert Havenstein,Offensive Tackle,79.0,321,102.0,12.0,69.0
+531379.0,46884,142,Missouri,SEC,22,Arizona,2015,58,2,26,Markus Golden,Defensive End,74.0,260,75.0,8.0,77.0
+502892.0,46899,36,Colorado State,Mountain West,7,Denver,2015,59,2,27,Ty Sambrailo,Offensive Tackle,78.0,311,90.0,11.0,70.0
+545598.0,46827,158,Nebraska,Big Ten,6,Dallas,2015,60,2,28,Randy Gregory,Outside Linebacker,77.0,235,18.0,1.0,90.0
+,46892,174,Hobart College,Liberty League,27,Tampa Bay,2015,61,2,29,Ali Marpet,Offensive Guard,76.0,307,83.0,4.0,72.0
+3125961.0,46880,193,Miami (OH),Mid-American,9,Green Bay,2015,62,2,30,Quinten Rollins,Cornerback,71.0,195,71.0,10.0,77.0
+511704.0,47020,130,Michigan,Big Ten,26,Seattle,2015,63,2,31,Frank Clark,Defensive End,75.0,271,211.0,19.0,45.0
+516368.0,47012,24,Stanford,Pac-12,17,New England,2015,64,2,32,Jordan Richards,Safety,71.0,211,203.0,16.0,47.0
+537096.0,46893,2226,Florida Atlantic,Conference USA,11,Indianapolis,2015,65,3,1,D'Joun Smith,Cornerback,70.0,187,84.0,11.0,72.0
+-1040027.0,46909,254,Utah,Pac-12,10,Tennessee,2015,66,3,2,Jeremiah Poutasi,Offensive Guard,77.0,335,100.0,6.0,69.0
+-1032052.0,46879,2579,South Carolina,SEC,30,Jacksonville,2015,67,3,3,A.J. Cann,Offensive Guard,75.0,313,70.0,2.0,77.0
+501147.0,46872,2390,Miami,ACC,13,Las Vegas,2015,68,3,4,Clive Walford,Tight End,76.0,251,63.0,2.0,80.0
+515181.0,46861,2306,Kansas State,Big 12,26,Seattle,2015,69,3,5,Tyler Lockett,Wide Receiver,70.0,182,52.0,10.0,82.0
+546465.0,46839,9,Arizona State,Pac-12,34,Houston,2015,70,3,6,Jaelen Strong,Wide Receiver,74.0,217,30.0,8.0,88.0
+504753.0,46896,2483,Oregon,Pac-12,3,Chicago,2015,71,3,7,Hroniss Grasu,Center,75.0,297,87.0,2.0,71.0
+-1018083.0,47001,97,Louisville,ACC,14,Los Angeles,2015,72,3,8,Jamon Brown,Offensive Tackle,76.0,323,192.0,18.0,48.0
+535801.0,46875,84,Indiana,Big Ten,1,Atlanta,2015,73,3,9,Tevin Coleman,Running Back,71.0,206,66.0,6.0,78.0
+2510866.0,46864,26,UCLA,Pac-12,19,New York,2015,74,3,10,Owa Odighizuwa,Defensive End,76.0,267,55.0,6.0,82.0
+515528.0,46930,36,Colorado State,Mountain West,18,New Orleans,2015,75,3,11,Garrett Grayson,Quarterback,75.0,213,121.0,5.0,65.0
+513146.0,46937,61,Georgia,SEC,12,Kansas City,2015,76,3,12,Chris Conley,Wide Receiver,74.0,211,128.0,20.0,61.0
+-1019748.0,46874,2390,Miami,ACC,5,Cleveland,2015,77,3,13,Duke Johnson,Running Back,69.0,207,65.0,5.0,78.0
+534576.0,46867,52,Florida State,ACC,18,New Orleans,2015,78,3,14,P.J. Williams,Cornerback,72.0,194,58.0,7.0,81.0
+535547.0,46843,258,Virginia,ACC,25,San Francisco,2015,79,3,15,Eli Harold,Outside Linebacker,75.0,247,34.0,4.0,88.0
+535214.0,46910,24,Stanford,Pac-12,8,Detroit,2015,80,3,16,Alex Carter,Cornerback,72.0,196,101.0,14.0,69.0
+-1018093.0,46979,97,Louisville,ACC,2,Buffalo,2015,81,3,17,John Miller,Offensive Guard,75.0,303,170.0,10.0,51.0
+-1018092.0,46926,97,Louisville,ACC,20,New York,2015,82,3,18,Lorenzo Mauldin,Outside Linebacker,76.0,259,117.0,12.0,66.0
+500313.0,47010,326,Texas State,Sun Belt,24,Los Angeles,2015,83,3,19,Craig Mager,Cornerback,72.0,201,201.0,18.0,59.0
+501935.0,46950,251,Texas,Big 12,21,Philadelphia,2015,84,3,20,Jordan Hicks,Inside Linebacker,73.0,236,141.0,6.0,59.0
+518366.0,46885,164,Rutgers,Big Ten,4,Cincinnati,2015,85,3,21,Tyler Kroft,Tight End,78.0,246,76.0,3.0,75.0
+499005.0,46905,2460,Northern Iowa,MVFC,22,Arizona,2015,86,3,22,David Johnson,Running Back,73.0,224,96.0,9.0,69.0
+515949.0,46881,2,Auburn,SEC,23,Pittsburgh,2015,87,3,23,Sammie Coates,Wide Receiver,73.0,212,72.0,12.0,77.0
+-1016571.0,46894,99,LSU,SEC,16,Minnesota,2015,88,3,24,Danielle Hunter,Defensive End,77.0,252,85.0,10.0,71.0
+504786.0,46917,204,Oregon State,Pac-12,14,Los Angeles,2015,89,3,25,Sean Mannion,Quarterback,78.0,229,108.0,4.0,68.0
+-1014315.0,46866,2294,Iowa,Big Ten,33,Baltimore,2015,90,3,26,Carl Davis,Defensive Tackle,77.0,320,57.0,7.0,81.0
+-1009831.0,46942,57,Florida,SEC,6,Dallas,2015,91,3,27,Chaz Green,Offensive Tackle,77.0,314,133.0,15.0,60.0
+514175.0,46913,194,Ohio State,Big Ten,7,Denver,2015,92,3,28,Jeff Heuerman,Tight End,77.0,254,104.0,4.0,69.0
+-1033001.0,46886,24,Stanford,Pac-12,11,Indianapolis,2015,93,3,29,Henry Anderson,Defensive End,78.0,294,77.0,9.0,75.0
+516363.0,46916,24,Stanford,Pac-12,9,Green Bay,2015,94,3,30,Ty Montgomery,Wide Receiver,72.0,221,107.0,16.0,68.0
+535917.0,46944,57,Florida,SEC,28,Washington,2015,95,3,31,Matt Jones,Running Back,74.0,231,135.0,12.0,60.0
+-1042349.0,46902,265,Washington State,Pac-12,5,Cleveland,2015,96,3,32,Xavier Cooper,Defensive Tackle,75.0,293,93.0,8.0,70.0
+501893.0,46959,201,Oklahoma,Big 12,17,New England,2015,97,3,33,Geneo Grissom,Defensive End,75.0,262,150.0,14.0,55.0
+546871.0,46915,204,Oregon State,Pac-12,12,Kansas City,2015,98,3,34,Steven Nelson,Cornerback,70.0,197,106.0,16.0,68.0
+-1033604.0,46883,2628,TCU,Big 12,4,Cincinnati,2015,99,3,35,Paul Dawson,Outside Linebacker,72.0,235,74.0,9.0,77.0
+511849.0,46991,2,Auburn,SEC,10,Tennessee,2015,100,4,1,Angelo Blackson,Defensive Tackle,76.0,318,182.0,16.0,49.0
+515923.0,46870,8,Arkansas,SEC,17,New England,2015,101,4,2,Trey Flowers,Defensive End,74.0,266,61.0,7.0,80.0
+-1027517.0,46897,201,Oklahoma,Big 12,29,Carolina,2015,102,4,3,Daryl Williams,Offensive Tackle,77.0,327,88.0,10.0,71.0
+480746.0,46890,239,Baylor,Big 12,20,New York,2015,103,4,4,Bryce Petty,Quarterback,75.0,230,81.0,3.0,73.0
+513062.0,46904,97,Louisville,ACC,30,Jacksonville,2015,104,4,5,James Sample,Safety,74.0,209,95.0,4.0,70.0
+517452.0,46932,150,Duke,ACC,28,Washington,2015,105,4,6,Jamison Crowder,Wide Receiver,68.0,185,123.0,19.0,64.0
+503202.0,46906,127,Michigan State,Big Ten,3,Chicago,2015,106,4,7,Jeremy Langford,Running Back,72.0,208,97.0,10.0,69.0
+505407.0,46887,151,East Carolina,American Athletic,1,Atlanta,2015,107,4,8,Justin Hardy,Wide Receiver,70.0,192,78.0,14.0,73.0
+504027.0,46958,333,Alabama,SEC,10,Tennessee,2015,108,4,9,Jalston Fowler,Fullback,71.0,254,149.0,1.0,55.0
+505705.0,46936,2116,UCF,American Athletic,11,Indianapolis,2015,109,4,10,Clayton Geathers,Safety,74.0,218,127.0,11.0,62.0
+-1029465.0,46845,221,Pittsburgh,ACC,16,Minnesota,2015,110,4,11,T.J. Clemmings,Offensive Tackle,77.0,309,36.0,7.0,88.0
+2576792.0,46889,52,Florida State,ACC,17,New England,2015,111,4,12,Tre Jackson,Offensive Guard,76.0,330,80.0,3.0,73.0
+-1000911.0,46986,333,Alabama,SEC,28,Washington,2015,112,4,13,Arie Kouandjio,Offensive Guard,77.0,310,177.0,11.0,50.0
+-1003706.0,46923,2,Auburn,SEC,8,Detroit,2015,113,4,14,Gabe Wright,Defensive Tackle,75.0,300,114.0,9.0,67.0
+-1001916.0,47003,9,Arizona State,Pac-12,15,Miami,2015,114,4,15,Jamil Douglas,Offensive Guard,76.0,304,194.0,13.0,48.0
+500400.0,46955,77,Northwestern,Big Ten,5,Cleveland,2015,115,4,16,Ibraheim Campbell,Safety,71.0,208,146.0,8.0,56.0
+2507719.0,47296,2169,Delaware State,MEAC,22,Arizona,2015,116,4,17,Rodney Gunter,Defensive Tackle,76.0,298,,33.0,30.0
+501882.0,47000,201,Oklahoma,Big 12,25,San Francisco,2015,117,4,18,Blake Bell,Tight End,78.0,252,191.0,12.0,48.0
+-1011725.0,46940,61,Georgia,SEC,12,Kansas City,2015,118,4,19,Ramik Wilson,Outside Linebacker,74.0,237,131.0,14.0,61.0
+-1014316.0,46967,2294,Iowa,Big Ten,14,Los Angeles,2015,119,4,20,Andrew Donnal,Offensive Tackle,78.0,313,158.0,16.0,52.0
+530993.0,46980,30,USC,Pac-12,4,Cincinnati,2015,120,4,21,Josh Shaw,Safety,73.0,201,171.0,7.0,67.0
+516251.0,46895,194,Ohio State,Big Ten,23,Pittsburgh,2015,121,4,22,Doran Grant,Cornerback,70.0,200,86.0,12.0,71.0
+-1016176.0,46907,96,Kentucky,SEC,33,Baltimore,2015,122,4,23,Za'Darius Smith,Defensive End,77.0,274,98.0,11.0,69.0
+550634.0,46960,265,Washington State,Pac-12,5,Cleveland,2015,123,4,24,Vince Mayle,Wide Receiver,74.0,224,151.0,23.0,55.0
+-1016561.0,46901,99,LSU,SEC,27,Tampa Bay,2015,124,4,25,Kwon Alexander,Outside Linebacker,73.0,227,92.0,10.0,70.0
+,46898,30,USC,Pac-12,33,Baltimore,2015,125,4,26,Buck Allen,Running Back,73.0,221,89.0,8.0,70.0
+545218.0,46928,2579,South Carolina,SEC,25,San Francisco,2015,126,4,27,Mike Davis,Running Back,69.0,217,119.0,11.0,65.0
+545478.0,47008,135,Minnesota,Big Ten,6,Dallas,2015,127,4,28,Damien Wilson,Inside Linebacker,72.0,245,199.0,8.0,48.0
+-1019741.0,47045,2390,Miami,ACC,13,Las Vegas,2015,128,4,29,Jon Feliciano,Offensive Guard,76.0,323,236.0,17.0,41.0
+503898.0,46946,130,Michigan,Big Ten,9,Green Bay,2015,129,4,30,Jake Ryan,Outside Linebacker,74.0,240,137.0,15.0,60.0
+-1031126.0,47118,21,San Diego State,Mountain West,26,Seattle,2015,130,4,31,Terry Poole,Offensive Tackle,77.0,307,309.0,28.0,33.0
+2576917.0,47018,59,Georgia Tech,ACC,17,New England,2015,131,4,32,Shaq Mason,Center,74.0,304,209.0,6.0,46.0
+551571.0,46990,59,Georgia Tech,ACC,25,San Francisco,2015,132,4,33,DeAndre Smelter,Wide Receiver,74.0,226,181.0,28.0,50.0
+-1009830.0,46941,57,Florida,SEC,7,Denver,2015,133,4,34,Max Garcia,Center,76.0,309,132.0,4.0,60.0
+-1042781.0,47034,277,West Virginia,Big 12,26,Seattle,2015,134,4,35,Mark Glowinski,Offensive Guard,76.0,307,225.0,16.0,43.0
+546440.0,46925,9,Arizona State,Pac-12,4,Cincinnati,2015,135,4,36,Marcus Hardison,Defensive Tackle,75.0,307,116.0,10.0,66.0
+2567992.0,47369,2640,Texas Southern,SWAC,33,Baltimore,2015,136,4,37,Tray Walker,Cornerback,74.0,189,,41.0,30.0
+-1007374.0,46860,228,Clemson,ACC,1,Atlanta,2015,137,5,1,Grady Jarrett,Defensive Tackle,73.0,304,51.0,5.0,83.0
+512737.0,46953,135,Minnesota,Big Ten,10,Tennessee,2015,138,5,2,David Cobb,Running Back,71.0,229,144.0,13.0,58.0
+-1010967.0,46882,52,Florida State,ACC,30,Jacksonville,2015,139,5,3,Rashad Greene,Wide Receiver,71.0,182,73.0,13.0,77.0
+513305.0,47080,2305,Kansas,Big 12,13,Las Vegas,2015,140,5,4,Ben Heeney,Inside Linebacker,72.0,231,271.0,11.0,37.0
+547222.0,47069,8,Arkansas,SEC,28,Washington,2015,141,5,5,Martrell Spaight,Outside Linebacker,72.0,236,260.0,22.0,39.0
+518190.0,46934,213,Penn State,Big Ten,3,Chicago,2015,142,5,6,Adrian Amos,Safety,73.0,218,125.0,10.0,63.0
+499085.0,46938,79,Southern Illinois,MVFC,16,Minnesota,2015,143,5,7,MyCole Pruitt,Tight End,74.0,251,129.0,5.0,61.0
+514433.0,47334,251,Texas,Big 12,19,New York,2015,144,5,8,Mykkele Thompson,Safety,73.0,200,,37.0,30.0
+512522.0,47011,235,Memphis,American Athletic,15,Miami,2015,145,5,9,Bobby McCain,Cornerback,70.0,195,202.0,22.0,49.0
+534249.0,46918,120,Maryland,Big Ten,16,Minnesota,2015,146,5,10,Stefon Diggs,Wide Receiver,72.0,195,109.0,17.0,68.0
+511982.0,46951,26,UCLA,Pac-12,9,Green Bay,2015,147,5,11,Brett Hundley,Quarterback,75.0,226,142.0,6.0,59.0
+2520845.0,46924,236,Chattanooga,Southern,18,New Orleans,2015,148,5,12,Davis Tull,Outside Linebacker,74.0,246,115.0,11.0,67.0
+517330.0,46891,68,Boise State,Mountain West,15,Miami,2015,149,5,13,Jay Ajayi,Running Back,72.0,221,82.0,7.0,72.0
+2576327.0,47249,135,Minnesota,Big Ten,15,Miami,2015,150,5,14,Ced Thompson,Safety,72.0,211,,27.0,30.0
+-1033011.0,46999,24,Stanford,Pac-12,11,Indianapolis,2015,151,5,15,David Parry,Defensive Tackle,73.0,308,190.0,17.0,49.0
+-1035147.0,46933,245,Texas A&M,SEC,20,New York,2015,152,5,16,Jarvis Harrison,Offensive Guard,76.0,330,124.0,7.0,64.0
+2508212.0,46929,2449,North Dakota State,MVFC,24,Los Angeles,2015,153,5,17,Kyle Emanuel,Outside Linebacker,75.0,255,120.0,13.0,65.0
+-1011330.0,47002,278,Fresno State,Mountain West,18,New Orleans,2015,154,5,18,Tyeler Davison,Defensive Tackle,74.0,316,193.0,18.0,48.0
+517390.0,47014,52,Florida State,ACC,2,Buffalo,2015,155,5,19,Karlos Williams,Running Back,73.0,230,205.0,17.0,47.0
+503204.0,47022,127,Michigan State,Big Ten,15,Miami,2015,156,5,20,Tony Lippett,Wide Receiver,75.0,192,213.0,33.0,45.0
+511843.0,47234,2,Auburn,SEC,4,Cincinnati,2015,157,5,21,C.J. Uzomah,Tight End,,262,,,
+2589809.0,47283,277,West Virginia,Big 12,22,Arizona,2015,158,5,22,Shaq Riddick,Defensive End,78.0,244,,32.0,30.0
+503642.0,47100,5,UAB,Conference USA,22,Arizona,2015,159,5,23,J.J. Nelson,Wide Receiver,,156,,,
+535598.0,47046,213,Penn State,Big Ten,23,Pittsburgh,2015,160,5,24,Jesse James,Tight End,79.0,261,237.0,14.0,41.0
+503950.0,47087,57,Florida,SEC,13,Las Vegas,2015,161,5,25,Neiron Ball,Outside Linebacker,75.0,236,278.0,23.0,36.0
+501842.0,46914,158,Nebraska,Big Ten,27,Tampa Bay,2015,162,5,26,Kenny Bell,Wide Receiver,73.0,197,105.0,15.0,69.0
+-1029781.0,47006,2509,Purdue,Big Ten,6,Dallas,2015,163,5,27,Ryan Russell,Defensive End,76.0,269,197.0,17.0,48.0
+532175.0,46994,2655,Tulane,American Athletic,7,Denver,2015,164,5,28,Lorenzo Doss,Cornerback,70.0,182,185.0,23.0,49.0
+534595.0,47149,228,Clemson,ACC,25,San Francisco,2015,165,5,29,Bradley Pinion,Punter,77.0,229,340.0,4.0,31.0
+-1022877.0,47150,2426,Navy,FBS Independents,17,New England,2015,166,5,30,Joe Cardona,Long Snapper,74.0,242,,1.0,30.0
+512186.0,47112,61,Georgia,SEC,18,New Orleans,2015,167,5,31,Damian Swann,Cornerback,72.0,189,303.0,33.0,34.0
+503831.0,47125,164,Rutgers,Big Ten,8,Detroit,2015,168,5,32,Michael Burton,Fullback,71.0,242,316.0,2.0,32.0
+532253.0,47214,326,Texas State,Sun Belt,29,Carolina,2015,169,5,33,David Mayo,Inside Linebacker,73.0,235,,21.0,30.0
+2588098.0,46981,119,Towson,CAA,26,Seattle,2015,170,5,34,Tye Smith,Cornerback,72.0,195,172.0,20.0,51.0
+2574591.0,46992,48,Delaware,CAA,33,Baltimore,2015,171,5,35,Nick Boyle,Tight End,77.0,268,183.0,11.0,49.0
+541635.0,47760,204,Oregon State,Pac-12,12,Kansas City,2015,172,5,36,D.J. Alexander,Outside Linebacker,,233,,,
+2508079.0,47081,2287,Illinois State,MVFC,12,Kansas City,2015,173,5,37,James O'Shaughnessy,Tight End,76.0,248,272.0,17.0,37.0
+546383.0,46983,2,Auburn,SEC,29,Carolina,2015,174,5,38,Cameron Artis-Payne,Running Back,70.0,212,174.0,15.0,50.0
+503206.0,47438,127,Michigan State,Big Ten,34,Houston,2015,175,5,39,Keith Mumphery,Wide Receiver,72.0,215,,51.0,30.0
+2521895.0,46998,2634,Tennessee State,OVC,33,Baltimore,2015,176,5,40,Robert Myers,Offensive Guard,77.0,326,189.0,12.0,49.0
+-1018094.0,47273,97,Louisville,ACC,10,Tennessee,2015,177,6,1,Deiontrez Mount,Outside Linebacker,77.0,249,,30.0,30.0
+2516295.0,47489,344,Mississippi State,SEC,17,New England,2015,178,6,2,Matt Wells,Outside Linebacker,74.0,222,,60.0,30.0
+548067.0,47134,258,Virginia,ACC,13,Las Vegas,2015,179,6,3,Max Valles,Inside Linebacker,77.0,251,325.0,13.0,32.0
+-1027127.0,46865,194,Ohio State,Big Ten,30,Jacksonville,2015,180,6,4,Michael Bennett,Defensive Tackle,74.0,293,56.0,6.0,82.0
+515564.0,47116,259,Virginia Tech,ACC,28,Washington,2015,181,6,5,Kyshoen Jarrett,Safety,70.0,200,307.0,22.0,33.0
+515934.0,47769,8,Arkansas,SEC,28,Washington,2015,182,6,6,Tevin Mitchel,Outside Linebacker,72.0,184,,67.0,20.0
+-1033606.0,47130,2628,TCU,Big 12,3,Chicago,2015,183,6,7,Tayo Fabuluje,Offensive Tackle,78.0,353,321.0,29.0,32.0
+504726.0,47128,254,Utah,Pac-12,27,Tampa Bay,2015,184,6,8,Kaelin Clay,Wide Receiver,70.0,195,319.0,45.0,32.0
+-1027515.0,46927,201,Oklahoma,Big 12,16,Minnesota,2015,185,6,9,Tyrus Thompson,Offensive Tackle,77.0,324,118.0,14.0,66.0
+502295.0,47009,41,UConn,American Athletic,19,New York,2015,186,6,10,Geremy Davis,Wide Receiver,74.0,216,200.0,31.0,47.0
+514182.0,47424,194,Ohio State,Big Ten,28,Washington,2015,187,6,11,Evan Spencer,Wide Receiver,73.0,208,,49.0,30.0
+-1007386.0,47120,228,Clemson,ACC,2,Buffalo,2015,188,6,12,Tony Steward,Outside Linebacker,73.0,241,311.0,26.0,33.0
+511613.0,46903,97,Louisville,ACC,5,Cleveland,2015,189,6,13,Charles Gaines,Cornerback,70.0,180,94.0,13.0,70.0
+-1005344.0,47330,103,Boston College,ACC,25,San Francisco,2015,190,6,14,Ian Silberman,Offensive Guard,77.0,306,,37.0,30.0
+513323.0,46939,2305,Kansas,Big 12,21,Philadelphia,2015,191,6,15,JaCorey Shepherd,Cornerback,71.0,199,130.0,17.0,61.0
+-1002290.0,46954,8,Arkansas,SEC,24,Los Angeles,2015,192,6,16,Darius Philon,Defensive Tackle,73.0,298,145.0,11.0,58.0
+-1018087.0,46976,97,Louisville,ACC,16,Minnesota,2015,193,6,17,B.J. Dubose,Defensive End,76.0,284,167.0,15.0,51.0
+517377.0,46952,52,Florida State,ACC,2,Buffalo,2015,194,6,18,Nick O'Leary,Tight End,75.0,252,143.0,6.0,59.0
+504267.0,47674,344,Mississippi State,SEC,5,Cleveland,2015,195,6,19,Malcolm Johnson,Tight End,73.0,231,,57.0,20.0
+501272.0,47361,2306,Kansas State,Big 12,21,Philadelphia,2015,196,6,20,Randall Evans,Cornerback,72.0,195,,40.0,30.0
+504941.0,46920,278,Fresno State,Mountain West,4,Cincinnati,2015,197,6,21,Derron Smith,Safety,70.0,200,111.0,6.0,68.0
+500253.0,47041,30,USC,Pac-12,5,Cleveland,2015,198,6,22,Randall Telfer,Tight End,76.0,250,232.0,13.0,42.0
+2516417.0,46982,2117,Central Michigan,Mid-American,23,Pittsburgh,2015,199,6,23,L.T. Walton,Defensive Tackle,,319,,,
+511265.0,46963,251,Texas,Big 12,8,Detroit,2015,200,6,24,Quandre Diggs,Cornerback,69.0,196,154.0,19.0,53.0
+501832.0,47119,142,Missouri,SEC,14,Los Angeles,2015,201,6,25,Bud Sasser,Wide Receiver,75.0,219,310.0,44.0,33.0
+-1002280.0,47072,8,Arkansas,SEC,17,New England,2015,202,6,26,AJ Derby,Tight End,,255,,,
+-1018785.0,47272,120,Maryland,Big Ten,7,Denver,2015,203,6,27,Darius Kilgo,Defensive Tackle,75.0,313,,30.0,30.0
+513727.0,46965,59,Georgia Tech,ACC,33,Baltimore,2015,204,6,28,Darren Waller,Wide Receiver,78.0,238,156.0,24.0,53.0
+512032.0,47049,344,Mississippi State,SEC,11,Indianapolis,2015,205,6,29,Josh Robinson,Running Back,68.0,217,240.0,21.0,41.0
+514732.0,47157,201,Oklahoma,Big 12,9,Green Bay,2015,206,6,30,Aaron Ripkowski,Fullback,73.0,238,,5.0,30.0
+512167.0,47055,61,Georgia,SEC,11,Indianapolis,2015,207,6,31,Amarlo Herrera,Inside Linebacker,73.0,244,246.0,10.0,40.0
+-1005333.0,47054,103,Boston College,ACC,10,Tennessee,2015,208,6,32,Andy Gallik,Center,74.0,306,245.0,7.0,40.0
+482536.0,47091,204,Oregon State,Pac-12,26,Seattle,2015,209,6,33,Obum Gwacham,Defensive End,77.0,246,282.0,26.0,36.0
+-1017424.0,47539,309,Louisiana,Sun Belt,9,Green Bay,2015,210,6,34,Christian Ringo,Defensive End,,293,,,
+-1032381.0,47258,58,South Florida,American Athletic,34,Houston,2015,211,6,35,Reshard Cliett,Outside Linebacker,74.0,222,,29.0,30.0
+-1019736.0,46919,2390,Miami,ACC,23,Pittsburgh,2015,212,6,36,Anthony Chickillo,Defensive End,75.0,267,110.0,12.0,68.0
+518235.0,47331,5,UAB,Conference USA,9,Green Bay,2015,213,6,37,Kennard Backman,Tight End,75.0,243,,37.0,30.0
+-1005952.0,47297,2084,Buffalo,Mid-American,26,Seattle,2015,214,6,38,Kristjan Sokoli,Defensive End,77.0,290,,33.0,30.0
+-1011349.0,47300,278,Fresno State,Mountain West,14,Los Angeles,2015,215,6,39,Cody Wichmann,Offensive Guard,77.0,319,,34.0,30.0
+-1030065.0,46957,242,Rice,Conference USA,34,Houston,2015,216,6,40,Christian Covington,Defensive Tackle,74.0,289,148.0,12.0,55.0
+-1032718.0,46989,2572,Southern Miss,Conference USA,12,Kansas City,2015,217,6,41,Rakeem Nunez-Roches,Defensive Tackle,74.0,307,180.0,15.0,50.0
+2567611.0,48176,2634,Tennessee State,OVC,13,Las Vegas,2015,218,7,1,Anthony Morris,Offensive Tackle,79.0,303,,111.0,20.0
+-1038961.0,46945,30,USC,Pac-12,5,Cleveland,2015,219,7,2,Hayes Pullard,Inside Linebacker,73.0,240,136.0,5.0,60.0
+2513770.0,47510,2405,Monmouth,Big South,30,Jacksonville,2015,220,7,3,Neal Sterling,Wide Receiver,75.0,238,,72.0,30.0
+480211.0,47531,57,Florida,SEC,13,Las Vegas,2015,221,7,4,Andre Debose,Wide Receiver,72.0,190,,93.0,30.0
+-1032399.0,47582,58,South Florida,American Athletic,28,Washington,2015,222,7,5,Austin Reiter,Center,75.0,301,,39.0,20.0
+2568060.0,47076,2466,Northwestern State,Southland,20,New York,2015,223,7,6,Deon Simon,Defensive Tackle,76.0,321,267.0,24.0,38.0
+502264.0,47028,239,Baylor,Big 12,14,Los Angeles,2015,224,7,7,Bryce Hager,Inside Linebacker,73.0,234,219.0,9.0,44.0
+2517074.0,47299,331,Eastern Washington,Big Sky,1,Atlanta,2015,225,7,8,Jake Rodgers,Offensive Tackle,78.0,315,,33.0,30.0
+-1010968.0,47075,52,Florida State,ACC,19,New York,2015,226,7,9,Bobby Hart,Offensive Tackle,77.0,329,266.0,23.0,38.0
+-1019372.0,47056,235,Memphis,American Athletic,14,Los Angeles,2015,227,7,10,Martin Ifedi,Defensive End,75.0,275,247.0,21.0,40.0
+-1000920.0,47025,333,Alabama,SEC,16,Minnesota,2015,228,7,11,Austin Shepherd,Offensive Tackle,76.0,315,216.0,19.0,45.0
+517617.0,46987,87,Notre Dame,FBS Independents,30,Jacksonville,2015,229,7,12,Ben Koyack,Tight End,77.0,255,178.0,10.0,50.0
+501826.0,47059,142,Missouri,SEC,18,New Orleans,2015,230,7,13,Marcus Murphy,Running Back,68.0,193,250.0,23.0,40.0
+504955.0,47143,62,Hawai'i,Mountain West,27,Tampa Bay,2015,231,7,14,Joey Iosefa,Running Back,,247,,,
+,47060,2444,Newberry,South Atlantic,16,Minnesota,2015,232,7,15,Edmond Robinson,Outside Linebacker,75.0,245,251.0,21.0,40.0
+502538.0,47037,2459,Northern Illinois,Mid-American,12,Kansas City,2015,233,7,16,Da'Ron Brown,Wide Receiver,72.0,205,228.0,35.0,42.0
+2567965.0,46956,2110,Central Arkansas,Southland,2,Buffalo,2015,234,7,17,Dez Lewis,Wide Receiver,76.0,214,147.0,22.0,56.0
+517214.0,47142,99,LSU,SEC,34,Houston,2015,235,7,18,Kenny Hilliard,Running Back,72.0,226,333.0,32.0,31.0
+516312.0,47148,2751,Wyoming,Mountain West,6,Dallas,2015,236,7,19,Mark Nzeocha,Outside Linebacker,74.0,232,339.0,27.0,31.0
+-1005340.0,47357,103,Boston College,ACC,21,Philadelphia,2015,237,7,20,Brian Mihalik,Defensive End,81.0,302,,40.0,30.0
+550507.0,47015,277,West Virginia,Big 12,4,Cincinnati,2015,238,7,21,Mario Alford,Wide Receiver,69.0,180,206.0,32.0,46.0
+530356.0,46943,97,Louisville,ACC,23,Pittsburgh,2015,239,7,22,Gerod Holliman,Safety,72.0,218,134.0,12.0,60.0
+-1032068.0,46921,2579,South Carolina,SEC,8,Detroit,2015,240,7,23,Corey Robinson,Offensive Tackle,79.0,324,112.0,13.0,68.0
+511448.0,46912,2483,Oregon,Pac-12,5,Cleveland,2015,241,7,24,Ifo Ekpre-Olomu,Cornerback,69.0,192,103.0,15.0,69.0
+502752.0,47327,2305,Kansas,Big 12,13,Las Vegas,2015,242,7,25,Dexter McDonald,Cornerback,73.0,203,,37.0,30.0
+-1041397.0,47040,259,Virginia Tech,ACC,6,Dallas,2015,243,7,26,Laurence Gibson,Offensive Tackle,78.0,305,231.0,21.0,42.0
+3043109.0,47016,57,Florida,SEC,25,San Francisco,2015,244,7,27,Trent Brown,Offensive Guard,81.0,355,207.0,14.0,46.0
+2566041.0,46922,2729,William & Mary,CAA,10,Tennessee,2015,245,7,28,Tre McBride,Wide Receiver,72.0,210,113.0,18.0,67.0
+547337.0,47286,251,Texas,Big 12,6,Dallas,2015,246,7,29,Geoff Swaim,Tight End,76.0,252,,32.0,30.0
+503276.0,47035,276,Marshall,Conference USA,17,New England,2015,247,7,30,Darryl Roberts,Cornerback,71.0,187,226.0,29.0,43.0
+,47317,204,Oregon State,Pac-12,26,Seattle,2015,248,7,31,Ryan Smith-Murphy,Safety,73.0,214,,35.0,30.0
+-1031420.0,47481,23,San José State,Mountain West,1,Atlanta,2015,249,7,32,Akeem King,Safety,74.0,215,,58.0,30.0
+500419.0,47228,77,Northwestern,Big Ten,7,Denver,2015,250,7,33,Trevor Siemian,Quarterback,75.0,220,,24.0,30.0
+503373.0,47479,2655,Tulane,American Athletic,7,Denver,2015,251,7,34,Taurean Nixon,Cornerback,71.0,187,,58.0,30.0
+503886.0,47354,197,Oklahoma State,Big 12,7,Denver,2015,252,7,35,Josh Furman,Linebacker,,210,,,
+513127.0,46993,333,Alabama,SEC,17,New England,2015,253,7,36,Xzavier Dickson,Defensive End,76.0,260,184.0,16.0,49.0
+515812.0,47086,2579,South Carolina,SEC,25,San Francisco,2015,254,7,37,Rory Anderson,Tight End,,244,,,
+,48586,2369,Mars Hill,South Atlantic,11,Indianapolis,2015,255,7,38,Denzell Goode,Offensive Guard,,320,,,
+501524.0,47062,97,Louisville,ACC,22,Arizona,2015,256,7,39,Gerald Christian,Tight End,75.0,244,253.0,15.0,39.0
