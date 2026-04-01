@@ -1,0 +1,61 @@
+name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,draft_year
+Taylor Moton,Offensive Tackle,Western Michigan,Mid-American,77.0,319.0,5.18,23.0,30.5,109.0,7.73,4.58,23.0,0,0,0,0,0,0,0,2017
+Antonio Garcia,Offensive Tackle,Troy,Sun Belt,78.0,302.0,5.15,24.0,31.0,108.0,7.98,4.94,23.0,0,0,0,0,0,0,0,2017
+Zach Banner,Offensive Tackle,USC,Pac-12,80.0,353.0,5.58,22.0,23.5,92.0,8.31,5.21,23.0,0,0,0,0,0,0,0,2017
+Mike McGlinchey,Offensive Tackle,Notre Dame,FBS Independents,80.0,309.0,,24.0,28.5,105.0,,,24.0,0,0,0,0,0,0,0,2018
+Kolton Miller,Offensive Tackle,UCLA,Pac-12,81.0,309.0,4.95,24.0,31.5,121.0,7.34,4.49,23.0,0,0,0,0,0,0,0,2018
+Brian O'Neill,Offensive Tackle,Pittsburgh,ACC,79.0,297.0,,,,,,,22.0,0,0,0,0,0,0,0,2018
+Geron Christian,Offensive Tackle,Louisville,ACC,77.0,298.0,5.33,19.0,,,,,21.0,0,0,0,0,0,0,0,2018
+Rick Leonard,Offensive Tackle,Florida State,ACC,79.0,311.0,,19.0,,,,,21.0,0,0,0,0,0,0,0,2018
+Will Richardson,Offensive Tackle,NC State,ACC,78.0,306.0,5.26,,31.5,108.0,7.8,4.83,22.0,0,0,0,0,0,0,0,2018
+Cole Madison,Offensive Tackle,Washington State,Pac-12,77.0,313.0,5.33,26.0,28.5,97.0,7.86,4.88,23.0,0,0,0,0,0,0,0,2018
+Jamarco Jones,Offensive Tackle,Ohio State,Big Ten,76.0,299.0,5.5,,24.0,102.0,8.32,4.99,22.0,0,0,0,0,0,0,0,2018
+Matt Pryor,Offensive Tackle,TCU,Big 12,79.0,358.0,,,,,,,23.0,0,0,0,0,0,0,0,2018
+Andre Dillard,Offensive Tackle,Washington State,Pac-12,77.0,315.0,4.96,24.0,29.0,118.0,7.44,4.4,23.0,0,0,0,0,0,0,0,2019
+Kaleb McGary,Offensive Tackle,Washington,Pac-12,79.0,317.0,5.05,23.0,33.5,111.0,7.66,4.58,24.0,0,0,0,0,0,0,0,2019
+Jawaan Taylor,Offensive Tackle,Florida,SEC,77.0,312.0,,24.0,,,,,21.0,0,0,0,0,0,0,0,2019
+Dalton Risner,Offensive Tackle,Kansas State,Big 12,77.0,312.0,5.3,23.0,28.5,110.0,7.69,4.52,24.0,0,0,0,0,0,0,0,2019
+Max Scharping,Offensive Tackle,Northern Illinois,Mid-American,78.0,327.0,,27.0,28.0,108.0,7.77,4.69,23.0,0,0,0,0,0,0,0,2019
+Bobby Evans,Offensive Tackle,Oklahoma,Big 12,76.0,312.0,5.2,22.0,,,,,22.0,0,0,0,0,0,0,0,2019
+Yodny Cajuste,Offensive Tackle,West Virginia,Big 12,77.0,312.0,,32.0,,,,,23.0,0,0,0,0,0,0,0,2019
+David Edwards,Offensive Tackle,Wisconsin,Big Ten,78.0,308.0,5.28,,25.5,99.0,7.69,4.77,22.0,0,0,0,0,0,0,0,2019
+Isaiah Prince,Offensive Tackle,Ohio State,Big Ten,79.0,305.0,5.09,23.0,27.0,115.0,7.9,5.02,22.0,0,0,0,0,0,0,0,2019
+Jackson Barton,Offensive Tackle,Utah,Pac-12,79.0,310.0,5.18,25.0,27.0,109.0,7.85,4.66,24.0,0,0,0,0,0,0,0,2019
+Mekhi Becton,Offensive Tackle,Louisville,ACC,79.0,364.0,5.1,23.0,,,,,21.0,0,0,0,0,0,0,0,2020
+Tristan Wirfs,Offensive Tackle,Iowa,Big Ten,77.0,320.0,4.85,24.0,36.5,121.0,7.65,4.68,21.0,0,0,0,0,0,0,0,2020
+Austin Jackson,Offensive Tackle,USC,Pac-12,77.0,322.0,5.07,27.0,31.0,115.0,7.95,,21.0,0,0,0,0,0,0,0,2020
+Ezra Cleveland,Offensive Tackle,Boise State,Mountain West,78.0,311.0,4.93,30.0,30.0,111.0,7.26,4.46,22.0,0,0,0,0,0,0,0,2020
+Lucas Niang,Offensive Tackle,TCU,Big 12,78.0,315.0,,,,,,,22.0,0,0,0,0,0,0,0,2020
+Matt Peart,Offensive Tackle,UConn,American Athletic,79.0,318.0,5.06,26.0,30.0,113.0,8.01,4.92,23.0,0,0,0,0,0,0,0,2020
+Cameron Clark,Offensive Tackle,Charlotte,Conference USA,77.0,308.0,5.29,26.0,25.0,101.0,,,22.0,0,0,0,0,0,0,0,2020
+Colton McKivitz,Offensive Tackle,West Virginia,Big 12,78.0,306.0,5.35,20.0,26.0,106.0,7.87,5.0,24.0,0,0,0,0,0,0,0,2020
+Blake Brandel,Offensive Tackle,Oregon State,Pac-12,79.0,303.0,,,,,,,23.0,0,0,0,0,0,0,0,2020
+Simon Stepaniak,Offensive Tackle,Indiana,Big Ten,76.0,313.0,,37.0,,,,,23.0,0,0,0,0,0,0,0,2020
+Prince Tega Wanogho,Offensive Tackle,Auburn,SEC,77.0,308.0,,,,,,,22.0,0,0,0,0,0,0,0,2020
+Penei Sewell,Offensive Tackle,Oregon,Pac-12,77.0,331.0,5.13,30.0,28.0,109.0,7.76,4.68,20.0,0,0,0,0,0,0,0,2021
+Rashawn Slater,Offensive Tackle,Northwestern,Big Ten,76.0,304.0,4.91,33.0,33.0,112.0,7.48,4.45,22.0,0,0,0,0,0,0,0,2021
+Teven Jenkins,Offensive Tackle,Oklahoma State,Big 12,78.0,317.0,5.01,36.0,32.5,106.0,7.72,4.66,23.0,0,0,0,0,0,0,0,2021
+Jackson Carman,Offensive Tackle,Clemson,ACC,77.0,317.0,,,,,,,21.0,0,0,0,0,0,0,0,2021
+Samuel Cosmi,Offensive Tackle,Texas,Big 12,78.0,314.0,4.87,36.0,30.0,117.0,7.35,4.39,22.0,3,0,1,1,1,0,0,2021
+Jalen Mayfield,Offensive Tackle,Michigan,Big Ten,77.0,326.0,,,,,,,21.0,0,0,0,0,0,0,0,2021
+Brady Christensen,Offensive Tackle,BYU,FBS Independents,77.0,302.0,,30.0,34.0,124.0,,,24.0,0,0,0,0,0,0,0,2021
+Robert Hainsey,Offensive Tackle,Notre Dame,FBS Independents,77.0,306.0,5.2,32.0,27.5,104.0,7.58,4.63,23.0,0,0,0,0,0,0,0,2021
+D'Ante Smith,Offensive Tackle,East Carolina,American Athletic,77.0,305.0,5.29,24.0,29.0,113.0,7.96,4.81,23.0,0,0,0,0,0,0,0,2021
+Tommy Doyle,Offensive Tackle,Miami (OH),Mid-American,80.0,320.0,,,,,,,23.0,0,0,0,0,0,0,0,2021
+William Sherman,Offensive Tackle,Colorado,Pac-12,75.0,304.0,5.19,23.0,26.0,108.0,7.71,4.82,22.0,0,0,0,0,0,0,0,2021
+Stone Forsythe,Offensive Tackle,Florida,SEC,80.0,307.0,5.14,25.0,27.5,103.0,7.47,4.65,23.0,0,0,0,0,0,0,0,2021
+Cole Van Lanen,Offensive Tackle,Wisconsin,Big Ten,76.0,305.0,5.11,22.0,30.0,107.0,7.34,4.64,23.0,3,0,0,1,1,1,0,2021
+Larnel Coleman,Offensive Tackle,Massachusetts,FBS Independents,78.0,315.0,,,,,,,23.0,0,0,0,0,0,0,0,2021
+Will Fries,Offensive Tackle,Penn State,Big Ten,78.0,309.0,5.37,24.0,31.0,115.0,7.77,4.53,23.0,0,0,0,0,0,0,0,2021
+Ikem Ekwonu,Offensive Tackle,NC State,ACC,76.0,310.0,4.93,,29.0,108.0,7.82,4.73,21.0,0,0,0,0,0,0,0,2022
+Charles Cross,Offensive Tackle,Mississippi State,SEC,77.0,307.0,4.95,,26.0,112.0,7.88,4.61,21.0,0,0,0,0,0,0,0,2022
+Tyler Smith,Offensive Tackle,Tulsa,American Athletic,77.0,324.0,5.02,,27.5,105.0,7.78,4.65,21.0,0,0,0,0,0,0,0,2022
+Luke Goedeke,Offensive Tackle,Central Michigan,Mid-American,77.0,312.0,,26.0,,,,,23.0,0,0,0,0,0,0,0,2022
+Abraham Lucas,Offensive Tackle,Washington State,Pac-12,78.0,315.0,4.92,24.0,27.0,107.0,7.25,4.4,23.0,0,0,0,0,0,0,0,2022
+Bernhard Raimann,Offensive Tackle,Central Michigan,Mid-American,78.0,303.0,5.05,30.0,30.5,117.0,7.46,4.49,24.0,0,0,0,0,0,0,0,2022
+Daniel Faalele,Offensive Tackle,Minnesota,Big Ten,80.0,384.0,,24.0,,,,,22.0,0,0,0,0,0,0,0,2022
+Austin Deculus,Offensive Tackle,LSU,SEC,77.0,321.0,5.08,,28.5,109.0,,4.99,23.0,0,0,0,0,0,0,0,2022
+Luke Tenuta,Offensive Tackle,Virginia Tech,ACC,80.0,319.0,5.41,,26.0,104.0,,4.77,23.0,0,0,0,0,0,0,0,2022
+Thayer Munford,Offensive Tackle,Ohio State,Big Ten,78.0,328.0,5.39,,22.0,104.0,,,22.0,2,0,0,1,1,0,0,2022
+Rasheed Walker,Offensive Tackle,Penn State,Big Ten,78.0,313.0,,,,,,,22.0,0,0,0,0,0,0,0,2022
+AJ Arcuri,Offensive Tackle,Michigan State,Big Ten,79.0,320.0,,,,,,,25.0,0,0,0,0,0,0,0,2022

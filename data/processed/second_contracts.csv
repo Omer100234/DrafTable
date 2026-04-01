@@ -1,0 +1,1920 @@
+player,position,team,year_signed,years,value,apy,pos_top_apy,pct_of_top,market_reset,draft_year,draft_round,draft_overall,draft_team,college
+Tyler Linderbaum,C,Raiders,2026,3.0,81.0,27.0,18.0,1.5,True,2022.0,1.0,25.0,Ravens,Iowa
+George Kittle,TE,49ers,2020,5.0,75.0,15.0,10.0,1.5,True,2017.0,5.0,146.0,49ers,Iowa
+Trent Brown,RT,NE/LV,2019,4.0,66.0,16.5,11.25,1.4667,True,2015.0,7.0,244.0,49ers,Florida
+Tristan Wirfs,RT,Buccaneers,2024,5.0,140.625,28.125,20.0,1.4062,True,2020.0,1.0,13.0,Buccaneers,Iowa
+Penei Sewell,RT,Lions,2024,4.0,112.0,28.0,20.0,1.4,True,2021.0,1.0,7.0,Lions,Oregon
+Laremy Tunsil,LT,Texans,2020,3.0,66.0,22.0,16.0,1.375,True,2016.0,1.0,13.0,Dolphins,Mississippi
+Micah Parsons,ED,Packers,2025,4.0,186.0,46.5,34.0,1.3676,True,2021.0,1.0,12.0,Cowboys,Penn State
+Aidan Hutchinson,ED,Lions,2025,4.0,180.0,45.0,34.0,1.3235,True,2022.0,1.0,2.0,Lions,Michigan
+Patrick Mahomes,QB,Chiefs,2020,10.0,450.0,45.0,35.0,1.2857,True,2017.0,1.0,10.0,Chiefs,Texas Tech
+Creed Humphrey,C,Chiefs,2024,4.0,72.0,18.0,14.25,1.2632,True,2021.0,2.0,63.0,Chiefs,Oklahoma
+Quenton Nelson,LG,Colts,2022,4.0,80.0,20.0,16.0,1.25,True,2018.0,1.0,6.0,Colts,Notre Dame
+Ahmad Gardner,CB,IND/NYJ,2025,4.0,120.4,30.1,24.1,1.249,True,2022.0,1.0,4.0,Jets,Cincinnati
+Derek Stingley Jr.,CB,Texans,2025,3.0,90.0,30.0,24.1,1.2448,True,2022.0,1.0,3.0,Texans,LSU
+Ronnie Stanley,LT,Ravens,2020,5.0,98.75,19.75,16.0,1.2344,True,2016.0,1.0,6.0,Ravens,Notre Dame
+Nick Bosa,ED,49ers,2023,5.0,170.0,34.0,28.00275,1.2142,True,2019.0,1.0,2.0,49ers,Ohio State
+Jalen Ramsey,CB,MIA/LAR,2020,5.0,100.0,20.0,16.7424,1.1946,True,2016.0,1.0,5.0,Jaguars,Florida State
+Kyle Hamilton,S,Ravens,2025,4.0,100.4,25.1,21.025,1.1938,True,2022.0,1.0,14.0,Ravens,Notre Dame
+Jamal Adams,S,Seahawks,2021,4.0,70.0,17.5,14.75,1.1864,True,2017.0,1.0,6.0,Jets,LSU
+Justin Jefferson,WR,Vikings,2024,4.0,140.0,35.0,30.0,1.1667,True,2020.0,1.0,22.0,Vikings,LSU
+Marlon Humphrey,CB,Ravens,2020,5.0,97.5,19.5,16.7424,1.1647,True,2017.0,1.0,16.0,Ravens,Alabama
+Ja'Marr Chase,WR,Bengals,2025,4.0,161.0,40.25,35.0,1.15,True,2021.0,1.0,5.0,Bengals,LSU
+Joey Bosa,ED,Chargers,2020,5.0,135.0,27.0,23.5,1.1489,True,2016.0,1.0,3.0,Chargers,Ohio State
+Trey Smith,RG,Chiefs,2025,4.0,94.0,23.5,20.5,1.1463,True,2021.0,6.0,226.0,Chiefs,Tennessee
+Tyler Smith,LG,Cowboys,2025,4.0,96.0,24.0,21.0,1.1429,True,2022.0,1.0,24.0,Cowboys,Tulsa
+Patrick Surtain II,CB,Broncos,2024,4.0,96.0,24.0,21.0,1.1429,True,2021.0,1.0,9.0,Broncos,Alabama
+Myles Jack,LB,Jaguars,2019,4.0,57.0,14.25,12.5,1.14,True,2016.0,2.0,36.0,Jaguars,UCLA
+Deion Jones,LB,Falcons,2019,4.0,57.0,14.25,12.5,1.14,True,2016.0,2.0,52.0,Falcons,LSU
+Chris Lindstrom,RG,Falcons,2023,5.0,102.5,20.5,18.036,1.1366,True,2019.0,1.0,14.0,Falcons,Boston College
+CeeDee Lamb,WR,Cowboys,2024,4.0,136.0,34.0,30.0,1.1333,True,2020.0,1.0,17.0,Cowboys,Oklahoma
+Deshaun Watson,QB,Texans,2020,4.0,156.0,39.0,35.0,1.1143,True,2017.0,1.0,12.0,Texans,Clemson
+Joe Thuney,LG,Patriots,2020,1.0,14.781,14.781,13.3,1.1114,True,2016.0,3.0,78.0,Patriots,North Carolina State
+Trey McBride,TE,Cardinals,2025,4.0,76.0,19.0,17.125,1.1095,True,2022.0,2.0,55.0,Cardinals,Colorado State
+"Antoine Winfield, Jr.",S,Buccaneers,2024,4.0,84.1,21.025,19.0,1.1066,True,2020.0,2.0,45.0,Buccaneers,Minnesota
+Ryan Kelly,C,Colts,2020,4.0,49.65,12.4125,11.25,1.1033,True,2016.0,1.0,18.0,Colts,Alabama
+Shaquille Leonard,LB,Colts,2021,5.0,98.5,19.7,18.0,1.0944,True,2018.0,2.0,36.0,Colts,South Carolina State
+Joe Burrow,QB,Bengals,2023,5.0,275.0,55.0,50.271667,1.0941,True,2020.0,1.0,1.0,Bengals,LSU
+Frank Ragnow,C,Lions,2021,4.0,54.0,13.5,12.4125,1.0876,True,2018.0,1.0,20.0,Lions,Arkansas
+Derwin James,S,Chargers,2022,4.0,76.0,19.0,17.5,1.0857,True,2018.0,1.0,17.0,Chargers,Florida State
+Kevin Byard,S,Titans,2019,5.0,70.5,14.1,13.0,1.0846,True,2016.0,3.0,64.0,Titans,Middle Tennessee State
+Shaq Thompson,LB,Panthers,2019,4.0,54.16,13.54,12.5,1.0832,True,2015.0,1.0,25.0,Panthers,Washington
+Kwon Alexander,LB,NO/SF,2019,4.0,54.0,13.5,12.5,1.08,True,2015.0,4.0,124.0,Buccaneers,LSU
+Landon Collins,S,Commanders,2019,6.0,84.0,14.0,13.0,1.0769,True,2015.0,2.0,33.0,Giants,Alabama
+Luke Goedeke,LG,Buccaneers,2025,4.0,90.0,22.5,21.0,1.0714,True,2022.0,2.0,57.0,Buccaneers,Central Michigan
+Brandon Scherff,RG,Commanders,2020,1.0,15.03,15.03,14.05,1.0698,True,2015.0,1.0,5.0,Commanders,Iowa
+Michael Thomas,WR,Saints,2019,5.0,96.25,19.25,18.0,1.0694,True,2016.0,2.0,47.0,Saints,Ohio State
+Christian McCaffrey,RB,CAR/SF,2020,4.0,64.063412,16.015853,15.0,1.0677,True,2017.0,1.0,8.0,Panthers,Stanford
+Ryan Ramczyk,RT,Saints,2021,5.0,96.0,19.2,18.0,1.0667,True,2017.0,1.0,32.0,Saints,Wisconsin
+Myles Garrett,ED,Browns,2020,5.0,125.0,25.0,23.5,1.0638,True,2017.0,1.0,1.0,Browns,Texas A&M
+Elgton Jenkins,LG,Packers,2022,4.0,68.0,17.0,16.0,1.0625,True,2019.0,2.0,44.0,Packers,Mississippi State
+Garett Bolles,LT,Broncos,2020,4.0,68.0,17.0,16.0,1.0625,True,2017.0,1.0,20.0,Broncos,Utah
+Hunter Henry,TE,Chargers,2020,1.0,10.607,10.607,10.0,1.0607,True,2016.0,2.0,35.0,Chargers,Arkansas
+Mitch Morse,C,Bills,2019,4.0,44.45,11.1125,10.5,1.0583,True,2015.0,2.0,49.0,Chiefs,Missouri
+Fred Warner,LB,49ers,2021,5.0,95.225,19.045,18.0,1.0581,True,2018.0,3.0,70.0,49ers,BYU
+Landon Dickerson,LG,Eagles,2024,4.0,84.0,21.0,20.0,1.05,True,2021.0,2.0,37.0,Eagles,Alabama
+Jaire Alexander,CB,Packers,2022,4.0,84.0,21.0,20.0,1.05,True,2018.0,1.0,18.0,Packers,Louisville
+Austin Hooper,TE,Browns,2020,4.0,42.0,10.5,10.0,1.05,True,2016.0,3.0,81.0,Falcons,Stanford
+Nick Martin,C,Texans,2019,3.0,33.0,11.0,10.5,1.0476,True,2016.0,2.0,50.0,Texans,Notre Dame
+Budda Baker,S,Cardinals,2020,4.0,59.0,14.75,14.1,1.0461,True,2017.0,2.0,36.0,Cardinals,Washington
+Justin Herbert,QB,Chargers,2023,5.0,262.5,52.5,50.271667,1.0443,True,2020.0,1.0,6.0,Chargers,Oregon
+Minkah Fitzpatrick,S,PIT/MIA,2022,4.0,72.988,18.247,17.5,1.0427,True,2018.0,1.0,11.0,Dolphins,Alabama
+Jawaan Taylor,RT,Chiefs,2023,4.0,80.0,20.0,19.2,1.0417,True,2019.0,2.0,35.0,Jaguars,Florida
+Christian Darrisaw,LT,Vikings,2024,4.0,104.0,26.0,25.0,1.04,True,2021.0,1.0,23.0,Vikings,Virginia Tech
+Jaycee Horn,CB,Panthers,2025,4.0,100.0,25.0,24.1,1.0373,True,2021.0,1.0,8.0,Panthers,South Carolina
+T.J. Watt,ED,Steelers,2021,4.0,112.011,28.00275,27.0,1.0371,True,2017.0,1.0,30.0,Steelers,Wisconsin
+Eddie Jackson,S,Bears,2020,4.0,58.4,14.6,14.1,1.0355,True,2017.0,4.0,112.0,Bears,Alabama
+Rashawn Slater,LT,Chargers,2025,4.0,114.0,28.5,27.553333,1.0344,True,2021.0,1.0,13.0,Chargers,Northwestern
+Lamar Jackson,QB,Ravens,2023,5.0,260.0,52.0,50.271667,1.0344,True,2018.0,1.0,32.0,Ravens,Louisville
+Ezekiel Elliott,RB,Cowboys,2019,6.0,90.0,15.0,14.544,1.0314,True,2016.0,1.0,4.0,Cowboys,Ohio State
+Tre'Davious White,CB,Bills,2020,4.0,69.0,17.25,16.7424,1.0303,True,2017.0,1.0,27.0,Bills,LSU
+Trent McDuffie,CB,Rams,2026,4.0,124.0,31.0,30.1,1.0299,True,2022.0,1.0,21.0,Chiefs,Washington
+Brian O'Neill,RT,Vikings,2021,5.0,92.5,18.5,18.0,1.0278,True,2018.0,2.0,62.0,Vikings,Pittsburgh
+Kyler Murray,QB,Cardinals,2022,5.0,230.5,46.1,45.0,1.0244,True,2019.0,1.0,1.0,Cardinals,Oklahoma
+Andrew Thomas,LT,Giants,2023,5.0,117.5,23.5,23.01,1.0213,True,2020.0,1.0,4.0,Giants,Georgia
+Jaylon Smith,LB,Cowboys,2019,5.0,63.75,12.75,12.5,1.02,True,2016.0,2.0,34.0,Cowboys,Notre Dame
+Roquan Smith,LB,Ravens,2023,5.0,100.0,20.0,19.7,1.0152,True,2018.0,1.0,8.0,Bears,Georgia
+Jalen Hurts,QB,Eagles,2023,5.0,255.0,51.0,50.271667,1.0145,True,2020.0,2.0,53.0,Eagles,Oklahoma
+Jordan Stout,P,Giants,2026,3.0,12.3,4.1,4.05,1.0123,True,2022.0,4.0,130.0,Ravens,Penn State
+Todd Gurley,RB,Rams,2018,4.0,57.5,14.375,14.213333,1.0114,True,2015.0,1.0,10.0,Rams,Georgia
+Kerby Joseph,S,Lions,2025,4.0,85.0,21.25,21.025,1.0107,True,2022.0,3.0,97.0,Lions,Illinois
+Denzel Ward,CB,Browns,2022,5.0,100.5,20.1,20.0,1.005,True,2018.0,1.0,4.0,Browns,Ohio State
+Amon-Ra St. Brown,WR,Lions,2024,4.0,120.01,30.0025,30.0,1.0001,True,2021.0,4.0,112.0,Lions,USC
+Tyreek Hill,WR,Chiefs,2019,3.0,54.0,18.0,18.0,1.0,False,2016.0,5.0,165.0,Chiefs,West Alabama
+Trevor Lawrence,QB,Jaguars,2024,5.0,275.0,55.0,55.0,1.0,False,2021.0,1.0,1.0,Jaguars,Clemson
+Brandon Aiyuk,WR,49ers,2024,4.0,120.0,30.0,30.0,1.0,False,2020.0,1.0,25.0,49ers,Arizona State
+Alvin Kamara,RB,Saints,2020,5.0,75.0,15.0,15.0,1.0,False,2017.0,3.0,67.0,Saints,Tennessee
+Jared Goff,QB,LAR/DET,2019,4.0,134.0,33.5,33.5,1.0,False,2016.0,1.0,1.0,Rams,California
+Byron Jones,CB,Dolphins,2020,5.0,82.5,16.5,16.7424,0.9855,False,2015.0,1.0,27.0,Cowboys,Connecticut
+Robert Hunt,RG,Panthers,2024,5.0,100.0,20.0,20.5,0.9756,False,2020.0,2.0,39.0,Dolphins,Louisiana-Lafayette
+Braden Smith,RT,Colts,2021,4.0,70.0,17.5,18.0,0.9722,False,2018.0,2.0,37.0,Colts,Auburn
+Tytus Howard,RT,CLE/HOU,2023,3.0,56.0,18.666667,19.2,0.9722,False,2019.0,1.0,23.0,Texans,Alabama State
+T.J. Hockenson,TE,Vikings,2023,4.0,66.0,16.5,17.0,0.9706,False,2019.0,1.0,8.0,Lions,Iowa
+Marshon Lattimore,CB,NO/WAS,2021,5.0,97.0,19.4,20.0,0.97,False,2017.0,1.0,11.0,Saints,Ohio State
+Tua Tagovailoa,QB,Dolphins,2024,4.0,212.4,53.1,55.0,0.9655,False,2020.0,1.0,5.0,Dolphins,Alabama
+A.J. Terrell,CB,Falcons,2024,4.0,81.0,20.25,21.0,0.9643,False,2020.0,1.0,16.0,Falcons,Clemson
+Josh Allen,QB,Bills,2021,6.0,258.0,43.0,45.0,0.9556,False,2018.0,1.0,7.0,Bills,Wyoming
+Carson Wentz,QB,PHI/IND/WAS,2019,4.0,128.0,32.0,33.5,0.9552,False,2016.0,1.0,2.0,Eagles,North Dakota State
+Michael Onwenu,RT,Patriots,2024,3.0,57.0,19.0,20.0,0.95,False,2020.0,6.0,182.0,Patriots,Michigan
+Dallas Goedert,TE,Eagles,2021,4.0,57.0,14.25,15.0,0.95,False,2018.0,2.0,49.0,Eagles,South Dakota State
+Blake Ferguson,LS,Dolphins,2023,3.0,4.06,1.353333,1.428889,0.9471,False,2020.0,6.0,185.0,Dolphins,LSU
+Wyatt Teller,RG,Browns,2021,4.0,56.8,14.2,15.03,0.9448,False,2018.0,5.0,166.0,Bills,Virginia Tech
+Cam Jurgens,C,Eagles,2025,4.0,68.0,17.0,18.0,0.9444,False,2022.0,2.0,51.0,Eagles,Nebraska
+Taylor Moton,RT,Panthers,2021,5.0,85.0,17.0,18.0,0.9444,False,2017.0,2.0,64.0,Panthers,Western Michigan
+Jaylon Johnson,CB,Bears,2024,1.0,19.802,19.802,21.0,0.943,False,2020.0,2.0,50.0,Bears,Utah
+Harrison Butker,K,Chiefs,2019,5.0,20.275,4.055,4.3,0.943,False,2017.0,7.0,233.0,Panthers,Georgia Tech
+L'Jarius Sneed,CB,Chiefs,2024,1.0,19.802,19.802,21.0,0.943,False,2020.0,4.0,138.0,Chiefs,Louisiana Tech
+Jaylen Waddle,WR,DEN/MIA,2024,3.0,84.75,28.25,30.0,0.9417,False,2021.0,1.0,6.0,Dolphins,Alabama
+Jake Elliott,K,Eagles,2019,5.0,20.15,4.03,4.3,0.9372,False,2017.0,5.0,153.0,Bengals,Memphis
+DaRon Bland,CB,Cowboys,2025,4.0,90.0,22.5,24.1,0.9336,False,2022.0,5.0,167.0,Cowboys,Fresno State
+Mark Andrews,TE,Ravens,2021,4.0,56.0,14.0,15.0,0.9333,False,2018.0,3.0,86.0,Ravens,Oklahoma
+DeForest Buckner,IDL,Colts,2020,4.0,84.0,21.0,22.5,0.9333,False,2016.0,1.0,7.0,49ers,Oregon
+Taylor Decker,LT,Lions,2020,4.0,59.65,14.9125,16.0,0.932,False,2016.0,1.0,16.0,Lions,Ohio State
+Joe Cardona,LS,Patriots,2018,4.0,4.31,1.0775,1.1575,0.9309,False,2015.0,5.0,166.0,Patriots,Navy
+Garrett Wilson,WR,Jets,2025,4.0,130.0,32.5,35.0,0.9286,False,2022.0,1.0,10.0,Jets,Ohio State
+Ali Marpet,LG,Buccaneers,2018,5.0,54.125,10.825,11.7,0.9252,False,2015.0,2.0,61.0,Buccaneers,Hobart
+Trevon Diggs,CB,GB/DAL,2023,5.0,97.0,19.4,21.0,0.9238,False,2020.0,2.0,51.0,Cowboys,Alabama
+D.J. Humphries,LT,Cardinals,2020,3.0,44.25,14.75,16.0,0.9219,False,2015.0,1.0,24.0,Cardinals,Florida
+Michael Dickson,P,Seahawks,2021,4.0,14.699059,3.674765,4.0,0.9187,False,2018.0,5.0,149.0,Seahawks,Texas
+A.J. Brown,WR,Eagles,2022,4.0,100.0,25.0,27.25,0.9174,False,2019.0,2.0,51.0,Titans,Mississippi
+Evan McPherson,K,Bengals,2024,3.0,16.5,5.5,6.0,0.9167,False,2021.0,5.0,149.0,Bengals,Florida
+Aaron Banks,LG,Packers,2025,4.0,77.0,19.25,21.0,0.9167,False,2021.0,2.0,48.0,49ers,Notre Dame
+Charles Cross,LT,Seahawks,2026,4.0,104.4,26.1,28.5,0.9158,False,2022.0,1.0,9.0,Seahawks,Mississippi State
+David Johnson,RB,HOU/ARI,2018,3.0,39.0,13.0,14.213333,0.9146,False,2015.0,3.0,86.0,Cardinals,Northern Iowa
+Tremaine Edmunds,LB,Bears,2023,4.0,72.0,18.0,19.7,0.9137,False,2018.0,1.0,16.0,Bills,Virginia Tech
+David Njoku,TE,Browns,2022,4.0,54.75,13.6875,15.0,0.9125,False,2017.0,1.0,29.0,Browns,Miami
+Mike McGlinchey,RT,Broncos,2023,5.0,87.5,17.5,19.2,0.9115,False,2018.0,1.0,9.0,49ers,Notre Dame
+Dion Dawkins,LT,Bills,2020,4.0,58.3,14.575,16.0,0.9109,False,2017.0,2.0,63.0,Bills,Temple
+Tyson Campbell,CB,CLE/JAX,2024,4.0,76.5,19.125,21.0,0.9107,False,2021.0,2.0,33.0,Jaguars,Georgia
+Amari Cooper,WR,BUF/DAL/CLE,2020,5.0,100.0,20.0,22.0,0.9091,False,2015.0,1.0,4.0,Raiders,Alabama
+Bernhard Raimann,LT,Colts,2025,4.0,100.0,25.0,27.553333,0.9073,False,2022.0,3.0,77.0,Colts,Central Michigan
+Samuel Cosmi,RG,Commanders,2024,4.0,74.0,18.5,20.5,0.9024,False,2021.0,2.0,51.0,Commanders,Texas
+Spencer Brown,RT,Bills,2024,4.0,72.0,18.0,20.0,0.9,False,2021.0,3.0,93.0,Bills,Northern Iowa
+Chase Roullier,C,Commanders,2020,4.0,40.5,10.125,11.25,0.9,False,2017.0,6.0,199.0,Commanders,Wyoming
+Xavien Howard,CB,Dolphins,2019,5.0,75.25,15.05,16.7424,0.8989,False,2016.0,2.0,38.0,Dolphins,Baylor
+Dak Prescott,QB,Cowboys,2020,1.0,31.409,31.409,35.0,0.8974,False,2016.0,4.0,135.0,Cowboys,Mississippi State
+Erik McCoy,C,Saints,2022,5.0,60.0,12.0,13.5,0.8889,False,2019.0,2.0,48.0,Saints,Texas A&M
+Chris Jones,IDL,Chiefs,2020,4.0,80.0,20.0,22.5,0.8889,False,2016.0,2.0,37.0,Chiefs,Mississippi State
+Frank Clark,ED,Chiefs,2019,5.0,104.0,20.8,23.5,0.8851,False,2015.0,2.0,63.0,Seahawks,Michigan
+Brock Purdy,QB,49ers,2025,5.0,265.0,53.0,60.0,0.8833,False,2022.0,7.0,262.0,49ers,Iowa State
+Xavier McKinney,S,Packers,2024,4.0,67.0,16.75,19.0,0.8816,False,2020.0,2.0,36.0,Giants,Alabama
+D.K. Metcalf,WR,PIT/SEA,2022,3.0,72.0,24.0,27.25,0.8807,False,2019.0,2.0,64.0,Seahawks,Mississippi
+Jason Sanders,K,Dolphins,2021,5.0,22.0,4.4,5.0,0.88,False,2018.0,7.0,229.0,Dolphins,New Mexico
+Quinn Meinerz,RG,Broncos,2024,4.0,72.0,18.0,20.5,0.878,False,2021.0,3.0,98.0,Broncos,Wisconsin-Whitewater
+Lloyd Cushenberry,C,Titans,2024,4.0,50.0,12.5,14.25,0.8772,False,2020.0,3.0,83.0,Broncos,LSU
+Deebo Samuel,WR,WAS/SF,2022,3.0,71.55,23.85,27.25,0.8752,False,2019.0,2.0,36.0,49ers,South Carolina
+Montez Sweat,ED,Bears,2023,4.0,98.0,24.5,28.00275,0.8749,False,2019.0,1.0,26.0,Commanders,Mississippi State
+Jonathan Taylor,RB,Colts,2023,3.0,42.0,14.0,16.015853,0.8741,False,2020.0,2.0,41.0,Colts,Wisconsin
+Christian Wilkins,IDL,Raiders,2024,4.0,110.0,27.5,31.666667,0.8684,False,2019.0,1.0,13.0,Dolphins,Clemson
+Dawson Knox,TE,Bills,2022,4.0,52.0,13.0,15.0,0.8667,False,2019.0,3.0,96.0,Bills,Mississippi
+James Bradberry,CB,Giants,2020,3.0,43.5,14.5,16.7424,0.8661,False,2016.0,2.0,62.0,Panthers,Samford
+Andrus Peat,LG,Saints,2020,5.0,57.5,11.5,13.3,0.8647,False,2015.0,1.0,13.0,Saints,Stanford
+Donovan Smith,LT,Buccaneers,2019,3.0,41.25,13.75,16.0,0.8594,False,2015.0,2.0,34.0,Buccaneers,Penn State
+Rashan Gary,ED,GB/DAL,2023,4.0,96.0,24.0,28.00275,0.8571,False,2019.0,1.0,12.0,Packers,Michigan
+Will Fries,RG,Vikings,2025,5.0,87.72,17.544,20.5,0.8558,False,2021.0,7.0,248.0,Colts,Penn State
+Deommodore Lenoir,CB,49ers,2024,5.0,89.8,17.96,21.0,0.8552,False,2021.0,5.0,172.0,49ers,Oregon
+Terry McLaurin,WR,Commanders,2022,3.0,69.6,23.2,27.25,0.8514,False,2019.0,3.0,76.0,Commanders,Ohio State
+Tyler Bass,K,Bills,2023,4.0,20.4,5.1,6.0,0.85,False,2020.0,6.0,188.0,Bills,Georgia Southern
+Jonah Jackson,LG,Rams,2024,3.0,51.0,17.0,20.0,0.85,False,2020.0,3.0,75.0,Lions,Ohio State
+Stefon Diggs,WR,BUF/MIN,2018,5.0,72.0,14.4,17.0,0.8471,False,2015.0,5.0,146.0,Vikings,Maryland
+Dalvin Cook,RB,Vikings,2020,5.0,63.0,12.6,15.0,0.84,False,2017.0,2.0,41.0,Vikings,Florida State
+Maxx Crosby,ED,Raiders,2022,4.0,94.0,23.5,28.00275,0.8392,False,2019.0,4.0,106.0,Raiders,Eastern Michigan
+Trae Waynes,CB,Bengals,2020,3.0,42.0,14.0,16.7424,0.8362,False,2015.0,1.0,11.0,Vikings,Michigan State
+Marcus Peters,CB,Ravens,2019,3.0,42.0,14.0,16.7424,0.8362,False,2015.0,1.0,18.0,Chiefs,Washington
+Jacoby Brissett,QB,Colts,2019,1.0,27.975,27.975,33.5,0.8351,False,2016.0,3.0,91.0,Patriots,North Carolina State
+Jonnu Smith,TE,ATL/NE,2021,4.0,50.0,12.5,15.0,0.8333,False,2017.0,3.0,100.0,Titans,Florida International
+DeVonta Smith,WR,Eagles,2024,3.0,75.0,25.0,30.0,0.8333,False,2021.0,1.0,10.0,Eagles,Alabama
+Derrick Henry,RB,Titans,2020,4.0,50.0,12.5,15.0,0.8333,False,2016.0,2.0,45.0,Titans,Alabama
+Josh Hines-Allen,ED,Jaguars,2024,5.0,141.25,28.25,34.0,0.8309,False,2019.0,1.0,7.0,Jaguars,Kentucky
+Brian Burns,ED,Giants,2024,5.0,141.0,28.2,34.0,0.8294,False,2019.0,1.0,16.0,Panthers,Florida State
+Milton Williams,IDL,Patriots,2025,4.0,104.0,26.0,31.75,0.8189,False,2021.0,3.0,73.0,Eagles,Louisiana Tech
+Jordan Davis,IDL,Eagles,2026,3.0,78.0,26.0,31.75,0.8189,False,2022.0,1.0,13.0,Eagles,Georgia
+Justin Simmons,S,Broncos,2020,1.0,11.441,11.441,14.1,0.8114,False,2016.0,3.0,98.0,Broncos,Boston College
+Trevon Moehrig,S,Panthers,2025,3.0,51.0,17.0,21.025,0.8086,False,2021.0,2.0,43.0,Raiders,TCU
+Nico Collins,WR,Texans,2024,3.0,72.75,24.25,30.0,0.8083,False,2021.0,3.0,89.0,Texans,Michigan
+Zach Cunningham,LB,HOU/TEN,2020,4.0,58.0,14.5,18.0,0.8056,False,2017.0,2.0,57.0,Texans,Vanderbilt
+Eric Kendricks,LB,Vikings,2018,5.0,50.0,10.0,12.5,0.8,False,2015.0,2.0,45.0,Vikings,UCLA
+Jonathan Allen,IDL,Commanders,2021,4.0,72.0,18.0,22.5,0.8,False,2017.0,1.0,17.0,Commanders,Alabama
+Connor McGovern,C,Jets,2020,3.0,27.0,9.0,11.25,0.8,False,2016.0,5.0,144.0,Broncos,Missouri
+Benardrick McKinney,LB,Dolphins,2018,5.0,50.0,10.0,12.5,0.8,False,2015.0,2.0,43.0,Texans,Mississippi State
+Joe Mixon,RB,Bengals,2020,4.0,48.0,12.0,15.0,0.8,False,2017.0,2.0,48.0,Bengals,Oklahoma
+Daniel Jones,QB,Giants,2023,4.0,160.0,40.0,50.271667,0.7957,False,2019.0,1.0,6.0,Giants,Duke
+Vita Vea,IDL,Buccaneers,2021,4.0,71.0,17.75,22.5,0.7889,False,2018.0,1.0,12.0,Buccaneers,Washington
+Kyle Pitts,TE,Falcons,2026,1.0,15.045,15.045,19.1,0.7877,False,2021.0,1.0,4.0,Falcons,Florida
+Bradley Chubb,ED,Dolphins,2022,5.0,110.0,22.0,28.00275,0.7856,False,2018.0,1.0,5.0,Broncos,North Carolina State
+Graham Glasgow,RG,Broncos,2020,4.0,44.0,11.0,14.05,0.7829,False,2016.0,3.0,95.0,Lions,Michigan
+Kolton Miller,LT,Raiders,2021,3.0,54.015,18.005,23.0,0.7828,False,2018.0,1.0,15.0,Raiders,UCLA
+Zach Tom,RT,Packers,2025,4.0,88.0,22.0,28.125,0.7822,False,2022.0,4.0,140.0,Packers,Wake Forest
+Nik Bonitto,ED,Broncos,2025,4.0,106.0,26.5,34.0,0.7794,False,2022.0,2.0,64.0,Broncos,Oklahoma
+Drew Dalman,C,Bears,2025,3.0,42.0,14.0,18.0,0.7778,False,2021.0,4.0,114.0,Falcons,Stanford
+Jack Conklin,RT,Browns,2020,3.0,42.0,14.0,18.0,0.7778,False,2016.0,1.0,8.0,Titans,Michigan State
+"Michael Pittman, Jr.",WR,IND/PIT,2024,3.0,70.0,23.333333,30.0,0.7778,False,2020.0,2.0,34.0,Colts,USC
+Kenny Clark,IDL,Packers,2020,4.0,70.0,17.5,22.5,0.7778,False,2016.0,1.0,27.0,Packers,UCLA
+Nnamdi Madubuike,IDL,Ravens,2024,4.0,98.0,24.5,31.666667,0.7737,False,2020.0,3.0,71.0,Ravens,Texas A&M
+Cody Whitehair,LG,Bears,2019,5.0,51.25,10.25,13.3,0.7707,False,2016.0,2.0,56.0,Bears,Kansas State
+Calvin Ridley,WR,Titans,2024,4.0,92.0,23.0,30.0,0.7667,False,2018.0,1.0,26.0,Falcons,Alabama
+Trey Flowers,ED,Lions,2019,5.0,90.0,18.0,23.5,0.766,False,2015.0,4.0,101.0,Patriots,Arkansas
+Alim McNeill,IDL,Lions,2024,4.0,97.0,24.25,31.666667,0.7658,False,2021.0,3.0,72.0,Lions,North Carolina State
+Kyle Dugger,S,Patriots,2024,4.0,58.0,14.5,19.0,0.7632,False,2020.0,2.0,37.0,Patriots,Lenoir-Rhyne
+John Johnson,S,Browns,2021,3.0,33.75,11.25,14.75,0.7627,False,2017.0,3.0,91.0,Rams,Boston College
+Jameson Williams,WR,Lions,2025,3.0,80.0,26.666667,35.0,0.7619,False,2022.0,1.0,12.0,Lions,Alabama
+Nick Chubb,RB,Browns,2021,3.0,36.6,12.2,16.015853,0.7617,False,2018.0,2.0,35.0,Browns,Georgia
+Jake Bailey,P,Patriots,2022,3.0,9.139,3.046333,4.0,0.7616,False,2019.0,5.0,163.0,Patriots,Stanford
+Foyesade Oluokun,LB,Jaguars,2022,3.0,45.0,15.0,19.7,0.7614,False,2018.0,6.0,200.0,Falcons,Yale
+Quinnen Williams,IDL,NYJ/DAL,2023,4.0,96.0,24.0,31.666667,0.7579,False,2019.0,1.0,3.0,Jets,Alabama
+Derrick Brown,IDL,Panthers,2024,4.0,96.0,24.0,31.666667,0.7579,False,2020.0,1.0,7.0,Panthers,Auburn
+D.J. Moore,WR,CHI/CAR,2022,3.0,61.884,20.628,27.25,0.757,False,2018.0,1.0,24.0,Panthers,Maryland
+Yannick Ngakoue,ED,Jaguars,2020,1.0,17.788,17.788,23.5,0.7569,False,2016.0,3.0,69.0,Jaguars,Maryland
+Arik Armstead,IDL,49ers,2020,5.0,85.0,17.0,22.5,0.7556,False,2015.0,1.0,17.0,49ers,Oregon
+Grady Jarrett,IDL,Falcons,2019,4.0,68.0,17.0,22.5,0.7556,False,2015.0,5.0,137.0,Falcons,Clemson
+Danielle Hunter,ED,Vikings,2018,5.0,72.0,14.4,19.083333,0.7546,False,2015.0,3.0,88.0,Vikings,LSU
+Logan Cooke,P,Jaguars,2021,4.0,12.0,3.0,4.0,0.75,False,2018.0,7.0,247.0,Jaguars,Mississippi State
+Shaquille Mason,RG,NE/HOU/TB,2018,5.0,45.0,9.0,12.0,0.75,False,2015.0,4.0,131.0,Patriots,Georgia Tech
+Jamien Sherwood,LB,Jets,2025,3.0,45.0,15.0,20.0,0.75,False,2021.0,5.0,146.0,Jets,Auburn
+Nick Bolton,LB,Chiefs,2025,3.0,45.0,15.0,20.0,0.75,False,2021.0,2.0,58.0,Chiefs,Missouri
+Jonah Williams,RT,Cardinals,2024,2.0,30.0,15.0,20.0,0.75,False,2019.0,1.0,11.0,Bengals,Alabama
+Aaron Jones,RB,Packers,2021,4.0,48.0,12.0,16.015853,0.7493,False,2017.0,5.0,182.0,Packers,UTEP
+Paulson Adebo,CB,Giants,2025,3.0,54.0,18.0,24.1,0.7469,False,2021.0,3.0,76.0,Saints,Stanford
+Dan Moore Jr.,LT,Titans,2025,4.0,82.0,20.5,27.553333,0.744,False,2021.0,4.0,128.0,Steelers,Texas A&M
+Jeffery Simmons,IDL,Titans,2023,4.0,94.0,23.5,31.666667,0.7421,False,2019.0,1.0,19.0,Titans,Mississippi State
+Carlton Davis,CB,DET/TB,2022,3.0,44.5,14.833333,20.0,0.7417,False,2018.0,2.0,63.0,Buccaneers,Auburn
+Jessie Bates III,S,Bengals,2022,1.0,12.911,12.911,17.5,0.7378,False,2018.0,2.0,54.0,Bengals,Wake Forest
+Josh Jacobs,RB,Raiders,2023,1.0,11.791,11.791,16.015853,0.7362,False,2019.0,1.0,24.0,Raiders,Alabama
+Cole Kmet,TE,Bears,2023,4.0,50.0,12.5,17.0,0.7353,False,2020.0,2.0,43.0,Bears,Notre Dame
+Mike Williams,WR,Chargers,2022,3.0,60.0,20.0,27.25,0.7339,False,2017.0,1.0,7.0,Chargers,Clemson
+Jake Ferguson,TE,Cowboys,2025,4.0,50.0,12.5,17.125,0.7299,False,2022.0,4.0,129.0,Cowboys,Wisconsin
+Dalton Schultz,TE,Cowboys,2022,1.0,10.931,10.931,15.0,0.7287,False,2018.0,4.0,137.0,Cowboys,Stanford
+Mike Gesicki,TE,Dolphins,2022,1.0,10.931,10.931,15.0,0.7287,False,2018.0,2.0,42.0,Dolphins,Penn State
+Tee Higgins,WR,Bengals,2024,1.0,21.816,21.816,30.0,0.7272,False,2020.0,2.0,33.0,Bengals,Clemson
+Tyler Higbee,TE,Rams,2019,4.0,29.0,7.25,10.0,0.725,False,2016.0,4.0,110.0,Rams,Western Kentucky
+Riley Dixon,P,Giants,2019,3.0,8.7,2.9,4.0,0.725,False,2016.0,7.0,228.0,Broncos,Syracuse
+Orlando Brown Jr.,LT,Chiefs,2022,1.0,16.662,16.662,23.01,0.7241,False,2018.0,3.0,83.0,Ravens,Oklahoma
+Rob Havenstein,RT,Rams,2018,4.0,32.5,8.125,11.25,0.7222,False,2015.0,2.0,57.0,Rams,Wisconsin
+Marcus Williams,S,Saints,2021,1.0,10.612,10.612,14.75,0.7195,False,2017.0,2.0,42.0,Saints,Utah
+Marcus Maye,S,Jets,2021,1.0,10.612,10.612,14.75,0.7195,False,2017.0,2.0,39.0,Jets,Florida
+Jevon Holland,S,Giants,2025,3.0,45.3,15.1,21.025,0.7182,False,2021.0,2.0,36.0,Dolphins,Oregon
+Leonard Williams,IDL,Giants,2020,1.0,16.126,16.126,22.5,0.7167,False,2015.0,1.0,6.0,Jets,USC
+Cooper Kupp,WR,Rams,2020,3.0,47.25,15.75,22.0,0.7159,False,2017.0,3.0,69.0,Rams,Eastern Washington
+Christian Benford,CB,Bills,2025,4.0,69.0,17.25,24.1,0.7158,False,2022.0,6.0,185.0,Bills,Villanova
+Matt Judon,ED,Ravens,2020,1.0,16.808,16.808,23.5,0.7152,False,2016.0,5.0,146.0,Ravens,Grand Valley State
+Devin Lloyd,LB,Panthers,2026,3.0,45.0,15.0,21.0,0.7143,False,2022.0,1.0,27.0,Jaguars,Utah
+Cam Bynum,S,Colts,2025,4.0,60.0,15.0,21.025,0.7134,False,2021.0,4.0,125.0,Vikings,California
+Pat Freiermuth,TE,Steelers,2024,4.0,48.4,12.1,17.0,0.7118,False,2021.0,2.0,55.0,Steelers,Penn State
+Dexter Lawrence,IDL,Giants,2023,4.0,90.0,22.5,31.666667,0.7105,False,2019.0,1.0,17.0,Giants,Clemson
+Daron Payne,IDL,Commanders,2023,4.0,90.0,22.5,31.666667,0.7105,False,2018.0,1.0,13.0,Commanders,Alabama
+Alec Pierce,WR,Colts,2026,4.0,114.0,28.5,40.25,0.7081,False,2022.0,2.0,53.0,Colts,Cincinnati
+Za'Darius Smith,ED,Packers,2019,4.0,66.0,16.5,23.5,0.7021,False,2015.0,4.0,122.0,Ravens,Kentucky
+Tyler Biadasz,C,Commanders,2024,3.0,30.0,10.0,14.25,0.7018,False,2020.0,4.0,146.0,Cowboys,Wisconsin
+Mitch Wishnowsky,P,49ers,2022,4.0,11.2,2.8,4.0,0.7,False,2019.0,4.0,110.0,49ers,Utah
+Isaiah Likely,TE,Giants,2026,3.0,40.0,13.333333,19.1,0.6981,False,2022.0,4.0,139.0,Ravens,Coastal Carolina
+Kenneth Walker III,RB,Chiefs,2026,3.0,43.05,14.35,20.6,0.6966,False,2022.0,2.0,41.0,Seahawks,Michigan State
+Jordan Mailata,LT,Eagles,2021,4.0,64.0,16.0,23.0,0.6957,False,2018.0,7.0,233.0,Eagles,
+Jerome Baker,LB,Dolphins,2021,3.0,37.5,12.5,18.0,0.6944,False,2018.0,3.0,73.0,Dolphins,Ohio State
+Breece Hall,RB,Jets,2026,1.0,14.293,14.293,20.6,0.6938,False,2022.0,2.0,36.0,Jets,Iowa State
+Adrian Amos,S,Packers,2019,4.0,36.0,9.0,13.0,0.6923,False,2015.0,5.0,142.0,Bears,Penn State
+Bradley Pinion,P,Buccaneers,2019,4.0,11.0,2.75,4.0,0.6875,False,2015.0,5.0,165.0,49ers,Clemson
+Zion Johnson,LG,Browns,2026,3.0,49.5,16.5,24.0,0.6875,False,2022.0,1.0,17.0,Chargers,Boston College
+Jalen Thompson,S,Cardinals,2022,3.0,36.0,12.0,17.5,0.6857,False,2019.0,5.0,,Cardinals,Washington State
+Patrick Queen,LB,Steelers,2024,3.0,41.0,13.666666,20.0,0.6833,False,2020.0,1.0,28.0,Ravens,LSU
+Jordan Hicks,LB,Cardinals,2019,4.0,34.0,8.5,12.5,0.68,False,2015.0,3.0,84.0,Eagles,Texas
+George Pickens,WR,Cowboys,2026,1.0,27.298,27.298,40.25,0.6782,False,2022.0,2.0,52.0,Steelers,Georgia
+William Jackson III,CB,PIT/WAS,2021,3.0,40.5,13.5,20.0,0.675,False,2016.0,1.0,24.0,Bengals,Houston
+Diontae Johnson,WR,PIT/BAL/HOU/CAR,2022,2.0,36.71,18.355,27.25,0.6736,False,2019.0,3.0,66.0,Steelers,Toledo
+Bud Dupree,ED,Steelers,2020,1.0,15.828,15.828,23.5,0.6735,False,2015.0,1.0,22.0,Steelers,Kentucky
+Luke Wattenberg,C,Broncos,2025,4.0,48.0,12.0,18.0,0.6667,False,2022.0,5.0,171.0,Broncos,Washington
+Shaquill Griffin,CB,Jaguars,2021,3.0,40.0,13.333333,20.0,0.6667,False,2017.0,3.0,90.0,Seahawks,Central Florida
+Zyon McCollum,CB,Buccaneers,2025,3.0,48.0,16.0,24.1,0.6639,False,2022.0,5.0,157.0,Buccaneers,Sam Houston State
+Christian Barmore,IDL,Patriots,2024,4.0,84.0,21.0,31.666667,0.6632,False,2021.0,2.0,38.0,Patriots,Alabama
+Damien Lewis,LG,Panthers,2024,4.0,53.0,13.25,20.0,0.6625,False,2020.0,3.0,69.0,Seahawks,LSU
+Kenny Golladay,WR,Giants,2021,4.0,72.0,18.0,27.25,0.6606,False,2017.0,3.0,96.0,Lions,Northern Illinois
+Christian Kirk,WR,HOU/JAX,2022,4.0,72.0,18.0,27.25,0.6606,False,2018.0,2.0,47.0,Cardinals,Texas A&M
+Adoree' Jackson,CB,Giants,2021,3.0,39.0,13.0,20.0,0.65,False,2017.0,1.0,18.0,Titans,USC
+Ben Powers,LG,Broncos,2023,4.0,52.0,13.0,20.0,0.65,False,2019.0,4.0,123.0,Ravens,Oklahoma
+George Karlaftis,ED,Chiefs,2025,4.0,88.0,22.0,34.0,0.6471,False,2022.0,1.0,30.0,Chiefs,Purdue
+Jaelan Phillips,ED,Panthers,2026,4.0,120.0,30.0,46.5,0.6452,False,2021.0,1.0,18.0,Dolphins,Miami
+Quay Walker,LB,Raiders,2026,3.0,40.5,13.5,21.0,0.6429,False,2022.0,1.0,22.0,Packers,Georgia
+Alontae Taylor,CB,Titans,2026,3.0,58.0,19.333333,30.1,0.6423,False,2022.0,2.0,49.0,Saints,Tennessee
+Halapoulivaati Vaitai,RG,Lions,2020,5.0,45.0,9.0,14.05,0.6406,False,2016.0,5.0,164.0,Eagles,TCU
+Grant Delpit,S,Browns,2023,3.0,36.0,12.0,19.0,0.6316,False,2020.0,2.0,44.0,Browns,LSU
+Tony Pollard,RB,Cowboys,2023,1.0,10.091,10.091,16.015853,0.6301,False,2019.0,4.0,128.0,Cowboys,Memphis
+Saquon Barkley,RB,Giants,2023,1.0,10.091,10.091,16.015853,0.6301,False,2018.0,1.0,2.0,Giants,Penn State
+Osa Odighizuwa,IDL,SF/DAL,2025,4.0,80.0,20.0,31.75,0.6299,False,2021.0,3.0,75.0,Cowboys,UCLA
+Jeremiah Owusu-Koramoah,LB,Browns,2024,3.0,37.5,12.5,20.0,0.625,False,2021.0,2.0,52.0,Browns,Notre Dame
+Austin Jackson,RT,Dolphins,2023,3.0,36.0,12.0,19.2,0.625,False,2020.0,1.0,18.0,Dolphins,USC
+Tyler Kroft,TE,Bills,2019,3.0,18.75,6.25,10.0,0.625,False,2015.0,3.0,85.0,Bengals,Rutgers
+Harold Landry,ED,Titans,2022,5.0,87.5,17.5,28.00275,0.6249,False,2018.0,2.0,41.0,Titans,Boston College
+Tyler Lockett,WR,Seahawks,2018,3.0,31.8,10.6,17.0,0.6235,False,2015.0,3.0,69.0,Seahawks,Kansas State
+Derek Watt,FB,Steelers,2020,3.0,9.75,3.25,5.25,0.619,False,2016.0,6.0,198.0,Chargers,Wisconsin
+Jamel Dean,CB,Buccaneers,2023,4.0,52.0,13.0,21.0,0.619,False,2019.0,3.0,94.0,Buccaneers,Auburn
+Talanoa Hufanga,S,Broncos,2025,3.0,39.0,13.0,21.025,0.6183,False,2021.0,5.0,180.0,49ers,USC
+Noah Fant,TE,Seahawks,2024,2.0,21.0,10.5,17.0,0.6176,False,2019.0,1.0,20.0,Broncos,Iowa
+Sean Rhyan,C,Packers,2026,3.0,33.0,11.0,18.0,0.6111,False,2022.0,3.0,92.0,Packers,UCLA
+C.J. Uzomah,TE,Bengals,2019,3.0,18.3,6.1,10.0,0.61,False,2015.0,5.0,157.0,Bengals,Auburn
+Cesar Ruiz,RG,Saints,2023,4.0,44.0,11.0,18.036,0.6099,False,2020.0,1.0,24.0,Saints,Michigan
+Alex Highsmith,ED,Steelers,2023,4.0,68.0,17.0,28.00275,0.6071,False,2020.0,3.0,102.0,Steelers,Charlotte
+Quentin Lake,S,Rams,2025,3.0,38.25,12.75,21.025,0.6064,False,2022.0,6.0,211.0,Rams,UCLA
+James Cook,RB,Bills,2025,4.0,46.0,11.5,19.0,0.6053,False,2022.0,2.0,63.0,Bills,Georgia
+Nick Boyle,TE,Ravens,2019,3.0,18.0,6.0,10.0,0.6,False,2015.0,5.0,171.0,Ravens,Delaware
+Evan Engram,TE,Jaguars,2022,1.0,9.0,9.0,15.0,0.6,False,2017.0,1.0,23.0,Giants,Mississippi
+Justin Reid,S,Chiefs,2022,3.0,31.5,10.5,17.5,0.6,False,2018.0,3.0,68.0,Texans,Stanford
+Kaleb McGary,RT,Falcons,2023,3.0,34.5,11.5,19.2,0.599,False,2019.0,1.0,31.0,Falcons,Washington
+Cam Robinson,LT,Jaguars,2021,1.0,13.754,13.754,23.0,0.598,False,2017.0,2.0,34.0,Jaguars,Alabama
+Kendall Fuller,CB,Commanders,2020,4.0,40.0,10.0,16.7424,0.5973,False,2016.0,3.0,84.0,Commanders,Virginia Tech
+Tyler Boyd,WR,Bengals,2019,4.0,43.0,10.75,18.0,0.5972,False,2016.0,2.0,55.0,Bengals,Pittsburgh
+Joe Schobert,LB,PIT/JAX,2020,5.0,53.75,10.75,18.0,0.5972,False,2016.0,4.0,99.0,Browns,Wisconsin
+Alijah Vera-Tucker,RG,Patriots,2026,3.0,42.0,14.0,23.5,0.5957,False,2021.0,1.0,14.0,Jets,USC
+Rayshawn Jenkins,S,Jaguars,2021,4.0,35.0,8.75,14.75,0.5932,False,2017.0,4.0,113.0,Chargers,Miami
+D.J. Reader,IDL,Bengals,2020,4.0,53.0,13.25,22.5,0.5889,False,2016.0,5.0,166.0,Texans,Clemson
+Gregory Rousseau,ED,Bills,2025,4.0,80.0,20.0,34.0,0.5882,False,2021.0,1.0,30.0,Bills,Miami
+Chris Godwin,WR,Buccaneers,2021,1.0,15.983,15.983,27.25,0.5865,False,2017.0,3.0,84.0,Buccaneers,Penn State
+Donte Jackson,CB,Panthers,2022,3.0,35.18,11.726667,20.0,0.5863,False,2018.0,2.0,55.0,Panthers,LSU
+Jerry Jeudy,WR,Browns,2024,3.0,52.5,17.5,30.0,0.5833,False,2020.0,1.0,15.0,Broncos,Alabama
+Hunter Renfrow,WR,Raiders,2022,2.0,31.7,15.85,27.25,0.5817,False,2019.0,5.0,149.0,Raiders,Clemson
+Joseph Noteboom,LT,Rams,2022,3.0,40.0,13.333333,23.01,0.5795,False,2018.0,3.0,89.0,Rams,TCU
+Kyren Williams,RB,Rams,2025,3.0,33.0,11.0,19.0,0.5789,False,2022.0,5.0,164.0,Rams,Notre Dame
+Javon Hargrave,IDL,Eagles,2020,3.0,39.0,13.0,22.5,0.5778,False,2016.0,3.0,89.0,Steelers,South Carolina State
+Matt Milano,LB,Bills,2021,4.0,41.5,10.375,18.0,0.5764,False,2017.0,5.0,163.0,Bills,Boston College
+Nakobe Dean,LB,Raiders,2026,3.0,36.03,12.01,21.0,0.5719,False,2022.0,3.0,83.0,Eagles,Georgia
+Amani Hooker,S,Titans,2022,3.0,30.0,10.0,17.5,0.5714,False,2019.0,4.0,116.0,Titans,Iowa
+Travis Etienne,RB,Saints,2026,4.0,47.0,11.75,20.6,0.5704,False,2021.0,1.0,25.0,Jaguars,Clemson
+Blake Martinez,LB,Giants,2020,3.0,30.75,10.25,18.0,0.5694,False,2016.0,4.0,131.0,Packers,Stanford
+Sterling Shepard,WR,Giants,2019,4.0,41.0,10.25,18.0,0.5694,False,2016.0,2.0,40.0,Giants,Oklahoma
+Kenyan Drake,RB,Cardinals,2020,1.0,8.483,8.483,15.0,0.5655,False,2016.0,3.0,73.0,Dolphins,Alabama
+Jesse James,TE,Lions,2019,4.0,22.6,5.65,10.0,0.565,False,2015.0,5.0,160.0,Steelers,Penn State
+DeVante Parker,WR,MIA/NE,2019,3.0,30.5,10.166667,18.0,0.5648,False,2015.0,1.0,14.0,Dolphins,Louisville
+Jaylen Watson,CB,Rams,2026,3.0,51.0,17.0,30.1,0.5648,False,2022.0,7.0,243.0,Chiefs,Washington State
+Rhamondre Stevenson,RB,Patriots,2024,4.0,36.0,9.0,16.015853,0.5619,False,2021.0,4.0,120.0,Patriots,Oklahoma
+Jonathan Greenard,ED,Vikings,2024,4.0,76.0,19.0,34.0,0.5588,False,2020.0,3.0,90.0,Texans,Florida
+Colin Holba,LS,49ers,2018,2.0,1.2,0.645,1.1575,0.5572,False,2017.0,6.0,213.0,Steelers,Louisville
+Devin Funchess,WR,Colts,2019,1.0,10.0,10.0,18.0,0.5556,False,2015.0,2.0,41.0,Panthers,Michigan
+Carl Lawson,ED,Jets,2021,3.0,45.0,15.0,27.0,0.5556,False,2017.0,4.0,116.0,Bengals,Auburn
+Trey Hendrickson,ED,Bengals,2021,4.0,60.0,15.0,27.0,0.5556,False,2017.0,3.0,103.0,Saints,Florida Atlantic
+Nate Davis,RG,Bears,2023,4.0,30.0,10.0,18.036,0.5544,False,2019.0,3.0,82.0,Titans,Charlotte
+Kyler Gordon,CB,Bears,2025,3.0,40.0,13.333333,24.1,0.5533,False,2022.0,2.0,39.0,Bears,Washington
+Preston Smith,ED,Packers,2019,4.0,52.0,13.0,23.5,0.5532,False,2015.0,2.0,38.0,Commanders,Mississippi State
+Eddie Goldman,IDL,Bears,2018,4.0,42.04,10.51,19.0625,0.5513,False,2015.0,2.0,39.0,Bears,Florida State
+Courtland Sutton,WR,Broncos,2021,4.0,60.0,15.0,27.25,0.5505,False,2018.0,2.0,40.0,Broncos,SMU
+D.J. Reed,CB,Jets,2022,3.0,33.0,11.0,20.0,0.55,False,2018.0,5.0,142.0,49ers,Kansas State
+Abraham Lucas,RT,Seahawks,2025,3.0,46.0,15.333333,28.125,0.5452,False,2022.0,3.0,72.0,Seahawks,Washington State
+Jaylon Moore,LT,Chiefs,2025,2.0,30.0,15.0,27.553333,0.5444,False,2021.0,5.0,155.0,49ers,Western Michigan
+Dre'Mont Jones,IDL,Seahawks,2023,3.0,51.53,17.176667,31.666667,0.5424,False,2019.0,3.0,71.0,Broncos,Ohio State
+Walker Little,LT,Jaguars,2024,3.0,40.5,13.5,25.0,0.54,False,2021.0,2.0,45.0,Jaguars,Stanford
+Jalen Pitre,CB,Texans,2025,3.0,39.0,13.0,24.1,0.5394,False,2022.0,2.0,37.0,Texans,Baylor
+Ed Oliver,IDL,Bills,2023,4.0,68.0,17.0,31.666667,0.5368,False,2019.0,1.0,9.0,Bills,Houston
+Bryan Cook,S,Bengals,2026,3.0,40.25,13.416667,25.1,0.5345,False,2022.0,2.0,62.0,Chiefs,Cincinnati
+Melvin Gordon,RB,Broncos,2020,2.0,16.0,8.0,15.0,0.5333,False,2015.0,1.0,15.0,Chargers,Wisconsin
+Will Dissly,TE,Seahawks,2022,3.0,24.0,8.0,15.0,0.5333,False,2018.0,4.0,120.0,Seahawks,Washington
+Connor McGovern,C,Bills,2023,3.0,22.35,7.45,14.0,0.5321,False,2019.0,3.0,90.0,Cowboys,Penn State
+Ed Ingram,RG,Texans,2026,3.0,37.5,12.5,23.5,0.5319,False,2022.0,2.0,59.0,Vikings,LSU
+Coby Bryant,S,Bears,2026,3.0,40.0,13.333333,25.1,0.5312,False,2022.0,4.0,109.0,Seahawks,Cincinnati
+Vic Beasley,LB,Titans,2020,1.0,9.5,9.5,18.0,0.5278,False,2015.0,1.0,8.0,Falcons,Clemson
+Jamison Crowder,WR,Jets,2019,3.0,28.5,9.5,18.0,0.5278,False,2015.0,4.0,105.0,Commanders,Duke
+Terrel Bernard,LB,Bills,2025,4.0,42.0,10.5,20.0,0.525,False,2022.0,3.0,89.0,Bills,Baylor
+Cade Otton,TE,Buccaneers,2026,3.0,30.0,10.0,19.1,0.5236,False,2022.0,4.0,106.0,Buccaneers,Washington
+Connor Williams,C,Dolphins,2022,2.0,14.035,7.0175,13.5,0.5198,False,2018.0,2.0,50.0,Cowboys,Texas
+Bobby McCain,S,Dolphins,2018,4.0,27.0,6.75,13.0,0.5192,False,2015.0,5.0,145.0,Dolphins,Memphis
+Chuba Hubbard,RB,Panthers,2024,4.0,33.2,8.3,16.015853,0.5182,False,2021.0,4.0,126.0,Panthers,Oklahoma State
+Odafe Oweh,ED,Commanders,2026,4.0,96.0,24.0,46.5,0.5161,False,2021.0,1.0,31.0,Ravens,Penn State
+Tavon Young,CB,Ravens,2019,3.0,25.8,8.6,16.7424,0.5137,False,2016.0,4.0,104.0,Ravens,Temple
+Jarran Reed,IDL,Seahawks,2020,2.0,23.0,11.5,22.5,0.5111,False,2016.0,2.0,49.0,Seahawks,Alabama
+Dante Fowler Jr.,ED,Rams,2019,1.0,12.0,12.0,23.5,0.5106,False,2015.0,1.0,3.0,Jaguars,Florida
+John Franklin-Myers,ED,Jets,2021,4.0,55.0,13.75,27.0,0.5093,False,2018.0,4.0,135.0,Rams,Stephen F. Austin
+Chukwuma Okorafor,RT,Steelers,2022,3.0,29.25,9.75,19.2,0.5078,False,2018.0,3.0,92.0,Steelers,Western Michigan
+Steven Nelson,CB,Steelers,2019,3.0,25.5,8.5,16.7424,0.5077,False,2015.0,3.0,98.0,Chiefs,Oregon State
+Bobby Okereke,LB,Giants,2023,4.0,40.0,10.0,19.7,0.5076,False,2019.0,3.0,89.0,Colts,Stanford
+"Jon Runyan, Jr.",LG,Giants,2024,3.0,30.0,10.0,20.0,0.5,False,2020.0,6.0,192.0,Packers,Michigan
+Jaquiski Tartt,S,49ers,2018,2.0,13.0,6.5,13.0,0.5,False,2015.0,2.0,46.0,49ers,Samford
+D'Andre Swift,RB,Bears,2024,3.0,24.0,8.0,16.015853,0.4995,False,2020.0,2.0,35.0,Lions,Georgia
+Cordale Flott,CB,Titans,2026,3.0,45.0,15.0,30.1,0.4983,False,2022.0,3.0,81.0,Giants,LSU
+Marcus Jones,CB,Patriots,2025,3.0,36.0,12.0,24.1,0.4979,False,2022.0,3.0,85.0,Patriots,Houston
+Nate Hobbs,CB,Packers,2025,4.0,48.0,12.0,24.1,0.4979,False,2021.0,5.0,167.0,Raiders,Illinois
+Brandon Stephens,CB,Jets,2025,3.0,36.0,12.0,24.1,0.4979,False,2021.0,3.0,104.0,Ravens,SMU
+Josh Sweat,ED,Eagles,2021,3.0,40.0,13.333333,27.0,0.4938,False,2018.0,4.0,130.0,Eagles,Florida State
+James Daniels,RG,Steelers,2022,3.0,26.5,8.833333,18.036,0.4898,False,2018.0,2.0,39.0,Bears,Iowa
+Michael Carter II,CB,Eagles,2024,3.0,30.75,10.25,21.0,0.4881,False,2021.0,5.0,154.0,Jets,Duke
+Alex Cappa,RG,Bengals,2022,4.0,35.0,8.75,18.036,0.4851,False,2018.0,3.0,94.0,Buccaneers,Humboldt State
+Austin Corbett,RG,Panthers,2022,3.0,26.25,8.75,18.036,0.4851,False,2018.0,2.0,33.0,Browns,Nevada
+Denzel Perryman,LB,Chargers,2019,2.0,12.05,6.025,12.5,0.482,False,2015.0,2.0,48.0,Chargers,Miami
+Zach Allen,IDL,Broncos,2023,3.0,45.75,15.25,31.666667,0.4816,False,2019.0,3.0,65.0,Cardinals,Boston College
+Quandre Diggs,S,DET/SEA,2018,3.0,18.6,6.2,13.0,0.4769,False,2015.0,6.0,200.0,Lions,Texas
+Tracy Walker,S,Lions,2022,3.0,25.0,8.333333,17.5,0.4762,False,2018.0,3.0,82.0,Lions,Louisiana-Lafayette
+Ernest Jones,LB,Seahawks,2025,3.0,28.5,9.5,20.0,0.475,False,2021.0,3.0,103.0,Rams,South Carolina
+Chigoziem Okonkwo,TE,Commanders,2026,3.0,27.0,9.0,19.1,0.4712,False,2022.0,4.0,143.0,Titans,Maryland
+Dayo Odeyingbo,ED,Bears,2025,3.0,48.0,16.0,34.0,0.4706,False,2021.0,2.0,54.0,Colts,Vanderbilt
+Laken Tomlinson,LG,49ers,2018,3.0,16.5,5.5,11.7,0.4701,False,2015.0,1.0,28.0,Lions,Duke
+Dalvin Tomlinson,IDL,Vikings,2021,2.0,21.0,10.5,22.5,0.4667,False,2017.0,2.0,55.0,Giants,Alabama
+Alex Lewis,LG,Jets,2020,3.0,18.6,6.2,13.3,0.4662,False,2016.0,4.0,130.0,Ravens,Nebraska
+Marcus Davenport,ED,Vikings,2023,1.0,13.0,13.0,28.00275,0.4642,False,2018.0,1.0,14.0,Saints,UTSA
+Corey Davis,WR,Jets,2021,3.0,37.5,12.5,27.25,0.4587,False,2017.0,1.0,5.0,Titans,Western Michigan
+Logan Wilson,LB,CIN/DAL,2023,4.0,36.0,9.0,19.7,0.4569,False,2020.0,3.0,65.0,Bengals,Wyoming
+Grover Stewart,IDL,Colts,2020,3.0,30.75,10.25,22.5,0.4556,False,2017.0,4.0,144.0,Colts,Albany State
+Daryl Williams,LG,Panthers,2019,1.0,6.0,6.0,13.3,0.4511,False,2015.0,4.0,102.0,Panthers,Oklahoma
+Tyler Conklin,TE,Jets,2022,3.0,20.25,6.75,15.0,0.45,False,2018.0,5.0,157.0,Vikings,Central Michigan
+Brian Allen,C,Rams,2022,3.0,18.035,6.011667,13.5,0.4453,False,2018.0,4.0,111.0,Rams,Michigan State
+B.J. Hill,IDL,Bengals,2022,3.0,30.0,10.0,22.5,0.4444,False,2018.0,3.0,69.0,Giants,North Carolina State
+Folorunso Fatukasi,IDL,Jaguars,2022,3.0,30.0,10.0,22.5,0.4444,False,2018.0,6.0,180.0,Jets,Connecticut
+Colby Parkinson,TE,Rams,2024,3.0,22.5,7.5,17.0,0.4412,False,2020.0,4.0,133.0,Seahawks,Stanford
+Isaac Seumalo,LG,Eagles,2019,3.0,17.55,5.85,13.3,0.4398,False,2016.0,3.0,79.0,Eagles,Oregon State
+Jordyn Brooks,LB,Dolphins,2024,3.0,26.25,8.75,20.0,0.4375,False,2020.0,1.0,27.0,Seahawks,Texas Tech
+Wan'Dale Robinson,WR,Titans,2026,4.0,70.0,17.5,40.25,0.4348,False,2022.0,2.0,43.0,Giants,Kentucky
+Jamon Brown,RG,Falcons,2019,3.0,18.25,6.083333,14.0,0.4345,False,2015.0,3.0,72.0,Rams,Louisville
+Gabriel Davis,WR,Jaguars,2024,3.0,39.0,13.0,30.0,0.4333,False,2020.0,4.0,128.0,Bills,Central Florida
+Darnell Mooney,WR,Falcons,2024,3.0,39.0,13.0,30.0,0.4333,False,2020.0,5.0,173.0,Bears,Tulane
+Boye Mafe,ED,Bengals,2026,3.0,60.0,20.0,46.5,0.4301,False,2022.0,2.0,40.0,Seahawks,Minnesota
+Shaq Lawson,ED,HOU/NYJ/MIA,2020,3.0,30.0,10.0,23.5,0.4255,False,2016.0,1.0,19.0,Bills,Clemson
+Eric Murray,S,Texans,2020,3.0,18.0,6.0,14.1,0.4255,False,2016.0,4.0,106.0,Chiefs,Minnesota
+Leonard Floyd,ED,Rams,2020,1.0,1.0,10.0,23.5,0.4255,False,2016.0,1.0,9.0,Bears,Georgia
+Vonn Bell,S,Bengals,2020,3.0,18.0,6.0,14.1,0.4255,False,2016.0,2.0,61.0,Saints,Ohio State
+Travis Jones,IDL,Ravens,2025,3.0,40.5,13.5,31.75,0.4252,False,2022.0,3.0,76.0,Ravens,Connecticut
+Charlie Kolar,TE,Chargers,2026,3.0,24.3,8.1,19.1,0.4241,False,2022.0,4.0,128.0,Ravens,Iowa State
+Romeo Doubs,WR,Patriots,2026,4.0,68.0,17.0,40.25,0.4224,False,2022.0,4.0,132.0,Packers,Nevada
+Ty Sambrailo,RT,Falcons,2019,3.0,14.25,4.75,11.25,0.4222,False,2015.0,2.0,59.0,Broncos,Colorado State
+Curtis Samuel,WR,Commanders,2021,3.0,34.5,11.5,27.25,0.422,False,2017.0,2.0,40.0,Panthers,Ohio State
+Michael Gallup,WR,Cowboys,2022,5.0,57.5,11.5,27.25,0.422,False,2018.0,3.0,81.0,Cowboys,Colorado State
+Andre Dillard,LT,Titans,2023,3.0,29.0,9.666666,23.01,0.4201,False,2019.0,1.0,22.0,Eagles,Washington State
+Byron Murphy,CB,Vikings,2023,2.0,17.5,8.75,21.0,0.4167,False,2019.0,2.0,33.0,Cardinals,Washington
+Dre Greenlaw,LB,49ers,2022,2.0,16.4,8.2,19.7,0.4162,False,2019.0,5.0,148.0,49ers,Arkansas
+Jordan Whitehead,S,Jets,2022,2.0,14.5,7.25,17.5,0.4143,False,2018.0,4.0,117.0,Buccaneers,Pittsburgh
+Josh Oliver,TE,Vikings,2023,3.0,21.0,7.0,17.0,0.4118,False,2019.0,3.0,69.0,Jaguars,San Jose State
+John Bates,TE,Commanders,2025,3.0,21.0,7.0,17.125,0.4088,False,2021.0,4.0,124.0,Commanders,Boise State
+Andre Cisco,S,Jets,2025,1.0,8.5,8.5,21.025,0.4043,False,2021.0,3.0,65.0,Jaguars,Syracuse
+Gerald Everett,TE,Seahawks,2021,1.0,6.0,6.0,15.0,0.4,False,2017.0,2.0,44.0,Rams,South Alabama
+Taron Johnson,CB,Bills,2021,3.0,24.0,8.0,20.0,0.4,False,2018.0,4.0,121.0,Bills,Weber State
+Jeff Heuerman,TE,Broncos,2019,2.0,8.0,4.0,10.0,0.4,False,2015.0,3.0,92.0,Broncos,Ohio State
+Ezra Cleveland,LG,Jaguars,2024,3.0,24.0,8.0,20.0,0.4,False,2020.0,2.0,58.0,Vikings,Boise State
+Derrick Barnes,LB,Lions,2025,3.0,24.0,8.0,20.0,0.4,False,2021.0,4.0,113.0,Lions,Purdue
+David Onyemata,IDL,Saints,2020,3.0,27.0,9.0,22.5,0.4,False,2016.0,4.0,120.0,Saints,Manitoba
+Tariq Woolen,CB,Eagles,2026,1.0,12.0,12.0,30.1,0.3987,False,2022.0,5.0,153.0,Seahawks,UTSA
+Jonathon Cooper,ED,Broncos,2024,4.0,54.0,13.5,34.0,0.3971,False,2021.0,7.0,239.0,Broncos,Ohio State
+Miles Sanders,RB,Panthers,2023,4.0,25.4,6.35,16.015853,0.3965,False,2019.0,2.0,53.0,Eagles,Penn State
+John Miller,RG,Bengals,2019,3.0,16.5,5.5,14.0,0.3929,False,2015.0,3.0,81.0,Bills,Louisville
+Leo Chenal,LB,Commanders,2026,3.0,24.75,8.25,21.0,0.3929,False,2022.0,3.0,103.0,Chiefs,Wisconsin
+Will Fuller,WR,Dolphins,2021,1.0,10.625011,10.625011,27.25,0.3899,False,2016.0,1.0,21.0,Texans,Notre Dame
+Mason Cole,C,Steelers,2022,3.0,15.75,5.25,13.5,0.3889,False,2018.0,3.0,97.0,Cardinals,Michigan
+Nick Kwiatkoski,LB,Raiders,2020,3.0,21.0,7.0,18.0,0.3889,False,2016.0,4.0,113.0,Bears,West Virginia
+Robert Hainsey,C,Jaguars,2025,3.0,21.0,7.0,18.0,0.3889,False,2021.0,3.0,95.0,Buccaneers,Notre Dame
+Ronald Darby,CB,Eagles,2019,1.0,6.5,6.5,16.7424,0.3882,False,2015.0,2.0,50.0,Bills,Florida State
+Kenneth Murray,LB,DAL/TEN,2024,2.0,15.5,7.75,20.0,0.3875,False,2020.0,1.0,23.0,Chargers,Oklahoma
+Nyheim Miller-Hines,RB,IND/BUF,2021,3.0,18.6,6.2,16.015853,0.3871,False,2018.0,4.0,104.0,Colts,North Carolina State
+Tarik Cohen,RB,Bears,2020,3.0,17.25,5.75,15.0,0.3833,False,2017.0,4.0,119.0,Bears,North Carolina A&T
+Chase Young,ED,Saints,2024,1.0,13.0,13.0,34.0,0.3824,False,2020.0,1.0,2.0,Commanders,Ohio State
+Darnell Savage Jr.,S,Jaguars,2024,3.0,21.75,7.25,19.0,0.3816,False,2019.0,1.0,21.0,Packers,Maryland
+Khalil Shakir,WR,Bills,2025,4.0,53.0,13.25,35.0,0.3786,False,2022.0,5.0,148.0,Bills,Boise State
+Eric Rowe,S,Dolphins,2019,3.0,14.75,4.916667,13.0,0.3782,False,2015.0,2.0,47.0,Eagles,Utah
+A'Shawn Robinson,IDL,Rams,2020,2.0,17.0,8.5,22.5,0.3778,False,2016.0,2.0,46.0,Lions,Alabama
+Chase Edmonds,RB,DEN/MIA,2022,2.0,12.1,6.05,16.015853,0.3778,False,2018.0,4.0,134.0,Cardinals,Fordham
+Trey Pipkins,RT,Chargers,2023,3.0,21.75,7.25,19.2,0.3776,False,2019.0,3.0,91.0,Chargers,Hawaii
+Ian Thomas,TE,Panthers,2022,3.0,16.95,5.65,15.0,0.3767,False,2018.0,4.0,101.0,Panthers,Indiana
+Pete Werner,LB,Saints,2024,3.0,22.5,7.5,20.0,0.375,False,2021.0,2.0,60.0,Saints,Ohio State
+Avonte Maddox,CB,Eagles,2021,3.0,22.5,7.5,20.0,0.375,False,2018.0,4.0,125.0,Eagles,Pittsburgh
+Garrett Bradbury,C,Vikings,2023,3.0,15.75,5.25,14.0,0.375,False,2019.0,1.0,18.0,Vikings,North Carolina State
+Malik Willis,QB,Dolphins,2026,3.0,67.5,22.5,60.0,0.375,False,2022.0,3.0,86.0,Titans,Liberty
+David Montgomery,RB,Lions,2023,3.0,18.0,6.0,16.015853,0.3746,False,2019.0,3.0,73.0,Bears,Iowa State
+Henry Anderson,IDL,Jets,2019,3.0,25.2,8.4,22.5,0.3733,False,2015.0,3.0,93.0,Colts,Stanford
+Sam Hubbard,ED,Bengals,2021,4.0,40.0,10.0,27.0,0.3704,False,2018.0,3.0,77.0,Bengals,Ohio State
+Donovan Wilson,S,Cowboys,2023,3.0,21.0,7.0,19.0,0.3684,False,2019.0,6.0,213.0,Cowboys,Texas A&M
+Juan Thornhill,S,Browns,2023,3.0,21.0,7.0,19.0,0.3684,False,2019.0,2.0,63.0,Chiefs,Virginia
+D.J. Chark,WR,Lions,2022,1.0,10.0,10.0,27.25,0.367,False,2018.0,2.0,61.0,Jaguars,LSU
+Russell Gage,WR,Buccaneers,2022,3.0,30.0,10.0,27.25,0.367,False,2018.0,6.0,194.0,Falcons,LSU
+Marquez Valdes-Scantling,WR,Chiefs,2022,3.0,30.0,10.0,27.25,0.367,False,2018.0,5.0,174.0,Packers,South Florida
+Daniel Bellinger,TE,Titans,2026,3.0,21.0,7.0,19.1,0.3665,False,2022.0,4.0,112.0,Giants,San Diego State
+Duke Johnson,RB,HOU/CLE,2018,3.0,15.61,5.203333,14.213333,0.3661,False,2015.0,3.0,77.0,Browns,Miami
+Kaden Elliss,LB,Falcons,2023,3.0,21.5,7.166667,19.7,0.3638,False,2019.0,7.0,244.0,Saints,Idaho
+Davon Hamilton,IDL,Jaguars,2023,3.0,34.5,11.5,31.666667,0.3632,False,2020.0,3.0,73.0,Jaguars,Ohio State
+Pat Elflein,C,Panthers,2021,3.0,13.5,4.5,12.4125,0.3625,False,2017.0,3.0,70.0,Vikings,Ohio State
+Chidobe Awuzie,CB,Bengals,2021,3.0,21.75,7.25,20.0,0.3625,False,2017.0,2.0,60.0,Cowboys,Colorado
+Andy Janovich,FB,CLE/DEN,2019,3.0,5.7,1.9,5.25,0.3619,False,2016.0,6.0,176.0,Broncos,Nebraska
+Chuck Clark,S,NYJ/BAL,2020,3.0,15.3,5.1,14.1,0.3617,False,2017.0,6.0,186.0,Ravens,Virginia Tech
+Rashaad Penny,RB,Seahawks,2022,1.0,5.75,5.75,16.015853,0.359,False,2018.0,1.0,27.0,Seahawks,San Diego State
+A.J. Cann,RG,Jaguars,2019,3.0,15.055,5.018333,14.0,0.3585,False,2015.0,3.0,67.0,Jaguars,South Carolina
+Darryl Roberts,CB,Jets,2019,3.0,18.0,6.0,16.7424,0.3584,False,2015.0,7.0,247.0,Patriots,Marshall
+Sebastian Joseph-Day,IDL,Chargers,2022,3.0,24.0,8.0,22.5,0.3556,False,2018.0,6.0,195.0,Rams,Rutgers
+Carl Nassib,ED,Raiders,2020,3.0,25.0,8.333333,23.5,0.3546,False,2016.0,3.0,65.0,Browns,Penn State
+Noah Gray,TE,Chiefs,2024,3.0,18.0,6.0,17.0,0.3529,False,2021.0,5.0,162.0,Chiefs,Duke
+Montaric Brown,CB,Jaguars,2026,3.0,31.8,10.6,30.1,0.3522,False,2022.0,7.0,222.0,Jaguars,Arkansas
+Brandon Jones,S,Broncos,2024,3.0,20.0,6.666667,19.0,0.3509,False,2020.0,3.0,70.0,Dolphins,Texas
+Divine Deablo,LB,Falcons,2025,2.0,14.0,7.0,20.0,0.35,False,2021.0,3.0,80.0,Raiders,Virginia Tech
+Zaven Collins,LB,Cardinals,2024,2.0,14.0,7.0,20.0,0.35,False,2021.0,1.0,16.0,Cardinals,Tulsa
+Austin Blythe,C,Rams,2020,1.0,3.9,3.9,11.25,0.3467,False,2016.0,7.0,248.0,Colts,Iowa
+Kwity Paye,ED,Raiders,2026,3.0,48.0,16.0,46.5,0.3441,False,2021.0,1.0,21.0,Colts,Michigan
+Germaine Pratt,LB,Bengals,2023,3.0,20.25,6.75,19.7,0.3426,False,2019.0,3.0,72.0,Bengals,North Carolina State
+"Chauncey Gardner-Johnson, Jr.",S,Lions,2023,1.0,6.5,6.5,19.0,0.3421,False,2019.0,4.0,105.0,Saints,Florida
+Baker Mayfield,QB,LAR/CAR,2022,1.0,15.358,15.358,45.0,0.3413,False,2018.0,1.0,1.0,Browns,Oklahoma
+Uchenna Nwosu,ED,Seahawks,2022,2.0,19.055,9.5275,28.00275,0.3402,False,2018.0,2.0,48.0,Chargers,USC
+Davon Godchaux,IDL,Patriots,2021,2.0,15.0,7.5,22.5,0.3333,False,2017.0,5.0,178.0,Dolphins,LSU
+De'Vondre Campbell,LB,Cardinals,2020,1.0,6.0,6.0,18.0,0.3333,False,2016.0,4.0,115.0,Falcons,Minnesota
+Justin Fields,QB,Jets,2025,2.0,40.0,20.0,60.0,0.3333,False,2021.0,1.0,11.0,Bears,Ohio State
+Dylan Parham,LG,Jets,2026,2.0,16.0,8.0,24.0,0.3333,False,2022.0,3.0,90.0,Raiders,Memphis
+Vernon Butler,IDL,Bills,2020,2.0,15.0,7.5,22.5,0.3333,False,2016.0,1.0,30.0,Panthers,Louisiana Tech
+Geoff Swaim,TE,Jaguars,2019,2.0,6.6,3.3,10.0,0.33,False,2015.0,7.0,246.0,Cowboys,Texas
+Chris Carson,RB,Seahawks,2021,2.0,10.425,5.2125,16.015853,0.3255,False,2017.0,7.0,249.0,Seahawks,Oklahoma State
+Jordan Howard,RB,Dolphins,2020,2.0,9.75,4.875,15.0,0.325,False,2016.0,5.0,150.0,Bears,Indiana
+Malcolm Koonce,ED,Raiders,2025,1.0,11.04,11.04,34.0,0.3247,False,2021.0,3.0,79.0,Raiders,Buffalo
+Alex Wright,ED,Browns,2025,3.0,33.0,11.0,34.0,0.3235,False,2022.0,3.0,78.0,Browns,UAB
+Matt Ioannidis,IDL,Commanders,2019,3.0,21.75,7.25,22.5,0.3222,False,2016.0,5.0,152.0,Commanders,Temple
+Wes Schweitzer,RG,Commanders,2020,3.0,13.5,4.5,14.05,0.3203,False,2016.0,6.0,195.0,Falcons,San Jose State
+Jake Ryan,LB,Jaguars,2019,2.0,8.0,4.0,12.5,0.32,False,2015.0,4.0,129.0,Packers,Michigan
+Emmanuel Ogbah,ED,Dolphins,2020,2.0,15.0,7.5,23.5,0.3191,False,2016.0,2.0,32.0,Browns,Oklahoma State
+Marcus Epps,S,Raiders,2023,2.0,12.0,6.0,19.0,0.3158,False,2019.0,6.0,191.0,Vikings,Wyoming
+Julian Love,S,Seahawks,2023,2.0,12.0,6.0,19.0,0.3158,False,2019.0,4.0,108.0,Giants,Notre Dame
+Christian Watson,WR,Packers,2025,1.0,11.0,11.0,35.0,0.3143,False,2022.0,2.0,34.0,Packers,North Dakota State
+Cameron Erving,LT,Chiefs,2018,2.0,8.279218,4.139609,13.25,0.3124,False,2015.0,1.0,19.0,Browns,Florida State
+Anthony Brown,CB,Cowboys,2020,3.0,15.5,5.166667,16.7424,0.3086,False,2016.0,6.0,189.0,Cowboys,Purdue
+Tommy Tremble,TE,Panthers,2025,2.0,10.5,5.25,17.125,0.3066,False,2021.0,3.0,83.0,Panthers,Notre Dame
+Luke Farrell,TE,49ers,2025,3.0,15.75,5.25,17.125,0.3066,False,2021.0,5.0,145.0,Jaguars,Ohio State
+Josh Myers,C,Jets,2025,2.0,11.0,5.5,18.0,0.3056,False,2021.0,2.0,62.0,Packers,Ohio State
+Jarrad Davis,LB,Jets,2021,1.0,5.5,5.5,18.0,0.3056,False,2017.0,1.0,21.0,Lions,Florida
+Cole Holcomb,LB,Steelers,2023,3.0,18.0,6.0,19.7,0.3046,False,2019.0,5.0,173.0,Commanders,North Carolina
+Quincy Williams,LB,Jets,2023,3.0,18.0,6.0,19.7,0.3046,False,2019.0,3.0,98.0,Jaguars,Murray State
+Dean Lowry,IDL,Packers,2019,3.0,20.325,6.775,22.5,0.3011,False,2016.0,4.0,137.0,Packers,Northwestern
+Elijah Molden,S,Chargers,2025,3.0,18.75,6.25,21.025,0.2973,False,2021.0,3.0,100.0,Titans,Washington
+Tyler Allgeier,RB,Cardinals,2026,2.0,12.25,6.125,20.6,0.2973,False,2022.0,5.0,151.0,Falcons,BYU
+JuJu Smith-Schuster,WR,Steelers,2021,1.0,8.0,8.0,27.25,0.2936,False,2017.0,2.0,62.0,Steelers,USC
+Tevin Coleman,RB,49ers,2019,2.0,8.5,4.25,14.544,0.2922,False,2015.0,3.0,73.0,Falcons,Indiana
+Jeremy Ruckert,TE,Jets,2025,2.0,10.0,5.0,17.125,0.292,False,2022.0,3.0,101.0,Jets,Ohio State
+Jalen Nailor,WR,Raiders,2026,3.0,35.03,11.676667,40.25,0.2901,False,2022.0,6.0,191.0,Vikings,Michigan State
+Harrison Phillips,IDL,Vikings,2022,3.0,19.5,6.5,22.5,0.2889,False,2018.0,3.0,96.0,Bills,Stanford
+Charles Omenihu,ED,Chiefs,2023,2.0,16.0,8.0,28.00275,0.2857,False,2019.0,5.0,161.0,Texans,Texas
+Josh Palmer,WR,Bills,2025,3.0,30.0,10.0,35.0,0.2857,False,2021.0,3.0,77.0,Chargers,Tennessee
+Dyami Brown,WR,Jaguars,2025,1.0,10.0,10.0,35.0,0.2857,False,2021.0,3.0,82.0,Commanders,North Carolina
+Tutu Atwell,WR,Rams,2025,1.0,10.0,10.0,35.0,0.2857,False,2021.0,2.0,57.0,Rams,Louisville
+Nick Vannett,TE,Broncos,2020,2.0,5.7,2.85,10.0,0.285,False,2016.0,3.0,94.0,Seahawks,Ohio State
+Sean Davis,S,Commanders,2020,1.0,4.0,4.0,14.1,0.2837,False,2016.0,2.0,58.0,Steelers,Maryland
+Jalen Mills,S,Eagles,2020,1.0,4.0,4.0,14.1,0.2837,False,2016.0,7.0,233.0,Eagles,LSU
+Josey Jewell,LB,Broncos,2022,2.0,11.0,5.5,19.7,0.2792,False,2018.0,4.0,106.0,Broncos,Iowa
+Najee Harris,RB,Chargers,2025,1.0,5.25,5.25,19.0,0.2763,False,2021.0,1.0,24.0,Steelers,Alabama
+Larry Ogunjobi,IDL,Bengals,2021,1.0,6.2,6.2,22.5,0.2756,False,2017.0,3.0,65.0,Browns,Charlotte
+Jake Camarda,P,Bills,2025,1.0,1.1,1.1,4.0,0.275,False,2022.0,4.0,133.0,Buccaneers,Georgia
+Jakeem Grant,WR,Dolphins,2019,4.0,19.7,4.925,18.0,0.2736,False,2016.0,6.0,186.0,Dolphins,Texas Tech
+Jordan Love,QB,Packers,2023,1.0,13.5,13.5,50.271667,0.2685,False,2020.0,1.0,26.0,Packers,Utah State
+Justin Jones,IDL,Bears,2022,2.0,12.0,6.0,22.5,0.2667,False,2018.0,3.0,84.0,Chargers,North Carolina State
+Maliek Collins,IDL,Raiders,2020,1.0,6.0,6.0,22.5,0.2667,False,2016.0,3.0,67.0,Cowboys,Nebraska
+Alohi Gilman,S,LAC/BAL,2024,2.0,10.125,5.0625,19.0,0.2664,False,2020.0,6.0,186.0,Chargers,Notre Dame
+Stephen Weatherly,ED,Panthers,2020,2.0,12.5,6.25,23.5,0.266,False,2016.0,7.0,227.0,Vikings,Vanderbilt
+Greg Newsome II,CB,Giants,2026,1.0,8.0,8.0,30.1,0.2658,False,2021.0,1.0,26.0,Browns,Northwestern
+Yetur Gross-Matos,ED,49ers,2024,2.0,18.0,9.0,34.0,0.2647,False,2020.0,2.0,38.0,Panthers,Penn State
+Pressley Harvin,P,49ers,2024,1.0,1.055,1.055,4.0,0.2638,False,2021.0,7.0,254.0,Steelers,Georgia Tech
+Trenton Gill,P,Broncos,2024,2.0,2.085,1.0425,4.0,0.2606,False,2022.0,7.0,255.0,Bears,North Carolina State
+Nick Cross,S,Commanders,2026,2.0,13.0,6.5,25.1,0.259,False,2022.0,3.0,96.0,Colts,Maryland
+Jon Feliciano,RG,Bills,2019,2.0,7.25,3.625,14.0,0.2589,False,2015.0,4.0,128.0,Raiders,Miami
+David Long Jr.,LB,Dolphins,2023,2.0,10.0,5.0,19.7,0.2538,False,2019.0,6.0,188.0,Titans,West Virginia
+Braden Mann,P,Eagles,2023,1.0,1.01,1.01,4.0,0.2525,False,2020.0,6.0,191.0,Jets,Texas A&M
+Marcus Mariota,QB,Raiders,2020,2.0,17.6,8.8,35.0,0.2514,False,2015.0,1.0,2.0,Titans,Oregon
+Kevin King,CB,Packers,2021,1.0,5.0,5.0,20.0,0.25,False,2017.0,2.0,33.0,Packers,Washington
+Brandon Shell,RT,Seahawks,2020,2.0,9.0,4.5,18.0,0.25,False,2016.0,5.0,158.0,Jets,South Carolina
+Isaiah Simmons,LB,Giants,2024,1.0,2.0,5.0,20.0,0.25,False,2020.0,1.0,8.0,Cardinals,Clemson
+Derek Barnett,ED,Eagles,2022,2.0,14.0,7.0,28.00275,0.25,False,2017.0,1.0,14.0,Eagles,Tennessee
+Jayon Brown,LB,Titans,2021,1.0,4.5,4.5,18.0,0.25,False,2017.0,5.0,155.0,Titans,UCLA
+Zack Moss,RB,Bengals,2024,2.0,8.0,4.0,16.015853,0.2498,False,2020.0,3.0,86.0,Bills,Utah
+Jeff Okudah,CB,DET/ATL,2023,1.0,5.182072,5.182072,21.0,0.2468,False,2020.0,1.0,3.0,Lions,Ohio State
+Sheldon Rankins,IDL,Jets,2021,2.0,11.0,5.5,22.5,0.2444,False,2016.0,1.0,12.0,Saints,Louisville
+Bilal Nichols,IDL,Raiders,2022,2.0,11.0,5.5,22.5,0.2444,False,2018.0,5.0,145.0,Bears,Delaware
+Adam Shaheen,TE,HOU/MIA,2020,2.0,4.85,2.425,10.0,0.2425,False,2017.0,2.0,45.0,Bears,Ashland
+Ethan Pocic,C,Seahawks,2021,1.0,3.0,3.0,12.4125,0.2417,False,2017.0,2.0,58.0,Seahawks,LSU
+Matt Pryor,LT,Colts,2022,1.0,5.545,5.545,23.01,0.241,False,2018.0,6.0,206.0,Eagles,TCU
+Foster Moreau,TE,Saints,2023,3.0,12.234,4.078,17.0,0.2399,False,2019.0,4.0,137.0,Raiders,LSU
+Mackensie Alexander,CB,Bengals,2020,1.0,4.0,4.0,16.7424,0.2389,False,2016.0,2.0,54.0,Vikings,Clemson
+Kamren Curl,S,Rams,2024,2.0,9.0,4.5,19.0,0.2368,False,2020.0,7.0,216.0,Commanders,Arkansas
+Dan Feeney,LG,Jets,2021,1.0,3.5,3.5,14.781,0.2368,False,2017.0,3.0,71.0,Chargers,Indiana
+Mike Danna,ED,Chiefs,2024,3.0,24.0,8.0,34.0,0.2353,False,2020.0,5.0,177.0,Chiefs,Michigan
+Charlie Woerner,TE,Falcons,2024,3.0,12.0,4.0,17.0,0.2353,False,2020.0,6.0,190.0,49ers,Georgia
+Antonio Gibson,RB,Patriots,2024,3.0,11.25,3.75,16.015853,0.2341,False,2020.0,3.0,66.0,Commanders,Memphis
+Damien Wilson,LB,Chiefs,2019,2.0,5.835,2.9175,12.5,0.2334,False,2015.0,4.0,127.0,Cowboys,Minnesota
+Hayden Hurst,TE,Bengals,2022,1.0,3.5,3.5,15.0,0.2333,False,2018.0,1.0,25.0,Ravens,South Carolina
+Maxx Williams,TE,Cardinals,2019,2.0,7.0,2.333333,10.0,0.2333,False,2015.0,2.0,55.0,Ravens,Minnesota
+O.J. Howard,TE,Bills,2022,1.0,3.5,3.5,15.0,0.2333,False,2017.0,1.0,19.0,Buccaneers,Alabama
+Durham Smythe,TE,Dolphins,2022,2.0,7.0,3.5,15.0,0.2333,False,2018.0,4.0,123.0,Dolphins,Notre Dame
+Marquise Brown,WR,Chiefs,2024,1.0,7.0,7.0,30.0,0.2333,False,2019.0,1.0,25.0,Ravens,Oklahoma
+J.K. Scott,P,Jaguars,2021,1.0,0.92,0.92,4.0,0.23,False,2018.0,5.0,172.0,Packers,Alabama
+Javon Kinlaw,IDL,Jets,2024,1.0,7.25,7.25,31.666667,0.2289,False,2020.0,1.0,14.0,49ers,South Carolina
+Lachlan Edwards,P,Bills,2020,1.0,0.91,0.91,4.0,0.2275,False,2016.0,7.0,235.0,Jets,Sam Houston State
+Jourdan Lewis,CB,Cowboys,2021,3.0,13.5,4.5,20.0,0.225,False,2017.0,3.0,92.0,Cowboys,Michigan
+Cameron Sutton,CB,Steelers,2021,2.0,9.0,4.5,20.0,0.225,False,2017.0,3.0,94.0,Steelers,Tennessee
+Darius Philon,IDL,Cardinals,2019,2.0,10.0,5.0,22.5,0.2222,False,2015.0,6.0,192.0,Chargers,Arkansas
+Haason Reddick,ED,Panthers,2021,1.0,6.0,6.0,27.0,0.2222,False,2017.0,1.0,13.0,Cardinals,Temple
+Malcom Brown,IDL,Saints,2019,3.0,15.0,5.0,22.5,0.2222,False,2015.0,1.0,32.0,Patriots,Texas
+Keanu Neal,LB,Cowboys,2021,1.0,4.0,4.0,18.0,0.2222,False,2016.0,1.0,17.0,Falcons,Florida
+Samson Ebukam,ED,49ers,2021,2.0,12.0,6.0,27.0,0.2222,False,2017.0,4.0,125.0,Rams,Eastern Washington
+Tedarrell Slaton,IDL,Bengals,2025,2.0,14.1,7.05,31.75,0.222,False,2021.0,5.0,173.0,Packers,Florida
+Raekwon Davis,IDL,Colts,2024,2.0,14.0,7.0,31.666667,0.2211,False,2020.0,2.0,56.0,Dolphins,Alabama
+Patrick Jones II,ED,Panthers,2025,2.0,15.0,7.5,34.0,0.2206,False,2021.0,3.0,90.0,Vikings,Pittsburgh
+Baron Browning,ED,Cardinals,2025,2.0,15.0,7.5,34.0,0.2206,False,2021.0,3.0,105.0,Broncos,Ohio State
+Bobby Brown III,IDL,Panthers,2025,3.0,21.0,7.0,31.75,0.2205,False,2021.0,4.0,117.0,Rams,Texas A&M
+Amik Robertson,CB,Lions,2024,2.0,9.25,4.625,21.0,0.2202,False,2020.0,4.0,139.0,Raiders,Louisiana Tech
+Braxton Berrios,WR,Jets,2022,2.0,12.0,6.0,27.25,0.2202,False,2018.0,6.0,210.0,Patriots,Miami
+Jaquan Brisker,S,Steelers,2026,1.0,5.5,5.5,25.1,0.2191,False,2022.0,2.0,48.0,Bears,Penn State
+Alexander Mattison,RB,Vikings,2023,2.0,7.0,3.5,16.015853,0.2185,False,2019.0,3.0,102.0,Vikings,Boise State
+Logan Hall,IDL,Texans,2026,2.0,13.75,6.875,31.75,0.2165,False,2022.0,2.0,33.0,Buccaneers,Houston
+Jeremy Chinn,S,Commanders,2024,1.0,4.105,4.105,19.0,0.2161,False,2020.0,2.0,64.0,Panthers,Southern Illinois
+Alex Armah,FB,Saints,2021,1.0,1.1275,1.1275,5.25,0.2148,False,2017.0,6.0,192.0,Panthers,West Georgia
+Rashod Bateman,WR,Ravens,2024,2.0,12.871897,6.435949,30.0,0.2145,False,2021.0,1.0,27.0,Ravens,Minnesota
+Dorance Armstrong Jr.,ED,Cowboys,2022,2.0,12.0,6.0,28.00275,0.2143,False,2018.0,4.0,116.0,Cowboys,Kansas
+James Hudson,RT,Giants,2025,2.0,12.0,6.0,28.125,0.2133,False,2021.0,4.0,110.0,Browns,Cincinnati
+Clayton Geathers,S,Colts,2019,1.0,2.75,2.75,13.0,0.2115,False,2015.0,4.0,109.0,Colts,Central Florida
+Josh Metellus,S,Vikings,2023,2.0,8.0,4.0,19.0,0.2105,False,2020.0,6.0,205.0,Vikings,Wyoming
+Nick Scott,S,Bengals,2023,3.0,12.0,4.0,19.0,0.2105,False,2019.0,7.0,243.0,Rams,Penn State
+Bradley Bozeman,C,Panthers,2022,1.0,2.8,2.8,13.5,0.2074,False,2018.0,6.0,215.0,Ravens,Alabama
+Deatrich Wise,ED,Patriots,2021,4.0,22.0,5.5,27.0,0.2037,False,2017.0,4.0,131.0,Patriots,Arkansas
+Tyus Bowser,ED,Ravens,2021,4.0,22.0,5.5,27.0,0.2037,False,2017.0,2.0,47.0,Ravens,Houston
+E.J. Speed,LB,Colts,2023,2.0,8.0,4.0,19.7,0.203,False,2019.0,5.0,164.0,Colts,Tarleton State
+Clayton Fejedelem,S,Dolphins,2020,3.0,8.55,2.85,14.1,0.2021,False,2016.0,7.0,245.0,Bengals,Illinois
+Hunter Bradley,LS,Cardinals,2022,1.0,0.2772,0.2772,1.375,0.2016,False,2018.0,7.0,239.0,Packers,Mississippi State
+Ahkello Witherspoon,CB,PIT/SEA,2021,1.0,4.0,4.0,20.0,0.2,False,2017.0,3.0,66.0,49ers,Colorado
+Isaiah McDuffie,LB,Packers,2025,2.0,8.0,4.0,20.0,0.2,False,2021.0,6.0,220.0,Packers,Boston College
+Jordan Phillips,IDL,Bills,2019,1.0,4.5,4.5,22.5,0.2,False,2015.0,2.0,52.0,Dolphins,Oklahoma
+Tim Settle,IDL,Bills,2022,2.0,9.0,4.5,22.5,0.2,False,2018.0,5.0,163.0,Commanders,Virginia Tech
+Devin White,LB,Eagles,2024,1.0,4.0,4.0,20.0,0.2,False,2019.0,1.0,5.0,Buccaneers,LSU
+Chris Wormley,IDL,Steelers,2021,2.0,4.5,4.5,22.5,0.2,False,2017.0,3.0,74.0,Ravens,Michigan
+Anthony Averett,CB,Raiders,2022,1.0,4.0,4.0,20.0,0.2,False,2018.0,4.0,118.0,Ravens,Alabama
+Matt Araiza,P,Chiefs,2024,1.0,0.795,0.795,4.0,0.1988,False,2022.0,6.0,180.0,Bills,San Diego State
+Tyler Matakevich,LB,Bills,2020,2.0,7.15,3.575,18.0,0.1986,False,2016.0,7.0,246.0,Steelers,Temple
+Kyler Fackrell,ED,Giants,2020,1.0,4.6,4.6,23.5,0.1957,False,2016.0,3.0,88.0,Packers,Utah State
+Julian Blackmon,S,Colts,2024,1.0,3.7,3.7,19.0,0.1947,False,2020.0,3.0,85.0,Colts,Utah
+Kingsley Enagbare,ED,Jets,2026,1.0,9.0,9.0,46.5,0.1935,False,2022.0,5.0,179.0,Packers,South Carolina
+Joseph Ossai,ED,Bengals,2025,1.0,6.5,6.5,34.0,0.1912,False,2021.0,3.0,69.0,Bengals,Texas
+Rock Ya-Sin,CB,Ravens,2023,1.0,4.0,4.0,21.0,0.1905,False,2019.0,2.0,34.0,Colts,Temple
+Jamaal Williams,RB,Lions,2021,2.0,6.0,3.0,16.015853,0.1873,False,2017.0,4.0,134.0,Packers,BYU
+Jahan Dotson,WR,Falcons,2026,2.0,15.0,7.5,40.25,0.1863,False,2022.0,1.0,16.0,Commanders,Penn State
+Dawuane Smoot,ED,Jaguars,2021,2.0,10.0,5.0,27.0,0.1852,False,2017.0,3.0,68.0,Jaguars,Illinois
+Nick Allegretti,C,Chiefs,2023,1.0,2.5825,2.5825,14.0,0.1845,False,2019.0,7.0,216.0,Chiefs,Illinois
+D.J. Wonnum,ED,Panthers,2024,2.0,12.5,6.25,34.0,0.1838,False,2020.0,4.0,117.0,Vikings,South Carolina
+Brandon Parker,RT,Raiders,2022,1.0,3.5,3.5,19.2,0.1823,False,2018.0,3.0,65.0,Raiders,North Carolina A&T
+Eli Apple,CB,Panthers,2020,1.0,3.0,3.0,16.7424,0.1792,False,2016.0,1.0,10.0,Giants,Ohio State
+Kevin Johnson,CB,Bills,2019,1.0,3.0,3.0,16.7424,0.1792,False,2015.0,1.0,16.0,Texans,Wake Forest
+Micah McFadden,LB,Giants,2026,1.0,3.75,3.75,21.0,0.1786,False,2022.0,5.0,146.0,Giants,Indiana
+D'Marco Jackson,LB,Bears,2026,2.0,7.5,3.75,21.0,0.1786,False,2022.0,5.0,161.0,Saints,Appalachian State
+Anthony Nelson,ED,Buccaneers,2023,2.0,10.0,5.0,28.00275,0.1786,False,2019.0,4.0,107.0,Buccaneers,Iowa
+Taven Bryan,IDL,Browns,2022,1.0,4.0,4.0,22.5,0.1778,False,2018.0,1.0,29.0,Jaguars,Florida
+Cody Barton,LB,Commanders,2023,1.0,3.5,3.5,19.7,0.1777,False,2019.0,3.0,88.0,Seahawks,Utah
+Devin Bush,LB,Seahawks,2023,1.0,3.5,3.5,19.7,0.1777,False,2019.0,1.0,10.0,Steelers,Michigan
+Karl Joseph,S,Browns,2020,1.0,2.5,2.5,14.1,0.1773,False,2016.0,1.0,14.0,Raiders,West Virginia
+Chauncey Golston,ED,Giants,2025,3.0,18.0,6.0,34.0,0.1765,False,2021.0,3.0,84.0,Cowboys,Iowa
+A.J. Epenesa,ED,Bills,2024,2.0,12.0,6.0,34.0,0.1765,False,2020.0,2.0,54.0,Bills,Iowa
+Nick Harris,C,Seahawks,2024,1.0,2.51,2.51,14.25,0.1761,False,2020.0,5.0,160.0,Browns,Washington
+Braxton Jones,LT,Bears,2026,1.0,5.0,5.0,28.5,0.1754,False,2022.0,5.0,168.0,Bears,Southern Utah
+Zack Baun,LB,Eagles,2024,1.0,3.5,3.5,20.0,0.175,False,2020.0,3.0,74.0,Saints,Wisconsin
+Jamal Agnew,WR,Jaguars,2021,3.0,14.25,4.75,27.25,0.1743,False,2017.0,5.0,165.0,Lions,San Diego
+Devin Singletary,RB,Texans,2023,1.0,2.75,2.75,16.015853,0.1717,False,2019.0,3.0,74.0,Bills,Florida Atlantic
+DeeJay Dallas,RB,Cardinals,2024,3.0,8.25,2.75,16.015853,0.1717,False,2020.0,4.0,144.0,Seahawks,Miami
+A.J. Dillon,RB,Packers,2024,1.0,2.7425,2.7425,16.015853,0.1712,False,2020.0,2.0,62.0,Packers,Boston College
+Jordan Fuller,S,Panthers,2024,1.0,3.25,3.25,19.0,0.1711,False,2020.0,6.0,199.0,Rams,Ohio State
+Joe Dahl,LG,Lions,2019,2.0,4.5,2.25,13.3,0.1692,False,2016.0,5.0,151.0,Lions,Washington State
+Zaire Franklin,LB,Colts,2022,3.0,10.0,3.333333,19.7,0.1692,False,2018.0,7.0,235.0,Colts,Syracuse
+Johnny Townsend,P,Ravens,2020,1.0,0.675,0.675,4.0,0.1688,False,2018.0,5.0,173.0,Raiders,Florida
+Michael Burton,FB,Bears,2017,4.0,2.464356,0.616089,3.675667,0.1676,False,2015.0,5.0,168.0,Lions,Rutgers
+Kamu Grugier-Hill,LB,Dolphins,2020,1.0,3.0,3.0,18.0,0.1667,False,2016.0,6.0,208.0,Patriots,Eastern Illinois
+Sean Murphy-Bunting,CB,Titans,2023,1.0,3.5,3.5,21.0,0.1667,False,2019.0,2.0,39.0,Buccaneers,Central Michigan
+Anthony Walker Jr.,LB,Browns,2021,1.0,3.0,3.0,18.0,0.1667,False,2017.0,5.0,161.0,Colts,Northwestern
+Broderick Washington,IDL,Ravens,2023,3.0,15.75,5.25,31.666667,0.1658,False,2020.0,5.0,170.0,Ravens,Texas Tech
+Joe Haeg,RG,Buccaneers,2020,1.0,2.3,2.3,14.05,0.1637,False,2016.0,5.0,155.0,Colts,North Dakota State
+Jeff Gladney,CB,Cardinals,2022,2.0,6.5,3.25,20.0,0.1625,False,2020.0,1.0,31.0,Vikings,TCU
+Vederian Lowe,LT,49ers,2026,2.0,9.25,4.625,28.5,0.1623,False,2022.0,6.0,184.0,Vikings,Illinois
+Cullen Gillaspia,FB,Giants,2021,1.0,0.85,0.85,5.25,0.1619,False,2019.0,7.0,220.0,Texans,Texas A&M
+Jacob Martin,ED,Jets,2022,3.0,13.5,4.5,28.00275,0.1607,False,2018.0,6.0,186.0,Seahawks,Temple
+Jordan Jenkins,ED,Jets,2020,1.0,3.75,3.75,23.5,0.1596,False,2016.0,3.0,83.0,Jets,Georgia
+Markus Golden,ED,Giants,2019,1.0,3.75,3.75,23.5,0.1596,False,2015.0,2.0,58.0,Cardinals,Missouri
+Dane Belton,S,Jets,2026,1.0,4.0,4.0,25.1,0.1594,False,2022.0,4.0,114.0,Giants,Iowa
+Mike Edwards,S,Chiefs,2023,1.0,3.0,3.0,19.0,0.1579,False,2019.0,3.0,99.0,Buccaneers,Kentucky
+Javonte Williams,RB,Cowboys,2025,1.0,3.0,3.0,19.0,0.1579,False,2021.0,2.0,35.0,Broncos,North Carolina
+Keion Crossen,CB,Dolphins,2022,3.0,9.45,3.15,20.0,0.1575,False,2018.0,7.0,243.0,Patriots,Western Carolina
+Drew Kaser,P,Packers,2018,1.0,0.63,0.63,4.0,0.1575,False,2016.0,6.0,179.0,Chargers,Texas A&M
+Takkarist McKinley,ED,Browns,2021,1.0,4.25,4.25,27.0,0.1574,False,2017.0,1.0,26.0,Falcons,UCLA
+Parris Campbell,WR,Giants,2023,1.0,4.7,4.7,30.0,0.1567,False,2019.0,2.0,59.0,Colts,Ohio State
+Sam Sloman,K,Steelers,2021,1.0,0.78,0.78,5.0,0.156,False,2020.0,7.0,248.0,Rams,Miami (OH)
+Blake Countess,S,Eagles,2019,1.0,2.025,2.025,13.0,0.1558,False,2016.0,6.0,196.0,Eagles,Auburn
+D.J. Jones,IDL,49ers,2021,1.0,3.5,3.5,22.5,0.1556,False,2017.0,6.0,198.0,49ers,Mississippi
+Andrew Billings,IDL,Browns,2020,1.0,3.5,3.5,22.5,0.1556,False,2016.0,4.0,122.0,Bengals,Baylor
+Matt Gay,K,Rams,2020,2.0,1.525,0.7625,5.0,0.1525,False,2019.0,5.0,145.0,Buccaneers,Utah
+Kyzir White,LB,Eagles,2022,1.0,3.0,3.0,19.7,0.1523,False,2018.0,4.0,119.0,Chargers,West Virginia
+Drue Tranquill,LB,Chiefs,2023,1.0,3.0,3.0,19.7,0.1523,False,2019.0,4.0,130.0,Chargers,Notre Dame
+Ja'Whaun Bentley,LB,Patriots,2022,2.0,6.0,3.0,19.7,0.1523,False,2018.0,5.0,143.0,Patriots,Purdue
+Max Garcia,LG,Cardinals,2019,1.0,2.0,2.0,13.3,0.1504,False,2015.0,4.0,133.0,Broncos,Florida
+"Willie Gay, Jr.",LB,Saints,2024,1.0,3.0,3.0,20.0,0.15,False,2020.0,2.0,63.0,Chiefs,Mississippi State
+Nick Niemann,LB,Texans,2025,2.0,6.0,3.0,20.0,0.15,False,2021.0,6.0,185.0,Chargers,Iowa
+Desmond King,CB,Texans,2021,1.0,3.0,3.0,20.0,0.15,False,2017.0,5.0,151.0,Chargers,Iowa
+Siran Neal,CB,Bills,2022,3.0,9.0,3.0,20.0,0.15,False,2018.0,5.0,154.0,Bills,Jacksonville State
+Ben Bredeson,LG,Buccaneers,2024,1.0,3.0,3.0,20.0,0.15,False,2020.0,4.0,143.0,Ravens,Michigan
+Kristian Fulton,CB,Chargers,2024,1.0,3.125,3.125,21.0,0.1488,False,2020.0,2.0,61.0,Titans,LSU
+Teven Jenkins,RG,Browns,2025,1.0,3.05,3.05,20.5,0.1488,False,2021.0,2.0,39.0,Bears,Oklahoma State
+Nick Bawden,FB,Jets,2021,1.0,0.78,0.78,5.25,0.1486,False,2018.0,7.0,237.0,Lions,San Diego State
+Hunter Long,TE,Jaguars,2025,2.0,5.0,2.5,17.125,0.146,False,2021.0,3.0,81.0,Dolphins,Boston College
+Eric Stokes,CB,Raiders,2025,1.0,3.5,3.5,24.1,0.1452,False,2021.0,1.0,29.0,Packers,Georgia
+Terrell Edmunds,S,Steelers,2022,1.0,2.5375,2.5375,17.5,0.145,False,2018.0,1.0,28.0,Steelers,Virginia Tech
+Cade York,K,Giants,2023,1.0,0.87,0.87,6.0,0.145,False,2022.0,4.0,124.0,Browns,LSU
+Solomon Thomas,IDL,Raiders,2021,1.0,3.25,3.25,22.5,0.1444,False,2017.0,1.0,3.0,49ers,Stanford
+Ashtyn Davis,S,Jets,2024,1.0,2.7425,2.7425,19.0,0.1443,False,2020.0,3.0,68.0,Jets,California
+Jayron Kearse,S,Lions,2020,1.0,2.0,2.0,14.1,0.1418,False,2016.0,7.0,244.0,Vikings,Clemson
+Miles Killebrew,S,Lions,2020,1.0,2.0,2.0,14.1,0.1418,False,2016.0,4.0,111.0,Lions,Southern Utah
+Devin Duvernay,WR,Jaguars,2024,2.0,8.5,4.25,30.0,0.1417,False,2020.0,3.0,92.0,Ravens,Texas
+Justice Hill,RB,Ravens,2023,2.0,4.51,2.255,16.015853,0.1408,False,2019.0,4.0,113.0,Ravens,Oklahoma State
+Matt Hennessy,C,Eagles,2024,1.0,2.0,2.0,14.25,0.1404,False,2020.0,3.0,78.0,Falcons,Temple
+Rasheed Walker,LT,Panthers,2026,1.0,4.0,4.0,28.5,0.1404,False,2022.0,7.0,249.0,Packers,Penn State
+Joe Tryon-Shoyinka,ED,CHI/CLE,2025,1.0,4.75,4.75,34.0,0.1397,False,2021.0,1.0,32.0,Buccaneers,Washington
+Zane Gonzalez,K,Cardinals,2018,2.0,1.2,0.6,4.3,0.1395,False,2017.0,7.0,224.0,Browns,Arizona State
+Dalton Risner,LG,Vikings,2023,1.0,2.78125,2.78125,20.0,0.1391,False,2019.0,2.0,41.0,Broncos,Kansas State
+Mekhi Becton,RT,Eagles,2024,1.0,2.75,2.75,20.0,0.1375,False,2020.0,1.0,11.0,Jets,Louisville
+Aaron Ripkowski,FB,Chiefs,2019,1.0,0.72,0.72,5.25,0.1371,False,2015.0,6.0,206.0,Packers,Oklahoma
+Akeem Davis-Gaither,LB,Bengals,2024,1.0,2.7425,2.7425,20.0,0.1371,False,2020.0,4.0,107.0,Bengals,Appalachian State
+Malik Harrison,LB,Ravens,2024,1.0,2.7425,2.7425,20.0,0.1371,False,2020.0,3.0,98.0,Ravens,Ohio State
+Will Harris,S,Lions,2023,1.0,2.5825,2.5825,19.0,0.1359,False,2019.0,3.0,81.0,Lions,Boston College
+Olisaemeka Udoh,RT,Vikings,2023,1.0,2.5825,2.5825,19.2,0.1345,False,2019.0,6.0,193.0,Vikings,Elon
+P.J. Williams,CB,Saints,2019,1.0,2.25,2.25,16.7424,0.1344,False,2015.0,3.0,78.0,Saints,Florida State
+John Cominsky,IDL,Lions,2023,2.0,8.5,4.25,31.666667,0.1342,False,2019.0,4.0,135.0,Falcons,Charleston
+Leonard Fournette,RB,Buccaneers,2020,1.0,2.0,2.0,15.0,0.1333,False,2017.0,1.0,4.0,Jaguars,LSU
+K.J. Osborn,WR,WAS/NE,2024,1.0,4.0,4.0,30.0,0.1333,False,2020.0,5.0,176.0,Vikings,Miami
+B.J. Goodson,LB,Browns,2020,1.0,2.4,2.4,18.0,0.1333,False,2016.0,4.0,109.0,Giants,Clemson
+Nick Vigil,LB,Chargers,2020,1.0,2.4,2.4,18.0,0.1333,False,2016.0,3.0,87.0,Bengals,Utah State
+Mecole Hardman,WR,KC/NYJ,2023,1.0,4.0,4.0,30.0,0.1333,False,2019.0,2.0,56.0,Chiefs,Georgia
+Cobie Durant,CB,Cowboys,2026,1.0,4.0,4.0,30.1,0.1329,False,2022.0,4.0,142.0,Rams,South Carolina State
+Brady Christensen,LG,Panthers,2025,1.0,2.7875,2.7875,21.0,0.1327,False,2021.0,3.0,70.0,Panthers,BYU
+Daniel Carlson,K,Raiders,2019,1.0,0.57,0.57,4.3,0.1326,False,2018.0,5.0,167.0,Vikings,Auburn
+Justin Rohrwasser,K,Patriots,2021,1.0,0.66,0.66,5.0,0.132,False,2020.0,5.0,159.0,Patriots,Marshall
+Elijah Mitchell,RB,Chiefs,2025,1.0,2.5,2.5,19.0,0.1316,False,2021.0,6.0,194.0,49ers,Louisiana-Lafayette
+Sione Takitaki,LB,Browns,2023,1.0,2.5825,2.5825,19.7,0.1311,False,2019.0,3.0,80.0,Browns,BYU
+Malcolm Rodriguez,LB,Lions,2026,1.0,2.75,2.75,21.0,0.131,False,2022.0,6.0,188.0,Lions,Oklahoma State
+Christian Harris,LB,Falcons,2026,1.0,2.75,2.75,21.0,0.131,False,2022.0,3.0,75.0,Texans,Alabama
+Ben Mason,FB,Ravens,2022,1.0,0.705,0.705,5.4,0.1306,False,2021.0,5.0,184.0,Ravens,Michigan
+Jalen Reeves-Maybin,LB,Lions,2021,1.0,2.3375,2.3375,18.0,0.1299,False,2017.0,4.0,124.0,Lions,Tennessee
+Khalen Saunders,IDL,NO/JAX,2023,3.0,12.3,4.1,31.666667,0.1295,False,2019.0,3.0,84.0,Chiefs,Western Illinois
+Dan Vitale,FB,Packers,2018,2.0,1.35,0.675,5.25,0.1286,False,2016.0,6.0,197.0,Buccaneers,Northwestern
+M.J. Stewart,S,Texans,2022,1.0,2.25,2.25,17.5,0.1286,False,2018.0,2.0,53.0,Buccaneers,North Carolina
+Chris Conley,WR,Jaguars,2019,2.0,4.595,2.2975,18.0,0.1276,False,2015.0,3.0,76.0,Chiefs,Georgia
+Oren Burks,LB,49ers,2022,2.0,5.0,2.5,19.7,0.1269,False,2018.0,3.0,88.0,Packers,Vanderbilt
+Levi Onwuzurike,IDL,Lions,2025,1.0,4.0,4.0,31.75,0.126,False,2021.0,2.0,41.0,Lions,Washington
+Lorenzo Carter,ED,Falcons,2022,1.0,3.5,3.5,28.00275,0.125,False,2018.0,3.0,66.0,Giants,Georgia
+Chris Paul,LG,Commanders,2026,1.0,3.0,3.0,24.0,0.125,False,2022.0,7.0,230.0,Commanders,Tulsa
+Travis Homer,RB,Bears,2023,2.0,4.0,2.0,16.015853,0.1249,False,2019.0,6.0,204.0,Seahawks,Miami
+Marlon Mack,RB,Colts,2021,1.0,2.0,2.0,16.015853,0.1249,False,2017.0,4.0,143.0,Colts,South Florida
+Kevin Dotson,RG,Rams,2023,1.0,2.25,2.25,18.036,0.1248,False,2020.0,4.0,135.0,Steelers,Louisiana-Lafayette
+Brandin Echols,CB,Steelers,2025,2.0,6.0,3.0,24.1,0.1245,False,2021.0,6.0,200.0,Jets,Kentucky
+Ifeatu Melifonwu,CB,Dolphins,2025,1.0,3.0,3.0,24.1,0.1245,False,2021.0,3.0,101.0,Lions,Syracuse
+Cordell Volson,LG,Bengals,2025,1.0,2.6,2.6,21.0,0.1238,False,2022.0,4.0,136.0,Bengals,North Dakota State
+Liam Eichenberg,C,Dolphins,2025,1.0,2.225,2.225,18.0,0.1236,False,2021.0,2.0,42.0,Dolphins,Notre Dame
+Brevin Jordan,TE,Texans,2024,1.0,2.1,2.1,17.0,0.1235,False,2021.0,5.0,147.0,Texans,Miami
+Trevor Penning,LT,Chargers,2026,1.0,3.5,3.5,28.5,0.1228,False,2022.0,1.0,19.0,Saints,Northern Iowa
+Joey Iosefa,FB,Patriots,2016,1.0,0.45,0.45,3.675667,0.1224,False,2015.0,7.0,231.0,Buccaneers,Hawaii
+Derrick Nnadi,IDL,Chiefs,2022,1.0,2.75,2.75,22.5,0.1222,False,2018.0,3.0,75.0,Chiefs,Florida State
+Micheal Clemons,ED,Colts,2026,3.0,17.0,5.666667,46.5,0.1219,False,2022.0,4.0,117.0,Jets,Texas A&M
+Nick O'Leary,TE,Dolphins,2018,1.0,1.2,1.2,10.0,0.12,False,2015.0,6.0,194.0,Bills,Florida State
+Isaiah Wynn,RT,Dolphins,2023,1.0,2.3,2.3,19.2,0.1198,False,2018.0,1.0,23.0,Patriots,Georgia
+Yodny Cajuste,LT,Patriots,2023,1.0,2.743,2.743,23.01,0.1192,False,2019.0,3.0,101.0,Patriots,West Virginia
+Isaiah Oliver,CB,Falcons,2022,1.0,2.385,2.385,20.0,0.1192,False,2018.0,2.0,58.0,Falcons,Colorado
+Xavier Woods,S,Vikings,2021,1.0,1.75,1.75,14.75,0.1186,False,2017.0,6.0,191.0,Cowboys,Louisiana Tech
+Andrew Ogletree,TE,Colts,2026,1.0,2.25,2.25,19.1,0.1178,False,2022.0,6.0,192.0,Colts,Youngstown State
+Connor Heyward,TE,Raiders,2026,2.0,4.5,2.25,19.1,0.1178,False,2022.0,6.0,208.0,Steelers,Michigan State
+Anfernee Jennings,ED,Patriots,2024,3.0,12.0,4.0,34.0,0.1176,False,2020.0,3.0,87.0,Patriots,Alabama
+Mark Glowinski,RG,Colts,2018,1.0,1.4,1.4,12.0,0.1167,False,2015.0,4.0,134.0,Seahawks,West Virginia
+Ogbonnia Okoronkwo,ED,Texans,2022,1.0,3.25,3.25,28.00275,0.1161,False,2018.0,5.0,160.0,Rams,Oklahoma
+Jabrill Peppers,S,Patriots,2022,1.0,2.0,2.0,17.5,0.1143,False,2017.0,1.0,25.0,Browns,Michigan
+Royce Newman,LG,GB/TB,2024,1.0,2.25,2.25,20.0,0.1125,False,2021.0,4.0,142.0,Packers,Mississippi
+Mike Hughes,CB,Lions,2022,1.0,2.25,2.25,20.0,0.1125,False,2018.0,1.0,30.0,Vikings,Central Florida
+Joshua Williams,CB,Titans,2026,2.0,6.75,3.375,30.1,0.1121,False,2022.0,4.0,135.0,Chiefs,Fayetteville State
+James O'Shaughnessy,TE,Jaguars,2019,2.0,2.225,1.1125,10.0,0.1112,False,2015.0,5.0,173.0,Chiefs,Illinois State
+Elandon Roberts,LB,Dolphins,2020,1.0,2.0,2.0,18.0,0.1111,False,2016.0,6.0,214.0,Patriots,Houston
+Spencer Burford,RG,49ers,2025,1.0,2.275,2.275,20.5,0.111,False,2022.0,4.0,134.0,49ers,UTSA
+Mason Rudolph,QB,Steelers,2021,1.0,4.985199,4.985199,45.0,0.1108,False,2018.0,3.0,76.0,Steelers,Oklahoma State
+Greg Gaines,IDL,Buccaneers,2023,1.0,3.5,3.5,31.666667,0.1105,False,2019.0,4.0,134.0,Rams,Washington
+Damien Harris,RB,Bills,2023,1.0,1.77,1.77,16.015853,0.1105,False,2019.0,3.0,87.0,Patriots,Alabama
+Tre'Quan Smith,WR,Saints,2022,2.0,6.0,3.0,27.25,0.1101,False,2018.0,3.0,91.0,Saints,Central Florida
+T.J. Yeldon,RB,Bills,2019,2.0,3.2,1.6,14.544,0.11,False,2015.0,2.0,36.0,Jaguars,Alabama
+James Conner,RB,Cardinals,2021,1.0,1.75,1.75,16.015853,0.1093,False,2017.0,3.0,105.0,Steelers,Pittsburgh
+Sony Michel,RB,Dolphins,2022,1.0,1.75,1.75,16.015853,0.1093,False,2018.0,1.0,31.0,Patriots,Georgia
+Sam Tevi,LT,Colts,2021,1.0,2.51,2.51,23.0,0.1091,False,2017.0,6.0,190.0,Chargers,Utah
+Jerry Tillery,IDL,Raiders,2023,2.0,6.8,3.4,31.666667,0.1074,False,2019.0,1.0,28.0,Chargers,Notre Dame
+Damarious Randall,S,Raiders,2020,1.0,1.5,1.5,14.1,0.1064,False,2015.0,1.0,30.0,Packers,Arizona State
+Will Parks,S,Eagles,2020,1.0,1.5,1.5,14.1,0.1064,False,2016.0,6.0,219.0,Broncos,Arizona
+Clyde Edwards-Helaire,RB,Chiefs,2024,1.0,1.7,1.7,16.015853,0.1061,False,2020.0,1.0,32.0,Chiefs,LSU
+Daniel Thomas,S,Jaguars,2024,2.0,4.0,2.0,19.0,0.1053,False,2020.0,5.0,157.0,Jaguars,Auburn
+Rudy Ford,CB,Jaguars,2021,2.0,4.2,2.1,20.0,0.105,False,2017.0,6.0,208.0,Cardinals,Auburn
+Seth DeValve,TE,Panthers,2020,1.0,1.0475,1.0475,10.0,0.1048,False,2016.0,4.0,138.0,Browns,Princeton
+Marco Wilson,CB,CIN/NE,2024,1.0,2.2,2.2,21.0,0.1048,False,2021.0,4.0,136.0,Cardinals,Florida
+Grant Calcaterra,TE,Eagles,2026,1.0,2.0,2.0,19.1,0.1047,False,2022.0,6.0,198.0,Eagles,SMU
+Jason Pinnock,S,49ers,2025,1.0,2.2,2.2,21.025,0.1046,False,2021.0,5.0,175.0,Jets,Pittsburgh
+Ryan Smith,CB,Buccaneers,2020,1.0,1.75,1.75,16.7424,0.1045,False,2016.0,4.0,108.0,Buccaneers,North Carolina Central
+Mario Edwards Jr.,IDL,Saints,2019,2.0,4.7,2.35,22.5,0.1044,False,2015.0,2.0,35.0,Raiders,Florida State
+Demarcus Robinson,WR,Chiefs,2020,1.0,2.2975,2.2975,22.0,0.1044,False,2016.0,4.0,126.0,Chiefs,Florida
+Jamarco Jones,LT,Titans,2022,2.0,4.8,2.4,23.01,0.1043,False,2018.0,5.0,168.0,Seahawks,Ohio State
+Will Richardson,RT,Jaguars,2022,1.0,2.0,2.0,19.2,0.1042,False,2018.0,4.0,129.0,Jaguars,North Carolina State
+Benjamin St-Juste,CB,Chargers,2025,1.0,2.5,2.5,24.1,0.1037,False,2021.0,3.0,74.0,Commanders,Minnesota
+Elijah Hicks,S,Bears,2026,1.0,2.6,2.6,25.1,0.1036,False,2022.0,7.0,254.0,Bears,California
+Irv Smith Jr.,TE,Bengals,2023,1.0,1.75,1.75,17.0,0.1029,False,2019.0,2.0,50.0,Vikings,Alabama
+Harrison Bryant,TE,Browns,2023,1.0,1.75,1.75,17.0,0.1029,False,2020.0,4.0,115.0,Browns,Florida Atlantic
+Charlie Heck,RT,Texans,2024,1.0,2.05,2.05,20.0,0.1025,False,2020.0,4.0,126.0,Texans,North Carolina
+Percy Butler,S,Commanders,2025,1.0,2.15,2.15,21.025,0.1023,False,2022.0,4.0,113.0,Commanders,Louisiana-Lafayette
+Kylen Granson,TE,Eagles,2025,1.0,1.75,1.75,17.125,0.1022,False,2021.0,4.0,127.0,Colts,SMU
+Tarell Basham,ED,Cowboys,2021,2.0,5.5,2.75,27.0,0.1019,False,2017.0,3.0,80.0,Colts,Ohio
+Leighton Vander Esch,LB,Cowboys,2022,1.0,2.0,2.0,19.7,0.1015,False,2018.0,1.0,19.0,Cowboys,Boise State
+LeShaun Sims,CB,Bengals,2020,1.0,1.7,1.7,16.7424,0.1015,False,2016.0,5.0,157.0,Titans,Southern Utah
+J.K. Dobbins,RB,Chargers,2024,1.0,1.61,1.61,16.015853,0.1005,False,2020.0,2.0,55.0,Ravens,Ohio State
+Sam Rogers,FB,Rams,2018,2.0,1.05,0.525,5.25,0.1,False,2017.0,6.0,206.0,Rams,Virginia Tech
+David Mayo,LB,49ers,2019,2.0,2.5,1.25,12.5,0.1,False,2015.0,5.0,169.0,Panthers,Texas State
+Zach Wilson,QB,Dolphins,2025,1.0,6.0,6.0,60.0,0.1,False,2021.0,1.0,2.0,Jets,BYU
+Jarrett Stidham,QB,Broncos,2023,2.0,10.0,5.0,50.271667,0.0995,False,2019.0,4.0,133.0,Patriots,Auburn
+Deon Bush,S,Bears,2020,1.0,1.4,1.4,14.1,0.0993,False,2016.0,4.0,124.0,Bears,Miami
+Rasheem Green,ED,Texans,2022,1.0,2.75,2.75,28.00275,0.0982,False,2018.0,3.0,79.0,Seahawks,USC
+Marquis Haynes,ED,Panthers,2022,2.0,5.5,2.75,28.00275,0.0982,False,2018.0,4.0,136.0,Panthers,Mississippi
+Ronald Blair,ED,49ers,2020,1.0,2.2975,2.2975,23.5,0.0978,False,2016.0,5.0,142.0,,Appalachian State
+Alex Anzalone,LB,Lions,2021,1.0,1.75,1.75,18.0,0.0972,False,2017.0,3.0,76.0,Saints,Florida
+Rachaad White,RB,Commanders,2026,1.0,2.0,2.0,20.6,0.0971,False,2022.0,3.0,91.0,Buccaneers,Arizona State
+Dennis Daley,RG,TEN/CAR,2022,1.0,1.75,1.75,18.036,0.097,False,2019.0,6.0,212.0,Panthers,South Carolina
+Josh Shaw,S,Chiefs,2018,1.0,1.25,1.25,13.0,0.0962,False,2015.0,4.0,120.0,Bengals,USC
+Conor McDermott,RG,Jets,2020,1.0,1.35,1.35,14.05,0.0961,False,2017.0,6.0,211.0,Patriots,UCLA
+Kamalei Correa,ED,Titans,2020,1.0,2.25,2.25,23.5,0.0957,False,2016.0,2.0,42.0,Ravens,Boise State
+C.J. Henderson,CB,Texans,2024,1.0,2.0,2.0,21.0,0.0952,False,2020.0,1.0,9.0,Jaguars,Florida
+Damar Hamlin,S,Bills,2025,1.0,2.0,2.0,21.025,0.0951,False,2021.0,6.0,212.0,Bills,Pittsburgh
+Andrew Van Ginkel,ED,Dolphins,2023,1.0,2.65,2.65,28.00275,0.0946,False,2019.0,5.0,151.0,Dolphins,Wisconsin
+Kenneth Gainwell,RB,Steelers,2025,1.0,1.79,1.79,19.0,0.0942,False,2021.0,5.0,150.0,Eagles,Memphis
+Ronald Jones II,RB,Chiefs,2022,1.0,1.5,1.5,16.015853,0.0937,False,2018.0,2.0,38.0,Buccaneers,USC
+Taylor Rapp,S,Bills,2023,1.0,1.77,1.77,19.0,0.0932,False,2019.0,2.0,61.0,Rams,Washington
+Arnold Ebiketie,ED,Eagles,2026,1.0,4.3,4.3,46.5,0.0925,False,2022.0,2.0,38.0,Falcons,Penn State
+Tre Flowers,CB,Bengals,2022,1.0,1.85,1.85,20.0,0.0925,False,2018.0,5.0,146.0,Seahawks,Oklahoma State
+Darrell Taylor,ED,SEA/CHI,2024,1.0,3.136,3.136,34.0,0.0922,False,2020.0,2.0,48.0,Seahawks,Tennessee
+Jerome Ford,RB,Browns,2025,1.0,1.75,1.75,19.0,0.0921,False,2022.0,5.0,156.0,Browns,Cincinnati
+Zay Jones,WR,Raiders,2021,1.0,2.5,2.5,27.25,0.0917,False,2017.0,2.0,37.0,Bills,East Carolina
+Blake Cashman,LB,Texans,2022,1.0,1.8,1.8,19.7,0.0914,False,2019.0,5.0,157.0,Jets,Minnesota
+Cody Core,WR,Giants,2020,2.0,4.0,2.0,22.0,0.0909,False,2016.0,6.0,199.0,Bengals,Mississippi
+Tyquan Lewis,ED,Colts,2022,1.0,2.545,2.545,28.00275,0.0909,False,2018.0,2.0,64.0,Colts,Ohio State
+John Ridgeway,IDL,Saints,2026,2.0,5.715,2.8575,31.75,0.09,False,2022.0,5.0,178.0,Cowboys,Arkansas
+"Jermaine Carter, Jr.",LB,Chiefs,2022,1.0,1.77,1.77,19.7,0.0898,False,2018.0,5.0,161.0,Panthers,Maryland
+Jack Driscoll,RT,Dolphins,2024,1.0,1.79,1.79,20.0,0.0895,False,2020.0,4.0,145.0,Eagles,Auburn
+Sam Darnold,QB,49ers,2023,1.0,4.5,4.5,50.271667,0.0895,False,2018.0,1.0,3.0,Jets,USC
+Troy Dye,LB,Chargers,2024,1.0,1.79,1.79,20.0,0.0895,False,2020.0,4.0,132.0,Vikings,Oregon
+Clelin Ferrell,ED,49ers,2023,1.0,2.5,2.5,28.00275,0.0893,False,2019.0,1.0,4.0,Raiders,Clemson
+Bobby Hart,RT,Bengals,2018,1.0,1.005,1.005,11.25,0.0893,False,2015.0,7.0,226.0,Giants,Florida State
+Carl Davis,IDL,Browns,2019,1.0,2.0,2.0,22.5,0.0889,False,2015.0,3.0,90.0,Ravens,Iowa
+Larry Borom,RT,Dolphins,2025,1.0,2.5,2.5,28.125,0.0889,False,2021.0,5.0,151.0,Bears,Missouri
+Rashaan Evans,LB,Falcons,2022,1.0,1.75,1.75,19.7,0.0888,False,2018.0,1.0,22.0,Titans,Alabama
+David Edwards,LG,Bills,2023,1.0,1.77,1.77,20.0,0.0885,False,2019.0,5.0,169.0,Rams,Wisconsin
+Azeez Ojulari,ED,Eagles,2025,1.0,3.0,3.0,34.0,0.0882,False,2021.0,2.0,50.0,Giants,Georgia
+Joshua Uche,ED,NE/KC,2024,1.0,3.0,3.0,34.0,0.0882,False,2020.0,2.0,60.0,Patriots,Michigan
+Adam Trautman,TE,Broncos,2023,1.0,1.5,1.5,17.0,0.0882,False,2020.0,3.0,105.0,Saints,Dayton
+Scott Quessenberry,C,Texans,2022,1.0,1.1875,1.1875,13.5,0.088,False,2018.0,5.0,155.0,Chargers,UCLA
+Isiah Pacheco,RB,Lions,2026,1.0,1.81,1.81,20.6,0.0879,False,2022.0,7.0,251.0,Chiefs,Rutgers
+Ta'Quon Graham,IDL,Falcons,2025,1.0,2.7875,2.7875,31.75,0.0878,False,2021.0,5.0,148.0,Falcons,Texas
+Otito Ogbonnia,IDL,Cowboys,2026,1.0,2.75,2.75,31.75,0.0866,False,2022.0,5.0,160.0,Chargers,UCLA
+Ko Kieft,TE,Buccaneers,2026,1.0,1.65,1.65,19.1,0.0864,False,2022.0,6.0,218.0,Buccaneers,Minnesota
+Grant Stuard,LB,Lions,2025,1.0,1.7,1.7,20.0,0.085,False,2021.0,7.0,259.0,Buccaneers,Houston
+Jake Fisher,TE,Bills,2019,1.0,0.85,0.85,10.0,0.085,False,2015.0,2.0,53.0,Bengals,Oregon
+Jordan Thomas,TE,Cardinals,2020,2.0,1.67,0.835,10.0,0.0835,False,2018.0,6.0,211.0,Texans,Mississippi State
+Luke Fortner,C,JAX/NO,2025,1.0,1.5,1.5,18.0,0.0833,False,2022.0,3.0,65.0,Jaguars,Kentucky
+Tanoh Kpassagnon,ED,Saints,2021,2.0,4.5,2.25,27.0,0.0833,False,2017.0,2.0,59.0,Chiefs,Villanova
+Max Mitchell,LG,Jets,2026,1.0,2.0,2.0,24.0,0.0833,False,2022.0,4.0,111.0,Jets,Louisiana-Lafayette
+Kevin White,WR,Cardinals,2019,1.0,1.5,1.5,18.0,0.0833,False,2015.0,1.0,7.0,Bears,West Virginia
+Israel Mukuamu,S,Cowboys,2025,1.0,1.75,1.75,21.025,0.0832,False,2021.0,6.0,227.0,Cowboys,South Carolina
+Landon Young,RT,Saints,2025,1.0,2.3275,2.3275,28.125,0.0828,False,2021.0,6.0,206.0,Saints,Kentucky
+John Ross,WR,Giants,2021,1.0,2.25,2.25,27.25,0.0826,False,2017.0,1.0,9.0,Bengals,Washington
+Albert Okwuegbunam,TE,Eagles,2024,1.0,1.4,1.4,17.0,0.0824,False,2020.0,4.0,118.0,Broncos,Missouri
+Zach Gentry,TE,Steelers,2023,1.0,1.4,1.4,17.0,0.0824,False,2019.0,5.0,141.0,Steelers,Michigan
+Phillip Dorsett,WR,Patriots,2018,1.0,1.394373,1.394373,17.0,0.082,False,2015.0,1.0,29.0,Colts,Miami
+Mack Wilson,LB,Patriots,2023,1.0,1.6,1.6,19.7,0.0812,False,2019.0,5.0,155.0,Browns,Alabama
+Dillon Radunz,RT,Saints,2025,1.0,2.25,2.25,28.125,0.08,False,2021.0,2.0,53.0,Titans,North Dakota State
+Drew Lock,QB,Seahawks,2023,1.0,4.0,4.0,50.271667,0.0796,False,2019.0,2.0,42.0,Broncos,Missouri
+Cedric Ogbuehi,RT,Jaguars,2019,1.0,0.895,0.895,11.25,0.0796,False,2015.0,1.0,21.0,Bengals,Texas A&M
+Vernon Hargreaves,CB,Texans,2020,1.0,1.325,1.325,16.7424,0.0791,False,2016.0,1.0,11.0,Buccaneers,Florida
+Leki Fotu,IDL,Jets,2024,1.0,2.5,2.5,31.666667,0.0789,False,2020.0,4.0,114.0,Cardinals,Utah
+K'Von Wallace,S,Seahawks,2024,1.0,1.5,1.5,19.0,0.0789,False,2020.0,4.0,127.0,Eagles,Clemson
+Caleb Benenoch,RG,NE/CAR,2019,1.0,1.1,1.1,14.0,0.0786,False,2016.0,5.0,148.0,Buccaneers,UCLA
+Sheldon Day,IDL,Colts,2020,1.0,1.75,1.75,22.5,0.0778,False,2016.0,4.0,103.0,Jaguars,Notre Dame
+Christian Covington,IDL,Cowboys,2019,1.0,1.75,1.75,22.5,0.0778,False,2015.0,6.0,216.0,Texans,Rice
+Carlos Watkins,IDL,Cowboys,2021,1.0,1.75,1.75,22.5,0.0778,False,2017.0,4.0,142.0,Texans,Clemson
+Rodney Gunter,IDL,Cardinals,2019,1.0,1.75,1.75,22.5,0.0778,False,2015.0,4.0,116.0,Cardinals,Delaware State
+Myles Gaskin,RB,Dolphins,2023,1.0,1.2325,1.2325,16.015853,0.077,False,2019.0,7.0,234.0,Dolphins,Washington
+Ty Johnson,RB,Jets,2023,1.0,1.2325,1.2325,16.015853,0.077,False,2019.0,6.0,186.0,Lions,Maryland
+Billy Price,C,Cardinals,2022,1.0,1.035,1.035,13.5,0.0767,False,2018.0,1.0,21.0,Bengals,Ohio State
+Damontae Kazee,S,Cowboys,2021,1.0,1.1275,1.1275,14.75,0.0764,False,2017.0,5.0,149.0,Falcons,San Diego State
+Caleb Wilson,TE,Commanders,2020,2.0,1.525,0.7625,10.0,0.0762,False,2019.0,7.0,254.0,Cardinals,UCLA
+Isaac Nauta,TE,Lions,2020,2.0,1.525,0.7625,10.0,0.0762,False,2019.0,7.0,224.0,Lions,Georgia
+Michael Roberts,TE,Dolphins,2020,1.0,0.76,0.76,10.0,0.076,False,2017.0,4.0,127.0,Lions,Toledo
+Josiah Deguara,TE,Jaguars,2024,1.0,1.2925,1.2925,17.0,0.076,False,2020.0,3.0,94.0,Packers,Cincinnati
+Chris Moore,WR,Ravens,2020,1.0,1.6725,1.6725,22.0,0.076,False,2016.0,4.0,107.0,Ravens,Cincinnati
+Kemoko Turay,IDL,49ers,2022,1.0,1.7,1.7,22.5,0.0756,False,2018.0,2.0,52.0,Colts,Rutgers
+Kareem Hunt,RB,Browns,2019,1.0,1.1,1.1,14.544,0.0756,False,2017.0,3.0,86.0,Chiefs,Toledo
+Jeremy Sprinkle,TE,Cowboys,2021,1.0,1.1275,1.1275,15.0,0.0752,False,2017.0,5.0,154.0,Commanders,Arkansas
+Darius Phillips,CB,Raiders,2022,1.0,1.5,1.5,20.0,0.075,False,2018.0,5.0,170.0,Bengals,Western Michigan
+Germain Ifedi,RG,Bears,2020,1.0,1.0475,1.0475,14.05,0.0746,False,2016.0,1.0,31.0,Seahawks,Texas A&M
+Kavon Frazier,S,Dolphins,2020,1.0,1.0475,1.0475,14.1,0.0743,False,2016.0,6.0,212.0,Cowboys,Central Michigan
+Michael Carter,RB,Cardinals,2024,2.0,2.375,1.1875,16.015853,0.0741,False,2021.0,4.0,107.0,Jets,North Carolina
+Royce Freeman,RB,Texans,2022,1.0,1.1875,1.1875,16.015853,0.0741,False,2018.0,3.0,71.0,Broncos,Oregon
+Davis Mills,QB,Texans,2024,2.0,8.116,4.058,55.0,0.0738,False,2021.0,3.0,67.0,Texans,Stanford
+Payton Turner,ED,Cowboys,2025,1.0,2.5,2.5,34.0,0.0735,False,2021.0,1.0,28.0,Saints,Houston
+K'Lavon Chaisson,ED,Panthers,2024,1.0,2.5,2.5,34.0,0.0735,False,2020.0,1.0,20.0,Jaguars,LSU
+Cam Akers,RB,HOU/MIN,2024,1.0,1.175,1.175,16.015853,0.0734,False,2020.0,2.0,52.0,Rams,Florida State
+Drew Sample,TE,Bengals,2023,1.0,1.2325,1.2325,17.0,0.0725,False,2019.0,2.0,52.0,Bengals,Washington
+Trevon Wesco,TE,Titans,2023,1.0,1.2325,1.2325,17.0,0.0725,False,2019.0,4.0,121.0,Jets,West Virginia
+Jordan Akins,TE,Giants,2022,1.0,1.085,1.085,15.0,0.0723,False,2018.0,3.0,98.0,Texans,Central Florida
+A.J. Derby,TE,Saints,2019,1.0,0.72,0.72,10.0,0.072,False,2015.0,6.0,202.0,Patriots,Arkansas
+Josh Jones,LT,Ravens,2024,1.0,1.79,1.79,25.0,0.0716,False,2020.0,3.0,72.0,Cardinals,Houston
+T.J. Clemmings,RT,Bears,2019,1.0,0.805,0.805,11.25,0.0716,False,2015.0,4.0,110.0,Vikings,Pittsburgh
+Forrest Lamp,LG,Bills,2021,1.0,1.0575,1.0575,14.781,0.0715,False,2017.0,2.0,38.0,Chargers,Western Kentucky
+Elijah Moore,WR,Bills,2025,1.0,2.5,2.5,35.0,0.0714,False,2021.0,2.0,34.0,Jets,Mississippi
+Chase Winovich,ED,Texans,2023,1.0,2.0,2.0,28.00275,0.0714,False,2019.0,3.0,77.0,Patriots,Michigan
+David Long,CB,GB/CAR,2023,1.0,1.5,1.5,21.0,0.0714,False,2019.0,3.0,79.0,Rams,Michigan
+Richie Grant,S,49ers,2025,1.0,1.5,1.5,21.025,0.0713,False,2021.0,2.0,40.0,Falcons,Central Florida
+Max Scharping,RG,Bengals,2023,1.0,1.28,1.28,18.036,0.071,False,2019.0,2.0,55.0,Texans,Northern Illinois
+Ronnie Harrison,S,Browns,2022,1.0,1.235,1.235,17.5,0.0706,False,2018.0,3.0,93.0,Jaguars,Alabama
+Tre Brown,CB,49ers,2025,1.0,1.7,1.7,24.1,0.0705,False,2021.0,4.0,137.0,Seahawks,Oklahoma
+Blake Bell,TE,Jaguars,2018,1.0,0.705,0.705,10.0,0.0705,False,2015.0,4.0,117.0,49ers,Oklahoma
+Clive Walford,TE,Colts,2018,1.0,0.705,0.705,10.0,0.0705,False,2015.0,3.0,68.0,Raiders,Miami
+Khalil Herbert,RB,Colts,2025,1.0,1.3375,1.3375,19.0,0.0704,False,2021.0,6.0,217.0,Bears,Virginia Tech
+Joshua Kelley,RB,NYG/TEN,2024,1.0,1.125,1.125,16.015853,0.0702,False,2020.0,4.0,112.0,Chargers,UCLA
+Devontae Booker,RB,Raiders,2020,1.0,1.0475,1.0475,15.0,0.0698,False,2016.0,4.0,136.0,Broncos,Utah
+DeAndre Washington,RB,Chiefs,2020,1.0,1.0475,1.0475,15.0,0.0698,False,2016.0,5.0,143.0,Raiders,Texas Tech
+Gardner Minshew,QB,Colts,2023,1.0,3.5,3.5,50.271667,0.0696,False,2019.0,6.0,178.0,Jaguars,Washington State
+Eric Saubert,TE,Bears,2019,2.0,1.388,0.694,10.0,0.0694,False,2017.0,5.0,174.0,Falcons,Drake
+Christopher Herndon IV,TE,Saints,2022,1.0,1.035,1.035,15.0,0.069,False,2018.0,4.0,107.0,Jets,Miami (FL)
+Jordan Richards,S,Raiders,2019,1.0,0.895,0.895,13.0,0.0688,False,2015.0,2.0,64.0,Patriots,Stanford
+Armani Watts,S,Colts,2022,1.0,1.1875,1.1875,17.5,0.0679,False,2018.0,4.0,124.0,Chiefs,Texas A&M
+Dane Cruikshank,S,Bears,2022,1.0,1.1875,1.1875,17.5,0.0679,False,2018.0,5.0,152.0,Titans,Arizona
+Ross Pierschbacher,C,Eagles,2020,2.0,1.525,0.7625,11.25,0.0678,False,2019.0,5.0,153.0,Commanders,Alabama
+Troy Fumagalli,TE,Broncos,2020,1.0,0.675,0.675,10.0,0.0675,False,2018.0,5.0,156.0,Broncos,Wisconsin
+Dylan Cantrell,TE,Cardinals,2020,1.0,0.675,0.675,10.0,0.0675,False,2018.0,6.0,191.0,Chargers,Texas Tech
+Benjamin Snell Jr.,RB,Lions,2023,1.0,1.08,1.08,16.015853,0.0674,False,2019.0,4.0,122.0,Steelers,Kentucky
+Darrell Henderson,RB,Rams,2023,1.0,1.08,1.08,16.015853,0.0674,False,2019.0,3.0,70.0,Rams,Memphis
+Delano Hill,S,Panthers,2021,1.0,0.99,0.99,14.75,0.0671,False,2017.0,3.0,95.0,Seahawks,Michigan
+Ted Karras,C,Patriots,2017,3.0,1.89,0.63,9.4,0.067,False,2016.0,6.0,221.0,Patriots,Illinois
+K.J. Britt,LB,Dolphins,2025,1.0,1.3375,1.3375,20.0,0.0669,False,2021.0,5.0,176.0,Buccaneers,Auburn
+Damone Clark,LB,Lions,2026,1.0,1.4025,1.4025,21.0,0.0668,False,2022.0,5.0,176.0,Cowboys,LSU
+Austin Johnson,IDL,Giants,2020,1.0,1.5,1.5,22.5,0.0667,False,2016.0,2.0,43.0,Titans,Penn State
+Kenny Pickett,QB,Panthers,2026,1.0,4.0,4.0,60.0,0.0667,False,2022.0,1.0,20.0,Steelers,Pittsburgh
+Le'Raven Clark,RT,Colts,2020,1.0,1.2,1.2,18.0,0.0667,False,2016.0,3.0,82.0,Colts,Texas Tech
+Will Clapp,C,Saints,2020,1.0,0.75,0.75,11.25,0.0667,False,2018.0,7.0,245.0,Saints,LSU
+Cameron Thomas,ED,Falcons,2026,1.0,3.095,3.095,46.5,0.0666,False,2022.0,3.0,87.0,Cardinals,San Diego State
+Corey Levin,C,Bears,2019,2.0,1.398,0.699,10.5,0.0666,False,2017.0,6.0,217.0,Titans,Tennessee-Chattanooga
+Deane Leonard,CB,Chargers,2026,1.0,2.0,2.0,30.1,0.0664,False,2022.0,7.0,236.0,Chargers,Mississippi
+Drew Forbes,LG,Browns,2023,1.0,1.325,1.325,20.0,0.0662,False,2019.0,6.0,189.0,Browns,Southeast Missouri State
+Arie Kouandjio,RG,Commanders,2017,2.0,1.32,0.66,10.0,0.066,False,2015.0,4.0,112.0,Commanders,Alabama
+Gary Brightwell,RB,Jaguars,2024,1.0,1.055,1.055,16.015853,0.0659,False,2021.0,6.0,196.0,Giants,Arizona
+Kene Nwangwu,RB,Jets,2024,1.0,1.055,1.055,16.015853,0.0659,False,2021.0,4.0,119.0,Vikings,Iowa State
+Will Hernandez,RG,Cardinals,2022,1.0,1.1875,1.1875,18.036,0.0658,False,2018.0,2.0,34.0,Giants,UTEP
+Jimmy Morrissey,C,Texans,2022,2.0,1.765,0.8825,13.5,0.0654,False,2021.0,7.0,230.0,Raiders,Pittsburgh
+Justin Strnad,LB,Broncos,2024,1.0,1.305,1.305,20.0,0.0652,False,2020.0,5.0,178.0,Broncos,Wake Forest
+Brenden Jaimes,C,Patriots,2025,1.0,1.17,1.17,18.0,0.065,False,2021.0,5.0,159.0,Chargers,Nebraska
+Kenny Young,LB,Raiders,2022,1.0,1.2789,1.2789,19.7,0.0649,False,2018.0,4.0,122.0,Ravens,UCLA
+Jaquan Johnson,S,Raiders,2023,1.0,1.2325,1.2325,19.0,0.0649,False,2019.0,6.0,181.0,Bills,Miami
+Jamil Douglas,RG,Dolphins,2016,1.0,0.525,0.525,8.1,0.0648,False,2015.0,4.0,114.0,Dolphins,Arizona State
+Charles Harris,ED,Lions,2021,1.0,1.75,1.75,27.0,0.0648,False,2017.0,1.0,22.0,Dolphins,Missouri
+Justin Jackson,RB,Lions,2022,1.0,1.035,1.035,16.015853,0.0646,False,2018.0,7.0,251.0,Chargers,Northwestern
+Matt Peart,RT,Broncos,2024,1.0,1.2925,1.2925,20.0,0.0646,False,2020.0,3.0,99.0,Giants,Connecticut
+Cam Brown,LB,Dolphins,2024,1.0,1.2925,1.2925,20.0,0.0646,False,2020.0,6.0,183.0,Giants,Penn State
+Carter Coughlin,LB,Giants,2024,1.0,1.2925,1.2925,20.0,0.0646,False,2020.0,7.0,218.0,Giants,Minnesota
+Jordan Leggett,TE,Buccaneers,2019,1.0,0.645,0.645,10.0,0.0645,False,2017.0,5.0,150.0,Jets,Clemson
+Dominique Robinson,ED,Texans,2026,1.0,3.0,3.0,46.5,0.0645,False,2022.0,5.0,174.0,Bears,Miami (Ohio)
+Marqui Christian,S,Bears,2020,1.0,0.91,0.91,14.1,0.0645,False,2016.0,5.0,167.0,Cardinals,Midwestern State
+Avery Williams,RB,Eagles,2025,1.0,1.225,1.225,19.0,0.0645,False,2021.0,5.0,183.0,Falcons,Boise State
+Bryce Hager,LB,Rams,2019,1.0,0.805,0.805,12.5,0.0644,False,2015.0,7.0,224.0,Rams,Baylor
+D.J. Alexander,LB,Jaguars,2019,1.0,0.805,0.805,12.5,0.0644,False,2015.0,5.0,172.0,Chiefs,Oregon State
+Stephone Anthony,LB,Jets,2019,1.0,0.805,0.805,12.5,0.0644,False,2015.0,1.0,31.0,Saints,Clemson
+Greedy Williams,CB,Eagles,2023,1.0,1.35,1.35,21.0,0.0643,False,2019.0,2.0,46.0,Browns,LSU
+Chuma Edoga,RT,Cowboys,2023,1.0,1.2325,1.2325,19.2,0.0642,False,2019.0,3.0,92.0,Jets,USC
+Josh Reynolds,WR,TEN/DET,2021,1.0,1.75,1.75,27.25,0.0642,False,2017.0,4.0,117.0,Rams,Texas A&M
+Raekwon McMillan,LB,Patriots,2021,1.0,1.15,1.15,18.0,0.0639,False,2017.0,2.0,54.0,Dolphins,Ohio State
+Darrick Forrest,S,Bills,2025,1.0,1.3375,1.3375,21.025,0.0636,False,2021.0,5.0,163.0,Commanders,Cincinnati
+Tommy Sweeney,TE,Giants,2023,1.0,1.08,1.08,17.0,0.0635,False,2019.0,7.0,228.0,Bills,Boston College
+Jamaree Salyer,RG,Dolphins,2026,1.0,1.4875,1.4875,23.5,0.0633,False,2022.0,6.0,195.0,Chargers,Georgia
+Darren Waller,TE,Raiders,2018,1.0,0.63,0.63,10.0,0.063,False,2015.0,6.0,204.0,Ravens,Georgia Tech
+Kalia Davis,IDL,Browns,2026,1.0,2.0,2.0,31.75,0.063,False,2022.0,6.0,220.0,49ers,Central Florida
+DeShon Elliott,S,Lions,2022,1.0,1.1,1.1,17.5,0.0629,False,2018.0,6.0,190.0,Ravens,Texas
+Keith Ismael,C,Commanders,2021,1.0,0.78,0.78,12.4125,0.0628,False,2020.0,5.0,156.0,Commanders,San Diego State
+Chaz Green,RT,LV/NO,2018,1.0,0.705,0.705,11.25,0.0627,False,2015.0,3.0,91.0,Cowboys,Florida
+Denzelle Good,RT,Colts,2018,1.0,0.705,0.705,11.25,0.0627,False,2015.0,7.0,255.0,Colts,Mars Hill
+Duke Riley,LB,Dolphins,2021,1.0,1.1275,1.1275,18.0,0.0626,False,2017.0,3.0,75.0,Falcons,LSU
+Jordan Evans,LB,Bengals,2021,1.0,1.1275,1.1275,18.0,0.0626,False,2017.0,6.0,193.0,Bengals,Oklahoma
+Artie Burns,CB,Bears,2020,1.0,1.0475,1.0475,16.7424,0.0626,False,2016.0,1.0,25.0,Steelers,Miami
+Malik Hooker,S,Cowboys,2021,1.0,0.92,0.92,14.75,0.0624,False,2017.0,1.0,15.0,Colts,Ohio State
+Skyy Moore,WR,Packers,2026,1.0,2.5,2.5,40.25,0.0621,False,2022.0,2.0,54.0,Chiefs,Western Michigan
+Wayne Gallman,RB,Falcons,2021,1.0,0.99,0.99,16.015853,0.0618,False,2017.0,4.0,140.0,Giants,Clemson
+Austin Seibert,K,Jets,2023,1.0,0.3708,0.3708,6.0,0.0618,False,2019.0,5.0,170.0,Browns,Oklahoma
+Noah Igbinoghene,CB,Commanders,2024,1.0,1.2925,1.2925,21.0,0.0615,False,2020.0,1.0,30.0,Dolphins,Auburn
+Cameron Artis-Payne,RB,Panthers,2019,1.0,0.895,0.895,14.544,0.0615,False,2015.0,5.0,174.0,Panthers,Auburn
+Mason Schreck,TE,Bengals,2019,2.0,1.23,0.615,10.0,0.0615,False,2017.0,7.0,251.0,Bengals,Buffalo
+Ty Montgomery,RB,Jets,2019,1.0,0.895,0.895,14.544,0.0615,False,2015.0,3.0,94.0,Packers,Stanford
+Michael Jordan,LG,Panthers,2021,2.0,1.815,0.9075,14.781,0.0614,False,2019.0,4.0,136.0,Bengals,Ohio State
+Johnathan Abram,S,Saints,2023,1.0,1.1625,1.1625,19.0,0.0612,False,2019.0,1.0,27.0,Raiders,Mississippi State
+Hroniss Grasu,C,Dolphins,2018,1.0,0.63,0.63,10.3406,0.0609,False,2015.0,3.0,71.0,Bears,Oregon
+Wendell Smallwood,RB,Steelers,2020,1.0,0.91,0.91,15.0,0.0607,False,2016.0,5.0,153.0,Eagles,West Virginia
+C.J. Prosise,RB,Texans,2020,1.0,0.91,0.91,15.0,0.0607,False,2016.0,3.0,90.0,Seahawks,Notre Dame
+Joshua Miles,RT,Falcons,2023,1.0,1.1625,1.1625,19.2,0.0605,False,2019.0,7.0,248.0,Cardinals,Morgan State
+Wes Martin,RG,Commanders,2021,2.0,1.815,0.9075,15.03,0.0604,False,2019.0,4.0,131.0,Commanders,Indiana
+Joel Iyiegbuniwe,LB,Seahawks,2022,1.0,1.1875,1.1875,19.7,0.0603,False,2018.0,4.0,115.0,Bears,Western Kentucky
+Tedric Thompson,S,KC/CLE,2020,1.0,0.85,0.85,14.1,0.0603,False,2017.0,4.0,111.0,Seahawks,Colorado
+Genard Avery,LB,Steelers,2022,1.0,1.1875,1.1875,19.7,0.0603,False,2018.0,5.0,150.0,Browns,Memphis
+Matthew Adams,LB,Bears,2022,1.0,1.1875,1.1875,19.7,0.0603,False,2018.0,7.0,221.0,Colts,Houston
+Shon Coleman,LT,49ers,2020,1.0,0.9625,0.9625,16.0,0.0602,False,2016.0,3.0,76.0,Browns,Auburn
+Greg Dulcich,TE,Dolphins,2025,1.0,1.03,1.03,17.125,0.0601,False,2022.0,3.0,80.0,Broncos,UCLA
+Temarrick Hemingway,TE,Panthers,2018,2.0,1.2,0.6,10.0,0.06,False,2016.0,6.0,177.0,Rams,South Carolina State
+Saahdiq Charles,LT,Titans,2024,1.0,1.5,1.5,25.0,0.06,False,2020.0,4.0,108.0,Commanders,LSU
+Tylan Wallace,WR,Ravens,2025,1.0,2.1,2.1,35.0,0.06,False,2021.0,4.0,131.0,Ravens,Oklahoma State
+Jeremiah Poutasi,LG,Jaguars,2016,2.0,1.14,0.57,9.5,0.06,False,2015.0,3.0,66.0,Titans,Utah
+Tycen Anderson,S,Broncos,2026,1.0,1.5,1.5,25.1,0.0598,False,2022.0,5.0,166.0,Bengals,Toledo
+Trevor Siemian,QB,Jets,2019,1.0,2.0,2.0,33.5,0.0597,False,2015.0,7.0,250.0,Broncos,Northwestern
+Nate Hairston,CB,Jets,2020,1.0,1.0,1.0,16.7424,0.0597,False,2017.0,5.0,158.0,Colts,Temple
+Danny Pinter,RG,Colts,2024,1.0,1.2225,1.2225,20.5,0.0596,False,2020.0,5.0,149.0,Colts,Ball State
+Tarvarius Moore,S,Packers,2023,1.0,1.13,1.13,19.0,0.0595,False,2018.0,3.0,95.0,49ers,Southern Miss
+Troy Apke,CB,Commanders,2022,1.0,1.1875,1.1875,20.0,0.0594,False,2018.0,4.0,109.0,Commanders,Penn State
+Kaden Smith,TE,Colts,2023,1.0,1.01,1.01,17.0,0.0594,False,2019.0,6.0,176.0,49ers,Stanford
+Natrell Jamerson,S,Panthers,2020,2.0,1.67,0.835,14.1,0.0592,False,2018.0,5.0,164.0,Saints,Wisconsin
+Justin Evans,S,Saints,2022,1.0,1.035,1.035,17.5,0.0591,False,2017.0,2.0,50.0,Buccaneers,Texas A&M
+Ty Chandler,RB,Saints,2026,1.0,1.215,1.215,20.6,0.059,False,2022.0,5.0,169.0,Vikings,North Carolina
+Andrew Donnal,RG,Lions,2018,1.0,0.705,0.705,12.0,0.0588,False,2015.0,4.0,119.0,Rams,Iowa
+Lonnie Johnson Jr.,CB,Saints,2023,1.0,1.2325,1.2325,21.0,0.0587,False,2019.0,2.0,54.0,Texans,Kentucky
+Trayvon Mullen,CB,Ravens,2023,1.0,1.2325,1.2325,21.0,0.0587,False,2019.0,2.0,40.0,Raiders,Clemson
+Rashad Fenton,CB,Cardinals,2023,1.0,1.2325,1.2325,21.0,0.0587,False,2019.0,6.0,201.0,Chiefs,South Carolina
+Danny Isidora,RG,Steelers,2020,1.0,0.825,0.825,14.05,0.0587,False,2017.0,5.0,180.0,Vikings,Miami
+Trey Sermon,RB,Colts,2023,1.0,0.94,0.94,16.015853,0.0587,False,2021.0,3.0,88.0,49ers,Ohio State
+Amani Oruwariye,CB,Giants,2023,1.0,1.2325,1.2325,21.0,0.0587,False,2019.0,5.0,146.0,Lions,Penn State
+Kris Boyd,CB,Cardinals,2023,1.0,1.2325,1.2325,21.0,0.0587,False,2019.0,7.0,217.0,Vikings,Texas
+Kendrick Green,RG,Bills,2025,1.0,1.2,1.2,20.5,0.0585,False,2021.0,3.0,87.0,Steelers,Illinois
+Kennard Backman,TE,Lions,2017,2.0,1.17,0.585,10.0,0.0585,False,2015.0,6.0,213.0,Packers,UAB
+Chad Muma,LB,Patriots,2025,2.0,2.34,1.17,20.0,0.0585,False,2022.0,3.0,70.0,Jaguars,Wyoming
+Jarvis Harrison,RG,Buccaneers,2017,2.0,1.17,0.585,10.0,0.0585,False,2015.0,5.0,152.0,Jets,Texas A&M
+Buck Allen,RB,Saints,2019,1.0,0.85,0.85,14.544,0.0584,False,2015.0,4.0,125.0,Ravens,USC
+Mac Jones,QB,49ers,2025,2.0,7.0,3.5,60.0,0.0583,False,2021.0,1.0,15.0,Patriots,Alabama
+Ryan Izzo,TE,Titans,2021,2.0,1.745,0.8725,15.0,0.0582,False,2018.0,7.0,250.0,Patriots,Florida State
+Jatavis Brown,LB,Eagles,2020,1.0,1.0475,1.0475,18.0,0.0582,False,2016.0,5.0,175.0,Chargers,Akron
+Thomas Duarte,TE,Dolphins,2017,3.0,1.74,0.58,10.0,0.058,False,2016.0,7.0,231.0,Dolphins,UCLA
+Troy Andersen,LB,Falcons,2026,1.0,1.215,1.215,21.0,0.0579,False,2022.0,2.0,58.0,Falcons,Montana State
+John FitzPatrick,TE,Packers,2024,1.0,0.985,0.985,17.0,0.0579,False,2022.0,6.0,213.0,Falcons,Georgia
+Kevin Harris,RB,Patriots,2023,2.0,1.855,0.9275,16.015853,0.0579,False,2022.0,6.0,183.0,Patriots,South Carolina
+Dameon Pierce,RB,Chiefs,2025,1.0,1.1,1.1,19.0,0.0579,False,2022.0,4.0,107.0,Texans,Florida
+Teagan Quitoriano,TE,Texans,2024,1.0,0.985,0.985,17.0,0.0579,False,2022.0,5.0,170.0,Texans,Oregon State
+Jaleel Johnson,IDL,Texans,2021,1.0,1.3,1.3,22.5,0.0578,False,2017.0,4.0,109.0,Vikings,Iowa
+Sheldrick Redwine,S,Dolphins,2021,1.0,0.85,0.85,14.75,0.0576,False,2019.0,4.0,119.0,Browns,Miami
+Jacob Phillips,LB,Texans,2024,1.0,1.15,1.15,20.0,0.0575,False,2020.0,3.0,97.0,Browns,LSU
+Phil Haynes,LG,Seahawks,2021,1.0,0.85,0.85,14.781,0.0575,False,2019.0,4.0,124.0,Seahawks,Wake Forest
+Kerryon Johnson,RB,Eagles,2021,1.0,0.92,0.92,16.015853,0.0574,False,2018.0,2.0,43.0,Lions,Auburn
+Joey Hunt,C,Seahawks,2017,1.0,0.54,0.54,9.4,0.0574,False,2016.0,6.0,215.0,Seahawks,TCU
+Ito Smith,RB,Cardinals,2021,1.0,0.92,0.92,16.015853,0.0574,False,2018.0,4.0,126.0,Falcons,Southern Miss
+Trenton Cannon,RB,Ravens,2021,1.0,0.92,0.92,16.015853,0.0574,False,2018.0,6.0,204.0,Jets,Virginia State
+Rico Gathers,TE,Cowboys,2017,3.0,1.715,0.571667,10.0,0.0572,False,2016.0,6.0,217.0,Cowboys,Baylor
+Ben Cleveland,RG,Ravens,2025,1.0,1.17,1.17,20.5,0.0571,False,2021.0,3.0,94.0,Ravens,Georgia
+Rondale Moore,WR,Vikings,2025,1.0,2.0,2.0,35.0,0.0571,False,2021.0,2.0,49.0,Cardinals,Purdue
+MyCole Pruitt,TE,Bears,2016,2.0,1.14,0.57,10.0,0.057,False,2015.0,5.0,143.0,Vikings,Southern Illinois
+Jahlani Tavai,LB,Patriots,2021,2.0,2.05,1.025,18.0,0.0569,False,2019.0,2.0,43.0,Lions,Hawaii
+Kenny Robinson,S,Panthers,2021,2.0,1.675,0.8375,14.75,0.0568,False,2020.0,5.0,152.0,Panthers,West Virginia
+Antoine Brooks,S,Rams,2021,2.0,1.67,0.8375,14.75,0.0568,False,2020.0,6.0,198.0,Steelers,Maryland
+Jace Sternberger,TE,Commanders,2021,1.0,0.85,0.85,15.0,0.0567,False,2019.0,3.0,75.0,Packers,Texas A&M
+Jake Butt,TE,Bears,2021,1.0,0.85,0.85,15.0,0.0567,False,2017.0,5.0,145.0,Broncos,Michigan
+Marquel Lee,LB,Bills,2021,1.0,1.02,1.02,18.0,0.0567,False,2017.0,5.0,168.0,Raiders,Wake Forest
+Trayveon Williams,RB,Bengals,2021,2.0,1.815,0.9075,16.015853,0.0567,False,2019.0,6.0,182.0,Bengals,Texas A&M
+Ryquell Armstead,RB,Jaguars,2021,2.0,1.815,0.9075,16.015853,0.0567,False,2019.0,5.0,140.0,Jaguars,Temple
+Hayes Pullard,LB,Chargers,2018,1.0,0.705,0.705,12.5,0.0564,False,2015.0,7.0,219.0,Browns,USC
+Fabian Moreau,CB,Falcons,2021,1.0,1.1275,1.1275,20.0,0.0564,False,2017.0,3.0,81.0,Commanders,UCLA
+Joshua Garnett,LG,Commanders,2020,1.0,0.75,0.75,13.3,0.0564,False,2016.0,1.0,28.0,,Stanford
+Markus Bailey,LB,Cardinals,2024,1.0,1.125,1.125,20.0,0.0562,False,2020.0,7.0,215.0,Bengals,Purdue
+Monty Rice,LB,Patriots,2024,2.0,2.25,1.125,20.0,0.0562,False,2021.0,3.0,92.0,Titans,Georgia
+Justin Herron,RT,Saints,2024,1.0,1.125,1.125,20.0,0.0562,False,2020.0,6.0,195.0,Patriots,Wake Forest
+Shaquille Quarterman,LB,Chargers,2024,1.0,1.125,1.125,20.0,0.0562,False,2020.0,4.0,140.0,Jaguars,Miami
+Bucky Hodges,TE,Jets,2018,2.0,1.125,0.5625,10.0,0.0562,False,2017.0,6.0,201.0,Vikings,Virginia Tech
+Jelani Woods,TE,Jets,2025,1.0,0.96,0.96,17.125,0.0561,False,2022.0,3.0,73.0,Colts,Virginia
+Brett Hundley,QB,Cardinals,2019,1.0,1.875,1.875,33.5,0.056,False,2015.0,5.0,147.0,Packers,UCLA
+Darrynton Evans,RB,Bears,2022,1.0,0.895,0.895,16.015853,0.0559,False,2020.0,3.0,93.0,Titans,Appalachian State
+Tyler Davis,TE,Packers,2021,2.0,1.675,0.8375,15.0,0.0558,False,2020.0,6.0,206.0,Jaguars,Georgia Tech
+Kalen Ballage,RB,Jets,2020,2.0,1.67,0.835,15.0,0.0557,False,2018.0,4.0,131.0,Dolphins,Arizona State
+Ameer Abdullah,RB,Vikings,2019,1.0,0.81,0.81,14.544,0.0557,False,2015.0,2.0,54.0,Lions,Nebraska
+J.J. Nelson,WR,Raiders,2019,1.0,1.0,1.0,18.0,0.0556,False,2015.0,5.0,159.0,Cardinals,UAB
+C.J. Beathard,QB,Jaguars,2021,2.0,5.0,2.5,45.0,0.0556,False,2017.0,3.0,104.0,49ers,Iowa
+DeMarcus Walker,ED,Texans,2021,1.0,1.5,1.5,27.0,0.0556,False,2017.0,2.0,51.0,Broncos,Florida State
+Mitchell Trubisky,QB,Bills,2021,1.0,2.5,2.5,45.0,0.0556,False,2017.0,1.0,2.0,Bears,North Carolina
+Caden Sterns,S,Eagles,2024,1.0,1.055,1.055,19.0,0.0555,False,2021.0,5.0,152.0,Broncos,Texas
+Austin Reiter,C,Browns,2016,2.0,0.99,0.495,8.95,0.0553,False,2015.0,7.0,222.0,Commanders,South Florida
+Jay Ajayi,RB,Eagles,2019,1.0,0.805,0.805,14.544,0.0553,False,2015.0,5.0,149.0,Dolphins,Boise State
+Tanner Vallejo,LB,Cardinals,2019,2.0,1.38,0.69,12.5,0.0552,False,2017.0,6.0,195.0,Bills,Boise State
+Jake Funk,RB,Colts,2022,2.0,1.765,0.8825,16.015853,0.0551,False,2021.0,7.0,233.0,Rams,Maryland
+Nate Gerry,LB,49ers,2021,1.0,0.99,0.99,18.0,0.055,False,2017.0,5.0,184.0,Eagles,Nebraska
+Channing Tindall,LB,Cardinals,2025,1.0,1.1,1.1,20.0,0.055,False,2022.0,3.0,102.0,Dolphins,Georgia
+Mark Robinson,LB,Jets,2025,1.0,1.1,1.1,20.0,0.055,False,2022.0,7.0,225.0,Steelers,Mississippi
+Baylon Spector,LB,Bills,2025,1.0,1.1,1.1,20.0,0.055,False,2022.0,7.0,231.0,Bills,Clemson
+Josh Harvey-Clemons,LB,Dolphins,2021,1.0,0.99,0.99,18.0,0.055,False,2017.0,7.0,230.0,Commanders,Louisville
+Brian Asamoah,LB,Bengals,2025,1.0,1.1,1.1,20.0,0.055,False,2022.0,3.0,66.0,Vikings,Oklahoma
+Rashard Robinson,CB,Cowboys,2020,2.0,1.815,0.9075,16.7424,0.0542,False,2016.0,4.0,133.0,49ers,LSU
+Joshua Ezeudu,LG,Giants,2026,1.0,1.3,1.3,24.0,0.0542,False,2022.0,3.0,67.0,Giants,North Carolina
+Saquan Hampton,S,Jets,2020,2.0,1.525,0.7625,14.1,0.0541,False,2019.0,6.0,177.0,Saints,Rutgers
+Cody Ford,LG,Bengals,2023,1.0,1.08,1.08,20.0,0.054,False,2019.0,2.0,38.0,Bills,Oklahoma
+Michael Deiter,LG,Texans,2023,1.0,1.08,1.08,20.0,0.054,False,2019.0,3.0,78.0,Dolphins,Wisconsin
+Sam Williams,ED,Cowboys,2026,1.0,2.5,2.5,46.5,0.0538,False,2022.0,2.0,56.0,Cowboys,Mississippi
+Jordan Elliott,IDL,Browns,2023,1.0,1.7,1.7,31.666667,0.0537,False,2020.0,3.0,88.0,Browns,Missouri
+Jason Huntley,RB,Eagles,2021,3.0,2.58,0.86,16.015853,0.0537,False,2020.0,5.0,172.0,Lions,New Mexico State
+Isaac Yiadom,CB,Giants,2021,1.0,1.07,1.07,20.0,0.0535,False,2018.0,3.0,99.0,Broncos,Boston College
+Reggie Ragland,LB,Lions,2020,1.0,0.9625,0.9625,18.0,0.0535,False,2016.0,2.0,41.0,Bills,Alabama
+Ereck Flowers,LT,Jaguars,2018,1.0,0.705,0.705,13.25,0.0532,False,2015.0,1.0,9.0,Giants,Miami
+Corey Robinson,LT,Jaguars,2018,1.0,0.705,0.705,13.25,0.0532,False,2015.0,7.0,240.0,Lions,South Carolina
+Jake Hanson,C,Packers,2021,1.0,0.66,0.66,12.4125,0.0532,False,2020.0,6.0,208.0,Packers,Oregon
+Jaylinn Hawkins,S,ATL/LAC,2023,1.0,1.01,1.01,19.0,0.0532,False,2020.0,4.0,134.0,Falcons,California
+Qadree Ollison,RB,Falcons,2021,1.0,0.85,0.85,16.015853,0.0531,False,2019.0,5.0,152.0,Falcons,Pittsburgh
+Obi Melifonwu,S,Patriots,2018,2.0,1.38,0.69,13.0,0.0531,False,2017.0,2.0,56.0,Raiders,Connecticut
+Jason Spriggs,LT,Bears,2020,1.0,0.85,0.85,16.0,0.0531,False,2016.0,2.0,48.0,Packers,Indiana
+Josh Jones,S,JAX/DAL,2019,2.0,1.38,0.69,13.0,0.0531,False,2017.0,2.0,61.0,Packers,N.C. State
+Lewis Cine,S,Eagles,2024,2.0,2.015,1.0075,19.0,0.053,False,2022.0,1.0,32.0,Vikings,Georgia
+Geno Stone,S,Ravens,2021,1.0,0.78,0.78,14.75,0.0529,False,2020.0,7.0,219.0,Ravens,Iowa
+Tanner Muse,S,Seahawks,2021,1.0,0.78,0.78,14.75,0.0529,False,2020.0,3.0,100.0,Raiders,Clemson
+Chris Covington,LB,Cowboys,2019,3.0,1.98,0.66,12.5,0.0528,False,2018.0,6.0,193.0,Cowboys,Indiana
+Derron Smith,S,Browns,2017,2.0,1.32,0.66,12.500081,0.0528,False,2015.0,6.0,197.0,Bengals,Fresno State
+Ibraheim Campbell,S,HOU/DAL,2017,2.0,1.32,0.66,12.500081,0.0528,False,2015.0,4.0,115.0,Browns,Northwestern
+Shane Lemieux,LG,Saints,2024,1.0,1.055,1.055,20.0,0.0528,False,2020.0,5.0,150.0,Giants,Oregon
+Devante Downs,LB,Vikings,2019,3.0,1.98,0.66,12.5,0.0528,False,2018.0,7.0,225.0,Vikings,California
+Jamin Davis,LB,MIN/NYJ,2024,1.0,1.055,1.055,20.0,0.0528,False,2021.0,1.0,19.0,Commanders,Kentucky
+Evan Boehm,RG,Colts,2018,1.0,0.63,0.63,12.0,0.0525,False,2016.0,4.0,128.0,Cardinals,Missouri
+Cole Strange,LG,Dolphins,2025,1.0,1.1,1.1,21.0,0.0524,False,2022.0,1.0,29.0,Patriots,Chattanooga
+Joejuan Williams,CB,Vikings,2023,1.0,1.1,1.1,21.0,0.0524,False,2019.0,2.0,45.0,Patriots,Vanderbilt
+Michal Menet,C,Packers,2022,1.0,0.705,0.705,13.5,0.0522,False,2021.0,7.0,247.0,Cardinals,Penn State
+Jack Anderson,RG,Giants,2023,1.0,0.94,0.94,18.036,0.0521,False,2021.0,7.0,236.0,Bills,Texas Tech
+Derrick Kindred,S,49ers,2020,1.0,0.735,0.735,14.1,0.0521,False,2016.0,4.0,129.0,Browns,TCU
+Deiondre' Hall,S,Buccaneers,2020,1.0,0.735,0.735,14.1,0.0521,False,2016.0,4.0,127.0,Bears,Northern Iowa
+Kahale Warring,TE,Jaguars,2021,1.0,0.78,0.78,15.0,0.052,False,2019.0,3.0,86.0,Texans,San Diego State
+Ulysees Gilbert III,LB,Buccaneers,2022,2.0,2.045,1.0225,19.7,0.0519,False,2019.0,6.0,207.0,Steelers,Akron
+Hjalte Froholdt,RG,Browns,2021,1.0,0.78,0.78,15.03,0.0519,False,2019.0,4.0,118.0,Patriots,Arkansas
+Russ Yeast,S,Panthers,2024,1.0,0.985,0.985,19.0,0.0518,False,2022.0,7.0,253.0,Rams,Kansas State
+Theo Jackson,S,Vikings,2024,1.0,0.985,0.985,19.0,0.0518,False,2022.0,6.0,204.0,Titans,Tennessee
+Evan Neal,RG,Giants,2026,1.0,1.215,1.215,23.5,0.0517,False,2022.0,1.0,7.0,Giants,Alabama
+Geron Christian,LT,MIA/KC,2022,1.0,1.1875,1.1875,23.01,0.0516,False,2018.0,3.0,74.0,Commanders,Louisville
+Elijah Lee,LB,49ers,2019,1.0,0.645,0.645,12.5,0.0516,False,2017.0,7.0,232.0,Vikings,Kansas State
+Wyatt Davis,LG,Cardinals,2022,1.0,0.825,0.825,16.0,0.0516,False,2021.0,3.0,86.0,Vikings,Ohio State
+Cole Van Lanen,LG,Packers,2022,1.0,0.825,0.825,16.0,0.0516,False,2021.0,6.0,214.0,Packers,Wisconsin
+Larry Rountree III,RB,Chargers,2022,1.0,0.825,0.825,16.015853,0.0515,False,2021.0,6.0,198.0,Chargers,Missouri
+Mykal Walker,LB,Steelers,2023,1.0,1.01,1.01,19.7,0.0513,False,2020.0,4.0,119.0,Falcons,Fresno State
+Greg Little,LT,Texans,2023,1.0,1.18,1.18,23.01,0.0513,False,2019.0,2.0,37.0,Panthers,Mississippi
+Ben Burr-Kirven,LB,Seahawks,2023,1.0,1.01,1.01,19.7,0.0513,False,2019.0,5.0,142.0,Seahawks,Washington
+Nick Muse,TE,Vikings,2023,1.0,0.87,0.87,17.0,0.0512,False,2022.0,7.0,227.0,Vikings,South Carolina
+Shane Ray,ED,Ravens,2019,1.0,1.2,1.2,23.5,0.0511,False,2015.0,1.0,23.0,Broncos,Missouri
+Alize Mack,TE,Chiefs,2020,1.0,0.51,0.51,10.0,0.051,False,2019.0,7.0,231.0,Saints,Notre Dame
+Rees Odhiambo,LT,Cardinals,2018,2.0,1.35,0.675,13.25,0.0509,False,2016.0,3.0,97.0,Seahawks,Boise State
+Garret Wallow,LB,Titans,2023,2.0,1.995,0.9975,19.7,0.0506,False,2021.0,5.0,170.0,Texans,TCU
+Kyle Emanuel,LB,Raiders,2020,1.0,0.91,0.91,18.0,0.0506,False,2015.0,5.0,153.0,Chargers,North Dakota State
+Tyre Phillips,LG,Giants,2023,1.0,1.01,1.01,20.0,0.0505,False,2020.0,3.0,106.0,Ravens,Mississippi State
+Brian Cole II,S,Dolphins,2021,2.0,1.485,0.7425,14.75,0.0503,False,2020.0,7.0,249.0,Vikings,Mississippi State
+Gareon Conley,CB,Cowboys,2024,1.0,1.055,1.055,21.0,0.0502,False,2017.0,1.0,24.0,Raiders,Ohio State
+Shaun Wade,CB,Chargers,2024,1.0,1.055,1.055,21.0,0.0502,False,2021.0,5.0,160.0,Ravens,Ohio State
+Max Tuerk,LG,Cardinals,2017,2.0,1.17,0.585,11.7,0.05,False,2016.0,3.0,66.0,Chargers,USC
+Montravius Adams,IDL,Patriots,2021,1.0,1.125,1.125,22.5,0.05,False,2017.0,3.0,93.0,Packers,Auburn
+D'Onta Foreman,RB,Titans,2020,1.0,0.75,0.75,15.0,0.05,False,2017.0,3.0,89.0,Texans,Texas
+Kevon Seymour,CB,Eagles,2020,2.0,1.67,0.835,16.7424,0.0499,False,2016.0,6.0,218.0,Bills,USC
+Mark Nzeocha,LB,49ers,2017,1.0,0.615,0.615,12.359059,0.0498,False,2015.0,7.0,236.0,Cowboys,Wyoming
+Justin Hardy,WR,Falcons,2019,1.0,0.895,0.895,18.0,0.0497,False,2015.0,4.0,107.0,Falcons,East Carolina
+Adrian Colbert,S,Dolphins,2019,1.0,0.645,0.645,13.0,0.0496,False,2017.0,7.0,229.0,49ers,Miami
+Brandon Wilson,S,Bengals,2019,1.0,0.645,0.645,13.0,0.0496,False,2017.0,6.0,207.0,Bengals,Houston
+Netane Muti,RG,Raiders,2022,1.0,0.895,0.895,18.036,0.0496,False,2020.0,6.0,181.0,Broncos,Fresno State
+Lachavious Simmons,RG,Bears,2022,1.0,0.895,0.895,18.036,0.0496,False,2020.0,7.0,227.0,Bears,Tennessee State
+Andrew Booth Jr.,CB,Cowboys,2024,2.0,2.085,1.0425,21.0,0.0496,False,2022.0,2.0,42.0,Vikings,Clemson
+Gerald Christian,TE,Bills,2016,2.0,0.99,0.495,10.0,0.0495,False,2015.0,7.0,256.0,Cardinals,Louisville
+Ben Koyack,TE,Jaguars,2016,2.0,0.995,0.495,10.0,0.0495,False,2015.0,7.0,229.0,Jaguars,Notre Dame
+Gerod Holliman,S,Buccaneers,2016,2.0,0.99,0.495,10.0,0.0495,False,2015.0,7.0,239.0,Steelers,Louisville
+Stephen Sullivan,TE,Panthers,2021,2.0,1.485,0.7425,15.0,0.0495,False,2020.0,7.0,251.0,Seahawks,LSU
+Vince Mayle,TE,Cowboys,2016,1.0,0.99,0.495,10.0,0.0495,False,2015.0,4.0,123.0,Browns,Washington State
+Vernon Scott,S,Panthers,2023,1.0,0.94,0.94,19.0,0.0495,False,2020.0,7.0,236.0,Packers,TCU
+Rasul Douglas,CB,Panthers,2020,1.0,0.825,0.825,16.7424,0.0493,False,2017.0,3.0,99.0,Eagles,West Virginia
+Brandon Williams,CB,Giants,2020,1.0,0.825,0.825,16.7424,0.0493,False,2016.0,3.0,92.0,Cardinals,Texas A&M
+Cade Mays,LG,Panthers,2024,1.0,0.985,0.985,20.0,0.0492,False,2022.0,6.0,199.0,Panthers,Tennessee
+Keishawn Bierria,LB,Broncos,2019,2.0,1.23,0.615,12.5,0.0492,False,2018.0,6.0,217.0,Broncos,Washington
+Kenyon Green,LG,Eagles,2025,1.0,1.03,1.03,21.0,0.049,False,2022.0,1.0,15.0,Texans,Texas A&M
+Ty Summers,LB,Saints,2022,1.0,0.965,0.965,19.7,0.049,False,2019.0,7.0,226.0,Packers,TCU
+Shaun Dion Hamilton,LB,Lions,2022,1.0,0.965,0.965,19.7,0.049,False,2018.0,6.0,197.0,Commanders,Alabama
+Julie'n Davenport,LT,Colts,2021,1.0,1.1275,1.1275,23.0,0.049,False,2017.0,4.0,130.0,Texans,Bucknell
+Asante Samuel Jr.,CB,Steelers,2025,1.0,1.17,1.17,24.1,0.0485,False,2021.0,2.0,47.0,Chargers,Florida State
+T.J. Green,S,Seahawks,2018,1.0,0.63,0.63,13.0,0.0485,False,2016.0,2.0,57.0,Colts,Clemson
+Darian Thompson,S,Cowboys,2018,1.0,0.63,0.63,13.0,0.0485,False,2016.0,3.0,71.0,Giants,Boise State
+Parker Ehinger,LG,ARI/BAL,2019,1.0,0.645,0.645,13.3,0.0485,False,2016.0,4.0,105.0,Chiefs,Cincinnati
+Stone Forsythe,LT,Giants,2025,1.0,1.3375,1.3375,27.553333,0.0485,False,2021.0,6.0,208.0,Seahawks,Florida
+Tae Crowder,LB,Steelers,2022,2.0,1.905,0.9525,19.7,0.0484,False,2020.0,7.0,255.0,Giants,Georgia
+Nazeeh Johnson,S,Chiefs,2024,1.0,0.915,0.915,19.0,0.0482,False,2022.0,7.0,259.0,Chiefs,Marshall
+Duke Shelley,CB,Vikings,2022,1.0,0.965,0.965,20.0,0.0482,False,2019.0,6.0,205.0,Bears,Kansas State
+Jimmy Moreland,CB,Eagles,2022,1.0,0.965,0.965,20.0,0.0482,False,2019.0,7.0,227.0,Commanders,James Madison
+Nathan Shepherd,IDL,Jets,2022,1.0,1.085,1.085,22.5,0.0482,False,2018.0,3.0,72.0,Jets,Fort Hays State
+Kindle Vildor,CB,Lions,2023,1.0,1.01,1.01,21.0,0.0481,False,2020.0,5.0,163.0,Bears,Georgia Southern
+Darnay Holmes,CB,Giants,2023,1.0,1.01,1.01,21.0,0.0481,False,2020.0,4.0,110.0,Giants,UCLA
+Isaiah Rodgers,CB,Eagles,2023,1.0,1.01,1.01,21.0,0.0481,False,2020.0,6.0,211.0,Colts,Massachusetts
+Cameron Dantzler,CB,Texans,2023,1.0,1.01,1.01,21.0,0.0481,False,2020.0,3.0,89.0,Vikings,Mississippi State
+Bryce Hall,CB,Jets,2023,1.0,1.01,1.01,21.0,0.0481,False,2020.0,5.0,158.0,Jets,Virginia
+Josiah Scott,CB,Eagles,2023,1.0,1.01,1.01,21.0,0.0481,False,2020.0,4.0,137.0,Jaguars,Michigan State
+Rick Leonard,RT,Texans,2019,2.0,1.08,0.54,11.25,0.048,False,2018.0,4.0,127.0,Saints,Florida State
+Ukeme Eligwe,LB,Giants,2018,2.0,1.2,0.6,12.5,0.048,False,2017.0,5.0,183.0,Chiefs,Georgia Southern
+Joe Walker,LB,Cardinals,2018,2.0,1.2,0.6,12.5,0.048,False,2016.0,7.0,251.0,Eagles,Oregon
+Isaiahh Loudermilk,ED,Steelers,2025,1.0,1.6275,1.6275,34.0,0.0479,False,2021.0,5.0,156.0,Steelers,Wisconsin
+Jabril Cox,LB,Commanders,2023,1.0,0.94,0.94,19.7,0.0477,False,2021.0,4.0,115.0,Cowboys,LSU
+Chris Jackson,CB,Titans,2022,2.0,1.905,0.9525,20.0,0.0476,False,2020.0,7.0,243.0,Titans,Marshall
+Harrison Hand,CB,Bears,2022,2.0,1.905,0.9525,20.0,0.0476,False,2020.0,5.0,169.0,Vikings,Temple
+Nelson Agholor,WR,Raiders,2020,1.0,1.0475,1.0475,22.0,0.0476,False,2015.0,1.0,20.0,Eagles,USC
+Dwayne Washington,RB,Saints,2018,2.0,1.35,0.675,14.213333,0.0475,False,2016.0,7.0,236.0,Lions,Washington
+Samaje Perine,RB,MIA/CIN,2019,2.0,1.38,0.69,14.544,0.0474,False,2017.0,4.0,114.0,Commanders,Oklahoma
+Zach Banner,LG,Steelers,2018,1.0,0.555,0.555,11.7,0.0474,False,2017.0,4.0,137.0,Colts,USC
+Paul Perkins,RB,Lions,2019,2.0,1.38,0.69,14.544,0.0474,False,2016.0,5.0,149.0,Giants,UCLA
+Matt Jones,RB,Colts,2017,1.0,1.348,0.674,14.213333,0.0474,False,2015.0,3.0,95.0,Commanders,Florida
+Neville Gallimore,IDL,Cowboys,2023,1.0,1.5,1.5,31.666667,0.0474,False,2020.0,3.0,82.0,Cowboys,Oklahoma
+Scooby Wright,LB,Cardinals,2017,2.0,1.17,0.585,12.359059,0.0473,False,2016.0,7.0,250.0,Browns,Arizona
+Marcell Harris,S,49ers,2019,2.0,1.23,0.615,13.0,0.0473,False,2018.0,6.0,184.0,49ers,Florida
+Joshua Perry,LB,Colts,2017,2.0,1.17,0.585,12.359059,0.0473,False,2016.0,4.0,102.0,Chargers,Ohio State
+Rashaan Gaulden,S,Giants,2019,2.0,1.23,0.615,13.0,0.0473,False,2018.0,3.0,85.0,Panthers,Tennessee
+Marcus Allen,S,Steelers,2019,2.0,1.23,0.615,13.0,0.0473,False,2018.0,5.0,148.0,Steelers,Penn State
+Dakota Allen,LB,Jaguars,2021,1.0,0.85,0.85,18.0,0.0472,False,2019.0,7.0,251.0,Rams,Texas Tech
+Micah Kiser,LB,Broncos,2021,1.0,0.85,0.85,18.0,0.0472,False,2018.0,5.0,147.0,Rams,Virginia
+John Metchie III,WR,Panthers,2026,1.0,1.9,1.9,40.25,0.0472,False,2022.0,2.0,44.0,Texans,Alabama
+Reggie Robinson,S,Browns,2022,1.0,0.825,0.825,17.5,0.0471,False,2020.0,4.0,123.0,Cowboys,Tulsa
+Ben Bartch,LG,49ers,2023,1.0,0.94,0.94,20.0,0.047,False,2020.0,4.0,116.0,Jaguars,Florida Atlantic
+Joshuah Bledsoe,S,Patriots,2023,2.0,1.785,0.8925,19.0,0.047,False,2021.0,6.0,188.0,Patriots,Missouri
+Caleb Farley,CB,Panthers,2024,1.0,0.985,0.985,21.0,0.0469,False,2021.0,1.0,22.0,Titans,Virginia Tech
+Steven Daniels,LB,Eagles,2017,3.0,1.74,0.58,12.359059,0.0469,False,2016.0,7.0,232.0,Commanders,Boston College
+Gregory Junior,CB,Jaguars,2024,1.0,0.985,0.985,21.0,0.0469,False,2022.0,6.0,197.0,Jaguars,Ouachita Baptist
+DeAndre Houston-Carson,S,Bears,2017,2.0,1.17,0.585,12.500081,0.0468,False,2016.0,6.0,185.0,Bears,William & Mary
+Brad Seaton,RT,Buccaneers,2018,2.0,1.05,0.525,11.25,0.0467,False,2017.0,7.0,236.0,Titans,Villanova
+Akayleb Evans,CB,Panthers,2026,1.0,1.4025,1.4025,30.1,0.0466,False,2022.0,4.0,118.0,Vikings,Missouri
+Cam Taylor-Britt,CB,Colts,2026,1.0,1.4025,1.4025,30.1,0.0466,False,2022.0,2.0,60.0,Bengals,Nebraska
+Jonathan Bullard,IDL,Cardinals,2020,1.0,1.0475,1.0475,22.5,0.0466,False,2016.0,3.0,72.0,Bears,Florida
+Roger McCreary,CB,Lions,2026,1.0,1.4025,1.4025,30.1,0.0466,False,2022.0,2.0,35.0,Titans,Auburn
+Beau Sandland,TE,Packers,2017,1.0,0.465,0.465,10.0,0.0465,False,2016.0,7.0,252.0,Panthers,Montana State
+Kamal Martin,LB,Panthers,2021,2.0,1.675,0.8375,18.0,0.0465,False,2020.0,5.0,175.0,Packers,Minnesota
+Rory Anderson,TE,Bills,2017,1.0,0.465,0.465,10.0,0.0465,False,2015.0,7.0,254.0,,South Carolina
+Kyle Trask,QB,Buccaneers,2025,1.0,2.7875,2.7875,60.0,0.0465,False,2021.0,2.0,64.0,Buccaneers,Florida
+Maurice Hurst,IDL,49ers,2021,1.0,1.045,1.045,22.5,0.0464,False,2018.0,5.0,140.0,Raiders,Michigan
+Jaelen Strong,WR,Jaguars,2017,1.0,1.504366,0.752183,16.207143,0.0464,False,2015.0,3.0,70.0,Texans,Arizona State
+Jermaine Eluemunor,RG,Ravens,2018,1.0,0.555,0.555,12.0,0.0463,False,2017.0,5.0,159.0,Ravens,Texas A&M
+Isaac Asiata,RG,Dolphins,2018,1.0,0.555,0.555,12.0,0.0463,False,2017.0,5.0,164.0,Dolphins,Utah
+Michael Tyson,S,HOU/GB,2018,2.0,1.2,0.6,13.0,0.0462,False,2017.0,6.0,187.0,Seahawks,Cincinnati
+James Sample,S,Commanders,2018,2.0,1.2,0.6,13.0,0.0462,False,2015.0,4.0,104.0,Jaguars,Louisville
+Austin Shepherd,LG,Vikings,2017,1.0,0.54,0.54,11.7,0.0462,False,2015.0,7.0,228.0,Vikings,Alabama
+Tremayne Anchrum,LT,Seahawks,2024,1.0,1.155,1.155,25.0,0.0462,False,2020.0,7.0,250.0,Rams,Clemson
+Ramik Wilson,LB,Chiefs,2016,2.0,1.14,0.57,12.359059,0.0461,False,2015.0,4.0,118.0,Chiefs,Georgia
+Marcus Murphy,RB,Bills,2017,3.0,1.965,0.655,14.213333,0.0461,False,2015.0,7.0,230.0,Saints,Missouri
+Josh Jackson,CB,Giants,2021,1.0,0.92,0.92,20.0,0.046,False,2018.0,2.0,45.0,Packers,Iowa
+Danny Shelton,IDL,Patriots,2019,1.0,1.03,1.03,22.5,0.0458,False,2015.0,1.0,12.0,Browns,Washington
+Paul Dawson,LB,Bengals,2016,3.0,1.695,0.565,12.359059,0.0457,False,2015.0,3.0,99.0,Bengals,TCU
+Rodney Thomas,CB,Colts,2025,1.0,1.1,1.1,24.1,0.0456,False,2022.0,7.0,239.0,Colts,Yale
+Jack Jones,CB,Dolphins,2025,1.0,1.1,1.1,24.1,0.0456,False,2022.0,4.0,121.0,Patriots,Arizona State
+Gerrid Doaks,RB,Dolphins,2022,1.0,0.73,0.73,16.015853,0.0456,False,2021.0,7.0,244.0,Dolphins,Cincinnati
+Kaiir Elam,CB,Titans,2025,1.0,1.1,1.1,24.1,0.0456,False,2022.0,1.0,23.0,Bills,Florida
+Damarri Mathis,CB,Panthers,2025,1.0,1.1,1.1,24.1,0.0456,False,2022.0,4.0,115.0,Broncos,Pittsburgh
+William Sherman,LG,Broncos,2022,2.0,1.455,0.7275,16.0,0.0455,False,2021.0,6.0,197.0,Patriots,Colorado
+Tajae Sharpe,WR,Vikings,2020,1.0,1.0,1.0,22.0,0.0455,False,2016.0,5.0,140.0,Titans,Massachusetts
+Jeremy McNichols,RB,Titans,2018,3.0,1.935,0.645,14.213333,0.0454,False,2017.0,5.0,162.0,Buccaneers,Boise State
+John Kelly,RB,Rams,2019,3.0,1.98,0.66,14.544,0.0454,False,2018.0,6.0,176.0,Rams,Tennessee
+Khaleke Hudson,LB,Commanders,2022,1.0,0.895,0.895,19.7,0.0454,False,2020.0,5.0,162.0,Commanders,Michigan
+Darius Jackson,RB,Cowboys,2018,3.0,1.935,0.645,14.213333,0.0454,False,2016.0,6.0,216.0,Cowboys,Eastern Michigan
+Chapelle Russell,LB,Jaguars,2022,1.0,0.895,0.895,19.7,0.0454,False,2020.0,7.0,241.0,Buccaneers,Temple
+Fahn Cooper,RT,Colts,2017,2.0,1.02,0.51,11.25,0.0453,False,2016.0,5.0,174.0,,Mississippi
+David Sharpe,LT,Texans,2018,2.0,1.2,0.6,13.25,0.0453,False,2017.0,4.0,129.0,Raiders,Florida
+Austin Deculus,RT,Jets,2023,1.0,0.87,0.87,19.2,0.0453,False,2022.0,6.0,205.0,Texans,LSU
+Kentavius Street,ED,Saints,2022,1.0,1.265,1.265,28.00275,0.0452,False,2018.0,4.0,128.0,49ers,North Carolina State
+Cedric Thompson,S,Patriots,2016,1.0,0.45,0.45,10.0,0.045,False,2015.0,5.0,150.0,Dolphins,Minnesota
+Hassan Ridgeway,IDL,Eagles,2020,1.0,1.01,1.01,22.5,0.0449,False,2016.0,4.0,116.0,Colts,Texas
+Kenneth Dixon,RB,Jets,2019,2.0,1.305,0.6525,14.544,0.0449,False,2016.0,4.0,134.0,Ravens,Louisiana Tech
+Sidney Jones,CB,Jaguars,2020,1.0,0.75,0.75,16.7424,0.0448,False,2017.0,2.0,43.0,Eagles,Washington
+Rachad Wildgoose,CB,Commanders,2023,1.0,0.94,0.94,21.0,0.0448,False,2021.0,6.0,213.0,Bills,Wisconsin
+Dareke Young,WR,Raiders,2026,1.0,1.802,1.802,40.25,0.0448,False,2022.0,7.0,233.0,Seahawks,Lenoir-Rhyne
+Hamsah Nasirildeen,LB,Jets,2022,2.0,1.765,0.8825,19.7,0.0448,False,2021.0,6.0,186.0,Jets,Florida State
+Robert Rochell,CB,Packers,2023,1.0,0.94,0.94,21.0,0.0448,False,2021.0,4.0,130.0,Rams,Central Arkansas
+Shemar Jean-Charles,CB,Saints,2023,1.0,0.94,0.94,21.0,0.0448,False,2021.0,5.0,178.0,Packers,Appalachian State
+Sammie Coates,WR,Chiefs,2019,1.0,0.805,0.805,18.0,0.0447,False,2015.0,3.0,87.0,Steelers,Auburn
+Trevis Gipson,ED,Titans,2023,1.0,1.25,1.25,28.00275,0.0446,False,2020.0,5.0,155.0,Bears,Tulsa
+Kingsley Keke,IDL,Cardinals,2022,1.0,1.0,1.0,22.5,0.0444,False,2019.0,5.0,150.0,Packers,Texas A&M
+Devante Bond,LB,Buccaneers,2018,1.0,0.555,0.555,12.5,0.0444,False,2016.0,6.0,183.0,Buccaneers,Oklahoma
+Vince Biegel,LB,Saints,2018,1.0,0.555,0.555,12.5,0.0444,False,2017.0,4.0,108.0,Packers,Wisconsin
+Elijah McGuire,RB,Browns,2019,1.0,0.645,0.645,14.544,0.0443,False,2017.0,6.0,188.0,Jets,Louisiana-Lafayette
+Michael Jackson Sr.,CB,Patriots,2020,2.0,1.48,0.74,16.7424,0.0442,False,2019.0,5.0,158.0,Cowboys,Miami
+Tariq Castro-Fields,CB,Commanders,2023,2.0,1.855,0.9275,21.0,0.0442,False,2022.0,6.0,221.0,49ers,Penn State
+Justin Senior,RT,Chiefs,2019,1.0,0.495,0.495,11.25,0.044,False,2017.0,6.0,210.0,Seahawks,Mississippi State
+Hakeem Adeniji,LT,Vikings,2023,1.0,1.01,1.01,23.01,0.0439,False,2020.0,6.0,180.0,Bengals,Kansas
+Jonathan Williams,RB,Saints,2017,2.0,1.245,0.6225,14.213333,0.0438,False,2016.0,5.0,156.0,Bills,Arkansas
+Antwione Williams,LB,Vikings,2017,1.0,0.54,0.54,12.359059,0.0437,False,2016.0,5.0,169.0,Lions,Georgia Southern
+Josh Forrest,LB,Seahawks,2017,1.0,0.54,0.54,12.359059,0.0437,False,2016.0,6.0,190.0,Rams,Kentucky
+Shilique Calhoun,LB,Raiders,2017,1.0,0.54,0.54,12.359059,0.0437,False,2016.0,3.0,75.0,Raiders,Michigan State
+James Washington,WR,Cowboys,2022,1.0,1.1875,1.1875,27.25,0.0436,False,2018.0,2.0,60.0,Steelers,Oklahoma State
+Jalen Mayfield,LG,Giants,2023,1.0,0.87,0.87,20.0,0.0435,False,2021.0,3.0,68.0,Falcons,Michigan
+Colby Gossett,LG,Browns,2019,2.0,1.155,0.5775,13.3,0.0434,False,2018.0,6.0,213.0,Vikings,Appalachian State
+Derwin Gray,RG,JAX/PIT,2020,1.0,0.61,0.61,14.05,0.0434,False,2019.0,7.0,219.0,Steelers,Maryland
+Donovan Peoples-Jones,WR,Lions,2024,1.0,1.3,1.3,30.0,0.0433,False,2020.0,6.0,187.0,Browns,Michigan
+Mike Davis,RB,Seahawks,2017,1.0,0.615,0.615,14.213333,0.0433,False,2015.0,4.0,126.0,49ers,South Carolina
+Jeremy Langford,RB,Ravens,2017,1.0,0.615,0.615,14.213333,0.0433,False,2015.0,4.0,106.0,Bears,Michigan State
+Cassh Maluia,LB,Titans,2021,1.0,0.78,0.78,18.0,0.0433,False,2020.0,6.0,204.0,Patriots,Wyoming
+Quentin Poling,LB,Dolphins,2019,2.0,1.08,0.54,12.5,0.0432,False,2018.0,7.0,227.0,Dolphins,Ohio
+Travin Howard,LB,Rams,2019,2.0,1.08,0.54,12.5,0.0432,False,2018.0,7.0,231.0,Rams,TCU
+Akeem King,S,Falcons,2017,1.0,0.54,0.54,12.500081,0.0432,False,2015.0,7.0,249.0,Falcons,San Jose State
+Quez Watkins,WR,Steelers,2024,1.0,1.2925,1.2925,30.0,0.0431,False,2020.0,6.0,200.0,Eagles,Southern Miss
+Laviska Shenault,WR,Seahawks,2024,1.0,1.2925,1.2925,30.0,0.0431,False,2020.0,2.0,42.0,Jaguars,Colorado
+Van Jefferson,WR,Steelers,2024,1.0,1.2925,1.2925,30.0,0.0431,False,2020.0,2.0,57.0,Rams,Florida
+Maurice Canady,CB,Ravens,2019,1.0,0.72,0.72,16.7424,0.043,False,2016.0,6.0,209.0,Ravens,Virginia
+Deadrin Senat,IDL,Buccaneers,2022,1.0,0.965,0.965,22.5,0.0429,False,2018.0,3.0,90.0,Falcons,South Florida
+Adolphus Washington,IDL,Bengals,2018,2.0,1.63,0.815,19.0625,0.0428,False,2016.0,3.0,80.0,Bills,Ohio State
+Christian Holmes,CB,Browns,2025,1.0,1.03,1.03,24.1,0.0427,False,2022.0,7.0,240.0,Commanders,Oklahoma State
+Dane Jackson,CB,Bills,2021,2.0,1.71,0.855,20.0,0.0427,False,2020.0,7.0,239.0,Bills,Pittsburgh
+Shalom Luani,S,Seahawks,2018,1.0,0.555,0.555,13.0,0.0427,False,2017.0,7.0,221.0,Raiders,Washington State
+Leon McQuay III,S,Chiefs,2018,1.0,0.555,0.555,13.0,0.0427,False,2017.0,6.0,218.0,Chiefs,USC
+Derion Kendrick,CB,Rams,2025,1.0,1.03,1.03,24.1,0.0427,False,2022.0,6.0,212.0,Rams,Georgia
+Jedrick Wills,LT,Bears,2026,1.0,1.215,1.215,28.5,0.0426,False,2020.0,1.0,10.0,Browns,Alabama
+Tony Steward,LB,Saints,2016,1.0,0.525,0.525,12.359059,0.0425,False,2015.0,6.0,188.0,Bills,Clemson
+Blessuan Austin,CB,Seahawks,2021,1.0,0.85,0.85,20.0,0.0425,False,2019.0,6.0,196.0,Jets,Rutgers
+Boston Scott,RB,Eagles,2019,2.0,1.23,0.615,14.544,0.0423,False,2018.0,6.0,201.0,Saints,Louisiana Tech
+Chance Campbell,LB,Titans,2023,1.0,1.665,0.8325,19.7,0.0423,False,2022.0,6.0,219.0,Titans,Mississippi
+Jackson Carman,LT,Dolphins,2024,1.0,1.055,1.055,25.0,0.0422,False,2021.0,2.0,46.0,Bengals,Clemson
+Greg Senat,LT,Cowboys,2020,1.0,0.675,0.675,16.0,0.0422,False,2018.0,6.0,212.0,Ravens,Wagner
+Matt Dayes,RB,49ers,2018,1.0,1.2,0.6,14.213333,0.0422,False,2017.0,7.0,252.0,Browns,N.C. State
+Brian Hill,RB,Falcons,2018,2.0,1.2,0.6,14.213333,0.0422,False,2017.0,5.0,156.0,Falcons,Wyoming
+Oshane Ximines,ED,Giants,2023,1.0,1.18,1.18,28.00275,0.0421,False,2019.0,3.0,95.0,Giants,Old Dominion
+Quinten Rollins,CB,Cardinals,2018,1.0,0.705,0.705,16.7424,0.0421,False,2015.0,2.0,62.0,Packers,Miami (Ohio)
+Ryan Anderson,ED,Giants,2021,1.0,1.1275,1.1275,27.0,0.0418,False,2017.0,2.0,49.0,Commanders,Alabama
+David Bell,WR,Browns,2024,2.0,2.50657,1.253285,30.0,0.0418,False,2022.0,3.0,99.0,Browns,Purdue
+Sam Howell,QB,Cowboys,2026,1.0,2.5,2.5,60.0,0.0417,False,2022.0,5.0,144.0,Commanders,North Carolina
+Jerald Hawkins,RT,Steelers,2020,1.0,0.75,0.75,18.0,0.0417,False,2016.0,4.0,123.0,Steelers,LSU
+Shaquem Griffin,LB,Seahawks,2020,1.0,0.75,0.75,18.0,0.0417,False,2018.0,5.0,141.0,Seahawks,UCF
+Andre Smith,LB,Bills,2020,1.0,0.75,0.75,18.0,0.0417,False,2018.0,7.0,234.0,Panthers,North Carolina
+Jack Cichy,LB,Buccaneers,2020,1.0,0.75,0.75,18.0,0.0417,False,2018.0,6.0,202.0,Buccaneers,Wisconsin
+Rashad Greene,WR,Jaguars,2018,1.0,0.705,0.705,17.0,0.0415,False,2015.0,5.0,139.0,Jaguars,Florida State
+Breshad Perriman,WR,Browns,2018,1.0,0.705,0.705,17.0,0.0415,False,2015.0,1.0,26.0,Ravens,Central Florida
+Sterling Hofrichter,P,Buccaneers,2021,1.0,0.1656,0.1656,4.0,0.0414,False,2020.0,7.0,228.0,Falcons,Syracuse
+Dede Westbrook,WR,Vikings,2021,1.0,1.1275,1.1275,27.25,0.0414,False,2017.0,4.0,110.0,Jaguars,Oklahoma
+Mack Hollins,WR,Dolphins,2021,1.0,1.1275,1.1275,27.25,0.0414,False,2017.0,4.0,118.0,Eagles,North Carolina
+"Troy Pride, Jr.",CB,Saints,2023,1.0,0.87,0.87,21.0,0.0414,False,2020.0,4.0,113.0,Panthers,Notre Dame
+Trevor Davis,WR,Bears,2020,1.0,0.91,0.91,22.0,0.0414,False,2016.0,5.0,163.0,Packers,California
+Noah Brown,WR,Cowboys,2021,1.0,1.1275,1.1275,27.25,0.0414,False,2017.0,7.0,239.0,Cowboys,Ohio State
+Chase Lucas,CB,Lions,2023,1.0,0.87,0.87,21.0,0.0414,False,2022.0,7.0,237.0,Lions,Arizona State
+Reshard Cliett,LB,Chiefs,2017,2.0,1.02,0.51,12.359059,0.0413,False,2015.0,6.0,211.0,Texans,South Florida
+Jake Rodgers,RT,Steelers,2017,1.0,0.465,0.465,11.25,0.0413,False,2015.0,7.0,225.0,Falcons,Eastern Washington
+Craig Mager,CB,Chargers,2017,2.0,1.32,0.66,16.0,0.0412,False,2015.0,3.0,83.0,Chargers,Texas State
+Daniel Lasco,RB,Saints,2017,2.0,1.17,0.585,14.213333,0.0412,False,2016.0,7.0,237.0,Saints,California
+Thomas Graham Jr.,CB,Browns,2022,1.0,0.825,0.825,20.0,0.0412,False,2021.0,6.0,228.0,Bears,Oregon
+Prince Tega Wanogho,RT,Chiefs,2021,2.0,1.485,0.7425,18.0,0.0412,False,2020.0,6.0,210.0,Eagles,Auburn
+KeiVarae Russell,CB,Bengals,2018,1.0,1.375,0.6875,16.7424,0.0411,False,2016.0,3.0,74.0,Chiefs,Notre Dame
+Scott Miller,WR,Falcons,2023,1.0,1.2325,1.2325,30.0,0.0411,False,2019.0,6.0,208.0,Buccaneers,Bowling Green
+Auden Tate,WR,Falcons,2022,1.0,1.12,1.12,27.25,0.0411,False,2018.0,7.0,253.0,Bengals,Florida State
+Kofi Amichia,LG,Packers,2018,1.0,0.48,0.48,11.7,0.041,False,2017.0,6.0,212.0,Packers,South Florida
+Brian Mihalik,LT,Lions,2016,3.0,1.62,0.54,13.2,0.0409,False,2015.0,7.0,237.0,Eagles,Boston College
+Isaiah Battle,LT,Chiefs,2017,1.0,0.54,0.54,13.2,0.0409,False,2015.0,5.0,,Rams,Clemson
+Jalyn Holmes,IDL,Saints,2021,1.0,0.92,0.92,22.5,0.0409,False,2018.0,4.0,102.0,Vikings,Ohio State
+Ryan Murphy,S,Giants,2017,2.0,1.02,0.51,12.500081,0.0408,False,2015.0,7.0,248.0,Seahawks,Oregon State
+Charone Peake,WR,Jaguars,2019,1.0,0.735,0.735,18.0,0.0408,False,2016.0,7.0,241.0,Jets,Clemson
+Chase Claypool,WR,Bills,2024,1.0,1.225,1.225,30.0,0.0408,False,2020.0,2.0,49.0,Steelers,Notre Dame
+Derek Rivers,ED,Texans,2021,1.0,1.1,1.1,27.0,0.0407,False,2017.0,3.0,83.0,Patriots,Youngstown State
+Dorian Johnson,RG,Panthers,2018,2.0,0.975,0.4875,12.0,0.0406,False,2017.0,4.0,115.0,Cardinals,Pittsburgh
+Julian Okwara,ED,Eagles,2024,1.0,1.375,1.375,34.0,0.0404,False,2020.0,3.0,67.0,Lions,Notre Dame
+Jack Tocho,S,Vikings,2018,2.0,1.05,0.525,13.0,0.0404,False,2017.0,7.0,245.0,Vikings,N.C. State
+Ken Webster,CB,49ers,2020,1.0,0.675,0.675,16.7424,0.0403,False,2019.0,7.0,252.0,Patriots,Ole Miss
+Tanzel Smart,IDL,Jets,2020,2.0,1.815,0.9075,22.5,0.0403,False,2017.0,6.0,189.0,Rams,Tulane
+Matthew Wells,LB,Falcons,2016,2.0,0.99,0.495,12.359059,0.0401,False,2015.0,6.0,178.0,Patriots,Mississippi State
+JaCoby Stevens,LB,Eagles,2022,2.0,1.575,0.7875,19.7,0.04,False,2021.0,6.0,224.0,Eagles,LSU
+Korey Cunningham,LT,Giants,2021,1.0,0.92,0.92,23.0,0.04,False,2018.0,7.0,254.0,Cardinals,Cincinnati
+Josh Doctson,WR,Vikings,2019,1.0,0.72,0.72,18.0,0.04,False,2016.0,1.0,22.0,Commanders,TCU
+Laquon Treadwell,WR,Vikings,2019,1.0,0.72,0.72,18.0,0.04,False,2016.0,1.0,23.0,Vikings,Mississippi
+Cameron McGrone,LB,Colts,2022,2.0,1.575,0.7875,19.7,0.04,False,2021.0,5.0,177.0,Patriots,Michigan
+Pharoh Cooper,WR,Cardinals,2019,1.0,0.72,0.72,18.0,0.04,False,2016.0,4.0,117.0,Rams,South Carolina
+Tyeler Davison,IDL,Falcons,2019,1.0,0.895,0.895,22.5,0.0398,False,2015.0,5.0,154.0,Saints,Fresno State
+Roderick Johnson,LT,Texans,2018,2.0,1.05,0.525,13.25,0.0396,False,2017.0,5.0,160.0,Browns,Florida State
+Victor Dimukeje,ED,Giants,2025,1.0,1.3375,1.3375,34.0,0.0393,False,2021.0,6.0,210.0,Cardinals,Duke
+Daviyon Nixon,IDL,Panthers,2022,1.0,1.765,0.8825,22.5,0.0392,False,2021.0,5.0,158.0,Panthers,Iowa
+David Williams,RB,Broncos,2019,1.0,0.57,0.57,14.544,0.0392,False,2018.0,7.0,226.0,Broncos,Arkansas
+Mark Walton,RB,Dolphins,2019,1.0,0.57,0.57,14.544,0.0392,False,2018.0,4.0,112.0,Bengals,Miami (FL)
+Jonathan Marshall,IDL,Steelers,2022,2.0,1.765,0.8825,22.5,0.0392,False,2021.0,6.0,207.0,Jets,Arkansas
+Darrian Beavers,LB,Giants,2023,2.0,1.545,0.7725,19.7,0.0392,False,2022.0,6.0,182.0,Giants,Cincinnati
+Richie James,WR,Giants,2022,1.0,1.065,1.065,27.25,0.0391,False,2018.0,7.0,240.0,49ers,Middle Tennessee State
+Nicholas Petit-Frere,RT,49ers,2025,1.0,1.1,1.1,28.125,0.0391,False,2022.0,3.0,69.0,Titans,Ohio State
+Thayer Munford,RT,Patriots,2025,1.0,1.1,1.1,28.125,0.0391,False,2022.0,7.0,238.0,Raiders,Ohio State
+DaeSean Hamilton,WR,Texans,2022,1.0,1.065,1.065,27.25,0.0391,False,2018.0,4.0,113.0,Broncos,Penn State
+John Reid,CB,Seahawks,2021,1.0,0.78,0.78,20.0,0.039,False,2020.0,4.0,141.0,Texans,Penn State
+De'Angelo Henderson,RB,Jets,2018,1.0,0.555,0.555,14.213333,0.039,False,2017.0,6.0,203.0,Broncos,Coastal Carolina
+L.J. Collier,IDL,Cardinals,2023,1.0,1.2325,1.2325,31.666667,0.0389,False,2019.0,1.0,29.0,Seahawks,TCU
+Armon Watts,IDL,Steelers,2023,1.0,1.2325,1.2325,31.666667,0.0389,False,2019.0,6.0,190.0,Vikings,Arkansas
+Trysten Hill,IDL,Browns,2023,1.0,1.2325,1.2325,31.666667,0.0389,False,2019.0,2.0,58.0,Cowboys,Central Florida
+Adam Gotsis,ED,Jaguars,2020,1.0,0.91,0.91,23.5,0.0387,False,2016.0,2.0,63.0,Broncos,Georgia Tech
+Arden Key,ED,49ers,2021,1.0,1.045,1.045,27.0,0.0387,False,2018.0,3.0,87.0,Raiders,LSU
+Justin Hollins,ED,Packers,2023,1.0,1.08,1.08,28.00275,0.0386,False,2019.0,5.0,156.0,Broncos,Oregon
+Mike Thomas,WR,Bengals,2020,1.0,0.85,0.85,22.0,0.0386,False,2016.0,6.0,206.0,Rams,Southern Miss
+Laurence Gibson,LT,Texans,2017,2.0,1.02,0.51,13.2,0.0386,False,2015.0,7.0,243.0,Cowboys,Virginia Tech
+Darryl Johnson Jr.,ED,49ers,2023,1.0,1.08,1.08,28.00275,0.0386,False,2019.0,7.0,225.0,Bills,North Carolina A&T
+Derrick Jones,CB,Texans,2019,1.0,0.645,0.645,16.7424,0.0385,False,2017.0,6.0,204.0,Jets,Mississippi
+Chad Williams,WR,Colts,2019,2.0,1.28,0.69,18.0,0.0383,False,2017.0,3.0,98.0,Cardinals,Grambling State
+Stacy Coley,WR,Jets,2019,2.0,1.38,0.69,18.0,0.0383,False,2017.0,7.0,219.0,Vikings,Miami
+Devin Smith,WR,Cowboys,2019,2.0,1.38,0.69,18.0,0.0383,False,2015.0,2.0,37.0,Jets,Ohio State
+Eli Harold,ED,Eagles,2019,1.0,0.895,0.895,23.5,0.0381,False,2015.0,3.0,79.0,,Virginia
+Jalen Collins,CB,Colts,2018,1.0,1.275,0.6375,16.7424,0.0381,False,2015.0,2.0,42.0,Falcons,LSU
+James Smith-Williams,ED,Falcons,2024,1.0,1.2925,1.2925,34.0,0.038,False,2020.0,7.0,229.0,Commanders,North Carolina State
+Alex Collins,RB,Ravens,2017,1.0,0.54,0.54,14.213333,0.038,False,2016.0,5.0,171.0,Seahawks,Arkansas
+Damion Ratley,WR,Texans,2020,2.0,1.67,0.835,22.0,0.038,False,2018.0,6.0,175.0,Browns,Texas A&M
+Antonio Callaway,WR,Dolphins,2020,2.0,1.67,0.835,22.0,0.038,False,2018.0,4.0,105.0,Browns,Florida
+Neal Sterling,WR,Jets,2017,1.0,0.615,0.615,16.207143,0.0379,False,2015.0,7.0,220.0,Jaguars,Monmouth (NJ)
+Nazair Jones,IDL,Bills,2021,1.0,0.85,0.85,22.5,0.0378,False,2017.0,3.0,102.0,Seahawks,North Carolina
+Kalan Reed,CB,Seahawks,2018,1.0,0.63,0.63,16.7424,0.0376,False,2016.0,7.0,253.0,Titans,Southern Miss
+Trevor Bates,LB,Patriots,2017,1.0,0.465,0.465,12.359059,0.0376,False,2016.0,7.0,239.0,Colts,Maine
+Juston Burris,CB,Browns,2018,1.0,0.63,0.63,16.7424,0.0376,False,2016.0,4.0,118.0,Jets,N.C. State
+Tony Lippett,CB,Giants,2018,1.0,0.63,0.63,16.7424,0.0376,False,2015.0,5.0,156.0,Dolphins,Michigan State
+Daryl Worley,CB,Raiders,2018,1.0,0.63,0.63,16.7424,0.0376,False,2016.0,3.0,77.0,Panthers,West Virginia
+Tyrus Thompson,LT,Lions,2016,2.0,0.99,0.495,13.2,0.0375,False,2015.0,6.0,185.0,Vikings,Oklahoma
+Taywan Taylor,WR,Browns,2020,1.0,0.825,0.825,22.0,0.0375,False,2017.0,3.0,72.0,Titans,Western Kentucky
+Josh Ball,LT,Saints,2024,2.0,1.875,0.9375,25.0,0.0375,False,2021.0,4.0,138.0,Cowboys,Marshall
+Patrick Johnson,ED,Eagles,2025,1.0,1.275,1.275,34.0,0.0375,False,2021.0,7.0,234.0,Eagles,Tulane
+Justin Shaffer,LG,Falcons,2023,1.0,0.75,0.75,20.0,0.0375,False,2022.0,6.0,190.0,Falcons,Georgia
+Cameron Sample,ED,Bengals,2025,1.0,1.2675,1.2675,34.0,0.0373,False,2021.0,4.0,111.0,Bengals,Tulane
+Calvin Austin III,WR,Giants,2026,1.0,1.5,1.5,40.25,0.0373,False,2022.0,4.0,138.0,Steelers,Memphis
+Leonte Carroo,WR,Dolphins,2018,1.0,0.63,0.63,17.0,0.0371,False,2016.0,3.0,86.0,Dolphins,Rutgers
+Chris Williamson,CB,Falcons,2021,2.0,1.485,0.7425,20.0,0.0371,False,2020.0,7.0,247.0,Giants,Minnesota
+Bo Scarbrough,RB,Lions,2019,2.0,1.08,0.54,14.544,0.0371,False,2018.0,7.0,236.0,Cowboys,Alabama
+Corey Coleman,WR,Patriots,2018,1.0,0.63,0.63,17.0,0.0371,False,2016.0,1.0,15.0,Browns,Baylor
+Jackson Barton,LT,Raiders,2021,1.0,0.85,0.85,23.0,0.037,False,2019.0,7.0,240.0,Colts,Utah
+Prince Charles Iworah,S,Chiefs,2018,1.0,0.48,0.48,13.0,0.0369,False,2016.0,7.0,249.0,,Western Kentucky
+Nate Orchard,ED,Bills,2018,1.0,0.705,0.705,19.083333,0.0369,False,2015.0,2.0,51.0,Browns,Utah
+Jay Tufele,IDL,Jets,2025,1.0,1.17,1.17,31.75,0.0369,False,2021.0,4.0,106.0,Jaguars,USC
+Evan Weaver,LB,Cardinals,2021,1.0,0.66,0.66,18.0,0.0367,False,2020.0,6.0,202.0,Cardinals,California
+Parry Nickerson,CB,Jaguars,2019,1.0,1.23,0.615,16.7424,0.0367,False,2018.0,6.0,179.0,Jets,Tulane
+Khyiris Tonga,IDL,Vikings,2022,1.0,0.825,0.825,22.5,0.0367,False,2021.0,7.0,250.0,Bears,BYU
+Clay Johnston,LB,Panthers,2021,1.0,0.66,0.66,18.0,0.0367,False,2020.0,7.0,234.0,Rams,Baylor
+Cornell Armstrong,CB,Texans,2019,2.0,1.23,0.615,16.7424,0.0367,False,2018.0,6.0,209.0,Dolphins,Southern Miss
+Tremon Smith,CB,Packers,2019,2.0,1.23,0.615,16.7424,0.0367,False,2018.0,6.0,196.0,Chiefs,Central Arkansas
+Jordan Willis,ED,49ers,2021,1.0,0.99,0.99,27.0,0.0367,False,2017.0,3.0,73.0,Bengals,Kansas State
+Nick Nelson,CB,Raiders,2019,2.0,1.23,0.615,16.7424,0.0367,False,2018.0,4.0,110.0,Raiders,Wisconsin
+Davontae Harris,CB,Ravens,2019,2.0,1.23,0.615,16.7424,0.0367,False,2018.0,5.0,151.0,Bengals,Illinois State
+Duke Ejiofor,IDL,Falcons,2022,1.0,0.825,0.825,22.5,0.0367,False,2018.0,6.0,177.0,Texans,Wake Forest
+Corn Elder,CB,Panthers,2019,2.0,1.23,0.615,16.7424,0.0367,False,2017.0,5.0,152.0,Panthers,Miami
+Shelton Gibson,WR,Eagles,2019,2.0,1.305,0.6525,18.0,0.0362,False,2017.0,5.0,166.0,Eagles,West Virginia
+Josh Malone,WR,Jets,2019,2.0,1.305,0.6525,18.0,0.0362,False,2017.0,4.0,128.0,Bengals,Tennessee
+Xavier Crawford,CB,Bears,2020,1.0,0.606117,0.606117,16.7424,0.0362,False,2019.0,6.0,195.0,Texans,Oregon State
+Antonio Garcia,LT,Colts,2018,1.0,0.48,0.48,13.25,0.0362,False,2017.0,3.0,85.0,Patriots,Troy
+Rashard Higgins,WR,Browns,2017,2.0,1.17,0.585,16.207143,0.0361,False,2016.0,5.0,172.0,Browns,Colorado State
+Miles Boykin,WR,Steelers,2023,1.0,1.08,1.08,30.0,0.036,False,2019.0,3.0,93.0,Ravens,Notre Dame
+N'Keal Harry,WR,Vikings,2023,1.0,1.08,1.08,30.0,0.036,False,2019.0,1.0,32.0,Patriots,Arizona State
+Kenny Hilliard,RB,Commanders,2017,2.0,1.02,0.51,14.213333,0.0359,False,2015.0,7.0,235.0,Texans,LSU
+Kelvin Taylor,RB,Falcons,2017,2.0,1.02,0.51,14.213333,0.0359,False,2016.0,6.0,211.0,,Florida
+Leterrius Walton,IDL,Bills,2019,1.0,0.805,0.805,22.5,0.0358,False,2015.0,6.0,199.0,Steelers,Central Michigan
+David Moore,WR,Seahawks,2019,1.0,0.645,0.645,18.0,0.0358,False,2017.0,7.0,226.0,Seahawks,East Central
+Ricardo Louis,WR,Dolphins,2019,1.0,0.645,0.645,18.0,0.0358,False,2016.0,4.0,114.0,Browns,Auburn
+Brendan Langley,CB,Broncos,2018,2.0,1.2,0.6,16.7424,0.0358,False,2017.0,3.0,101.0,Broncos,Lamar
+Easton Stick,QB,Chargers,2023,1.0,1.8,1.8,50.271667,0.0358,False,2019.0,5.0,166.0,Chargers,North Dakota State
+Brian Allen,CB,Steelers,2018,2.0,1.2,0.6,16.7424,0.0358,False,2017.0,5.0,173.0,Steelers,Utah
+Treston Decoud,CB,Cowboys,2018,2.0,1.2,0.6,16.7424,0.0358,False,2017.0,5.0,169.0,Texans,Oregon State
+Joshua Holsey,CB,Commanders,2018,2.0,1.2,0.6,16.7424,0.0358,False,2017.0,7.0,235.0,Commanders,Auburn
+Faion Hicks,CB,Broncos,2023,1.0,0.75,0.75,21.0,0.0357,False,2022.0,7.0,232.0,Broncos,Wisconsin
+D'Joun Smith,CB,Titans,2016,2.0,1.14,0.57,16.0,0.0356,False,2015.0,3.0,65.0,Colts,Florida Atlantic
+Darius Slayton,WR,Giants,2022,1.0,0.965,0.965,27.25,0.0354,False,2019.0,5.0,171.0,Giants,Auburn
+Jihad Ward,IDL,Colts,2018,2.0,1.35,0.675,19.0625,0.0354,False,2016.0,2.0,44.0,Raiders,Illinois
+Dadi Nicolas,ED,Commanders,2018,2.0,1.35,0.675,19.083333,0.0354,False,2016.0,6.0,203.0,Chiefs,Virginia Tech
+Jehu Chesson,WR,Commanders,2018,2.0,1.2,0.6,17.0,0.0353,False,2017.0,4.0,139.0,Chiefs,Michigan
+Daniel Braverman,WR,Chiefs,2018,2.0,1.2,0.6,17.0,0.0353,False,2016.0,7.0,230.0,Bears,Western Michigan
+Isaiah McKenzie,WR,Bills,2018,2.0,1.2,0.6,17.0,0.0353,False,2017.0,5.0,172.0,Broncos,Georgia
+Rodney Adams,WR,Colts,2018,2.0,1.2,0.6,17.0,0.0353,False,2017.0,5.0,170.0,Vikings,South Florida
+Terrace Marshall Jr.,WR,Raiders,2024,1.0,1.055,1.055,30.0,0.0352,False,2021.0,2.0,59.0,Panthers,LSU
+D'Wayne Eskridge,WR,SEA/MIA,2024,1.0,1.055,1.055,30.0,0.0352,False,2021.0,2.0,56.0,Seahawks,Western Michigan
+Mario Alford,WR,Browns,2016,2.0,1.14,0.57,16.207143,0.0352,False,2015.0,7.0,238.0,Bengals,West Virginia
+Quintez Cephus,WR,Texans,2024,1.0,1.055,1.055,30.0,0.0352,False,2020.0,5.0,166.0,Lions,Wisconsin
+Tre McBride,WR,Titans,2016,2.0,1.14,0.57,16.207143,0.0352,False,2015.0,7.0,245.0,Titans,William & Mary
+Bennett Skowronek,WR,Steelers,2024,1.0,1.055,1.055,30.0,0.0352,False,2021.0,7.0,249.0,Rams,Notre Dame
+Kadarius Toney,WR,Browns,2024,1.0,1.055,1.055,30.0,0.0352,False,2021.0,1.0,20.0,Giants,Florida
+Chris Wilcox,CB,Colts,2022,1.0,0.705,0.705,20.0,0.0352,False,2021.0,7.0,251.0,Buccaneers,BYU
+Taco Charlton,ED,Chiefs,2020,1.0,0.825,0.825,23.5,0.0351,False,2017.0,1.0,28.0,Cowboys,Michigan
+Marquiss Spencer,IDL,Broncos,2022,2.0,1.575,0.7875,22.5,0.035,False,2021.0,7.0,253.0,Broncos,Mississippi State
+Freddie Swain,WR,MIA/DEN,2022,2.0,1.905,0.9525,27.25,0.035,False,2020.0,6.0,214.0,Seahawks,Florida
+Earnest Brown IV,IDL,Rams,2022,2.0,1.575,0.7875,22.5,0.035,False,2021.0,5.0,174.0,Rams,Northwestern
+Austin Bryant,IDL,49ers,2023,1.0,1.105,1.105,31.666667,0.0349,False,2019.0,4.0,117.0,Lions,Clemson
+Jalen Tolbert,WR,Dolphins,2026,1.0,1.4025,1.4025,40.25,0.0348,False,2022.0,3.0,88.0,Cowboys,South Alabama
+Erik Ezukanma,WR,Dolphins,2024,2.0,2.085,1.0425,30.0,0.0347,False,2022.0,4.0,125.0,Dolphins,Texas Tech
+Travis Fulgham,WR,Eagles,2020,2.0,1.525,0.7625,22.0,0.0347,False,2019.0,6.0,184.0,Lions,Old Dominion
+DeMarvin Leal,IDL,Steelers,2025,1.0,1.1,1.1,31.75,0.0346,False,2022.0,3.0,84.0,Steelers,Texas A&M
+Obum Gwacham,ED,Jets,2017,2.0,1.32,0.66,19.083333,0.0346,False,2015.0,6.0,209.0,Seahawks,Oregon State
+Phidarian Mathis,IDL,Bills,2025,1.0,1.1,1.1,31.75,0.0346,False,2022.0,2.0,47.0,Commanders,Alabama
+Willie Henry,IDL,49ers,2020,1.0,0.77,0.77,22.5,0.0342,False,2016.0,4.0,132.0,Ravens,Michigan
+Marcell Ateman,WR,Raiders,2019,2.0,1.23,0.615,18.0,0.0342,False,2018.0,7.0,228.0,Raiders,Oklahoma State
+Geneo Grissom,ED,Patriots,2016,2.0,1.15,0.575,16.833333,0.0342,False,2015.0,3.0,97.0,Patriots,Oklahoma
+Larnel Coleman,LT,Panthers,2022,2.0,1.575,0.7875,23.01,0.0342,False,2021.0,7.0,231.0,Dolphins,Massachusetts
+Amara Darboh,WR,Buccaneers,2019,2.0,1.23,0.615,18.0,0.0342,False,2017.0,3.0,106.0,Seahawks,Michigan
+Robert Davis,WR,Eagles,2019,2.0,1.23,0.615,18.0,0.0342,False,2017.0,6.0,209.0,Commanders,Georgia State
+Ben Banogu,IDL,Cowboys,2023,1.0,1.08,1.08,31.666667,0.0341,False,2019.0,2.0,49.0,Colts,TCU
+Peter Kalambayi,ED,Broncos,2021,1.0,0.92,0.92,27.0,0.0341,False,2018.0,6.0,214.0,Texans,Stanford
+Byron Cowart,IDL,Chiefs,2023,1.0,1.08,1.08,31.666667,0.0341,False,2019.0,5.0,159.0,Patriots,Maryland
+Terry Poole,LT,Seahawks,2016,1.0,0.45,0.45,13.2,0.0341,False,2015.0,4.0,130.0,Seahawks,San Diego State
+Jullian Taylor,ED,Titans,2021,1.0,0.92,0.92,27.0,0.0341,False,2018.0,7.0,223.0,49ers,Temple
+Terrell Lewis,ED,Bears,2022,2.0,1.905,0.9525,28.00275,0.034,False,2020.0,3.0,84.0,Rams,Alabama
+Casey Toohill,ED,Bills,2024,1.0,1.155,1.155,34.0,0.034,False,2020.0,7.0,233.0,Eagles,Stanford
+Mike Weber,RB,Chiefs,2020,1.0,0.51,0.51,15.0,0.034,False,2019.0,7.0,218.0,Cowboys,Ohio State
+Ryan Russell,ED,Buccaneers,2016,2.0,1.14,0.57,16.833333,0.0339,False,2015.0,5.0,163.0,Cowboys,Purdue
+Deiontrez Mount,ED,Colts,2016,2.0,1.14,0.57,16.833333,0.0339,False,2015.0,6.0,177.0,Titans,Louisville
+Colton McKivitz,LT,49ers,2021,1.0,0.78,0.78,23.0,0.0339,False,2020.0,5.0,153.0,49ers,West Virginia
+Trent Taylor,WR,Bengals,2021,1.0,0.92,0.92,27.25,0.0338,False,2017.0,5.0,177.0,49ers,Louisiana Tech
+Daeshon Hall,IDL,Jets,2018,3.0,1.935,0.645,19.0625,0.0338,False,2017.0,3.0,77.0,Panthers,Texas A&M
+Jordan Lucas,CB,Dolphins,2017,1.0,0.54,0.54,16.0,0.0338,False,2016.0,6.0,204.0,Dolphins,Penn State
+Aaron Wallace,ED,Broncos,2018,3.0,1.935,0.645,19.083333,0.0338,False,2016.0,7.0,222.0,Titans,UCLA
+Khalfani Muhammad,RB,Patriots,2018,1.0,0.48,0.48,14.213333,0.0338,False,2017.0,7.0,241.0,Titans,California
+Dante Pettis,WR,Giants,2021,1.0,0.92,0.92,27.25,0.0338,False,2018.0,2.0,44.0,49ers,Washington
+Al-Quadin Muhammad,ED,Colts,2018,3.0,1.935,0.645,19.083333,0.0338,False,2017.0,6.0,196.0,Saints,Miami
+Elijah Hood,RB,CAR/LV,2018,1.0,0.48,0.48,14.213333,0.0338,False,2017.0,7.0,242.0,Raiders,North Carolina
+Jalen Reagor,WR,Patriots,2023,1.0,1.01,1.01,30.0,0.0337,False,2020.0,1.0,21.0,Eagles,TCU
+James Proche,WR,Browns,2023,1.0,1.01,1.01,30.0,0.0337,False,2020.0,6.0,201.0,Ravens,SMU
+Joe Jackson,ED,Browns,2021,2.0,1.815,0.9075,27.0,0.0336,False,2019.0,5.0,165.0,Cowboys,Miami (FL)
+Marlon Tuipulotu,IDL,Chiefs,2024,1.0,1.055,1.055,31.666667,0.0333,False,2021.0,6.0,189.0,Eagles,USC
+Dezmin Lewis,WR,Bills,2016,3.0,1.62,0.54,16.207143,0.0333,False,2015.0,7.0,234.0,Bills,Central Arkansas
+P.J. Hall,IDL,Texans,2020,1.0,0.75,0.75,22.5,0.0333,False,2018.0,2.0,57.0,Raiders,Sam Houston State
+Jalston Fowler,FB,Seahawks,2017,1.0,0.1224,0.1224,3.675667,0.0333,False,2015.0,4.0,108.0,Titans,Alabama
+James Lynch,IDL,Titans,2024,1.0,1.055,1.055,31.666667,0.0333,False,2020.0,4.0,130.0,Vikings,Baylor
+Trey Lance,QB,Chargers,2025,1.0,2.0,2.0,60.0,0.0333,False,2021.0,1.0,3.0,49ers,North Dakota State
+Mike Strachan,WR,Panthers,2023,2.0,1.995,0.9975,30.0,0.0332,False,2021.0,7.0,229.0,Colts,Charleston
+Kyron Johnson,ED,Steelers,2023,2.0,1.855,0.9275,28.00275,0.0331,False,2022.0,6.0,181.0,Eagles,Kansas
+Jeremy Clark,CB,Jets,2018,1.0,0.555,0.555,16.7424,0.0331,False,2017.0,6.0,197.0,Jets,Michigan
+Donnie Lewis Jr.,CB,Browns,2020,2.0,1.11,0.555,16.7424,0.0331,False,2019.0,7.0,221.0,Browns,Tulane
+Owamagbe Odighizuwa,ED,Bills,2018,1.0,0.63,0.63,19.083333,0.033,False,2015.0,3.0,74.0,Giants,UCLA
+Martrell Spaight,ED,Jaguars,2018,1.0,0.63,0.63,19.083333,0.033,False,2015.0,5.0,141.0,Commanders,Arkansas
+Sam Roberts,IDL,Panthers,2024,2.0,2.085,1.0425,31.666667,0.0329,False,2022.0,6.0,200.0,Patriots,Northwest Missouri State
+Dax Milne,WR,Raiders,2024,1.0,0.985,0.985,30.0,0.0328,False,2021.0,7.0,258.0,Commanders,BYU
+Velus Jones Jr.,WR,Panthers,2024,1.0,0.985,0.985,30.0,0.0328,False,2022.0,3.0,71.0,Bears,Tennessee
+Zac Brooks,RB,Broncos,2017,1.0,0.465,0.465,14.213333,0.0327,False,2016.0,7.0,247.0,Seahawks,Clemson
+Geremy Davis,WR,Chargers,2016,1.0,0.525,0.525,16.207143,0.0324,False,2015.0,6.0,186.0,Giants,Connecticut
+Michael Woods,WR,Browns,2024,2.0,1.945,0.9725,30.0,0.0324,False,2022.0,6.0,202.0,Browns,Oklahoma
+Chris Rumph II,ED,Saints,2025,1.0,1.1,1.1,34.0,0.0324,False,2021.0,4.0,118.0,Chargers,Duke
+Drake Jackson,ED,Commanders,2025,1.0,1.1,1.1,34.0,0.0324,False,2022.0,2.0,61.0,49ers,USC
+Frank Darby,WR,Falcons,2022,2.0,1.765,0.8825,27.25,0.0324,False,2021.0,6.0,187.0,Falcons,Arizona State
+Kaelin Clay,WR,Ravens,2016,1.0,0.525,0.525,16.207143,0.0324,False,2015.0,6.0,184.0,Buccaneers,Utah
+Darius Kilgo,IDL,Patriots,2017,1.0,0.615,0.615,19.0625,0.0323,False,2015.0,6.0,203.0,Broncos,Maryland
+Christian Campbell,CB,Saints,2019,2.0,1.08,0.54,16.7424,0.0323,False,2018.0,6.0,182.0,Cardinals,Penn State
+David Parry,IDL,Saints,2017,1.0,0.615,0.615,19.0625,0.0323,False,2015.0,5.0,151.0,Colts,Stanford
+Xavier Cooper,IDL,Jets,2017,1.0,0.615,0.615,19.0625,0.0323,False,2015.0,3.0,96.0,Browns,Washington State
+Angelo Blackson,IDL,Texans,2017,2.0,0.615,0.615,19.0625,0.0323,False,2015.0,4.0,100.0,Titans,Auburn
+Simeon Thomas,CB,Commanders,2019,2.0,1.08,0.54,16.7424,0.0323,False,2018.0,6.0,188.0,Browns,Louisiana
+Blake Brandel,LT,Vikings,2021,2.0,1.485,0.7425,23.0,0.0323,False,2020.0,6.0,203.0,Vikings,Oregon State
+Anthony Chickillo,ED,Steelers,2017,1.0,0.615,0.615,19.083333,0.0322,False,2015.0,6.0,212.0,Steelers,Miami
+Khalid Kareem,ED,Colts,2022,1.0,0.895,0.895,28.00275,0.032,False,2020.0,5.0,147.0,Bengals,Notre Dame
+Robert Nkemdiche,IDL,Dolphins,2019,1.0,0.72,0.72,22.5,0.032,False,2016.0,1.0,29.0,Cardinals,Mississippi
+Harlan Miller,CB,Cardinals,2017,2.0,1.02,0.51,16.0,0.0319,False,2016.0,6.0,205.0,Cardinals,Southeastern Louisiana
+Ross Blacklock,IDL,MIN/TEN,2023,1.0,1.01,1.01,31.666667,0.0319,False,2020.0,2.0,40.0,Texans,TCU
+Jordan Lasley,WR,Lions,2019,1.0,0.57,0.57,18.0,0.0317,False,2018.0,5.0,162.0,Ravens,UCLA
+Terry Godwin,WR,Jaguars,2020,2.0,1.39,0.695,22.0,0.0316,False,2019.0,7.0,237.0,Panthers,Georgia
+Treyvon Hester,IDL,Eagles,2018,2.0,1.2,0.6,19.0625,0.0315,False,2017.0,7.0,244.0,Raiders,Toledo
+Vincent Valentine,IDL,Cardinals,2018,2.0,1.2,0.6,19.0625,0.0315,False,2016.0,3.0,96.0,Patriots,Nebraska
+Roy Lopez,IDL,Cardinals,2023,2.0,1.995,0.9975,31.666667,0.0315,False,2021.0,6.0,195.0,Texans,Arizona
+Tommy Togiai,IDL,Falcons,2023,2.0,1.995,0.9975,31.666667,0.0315,False,2021.0,4.0,132.0,Browns,Ohio State
+Quinton Bohanna,IDL,Titans,2023,2.0,1.995,0.9975,31.666667,0.0315,False,2021.0,6.0,192.0,Cowboys,Kentucky
+Caleb Brantley,IDL,Commanders,2018,2.0,1.2,0.6,19.0625,0.0315,False,2017.0,6.0,185.0,Browns,Florida
+Ejuan Price,ED,Rams,2018,2.0,1.2,0.6,19.083333,0.0314,False,2017.0,7.0,234.0,Rams,Pittsburgh
+Pita Taumoepenu,ED,ARI/SF,2018,2.0,1.2,0.6,19.083333,0.0314,False,2017.0,6.0,202.0,49ers,Utah
+Marquez White,CB,Cowboys,2018,2.0,1.05,0.525,16.7424,0.0314,False,2017.0,6.0,216.0,Cowboys,Florida State
+Treylon Burks,WR,Commanders,2025,1.0,1.1,1.1,35.0,0.0314,False,2022.0,1.0,18.0,Titans,Arkansas
+Jameis Winston,QB,Saints,2020,1.0,1.1,1.1,35.0,0.0314,False,2015.0,1.0,1.0,Buccaneers,Florida State
+Trey Caldwell,CB,Titans,2018,2.0,1.05,0.525,16.7424,0.0314,False,2016.0,5.0,173.0,Browns,Louisiana-Monroe
+Collin Johnson,WR,Bears,2023,1.0,0.94,0.94,30.0,0.0313,False,2020.0,5.0,165.0,Jaguars,Texas
+Amari Rodgers,WR,Colts,2023,1.0,0.94,0.94,30.0,0.0313,False,2021.0,3.0,85.0,Packers,Clemson
+Randy Gregory,ED,Cowboys,2019,1.0,0.735,0.735,23.5,0.0313,False,2015.0,2.0,60.0,Cowboys,Nebraska
+Simi Fehoko,WR,Chargers,2023,1.0,0.94,0.94,30.0,0.0313,False,2021.0,5.0,179.0,Cowboys,Stanford
+Equanimeous St. Brown,WR,Packers,2021,1.0,0.85,0.85,27.25,0.0312,False,2018.0,6.0,207.0,Packers,Notre Dame
+Daelin Hayes,ED,49ers,2023,1.0,0.87,0.87,28.00275,0.0311,False,2021.0,5.0,171.0,Ravens,Notre Dame
+Neil Farrell Jr.,IDL,Dolphins,2024,1.0,0.985,0.985,31.666667,0.0311,False,2022.0,4.0,126.0,Raiders,LSU
+Zachary Carter,IDL,Raiders,2024,1.0,0.985,0.985,31.666667,0.0311,False,2022.0,3.0,95.0,Bengals,Florida
+Ronnie Perkins,ED,Broncos,2023,1.0,0.87,0.87,28.00275,0.0311,False,2021.0,3.0,96.0,Patriots,Oklahoma
+Derrek Tuszka,ED,Steelers,2021,2.0,1.675,0.8375,27.0,0.031,False,2020.0,7.0,254.0,Broncos,North Dakota State
+Adetokunbo Ogundeji,ED,Steelers,2024,1.0,1.055,1.055,34.0,0.031,False,2021.0,5.0,182.0,Falcons,Notre Dame
+Jabari Zuniga,ED,Jets,2021,2.0,1.675,0.8375,27.0,0.031,False,2020.0,3.0,79.0,Jets,Florida
+Jonathan Garvin,ED,49ers,2024,1.0,1.055,1.055,34.0,0.031,False,2020.0,7.0,242.0,Packers,Miami
+Montrell Washington,WR,Chiefs,2023,2.0,1.855,0.9275,30.0,0.0309,False,2022.0,5.0,162.0,Broncos,Samford
+JaCorey Shepherd,CB,49ers,2016,2.0,0.99,0.495,16.0,0.0309,False,2015.0,6.0,191.0,Eagles,Kansas
+Taurean Nixon,CB,Broncos,2016,2.0,0.99,0.495,16.0,0.0309,False,2015.0,7.0,251.0,Broncos,Tulane
+Isaiah Ford,WR,Dolphins,2018,2.0,1.05,0.525,17.0,0.0309,False,2017.0,7.0,237.0,Dolphins,Virginia Tech
+Daurice Fountain,WR,Colts,2020,1.0,0.675,0.675,22.0,0.0307,False,2018.0,5.0,159.0,Colts,Northern Iowa
+Vincent Taylor,IDL,Browns,2019,2.0,1.38,0.69,22.5,0.0307,False,2017.0,6.0,194.0,Dolphins,Oklahoma State
+Tyrie Cleveland,WR,Broncos,2021,2.0,1.675,0.8375,27.25,0.0307,False,2020.0,7.0,252.0,Broncos,Miami
+Eddie Vanderdoes,IDL,Texans,2019,2.0,1.38,0.69,22.5,0.0307,False,2017.0,3.0,88.0,Raiders,UCLA
+Shaka Toney,ED,Cowboys,2024,2.0,2.085,1.0425,34.0,0.0307,False,2021.0,7.0,246.0,Commanders,Penn State
+Anthony Zettel,ED,SF/CIN,2019,1.0,0.72,0.72,23.5,0.0306,False,2016.0,6.0,202.0,Lions,Penn State
+Noah Spence,ED,NO/WAS,2019,1.0,0.72,0.72,23.5,0.0306,False,2016.0,2.0,39.0,Buccaneers,Eastern Kentucky
+Stephen Denmark,CB,Bears,2020,1.0,0.51,0.51,16.7424,0.0305,False,2019.0,7.0,238.0,Bears,Valdosta State
+Andre Debose,WR,Colts,2016,2.0,0.99,0.495,16.207143,0.0305,False,2015.0,7.0,221.0,Raiders,Florida
+Janarius Robinson,ED,Eagles,2022,3.0,2.56,0.853333,28.00275,0.0305,False,2021.0,4.0,134.0,Vikings,Florida State
+Jordan Brown,CB,Raiders,2020,1.0,0.51,0.51,16.7424,0.0305,False,2019.0,7.0,223.0,Bengals,South Dakota State
+Jacob Harris,WR,Rams,2022,1.0,0.825,0.825,27.25,0.0303,False,2021.0,4.0,141.0,Rams,Central Florida
+Jalen Camp,WR,Texans,2022,1.0,0.825,0.825,27.25,0.0303,False,2021.0,6.0,209.0,Jaguars,Georgia Tech
+David Ojabo,ED,Dolphins,2026,1.0,1.4025,1.4025,46.5,0.0302,False,2022.0,2.0,45.0,Ravens,Michigan
+Deon Cain,WR,Steelers,2019,2.0,1.08,0.54,18.0,0.03,False,2018.0,6.0,185.0,Colts,Clemson
+Daylon Mack,IDL,Giants,2020,1.0,0.675,0.675,22.5,0.03,False,2019.0,5.0,160.0,Ravens,Texas A&M
+Austin Proehl,WR,Rams,2019,2.0,1.08,0.54,18.0,0.03,False,2018.0,7.0,255.0,Bills,North Carolina
+Cedrick Wilson Jr.,WR,Cowboys,2019,2.0,1.08,0.54,18.0,0.03,False,2018.0,6.0,208.0,Cowboys,Boise State
+Rakeem Nunez-Roches,IDL,Chiefs,2016,2.0,1.14,0.57,19.0625,0.0299,False,2015.0,6.0,217.0,Chiefs,Southern Miss
+Deon Simon,IDL,Jets,2016,2.0,1.14,0.57,19.0625,0.0299,False,2015.0,7.0,223.0,Jets,Northwestern State
+Gabe Wright,IDL,Browns,2016,2.0,1.14,0.57,19.0625,0.0299,False,2015.0,4.0,113.0,Lions,Auburn
+Tyreke Smith,ED,Cardinals,2023,2.0,1.665,0.8325,28.00275,0.0297,False,2022.0,5.0,158.0,Seahawks,Ohio State
+Marlon Davidson,IDL,Titans,2023,1.0,0.94,0.94,31.666667,0.0297,False,2020.0,2.0,47.0,Falcons,Auburn
+John Penisini,IDL,Panthers,2023,1.0,0.94,0.94,31.666667,0.0297,False,2020.0,6.0,197.0,Lions,Utah
+Cameron Goode,ED,Dolphins,2023,2.0,1.665,0.8325,28.00275,0.0297,False,2022.0,7.0,224.0,Dolphins,California
+Jordan Brailford,ED,Vikings,2020,2.0,1.39,0.695,23.5,0.0296,False,2019.0,7.0,253.0,Commanders,Oklahoma State
+Jeremiah Ledbetter,IDL,Buccaneers,2018,2.0,1.125,0.5625,19.0625,0.0295,False,2017.0,6.0,205.0,Lions,Arkansas
+Quincy Roche,ED,Giants,2022,1.0,0.825,0.825,28.00275,0.0295,False,2021.0,6.0,216.0,Steelers,Miami
+B.J. Dubose,ED,Vikings,2016,2.0,0.99,0.495,16.833333,0.0294,False,2015.0,6.0,193.0,Vikings,Louisville
+Robert Windsor,IDL,Colts,2021,1.0,0.66,0.66,22.5,0.0293,False,2020.0,6.0,193.0,Colts,Penn State
+Malik McDowell,IDL,Browns,2021,1.0,0.66,0.66,22.5,0.0293,False,2017.0,2.0,35.0,Seahawks,Michigan State
+Bronson Kaufusi,IDL,Jets,2018,1.0,0.555,0.555,19.0625,0.0291,False,2016.0,3.0,70.0,Ravens,BYU
+Michael Bennett,IDL,Falcons,2018,1.0,0.555,0.555,19.0625,0.0291,False,2015.0,6.0,180.0,Jaguars,Ohio State
+Randall Evans,CB,Chargers,2017,1.0,0.465,0.465,16.0,0.0291,False,2015.0,6.0,196.0,Eagles,Kansas State
+Jesse Luketa,ED,Cardinals,2024,1.0,0.985,0.985,34.0,0.029,False,2022.0,7.0,256.0,Cardinals,Penn State
+Jalen Hurd,WR,Patriots,2023,1.0,0.87,0.87,30.0,0.029,False,2019.0,3.0,67.0,49ers,Baylor
+Kawaan Baker,WR,Saints,2022,2.0,1.575,0.7875,27.25,0.0289,False,2021.0,7.0,255.0,Saints,South Alabama
+Devin Lucien,WR,Patriots,2017,1.0,0.465,0.465,16.207143,0.0287,False,2016.0,7.0,225.0,Patriots,Arizona State
+Moritz Boehringer,WR,Vikings,2017,1.0,0.465,0.465,16.207143,0.0287,False,2016.0,6.0,180.0,Vikings,Hochschule Aalen
+Da'Ron Brown,WR,Chargers,2017,1.0,0.465,0.465,16.207143,0.0287,False,2015.0,7.0,233.0,Chiefs,Northern Illinois
+Kenny Lawler,WR,Seahawks,2017,1.0,0.465,0.465,16.207143,0.0287,False,2016.0,7.0,243.0,Seahawks,California
+Keenan Reynolds,WR,Ravens,2017,1.0,0.465,0.465,16.207143,0.0287,False,2016.0,6.0,182.0,Ravens,Navy
+Malachi Dupre,WR,Cardinals,2018,2.0,0.975,0.4875,17.0,0.0287,False,2017.0,7.0,247.0,Packers,LSU
+Antonio Gandy-Golden,WR,Commanders,2021,1.0,0.78,0.78,27.25,0.0286,False,2020.0,4.0,142.0,Commanders,Liberty
+Isaiah Coulter,WR,Bears,2021,1.0,0.78,0.78,27.25,0.0286,False,2020.0,5.0,171.0,Texans,Rhode Island
+Alex Carter,CB,Lions,2016,2.0,0.915,0.4575,16.0,0.0286,False,2015.0,3.0,80.0,Lions,Stanford
+Roberto Aguayo,K,Panthers,2017,1.0,0.1224,0.1224,4.3,0.0285,False,2016.0,2.0,59.0,Buccaneers,Florida State
+Sutton Smith,LB,Seahawks,2020,1.0,0.51,0.51,18.0,0.0283,False,2019.0,6.0,175.0,Steelers,Northern Illinois
+Christian Ringo,IDL,Bengals,2017,1.0,0.54,0.54,19.0625,0.0283,False,2015.0,6.0,210.0,Packers,Louisiana-Lafayette
+Quinton Jefferson,IDL,Seahawks,2017,1.0,0.54,0.54,19.0625,0.0283,False,2016.0,5.0,147.0,Seahawks,Maryland
+Matthew Butler,IDL,Raiders,2023,2.0,1.785,0.8925,31.666667,0.0282,False,2022.0,5.0,175.0,Raiders,Tennessee
+DeAndre Smelter,WR,49ers,2016,2.0,0.915,0.4575,16.207143,0.0282,False,2015.0,4.0,132.0,,Georgia Tech
+DeAngelo Yancey,WR,Packers,2018,1.0,0.48,0.48,17.0,0.0282,False,2017.0,5.0,175.0,Packers,Purdue
+Kristjan Sokoli,IDL,Colts,2016,2.0,1.065,0.5325,19.0625,0.0279,False,2015.0,6.0,214.0,Seahawks,Buffalo
+Bo Melton,WR,Packers,2023,2.0,1.665,0.8325,30.0,0.0278,False,2022.0,7.0,229.0,Seahawks,Rutgers
+Marcus Green,WR,Eagles,2020,1.0,0.61,0.61,22.0,0.0277,False,2019.0,6.0,203.0,Falcons,Louisiana-Monroe
+Ifeadi Odenigbo,IDL,Browns,2018,2.0,1.05,0.525,19.0625,0.0275,False,2017.0,7.0,220.0,Vikings,Northwestern
+Kenny Willekes,ED,Vikings,2021,2.0,1.485,0.7425,27.0,0.0275,False,2020.0,7.0,225.0,Vikings,Michigan State
+Joey Ivie,IDL,Falcons,2018,2.0,1.05,0.525,19.0625,0.0275,False,2017.0,7.0,228.0,Cowboys,Florida
+Tim Williams,ED,Packers,2019,1.0,0.645,0.645,23.5,0.0274,False,2017.0,3.0,78.0,Ravens,Alabama
+Isaac Rochell,ED,Chargers,2019,1.0,0.645,0.645,23.5,0.0274,False,2017.0,7.0,225.0,Chargers,Notre Dame
+Cody Kessler,QB,Eagles,2019,1.0,0.91215,0.91215,33.5,0.0272,False,2016.0,3.0,93.0,Browns,USC
+P.J. Johnson,IDL,Seahawks,2020,1.0,0.61,0.61,22.5,0.0271,False,2019.0,7.0,229.0,Lions,Arizona
+Trey Hill,C,Bengals,2024,1.0,0.386022,0.386022,14.25,0.0271,False,2021.0,6.0,190.0,Bengals,Georgia
+Jordan Smith,ED,Chiefs,2024,1.0,0.915,0.915,34.0,0.0269,False,2021.0,4.0,121.0,Jaguars,UAB
+James Houston,ED,Browns,2024,1.0,0.915,0.915,34.0,0.0269,False,2022.0,6.0,217.0,Lions,Jackson State
+Sean Mannion,QB,Vikings,2019,1.0,0.895,0.895,33.5,0.0267,False,2015.0,3.0,89.0,Rams,Oregon State
+Martin Ifedi,ED,Falcons,2017,2.0,1.02,0.51,19.083333,0.0267,False,2015.0,7.0,227.0,Rams,Memphis
+Curtis Brooks,IDL,Titans,2023,2.0,1.665,0.8325,31.666667,0.0263,False,2022.0,6.0,216.0,Colts,Cincinnati
+Kylie Fitts,ED,Cardinals,2019,2.0,1.23,0.615,23.5,0.0262,False,2018.0,6.0,181.0,Bears,Utah
+Marquise Blair,S,Panthers,2022,1.0,0.459333,0.459333,17.5,0.0262,False,2019.0,2.0,47.0,Seahawks,Utah
+Tre Nixon,WR,Patriots,2022,1.0,0.705,0.705,27.25,0.0259,False,2021.0,7.0,242.0,Patriots,Central Florida
+Cornell Powell,WR,Chiefs,2022,1.0,0.705,0.705,27.25,0.0259,False,2021.0,5.0,181.0,Chiefs,Clemson
+Willie Beavers,RG,Patriots,2017,1.0,0.255,0.255,10.0,0.0255,False,2016.0,4.0,121.0,Vikings,Western Michigan
+Zach Sieler,IDL,MIA/BAL,2019,1.0,0.57,0.57,22.5,0.0253,False,2018.0,7.0,238.0,Ravens,Ferris State
+Dillon Mitchell,WR,Vikings,2020,2.0,1.11,0.555,22.0,0.0252,False,2019.0,7.0,239.0,Vikings,Oregon
+Keion Adams,ED,Steelers,2018,1.0,0.48,0.48,19.083333,0.0252,False,2017.0,7.0,248.0,Steelers,Western Michigan
+Nick Zakelj,LG,49ers,2025,1.0,0.513333,0.513333,21.0,0.0244,False,2022.0,6.0,187.0,49ers,Fordham
+Jauan Jennings,WR,49ers,2021,1.0,0.66,0.66,27.25,0.0242,False,2020.0,7.0,217.0,49ers,Tennessee
+Andrew Brown,IDL,Bengals,2019,2.0,1.08,0.54,22.5,0.024,False,2018.0,5.0,158.0,Bengals,Virginia
+Nate Sudfeld,QB,Eagles,2017,2.0,1.17,0.585,24.594,0.0238,False,2016.0,6.0,187.0,Commanders,Indiana
+Jordan Jackson,IDL,Broncos,2023,1.0,0.75,0.75,31.666667,0.0237,False,2022.0,6.0,194.0,Saints,Air Force
+Jachai Polite,ED,Rams,2020,2.0,1.11,0.555,23.5,0.0236,False,2019.0,3.0,68.0,Jets,Florida
+Jake Rudock,QB,Lions,2018,1.0,0.63,0.63,27.0,0.0233,False,2016.0,6.0,191.0,Lions,Michigan
+Christian Hackenberg,QB,Eagles,2018,1.0,0.63,0.63,27.0,0.0233,False,2016.0,2.0,51.0,Jets,Penn State
+Kevin Hogan,QB,Broncos,2018,1.0,0.63,0.63,27.0,0.0233,False,2016.0,5.0,162.0,Chiefs,Stanford
+Joshua Dobbs,QB,Steelers,2021,1.0,1.04,1.04,45.0,0.0231,False,2017.0,4.0,135.0,Steelers,Tennessee
+Will Grier,QB,Cowboys,2022,2.0,2.045,1.0225,45.0,0.0227,False,2019.0,3.0,100.0,Panthers,West Virginia
+Pierre Strong Jr.,RB,Packers,2025,1.0,0.428333,0.428333,19.0,0.0225,False,2022.0,4.0,127.0,Patriots,South Dakota State
+Sam Ehlinger,QB,Broncos,2025,1.0,1.3375,1.3375,60.0,0.0223,False,2021.0,6.0,218.0,Colts,Texas
+Stevie Tu'ikolovatu,IDL,Buccaneers,2019,1.0,0.495,0.495,22.5,0.022,False,2017.0,7.0,223.0,Buccaneers,USC
+Josh Rosen,QB,49ers,2020,1.0,0.75,0.75,35.0,0.0214,False,2018.0,1.0,10.0,Cardinals,UCLA
+Brandon Doughty,QB,Dolphins,2017,2.0,1.02,0.51,24.594,0.0207,False,2016.0,7.0,223.0,Dolphins,Western Kentucky
+Paxton Lynch,QB,Steelers,2019,2.0,1.38,0.69,33.5,0.0206,False,2016.0,1.0,26.0,Broncos,Memphis
+Davis Webb,QB,Jets,2018,1.0,0.555,0.555,27.0,0.0206,False,2017.0,3.0,87.0,Giants,California
+Trace McSorley,QB,Cardinals,2021,2.0,1.815,0.9075,45.0,0.0202,False,2019.0,6.0,197.0,Ravens,Penn State
+Nahshon Wright,CB,Vikings,2024,1.0,0.420711,0.420711,21.0,0.02,False,2021.0,3.0,99.0,Cowboys,Oregon State
+Bailey Zappe,QB,Patriots,2023,3.0,2.955,0.985,50.271667,0.0196,False,2022.0,4.0,137.0,Patriots,Western Kentucky
+Jeff Driskel,QB,Lions,2019,1.0,0.645,0.645,33.5,0.0193,False,2016.0,6.0,207.0,49ers,Louisiana Tech
+Shaun Bradley,LB,Texans,2024,1.0,0.3834,0.3834,20.0,0.0192,False,2020.0,6.0,196.0,Eagles,Temple
+Lucas Niang,RT,Chiefs,2024,1.0,0.3834,0.3834,20.0,0.0192,False,2020.0,3.0,96.0,Chiefs,TCU
+Alex McGough,QB,Jaguars,2019,2.0,1.28,0.64,33.5,0.0191,False,2018.0,7.0,220.0,Seahawks,Florida International
+Dwayne Haskins,QB,Steelers,2021,1.0,0.85,0.85,45.0,0.0189,False,2019.0,1.0,15.0,Commanders,Ohio State
+Chad Kelly,QB,Colts,2019,2.0,1.23,0.615,33.5,0.0184,False,2017.0,7.0,253.0,Broncos,Mississippi
+Ambry Thomas,CB,Vikings,2024,1.0,0.3834,0.3834,21.0,0.0183,False,2021.0,3.0,102.0,49ers,Michigan
+Ke'Shawn Vaughn,RB,Patriots,2023,1.0,0.2898,0.2898,16.015853,0.0181,False,2020.0,3.0,76.0,Buccaneers,Vanderbilt
+Tony Fields II,LB,Rams,2024,1.0,0.36,0.36,20.0,0.018,False,2021.0,5.0,153.0,Browns,West Virginia
+Tyler Ervin,RB,Ravens,2018,1.0,0.255,0.255,14.213333,0.0179,False,2016.0,4.0,119.0,Texans,San Jose State
+Kendall Sheffield,CB,Cowboys,2022,1.0,0.3582,0.3582,20.0,0.0179,False,2019.0,4.0,111.0,Falcons,Ohio State
+Desmond Ridder,QB,Raiders,2024,1.0,0.985,0.985,55.0,0.0179,False,2022.0,3.0,74.0,Falcons,Cincinnati
+Ugochukwu Amadi,CB,Chiefs,2022,1.0,0.3582,0.3582,20.0,0.0179,False,2019.0,4.0,132.0,Seahawks,Oregon
+Jake Luton,QB,Seahawks,2021,1.0,0.78,0.78,45.0,0.0173,False,2020.0,6.0,189.0,Jaguars,Oregon State
+Jake Fromm,QB,Giants,2021,1.0,0.78,0.78,45.0,0.0173,False,2020.0,5.0,167.0,Bills,Georgia
+Delarrin Turner-Yell,S,Broncos,2025,1.0,0.358611,0.358611,21.025,0.0171,False,2022.0,5.0,152.0,Broncos,Oklahoma
+Tariq Carpenter,S,Steelers,2023,1.0,0.324999,0.324999,19.0,0.0171,False,2022.0,7.0,228.0,Packers,Georgia Tech
+Duke Dawson,S,Browns,2021,1.0,0.252,0.252,14.75,0.0171,False,2018.0,2.0,56.0,Patriots,Florida
+Cody Wichmann,RG,Titans,2017,1.0,0.17,0.17,10.0,0.017,False,2015.0,6.0,215.0,Rams,Fresno State
+Devin Asiasi,TE,Titans,2023,1.0,0.2898,0.2898,17.0,0.017,False,2020.0,3.0,91.0,Patriots,UCLA
+Luke Falk,QB,Jets,2019,1.0,0.57,0.57,33.5,0.017,False,2018.0,6.0,199.0,Titans,Washington State
+Clayton Thorson,QB,Cowboys,2020,2.0,1.16,0.58,35.0,0.0166,False,2019.0,5.0,167.0,Eagles,Northwestern
+Nate Stanley,QB,Vikings,2021,2.0,1.485,0.7425,45.0,0.0165,False,2020.0,7.0,244.0,Vikings,Iowa
+Logan Woodside,QB,Titans,2019,2.0,1.08,0.54,33.5,0.0161,False,2018.0,7.0,249.0,Bengals,Toledo
+Ryan Connelly,LB,Vikings,2022,1.0,0.3177,0.3177,19.7,0.0161,False,2019.0,5.0,143.0,Giants,Wisconsin
+Will Redmond,CB,Chiefs,2017,1.0,0.255,0.255,16.0,0.0159,False,2016.0,3.0,68.0,49ers,Mississippi State
+Deionte Thompson,S,Jaguars,2022,1.0,0.2772,0.2772,17.5,0.0158,False,2019.0,5.0,139.0,Cardinals,Alabama
+James Mitchell,TE,Lions,2024,1.0,0.267222,0.267222,17.0,0.0157,False,2022.0,5.0,177.0,Lions,Virginia Tech
+Jordan Wilkins,RB,Titans,2021,1.0,0.252,0.252,16.015853,0.0157,False,2018.0,5.0,169.0,Colts,Mississippi
+Jaylen Samuels,RB,Texans,2021,1.0,0.252,0.252,16.015853,0.0157,False,2018.0,5.0,165.0,Steelers,North Carolina State
+Justin Skule,LT,Buccaneers,2022,1.0,0.3582,0.3582,23.01,0.0156,False,2019.0,6.0,183.0,49ers,Vanderbilt
+Tay Gowan,CB,Vikings,2022,1.0,0.309999,0.309999,20.0,0.0155,False,2021.0,6.0,223.0,Cardinals,Central Florida
+Doug Kramer,C,Bears,2023,1.0,0.216,0.216,14.0,0.0154,False,2022.0,6.0,207.0,Bears,Illinois
+Lecitus Smith,C,Texans,2023,1.0,0.216,0.216,14.0,0.0154,False,2022.0,6.0,215.0,Cardinals,Virginia Tech
+Bobby Evans,RG,Vikings,2022,1.0,0.2772,0.2772,18.036,0.0154,False,2019.0,3.0,97.0,Rams,Oklahoma
+Dexter Williams,RB,Packers,2020,1.0,0.229071,0.229071,15.0,0.0153,False,2019.0,6.0,194.0,Packers,Notre Dame
+Tyler Badie,RB,Broncos,2023,1.0,0.245667,0.245667,16.015853,0.0153,False,2022.0,6.0,196.0,Ravens,Missouri
+"Anthony McFarland, Jr.",RB,Steelers,2022,1.0,0.245222,0.245222,16.015853,0.0153,False,2020.0,4.0,124.0,Steelers,Maryland
+Lynn Bowden,RB,Patriots,2022,1.0,0.245222,0.245222,16.015853,0.0153,False,2020.0,3.0,80.0,Raiders,Kentucky
+Jermar Jefferson,RB,Lions,2022,1.0,0.241333,0.241333,16.015853,0.0151,False,2021.0,7.0,257.0,Lions,Oregon State
+Chris Oladokun,QB,Chiefs,2023,1.0,0.75,0.75,50.271667,0.0149,False,2022.0,7.0,241.0,Steelers,South Dakota State
+Danny Etling,QB,Falcons,2019,1.0,0.495,0.495,33.5,0.0148,False,2018.0,7.0,219.0,Patriots,LSU
+Ian Silberman,RT,Raiders,2016,1.0,0.1173,0.1173,8.0,0.0147,False,2015.0,6.0,190.0,,Boston College
+Tommy Stevens,QB,Giants,2021,1.0,0.66,0.66,45.0,0.0147,False,2020.0,7.0,240.0,Saints,Mississippi State
+Cole McDonald,QB,Cardinals,2021,1.0,0.66,0.66,45.0,0.0147,False,2020.0,7.0,224.0,Titans,Hawaii
+Matt Corral,QB,Vikings,2024,1.0,0.795,0.795,55.0,0.0145,False,2022.0,3.0,94.0,Panthers,Mississippi
+Logan Stenberg,LG,Buccaneers,2023,1.0,0.2898,0.2898,20.0,0.0145,False,2020.0,4.0,121.0,Lions,Kentucky
+Zech McPhearson,CB,Jaguars,2024,1.0,0.3024,0.3024,21.0,0.0144,False,2021.0,4.0,123.0,Eagles,Texas Tech
+Isaiah Prince,RT,Bengals,2022,1.0,0.2772,0.2772,19.2,0.0144,False,2019.0,6.0,202.0,Dolphins,Ohio State
+Andrew Stueber,RT,Patriots,2023,1.0,0.275334,0.275334,19.2,0.0143,False,2022.0,7.0,245.0,Patriots,Michigan
+Larrell Murchison,IDL,Titans,2022,1.0,0.321667,0.321667,22.5,0.0143,False,2020.0,5.0,174.0,Titans,North Carolina State
+Isaiah Spiller,RB,Raiders,2024,1.0,0.225,0.225,16.015853,0.014,False,2022.0,4.0,123.0,Chargers,Texas A&M
+Brittain Brown,RB,Seahawks,2024,1.0,0.225,0.225,16.015853,0.014,False,2022.0,7.0,250.0,Raiders,UCLA
+Chasen Hines,RG,Dolphins,2023,1.0,0.252333,0.252333,18.036,0.014,False,2022.0,6.0,210.0,Patriots,LSU
+Stantley Thomas-Oliver,CB,Panthers,2023,1.0,0.2898,0.2898,21.0,0.0138,False,2020.0,7.0,221.0,Panthers,Florida International
+Dalton Keene,TE,Broncos,2022,1.0,0.207,0.207,15.0,0.0138,False,2020.0,3.0,101.0,Patriots,Virginia Tech
+Michael Ojemudia,CB,Rams,2023,1.0,0.2898,0.2898,21.0,0.0138,False,2020.0,3.0,77.0,Broncos,Iowa
+Zach Davidson,TE,Bills,2022,1.0,0.207,0.207,15.0,0.0138,False,2021.0,5.0,168.0,Vikings,Central Missouri
+Zander Horvath,RB,Chargers,2023,1.0,0.216,0.216,16.015853,0.0135,False,2022.0,7.0,260.0,Chargers,Purdue
+Snoop Conner,RB,Jaguars,2023,1.0,0.216,0.216,16.015853,0.0135,False,2022.0,5.0,154.0,Jaguars,Mississippi
+Tyrion Davis-Price,RB,49ers,2023,1.0,0.216,0.216,16.015853,0.0135,False,2022.0,3.0,93.0,49ers,LSU
+Demetric Felton,RB,Bengals,2023,1.0,0.216,0.216,16.015853,0.0135,False,2021.0,6.0,211.0,Browns,UCLA
+Keaontay Ingram,RB,Chiefs,2023,1.0,0.216,0.216,16.015853,0.0135,False,2022.0,6.0,201.0,Cardinals,USC
+Lamont Gaillard,C,Bengals,2021,1.0,0.1656,0.1656,12.4125,0.0133,False,2019.0,6.0,179.0,Cardinals,Georgia
+Cole Turner,TE,Commanders,2024,1.0,0.225,0.225,17.0,0.0132,False,2022.0,5.0,149.0,Commanders,Nevada
+Samuel Womack,CB,Jets,2025,1.0,0.315,0.315,24.1,0.0131,False,2022.0,5.0,172.0,49ers,Toledo
+Andy Isabella,WR,Ravens,2022,1.0,0.3582,0.3582,27.25,0.0131,False,2019.0,2.0,62.0,Cardinals,Massachusetts
+John Simpson,LG,Ravens,2022,1.0,0.207,0.207,16.0,0.0129,False,2020.0,4.0,109.0,Raiders,Clemson
+Deonte Brown,LG,Panthers,2022,1.0,0.207,0.207,16.0,0.0129,False,2021.0,6.0,193.0,Panthers,Alabama
+Jerell Adams,TE,Texans,2018,1.0,0.1292,0.1292,10.0,0.0129,False,2016.0,6.0,184.0,Giants,South Carolina
+Solomon Kindley,LG,Giants,2022,1.0,0.207,0.207,16.0,0.0129,False,2020.0,4.0,111.0,Dolphins,Georgia
+La'Mical Perine,RB,Eagles,2022,1.0,0.207,0.207,16.015853,0.0129,False,2020.0,4.0,120.0,Jets,Florida
+Jamil Demby,LG,Rams,2020,1.0,0.170282,0.170282,13.3,0.0128,False,2018.0,6.0,192.0,Rams,Maine
+Tre' McKitty,TE,Bills,2023,1.0,0.216,0.216,17.0,0.0127,False,2021.0,3.0,97.0,Chargers,Georgia
+Javon Patterson,C,Giants,2020,1.0,0.1428,0.1428,11.25,0.0127,False,2019.0,7.0,246.0,Colts,Ole Miss
+Greg Stroman,CB,Bills,2021,1.0,0.252,0.252,20.0,0.0126,False,2018.0,7.0,241.0,Commanders,Virginia Tech
+Justin Lawler,ED,Rams,2021,1.0,0.339999,0.339999,27.0,0.0126,False,2018.0,7.0,244.0,Rams,SMU
+Tyler Shelvin,IDL,Bengals,2022,1.0,0.275666,0.275666,22.5,0.0123,False,2021.0,4.0,122.0,Bengals,LSU
+Robert Myers,LG,Seahawks,2016,1.0,0.1173,0.1173,9.5,0.0123,False,2015.0,5.0,176.0,Ravens,Tennessee State
+Chazz Surratt,LB,Jets,2022,1.0,0.241333,0.241333,19.7,0.0123,False,2021.0,3.0,78.0,Vikings,North Carolina
+Quincy Wilson,CB,Giants,2020,1.0,0.204,0.204,16.7424,0.0122,False,2017.0,2.0,46.0,Colts,Florida
+Cole Toner,RG,Chargers,2017,1.0,0.1224,0.1224,10.0,0.0122,False,2016.0,5.0,170.0,Cardinals,Harvard
+Cordrea Tankersley,CB,Vikings,2020,1.0,0.204,0.204,16.7424,0.0122,False,2017.0,3.0,97.0,Dolphins,Clemson
+Zachary Thomas,RG,Rams,2023,1.0,0.216,0.216,18.036,0.012,False,2022.0,6.0,186.0,Bears,San Diego State
+Alex Leatherwood,RG,Browns,2023,1.0,0.216,0.216,18.036,0.012,False,2021.0,1.0,17.0,Raiders,Alabama
+J.T. Woods,S,Eagles,2024,1.0,0.225,0.225,19.0,0.0118,False,2022.0,3.0,79.0,Chargers,Baylor
+Richard LeCounte,S,Browns,2022,1.0,0.207,0.207,17.5,0.0118,False,2021.0,5.0,169.0,Browns,Georgia
+Tyree Gillespie,S,Jaguars,2022,1.0,0.207,0.207,17.5,0.0118,False,2021.0,4.0,143.0,Raiders,Missouri
+Terrell Burgess,S,Giants,2022,1.0,0.207,0.207,17.5,0.0118,False,2020.0,3.0,104.0,Rams,Utah
+James Wiggins,S,Chiefs,2022,1.0,0.207,0.207,17.5,0.0118,False,2021.0,7.0,243.0,Cardinals,Cincinnati
+Brady Breeze,S,Lions,2022,1.0,0.207,0.207,17.5,0.0118,False,2021.0,6.0,215.0,Titans,Oregon
+Tim Harris,CB,49ers,2020,1.0,0.197764,0.197764,16.7424,0.0118,False,2019.0,6.0,198.0,49ers,Virginia
+Mark Webb,S,Chargers,2022,1.0,0.207,0.207,17.5,0.0118,False,2021.0,7.0,241.0,Chargers,Georgia
+Malcolm Johnson,TE,Seahawks,2016,1.0,0.1173,0.1173,10.0,0.0117,False,2015.0,6.0,195.0,Browns,Mississippi State
+Rashard Lawrence,IDL,Panthers,2023,1.0,0.3708,0.3708,31.666667,0.0117,False,2020.0,4.0,131.0,Cardinals,LSU
+Christian Matthew,CB,Bears,2023,1.0,0.240666,0.240666,21.0,0.0115,False,2022.0,7.0,244.0,Cardinals,Valdosta State
+Tre Norwood,S,49ers,2023,1.0,0.216,0.216,19.0,0.0114,False,2021.0,7.0,245.0,Steelers,Oklahoma
+Darron Lee,LB,Bills,2020,1.0,0.204,0.204,18.0,0.0113,False,2016.0,1.0,20.0,Jets,Ohio State
+R.J. McIntosh,IDL,Packers,2021,1.0,0.252,0.252,22.5,0.0112,False,2018.0,5.0,139.0,Giants,Miami (FL)
+Arlington Hambright,LG,Bears,2021,1.0,0.1656,0.1656,14.781,0.0112,False,2020.0,7.0,226.0,Bears,Colorado
+Devin Harper,LB,Steelers,2024,1.0,0.225,0.225,20.0,0.0112,False,2022.0,6.0,193.0,Cowboys,Oklahoma State
+A.J. Arcuri,RT,Rams,2023,1.0,0.216,0.216,19.2,0.0112,False,2022.0,7.0,261.0,Rams,Michigan State
+Darian Kinnard,RT,Chiefs,2023,1.0,0.216,0.216,19.2,0.0112,False,2022.0,5.0,145.0,Chiefs,Kentucky
+Ja'Tyre Carter,LG,Panthers,2024,1.0,0.225,0.225,20.0,0.0112,False,2022.0,7.0,226.0,Bears,Southern
+Nico Siragusa,LG,Ravens,2018,1.0,0.1292,0.1292,11.7,0.011,False,2017.0,4.0,122.0,Ravens,San Diego State
+Sean Harlow,LG,Falcons,2018,1.0,0.1292,0.1292,11.7,0.011,False,2017.0,4.0,136.0,Falcons,Oregon State
+Kyle Fuller,LG,Texans,2018,1.0,0.1292,0.1292,11.7,0.011,False,2017.0,7.0,243.0,Texans,Baylor
+Jordan Morgan,LG,Titans,2018,1.0,0.1292,0.1292,11.7,0.011,False,2017.0,5.0,147.0,Bears,Kutztown (PA)
+Kyle Hinton,RG,Vikings,2021,1.0,0.1656,0.1656,15.03,0.011,False,2020.0,7.0,253.0,Vikings,Washburn
+Brandon Smith,LB,Eagles,2023,1.0,0.216,0.216,19.7,0.011,False,2022.0,4.0,120.0,Panthers,Penn State
+J.J. Dielman,LG,Rams,2018,1.0,0.1292,0.1292,11.7,0.011,False,2017.0,5.0,176.0,Bengals,Utah
+Dru Samia,RG,Jets,2021,1.0,0.1656,0.1656,15.03,0.011,False,2019.0,4.0,114.0,Vikings,Oklahoma
+Carlos Davis,IDL,Steelers,2022,1.0,0.245222,0.245222,22.5,0.0109,False,2020.0,7.0,232.0,Steelers,Nebraska
+Malik Jefferson,LB,Chargers,2019,1.0,0.136,0.136,12.5,0.0109,False,2018.0,3.0,78.0,Bengals,Texas
+Christian Sam,LB,Lions,2019,1.0,0.136,0.136,12.5,0.0109,False,2018.0,6.0,178.0,Patriots,Arizona State
+Marquis Hayes,LG,Cardinals,2023,1.0,0.216,0.216,20.0,0.0108,False,2022.0,7.0,257.0,Cardinals,Oklahoma
+Spencer Drango,RG,Chargers,2018,1.0,0.1292,0.1292,12.0,0.0108,False,2016.0,5.0,168.0,Browns,Baylor
+Matt Farniok,LG,Bears,2023,1.0,0.216,0.216,20.0,0.0108,False,2021.0,7.0,238.0,Cowboys,Nebraska
+Damarion Williams,CB,Ravens,2024,1.0,0.225,0.225,21.0,0.0107,False,2022.0,4.0,141.0,Ravens,Houston
+Davion Taylor,LB,Eagles,2022,1.0,0.207,0.207,19.7,0.0105,False,2020.0,3.0,103.0,Eagles,Colorado
+DeMarcus Ayers,WR,Patriots,2017,1.0,0.17,0.17,16.207143,0.0105,False,2016.0,7.0,229.0,Steelers,Houston
+Buddy Johnson,LB,Texans,2022,1.0,0.207,0.207,19.7,0.0105,False,2021.0,4.0,140.0,Steelers,Texas A&M
+Michael Dogbe,IDL,Cardinals,2020,1.0,0.236718,0.236718,22.5,0.0105,False,2019.0,7.0,249.0,Cardinals,Temple
+Kary Vincent Jr.,CB,49ers,2022,1.0,0.207,0.207,20.0,0.0104,False,2021.0,7.0,237.0,Broncos,LSU
+Kelvin Joseph,CB,Seahawks,2023,1.0,0.216,0.216,21.0,0.0103,False,2021.0,2.0,44.0,Cowboys,Kentucky
+Darren Hall,CB,Colts,2023,1.0,0.216,0.216,21.0,0.0103,False,2021.0,4.0,108.0,Falcons,San Diego State
+Kalon Barnes,CB,Browns,2023,1.0,0.216,0.216,21.0,0.0103,False,2022.0,7.0,242.0,Panthers,Baylor
+Darwin Thompson,RB,Buccaneers,2021,1.0,0.1656,0.1656,16.015853,0.0103,False,2019.0,6.0,214.0,Chiefs,Utah State
+Keith Taylor,CB,Chiefs,2023,1.0,0.216,0.216,21.0,0.0103,False,2021.0,5.0,166.0,Panthers,Washington
+J.J. Arcega-Whiteside,WR,Seahawks,2022,1.0,0.2772,0.2772,27.25,0.0102,False,2019.0,2.0,57.0,Eagles,Stanford
+Sam Jones,LG,Cardinals,2019,1.0,0.136,0.136,13.3,0.0102,False,2018.0,6.0,183.0,Broncos,Arizona State
+Kyle Lauletta,QB,Eagles,2019,1.0,0.34,0.34,33.5,0.0101,False,2018.0,4.0,108.0,Giants,Richmond
+Mykkele Thompson,S,Saints,2017,1.0,0.1224,0.1224,12.500081,0.0098,False,2015.0,5.0,144.0,Giants,Texas
+Matt Henningsen,IDL,Broncos,2024,1.0,0.309444,0.309444,31.666667,0.0098,False,2022.0,6.0,206.0,Broncos,Wisconsin
+K.J. Dillon,S,Cardinals,2017,1.0,0.1224,0.1224,12.500081,0.0098,False,2016.0,5.0,159.0,Texans,West Virginia
+Adam Bisnowaty,LT,Vikings,2018,1.0,0.1292,0.1292,13.25,0.0098,False,2017.0,6.0,200.0,Giants,Pittsburgh
+Will Holden,LT,Saints,2018,1.0,0.1292,0.1292,13.25,0.0098,False,2017.0,5.0,157.0,Cardinals,Vanderbilt
+Jylan Ware,LT,Giants,2018,1.0,0.1292,0.1292,13.25,0.0098,False,2017.0,7.0,231.0,Raiders,Alabama State
+Kyle Murphy,LT,Rams,2018,1.0,0.1292,0.1292,13.25,0.0098,False,2016.0,6.0,200.0,Packers,Stanford
+Denzel Mims,WR,Steelers,2023,1.0,0.2898,0.2898,30.0,0.0097,False,2020.0,2.0,59.0,Jets,Baylor
+Kahlil McKenzie,RG,Seahawks,2019,1.0,0.136,0.136,14.0,0.0097,False,2018.0,6.0,198.0,Chiefs,Tennessee
+Jordan Scarlett,RB,Lions,2020,1.0,0.1428,0.1428,15.0,0.0095,False,2019.0,5.0,154.0,Panthers,Florida
+Kerrith Whyte,RB,Lions,2020,1.0,0.1428,0.1428,15.0,0.0095,False,2019.0,7.0,222.0,Bears,Florida Atlantic
+Davis Tull,LB,Falcons,2016,1.0,0.1173,0.1173,12.359059,0.0095,False,2015.0,5.0,148.0,Saints,Chattanooga
+Logan Bruss,LT,Rams,2023,1.0,0.216,0.216,23.01,0.0094,False,2022.0,3.0,104.0,Rams,Wisconsin
+Jaleel Scott,WR,Jets,2020,1.0,0.205412,0.205412,22.0,0.0093,False,2018.0,4.0,132.0,Ravens,New Mexico State
+Ryan Switzer,WR,Browns,2020,1.0,0.204,0.204,22.0,0.0093,False,2017.0,4.0,133.0,Cowboys,North Carolina
+Da'Shawn Hand,ED,Titans,2021,1.0,0.252,0.252,27.0,0.0093,False,2018.0,4.0,114.0,Lions,Alabama
+McTelvin Agim,IDL,Broncos,2022,1.0,0.207,0.207,22.5,0.0092,False,2020.0,3.0,95.0,Broncos,Arkansas
+Justin Watson,WR,Buccaneers,2021,1.0,0.252,0.252,27.25,0.0092,False,2018.0,5.0,144.0,Buccaneers,Pennsylvania
+Phil Hoskins,IDL,Panthers,2022,1.0,0.207,0.207,22.5,0.0092,False,2021.0,7.0,232.0,Panthers,Kentucky
+Isaiah Wilson,RT,Giants,2021,1.0,0.1656,0.1656,18.0,0.0092,False,2020.0,1.0,29.0,Titans,Georgia
+Anthony Miller,WR,Steelers,2021,1.0,0.252,0.252,27.25,0.0092,False,2018.0,2.0,51.0,Bears,Memphis
+Bravvion Roy,IDL,Ravens,2023,1.0,0.2898,0.2898,31.666667,0.0092,False,2020.0,6.0,184.0,Panthers,Baylor
+Javon Wims,WR,Raiders,2021,1.0,0.252,0.252,27.25,0.0092,False,2018.0,7.0,224.0,Bears,Georgia
+Deandre Baker,CB,Chiefs,2020,1.0,0.152718,0.152718,16.7424,0.0091,False,2019.0,1.0,30.0,Giants,Georgia
+Ryan Glasgow,IDL,Saints,2020,1.0,0.204,0.204,22.5,0.0091,False,2017.0,4.0,138.0,Bengals,Michigan
+Devante Mays,RB,Browns,2018,1.0,0.1292,0.1292,14.213333,0.0091,False,2017.0,7.0,238.0,Packers,Utah State
+Donnel Pumphrey,RB,Lions,2018,1.0,0.1292,0.1292,14.213333,0.0091,False,2017.0,4.0,132.0,Eagles,San Diego State
+Daniel Hardy,ED,Bears,2023,1.0,0.252333,0.252333,28.00275,0.009,False,2022.0,7.0,235.0,Rams,Montana State
+Luke Tenuta,LT,Cardinals,2024,1.0,0.225,0.225,25.0,0.009,False,2022.0,6.0,209.0,Bills,Virginia Tech
+Rashad Weaver,ED,Rams,2024,1.0,0.3024,0.3024,34.0,0.0089,False,2021.0,4.0,135.0,Titans,Pittsburgh
+Carlos Basham Jr.,ED,Giants,2024,1.0,0.3024,0.3024,34.0,0.0089,False,2021.0,2.0,61.0,Bills,Wake Forest
+Dez Fitzpatrick,WR,Titans,2022,1.0,0.241333,0.241333,27.25,0.0089,False,2021.0,4.0,109.0,Titans,Louisville
+Marcus Hardison,IDL,Texans,2017,1.0,0.17,0.17,19.0625,0.0089,False,2015.0,4.0,135.0,Bengals,Arizona State
+William Bradley-King,ED,Commanders,2022,1.0,0.241333,0.241333,28.00275,0.0086,False,2021.0,7.0,240.0,Commanders,Baylor
+Jaelon Darden,WR,Browns,2023,1.0,0.256222,0.256222,30.0,0.0085,False,2021.0,4.0,129.0,Buccaneers,North Texas
+Jordan Miller,CB,Dolphins,2020,1.0,0.1428,0.1428,16.7424,0.0085,False,2019.0,5.0,172.0,Falcons,Washington
+Marvell Tell III,CB,Colts,2021,1.0,0.1656,0.1656,20.0,0.0083,False,2019.0,5.0,144.0,Colts,USC
+Ka'dar Hollman,CB,Saints,2021,1.0,0.1656,0.1656,20.0,0.0083,False,2019.0,6.0,185.0,Packers,Toledo
+Isaiah Johnson,CB,Cardinals,2021,1.0,0.1656,0.1656,20.0,0.0083,False,2019.0,4.0,129.0,Raiders,Houston
+Thakarius Keyes,CB,CHI/NE,2021,1.0,0.1656,0.1656,20.0,0.0083,False,2020.0,7.0,237.0,Chiefs,Tulane
+Sam Beal,CB,Giants,2021,1.0,0.1656,0.1656,20.0,0.0083,False,2018.0,3.0,,Giants,Western Michigan
+Corey Ballentine,CB,Lions,2021,1.0,0.1656,0.1656,20.0,0.0083,False,2019.0,6.0,180.0,Giants,Washburn
+Damon Arnette,CB,Dolphins,2021,1.0,0.1656,0.1656,20.0,0.0083,False,2020.0,1.0,19.0,Raiders,Ohio State
+David Cobb,RB,Bears,2016,1.0,0.1173,0.1173,14.213333,0.0083,False,2015.0,5.0,138.0,Titans,Minnesota
+Karlos Williams,RB,Steelers,2016,1.0,0.1173,0.1173,14.213333,0.0083,False,2015.0,5.0,155.0,Bills,Florida State
+Matt Waletzko,RT,Chiefs,2025,1.0,0.234,0.234,28.125,0.0083,False,2022.0,5.0,155.0,Cowboys,North Dakota
+Juwann Winfree,WR,Packers,2020,1.0,0.180212,0.180212,22.0,0.0082,False,2019.0,6.0,187.0,Broncos,Colorado
+Teez Tabor,CB,49ers,2019,1.0,0.136,0.136,16.7424,0.0081,False,2017.0,2.0,53.0,Lions,Florida
+Trey Quinn,WR,Jaguars,2020,1.0,0.178518,0.178518,22.0,0.0081,False,2018.0,7.0,256.0,Commanders,SMU
+Adonis Alexander,CB,Commanders,2019,1.0,0.136,0.136,16.7424,0.0081,False,2018.0,6.0,,Commanders,Virginia Tech
+Jermaine Kelly,CB,49ers,2019,1.0,0.136,0.136,16.7424,0.0081,False,2018.0,7.0,222.0,Texans,San Jose State
+Esezi Otomewo,ED,Jaguars,2023,1.0,0.216,0.216,28.00275,0.0077,False,2022.0,5.0,165.0,Vikings,Minnesota
+Jeffrey Gunter,ED,Bengals,2023,1.0,0.216,0.216,28.00275,0.0077,False,2022.0,7.0,252.0,Bengals,Coastal Carolina
+D.J. White,CB,Colts,2018,1.0,0.1292,0.1292,16.7424,0.0077,False,2016.0,6.0,178.0,Chiefs,Georgia Tech
+Jalen Myrick,CB,Vikings,2018,1.0,0.1292,0.1292,16.7424,0.0077,False,2017.0,7.0,222.0,Jaguars,Minnesota
+Elerson Smith,ED,Jets,2023,1.0,0.216,0.216,28.00275,0.0077,False,2021.0,4.0,116.0,Giants,Northern Iowa
+Lorenzo Doss,CB,Bills,2017,1.0,0.1224,0.1224,16.0,0.0076,False,2015.0,5.0,164.0,Broncos,Tulane
+Tyler Johnson,WR,Buccaneers,2022,1.0,0.207,0.207,27.25,0.0076,False,2020.0,5.0,161.0,Buccaneers,Minnesota
+J'Mon Moore,WR,Browns,2019,1.0,0.136,0.136,18.0,0.0076,False,2018.0,4.0,133.0,Packers,Missouri
+Zack Sanchez,CB,Panthers,2017,1.0,0.1224,0.1224,16.0,0.0076,False,2016.0,5.0,141.0,Panthers,Oklahoma
+Carlos Henderson,WR,Broncos,2018,1.0,0.1292,0.1292,17.0,0.0076,False,2017.0,3.0,82.0,Broncos,Louisiana Tech
+ArDarius Stewart,WR,Raiders,2018,1.0,0.1292,0.1292,17.0,0.0076,False,2017.0,3.0,79.0,Jets,Alabama
+Chad Hansen,WR,Broncos,2018,1.0,0.1292,0.1292,17.0,0.0076,False,2017.0,4.0,141.0,Jets,California
+Ihmir Smith-Marsette,WR,Chiefs,2022,1.0,0.207,0.207,27.25,0.0076,False,2021.0,5.0,157.0,Vikings,Iowa
+Aaron Burbridge,WR,49ers,2018,1.0,0.1292,0.1292,17.0,0.0076,False,2016.0,6.0,213.0,,Michigan State
+Marquez Stevenson,WR,Bills,2022,1.0,0.207,0.207,27.25,0.0076,False,2021.0,6.0,203.0,Bills,Houston
+Ray-Ray McCloud,WR,Bills,2019,1.0,0.136,0.136,18.0,0.0076,False,2018.0,6.0,187.0,Bills,Clemson
+Dezmon Patmon,WR,Bills,2022,1.0,0.207,0.207,27.25,0.0076,False,2020.0,6.0,212.0,Colts,Washington State
+Bryan Edwards,WR,Chiefs,2022,1.0,0.207,0.207,27.25,0.0076,False,2020.0,3.0,81.0,Raiders,South Carolina
+Braxton Miller,WR,Eagles,2018,1.0,0.1292,0.1292,17.0,0.0076,False,2016.0,3.0,85.0,Texans,Ohio State
+Kolby Listenbee,WR,Dolphins,2017,1.0,0.1224,0.1224,16.207143,0.0076,False,2016.0,6.0,192.0,Bills,TCU
+Seth Williams,WR,Jaguars,2022,1.0,0.207,0.207,27.25,0.0076,False,2021.0,6.0,219.0,Broncos,Auburn
+Senquez Golson,CB,Buccaneers,2017,1.0,0.1224,0.1224,16.0,0.0076,False,2015.0,2.0,56.0,Steelers,Mississippi
+Dazz Newsome,WR,Chiefs,2022,1.0,0.207,0.207,27.25,0.0076,False,2021.0,6.0,221.0,Bears,North Carolina
+Emeke Egbule,ED,Chargers,2021,1.0,0.203622,0.203622,27.0,0.0075,False,2019.0,6.0,200.0,Chargers,Houston
+Danny Gray,WR,Eagles,2024,1.0,0.225,0.225,30.0,0.0075,False,2022.0,3.0,105.0,49ers,SMU
+Tyquan Thornton,WR,Chiefs,2024,1.0,0.225,0.225,30.0,0.0075,False,2022.0,2.0,50.0,Patriots,Baylor
+Samori Toure,WR,Bears,2024,1.0,0.225,0.225,30.0,0.0075,False,2022.0,7.0,258.0,Packers,Nebraska
+Kyle Philips,WR,Eagles,2024,1.0,0.225,0.225,30.0,0.0075,False,2022.0,5.0,163.0,Titans,UCLA
+Jason Strowbridge,IDL,Dolphins,2021,1.0,0.1656,0.1656,22.5,0.0074,False,2020.0,5.0,154.0,Dolphins,North Carolina
+Jaylen Twyman,ED,Vikings,2022,1.0,0.207,0.207,28.00275,0.0074,False,2021.0,6.0,199.0,Vikings,Pittsburgh
+Tarron Jackson,ED,Eagles,2022,1.0,0.207,0.207,28.00275,0.0074,False,2021.0,6.0,191.0,Eagles,Coastal Carolina
+Khalil Davis,IDL,Steelers,2021,1.0,0.1656,0.1656,22.5,0.0074,False,2020.0,6.0,194.0,Buccaneers,Nebraska
+Renell Wren,IDL,Bengals,2021,1.0,0.1656,0.1656,22.5,0.0074,False,2019.0,4.0,125.0,Bengals,Arizona State
+Chris Garrett,ED,Seahawks,2022,1.0,0.207,0.207,28.00275,0.0074,False,2021.0,7.0,252.0,Rams,Concordia
+Cortez Broughton,IDL,Chiefs,2021,1.0,0.1656,0.1656,22.5,0.0074,False,2019.0,7.0,242.0,Chargers,Cincinnati
+Isaiah Buggs,IDL,Raiders,2021,1.0,0.1656,0.1656,22.5,0.0074,False,2019.0,6.0,192.0,Steelers,Alabama
+Tevin Mitchel,CB,Colts,2016,1.0,0.1173,0.1173,16.0,0.0073,False,2015.0,6.0,182.0,Commanders,Arkansas
+Doran Grant,CB,Giants,2016,1.0,0.1173,0.1173,16.0,0.0073,False,2015.0,4.0,121.0,Steelers,Ohio State
+Tye Smith,CB,SEA/WAS,2016,1.0,0.1173,0.1173,16.0,0.0073,False,2015.0,5.0,170.0,Seahawks,Towson
+Charles Gaines,CB,Bills,2016,1.0,0.1173,0.1173,16.0,0.0073,False,2015.0,6.0,189.0,Browns,Louisville
+John Hightower,WR,Eagles,2021,1.0,0.199733,0.199733,27.25,0.0073,False,2020.0,5.0,168.0,Eagles,Boise State
+Racey McMath,WR,Colts,2023,1.0,0.216,0.216,30.0,0.0072,False,2021.0,6.0,205.0,Titans,LSU
+Anthony Schwartz,WR,Dolphins,2023,1.0,0.216,0.216,30.0,0.0072,False,2021.0,3.0,91.0,Browns,Auburn
+Kenny Bell,WR,Ravens,2016,1.0,0.1173,0.1173,16.207143,0.0072,False,2015.0,5.0,162.0,Buccaneers,Nebraska
+K.J. Hamler,WR,Colts,2023,1.0,0.216,0.216,30.0,0.0072,False,2020.0,2.0,46.0,Broncos,Penn State
+Shi Smith,WR,Titans,2023,1.0,0.216,0.216,30.0,0.0072,False,2021.0,6.0,204.0,Panthers,South Carolina
+Evan Spencer,WR,Buccaneers,2016,1.0,0.1173,0.1173,16.207143,0.0072,False,2015.0,6.0,187.0,Commanders,Ohio State
+Max Valles,ED,Bills,2016,1.0,0.1173,0.1173,16.833333,0.007,False,2015.0,6.0,179.0,Raiders,Virginia
+Shaq Riddick,ED,Steelers,2016,1.0,0.1173,0.1173,16.833333,0.007,False,2015.0,5.0,158.0,Cardinals,West Virginia
+Josh Carraway,ED,Commanders,2018,1.0,0.1292,0.1292,19.083333,0.0068,False,2017.0,7.0,227.0,Titans,TCU
+Chris Slayton,IDL,Falcons,2020,1.0,0.153482,0.153482,22.5,0.0068,False,2019.0,7.0,245.0,Giants,Syracuse
+Isaiah Thomas,IDL,Browns,2023,1.0,0.216,0.216,31.666667,0.0068,False,2022.0,7.0,223.0,Browns,Oklahoma
+Elijah Qualls,IDL,Panthers,2018,1.0,0.1292,0.1292,19.0625,0.0068,False,2017.0,6.0,214.0,Eagles,Washington
+Pat O'Connor,ED,Buccaneers,2018,1.0,0.1292,0.1292,19.083333,0.0068,False,2017.0,7.0,250.0,Lions,Eastern Michigan
+Charles Tapper,ED,Cowboys,2018,1.0,0.1292,0.1292,19.083333,0.0068,False,2016.0,4.0,101.0,Cowboys,Oklahoma
+Avery Moss,ED,Giants,2018,1.0,0.1292,0.1292,19.083333,0.0068,False,2017.0,5.0,167.0,Giants,Youngstown State
+Jonathan Ford,IDL,Packers,2023,1.0,0.216,0.216,31.666667,0.0068,False,2022.0,7.0,234.0,Packers,Miami
+Perrion Winfrey,IDL,Jets,2023,1.0,0.216,0.216,31.666667,0.0068,False,2022.0,4.0,108.0,Browns,Oklahoma
+Thomas Booker,IDL,Eagles,2023,1.0,0.216,0.216,31.666667,0.0068,False,2022.0,5.0,150.0,Texans,Stanford
+Gary Jennings Jr.,WR,Ravens,2020,1.0,0.1428,0.1428,22.0,0.0065,False,2019.0,4.0,120.0,Seahawks,West Virginia
+Hakeem Butler,WR,Panthers,2020,1.0,0.1428,0.1428,22.0,0.0065,False,2019.0,4.0,103.0,Cardinals,Iowa State
+John Ursua,WR,Seahawks,2020,1.0,0.1428,0.1428,22.0,0.0065,False,2019.0,7.0,236.0,Seahawks,Hawaii
+Edmond Robinson,ED,Cardinals,2017,1.0,0.1224,0.1224,19.083333,0.0064,False,2015.0,7.0,232.0,Vikings,Newberry
+Alex McCalister,IDL,Commanders,2017,1.0,0.1224,0.1224,19.0625,0.0064,False,2016.0,7.0,240.0,Eagles,Florida
+Jonathan Woodard,ED,Dolphins,2017,1.0,0.1224,0.1224,19.083333,0.0064,False,2016.0,7.0,226.0,Jaguars,Central Arkansas
+Tyrone Holmes,IDL,Chiefs,2017,1.0,0.1224,0.1224,19.0625,0.0064,False,2016.0,6.0,181.0,Jaguars,Montana
+Demarcus Christmas,IDL,Steelers,2020,1.0,0.1428,0.1428,22.5,0.0063,False,2019.0,6.0,209.0,Seahawks,Florida State
+Terry Beckner Jr.,IDL,Bears,2020,1.0,0.1428,0.1428,22.5,0.0063,False,2019.0,7.0,215.0,Buccaneers,Missouri
+Jacob Eason,QB,Panthers,2022,1.0,0.283444,0.283444,45.0,0.0063,False,2020.0,4.0,122.0,Colts,Washington
+Quinton Bell,IDL,Buccaneers,2020,1.0,0.1428,0.1428,22.5,0.0063,False,2019.0,7.0,230.0,Raiders,Prairie View A&M
+Breeland Speaks,IDL,Cowboys,2020,1.0,0.1428,0.1428,22.5,0.0063,False,2018.0,2.0,46.0,Chiefs,Mississippi
+Kelvin Harmon,WR,Commanders,2021,1.0,0.1656,0.1656,27.25,0.0061,False,2019.0,6.0,206.0,Commanders,North Carolina State
+Keke Coutee,WR,Colts,2021,1.0,0.1656,0.1656,27.25,0.0061,False,2018.0,4.0,103.0,Texans,Texas Tech
+Joe Reed,WR,Chargers,2021,1.0,0.1656,0.1656,27.25,0.0061,False,2020.0,5.0,151.0,Chargers,Virginia
+Jalen Jelks,ED,Commanders,2020,1.0,0.1428,0.1428,23.5,0.0061,False,2019.0,7.0,241.0,Cowboys,Oregon
+Shareef Miller,ED,Eagles,2020,1.0,0.1428,0.1428,23.5,0.0061,False,2019.0,4.0,138.0,Eagles,Penn State
+Curtis Weaver,ED,Browns,2021,1.0,0.1656,0.1656,27.0,0.0061,False,2020.0,5.0,164.0,Dolphins,Boise State
+Bradlee Anae,ED,Cowboys,2021,1.0,0.1656,0.1656,27.0,0.0061,False,2020.0,5.0,179.0,Cowboys,Utah
+KeeSean Johnson,WR,Eagles,2021,1.0,0.1656,0.1656,27.25,0.0061,False,2019.0,6.0,174.0,Cardinals,Fresno State
+K.J. Hill,WR,Chargers,2021,1.0,0.1656,0.1656,27.25,0.0061,False,2020.0,7.0,220.0,Chargers,Ohio State
+Isaiah Hodgins,WR,Bills,2021,1.0,0.1656,0.1656,27.25,0.0061,False,2020.0,6.0,207.0,Bills,Oregon State
+Gerri Green,ED,Commanders,2020,1.0,0.1428,0.1428,23.5,0.0061,False,2019.0,6.0,199.0,Colts,Mississippi State
+Malcolm Perry,WR,Saints,2021,1.0,0.1656,0.1656,27.25,0.0061,False,2020.0,7.0,246.0,Dolphins,Navy
+Mike White,QB,Jets,2019,1.0,0.204,0.204,33.5,0.0061,False,2018.0,5.0,171.0,Cowboys,Western Kentucky
+James Looney,IDL,Packers,2019,1.0,0.136,0.136,22.5,0.006,False,2018.0,7.0,232.0,Packers,California
+Ade Aruna,ED,Raiders,2019,1.0,0.136,0.136,23.5,0.0058,False,2018.0,6.0,218.0,Vikings,Tulane
+DeShone Kizer,QB,Titans,2020,1.0,0.204,0.204,35.0,0.0058,False,2017.0,2.0,52.0,Browns,Notre Dame
+Kendall Donnerson,ED,Raiders,2019,1.0,0.136,0.136,23.5,0.0058,False,2018.0,7.0,248.0,Packers,Southeast Missouri State
+Trevon Young,ED,Browns,2019,1.0,0.136,0.136,23.5,0.0058,False,2018.0,6.0,205.0,Rams,Louisville
+Garrett Grayson,QB,Saints,2016,1.0,0.1173,0.1173,22.0,0.0053,False,2015.0,3.0,75.0,Saints,Colorado State
+Nathan Peterman,QB,Raiders,2018,1.0,0.1292,0.1292,27.0,0.0048,False,2017.0,5.0,171.0,Bills,Pittsburgh
+Cardale Jones,QB,Chargers,2018,1.0,0.1292,0.1292,27.0,0.0048,False,2016.0,4.0,139.0,Bills,Ohio State
+Connor Cook,QB,Panthers,2018,1.0,0.1292,0.1292,27.0,0.0048,False,2016.0,4.0,100.0,Raiders,Michigan State
+Brandon Allen,QB,Rams,2018,1.0,0.1292,0.1292,27.0,0.0048,False,2016.0,6.0,201.0,Jaguars,Arkansas
+Ian Book,QB,Patriots,2023,1.0,0.216,0.216,50.271667,0.0043,False,2021.0,4.0,133.0,Saints,Notre Dame
+Kellen Mond,QB,Colts,2023,1.0,0.216,0.216,50.271667,0.0043,False,2021.0,3.0,66.0,Vikings,Texas A&M
+Skylar Thompson,QB,Dolphins,2024,1.0,0.225,0.225,55.0,0.0041,False,2022.0,7.0,247.0,Dolphins,Kansas State
+Ben DiNucci,QB,Cowboys,2021,1.0,0.1656,0.1656,45.0,0.0037,False,2020.0,7.0,231.0,Cowboys,James Madison
+James Morgan,QB,Panthers,2021,1.0,0.1656,0.1656,45.0,0.0037,False,2020.0,4.0,125.0,Jets,Florida International
+Brian Robinson Jr.,RB,Falcons,2026,1.0,0.0,0.0,20.6,0.0,False,2022.0,3.0,98.0,Commanders,Alabama

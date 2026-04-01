@@ -1,0 +1,48 @@
+name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,draft_year
+Forrest Lamp,Offensive Guard,Western Kentucky,Conference USA,76.0,309.0,5.0,34.0,27.5,111.0,7.55,4.62,23.0,0,0,0,0,0,0,0,2017
+Dion Dawkins,Offensive Guard,Temple,American Athletic,76.0,314.0,5.11,26.0,26.0,106.0,7.3,4.78,23.0,0,0,0,0,0,0,0,2017
+Isaac Asiata,Offensive Guard,Utah,Pac-12,75.0,323.0,5.34,35.0,25.5,102.0,7.83,4.93,24.0,0,0,0,0,0,0,0,2017
+Danny Isidora,Offensive Guard,Miami,ACC,75.0,306.0,5.03,26.0,29.0,94.0,8.13,4.9,23.0,0,0,0,0,0,0,0,2017
+Quenton Nelson,Offensive Guard,Notre Dame,FBS Independents,77.0,325.0,,35.0,26.5,105.0,7.65,4.62,22.0,0,0,0,0,0,0,0,2018
+Isaiah Wynn,Offensive Guard,Georgia,SEC,74.0,313.0,,,,,,,22.0,0,0,0,0,0,0,0,2018
+Austin Corbett,Offensive Guard,Nevada,Mountain West,76.0,306.0,5.15,19.0,28.0,106.0,7.87,4.5,23.0,0,0,0,0,0,0,0,2018
+Connor Williams,Offensive Guard,Texas,Big 12,77.0,296.0,5.05,26.0,34.0,112.0,7.83,4.63,21.0,0,0,0,0,0,0,0,2018
+Wyatt Teller,Offensive Guard,Virginia Tech,ACC,77.0,301.0,5.24,30.0,29.0,114.0,7.45,4.84,23.0,0,0,0,0,0,0,0,2018
+Will Clapp,Offensive Guard,LSU,SEC,77.0,314.0,5.39,25.0,29.0,97.0,8.04,4.92,22.0,0,0,0,0,0,0,0,2018
+Chris Lindstrom,Offensive Guard,Boston College,ACC,76.0,308.0,4.91,25.0,30.5,117.0,7.61,4.54,22.0,0,0,0,0,0,0,0,2019
+Michael Deiter,Offensive Guard,Wisconsin,Big Ten,77.0,309.0,5.23,21.0,28.0,105.0,7.88,4.81,23.0,0,0,0,0,0,0,0,2019
+Nate Davis,Offensive Guard,Charlotte,Conference USA,75.0,316.0,5.23,23.0,26.0,107.0,7.94,4.83,22.0,0,0,0,0,0,0,0,2019
+Connor McGovern,Offensive Guard,Penn State,Big Ten,77.0,308.0,,28.0,,112.0,7.66,4.57,21.0,0,0,0,0,0,0,0,2019
+Hjalte Froholdt,Offensive Guard,Arkansas,SEC,77.0,306.0,5.2,31.0,27.5,105.0,7.51,4.54,23.0,0,0,0,0,0,0,0,2019
+Ben Powers,Offensive Guard,Oklahoma,Big 12,76.0,307.0,,21.0,,,,,22.0,0,0,0,0,0,0,0,2019
+Phil Haynes,Offensive Guard,Wake Forest,ACC,76.0,322.0,5.2,33.0,31.0,108.0,7.76,4.95,23.0,0,0,0,0,0,0,0,2019
+Wes Martin,Offensive Guard,Indiana,Big Ten,75.0,311.0,,,,,,,23.0,0,0,0,0,0,0,0,2019
+Ross Pierschbacher,Offensive Guard,Alabama,SEC,76.0,307.0,5.2,20.0,22.5,,7.83,4.7,24.0,0,0,0,0,0,0,0,2019
+Derwin Gray,Offensive Guard,Maryland,Big Ten,77.0,320.0,5.26,26.0,,90.0,,,24.0,0,0,0,0,0,0,0,2019
+George Asafo-Adjei,Offensive Guard,Kentucky,SEC,76.0,305.0,,,,,,,22.0,0,0,0,0,0,0,0,2019
+Robert Hunt,Offensive Guard,Louisiana,Sun Belt,77.0,323.0,,,,,,,24.0,0,0,0,0,0,0,0,2020
+Damien Lewis,Offensive Guard,LSU,SEC,74.0,327.0,5.24,27.0,30.0,108.0,,,23.0,0,0,0,0,0,0,0,2020
+Jonah Jackson,Offensive Guard,Ohio State,Big Ten,76.0,306.0,5.23,28.0,26.0,98.0,7.83,5.02,23.0,0,0,0,0,0,0,0,2020
+John Simpson,Offensive Guard,Clemson,ACC,76.0,321.0,5.24,34.0,30.0,107.0,8.03,4.87,23.0,0,0,0,0,0,0,0,2020
+Logan Stenberg,Offensive Guard,Kentucky,SEC,78.0,317.0,5.3,,26.0,104.0,8.0,4.83,23.0,0,0,0,0,0,0,0,2020
+Kevin Dotson,Offensive Guard,Louisiana,Sun Belt,76.0,313.0,,,,,,,23.0,0,0,0,0,0,0,0,2020
+Jack Driscoll,Offensive Guard,Auburn,SEC,77.0,306.0,5.02,23.0,29.5,114.0,,,23.0,0,0,0,0,0,0,0,2020
+Danny Pinter,Offensive Guard,Ball State,Mid-American,76.0,306.0,4.91,24.0,29.5,110.0,7.76,4.62,24.0,0,0,0,0,0,0,0,2020
+Jon Runyan,Offensive Guard,Michigan,Big Ten,76.0,306.0,5.08,24.0,30.5,107.0,7.57,4.69,23.0,1,0,0,0,0,1,0,2020
+Tremayne Anchrum,Offensive Guard,Clemson,ACC,74.0,314.0,5.21,26.0,24.5,104.0,,,22.0,0,0,0,0,0,0,0,2020
+Wyatt Davis,Offensive Guard,Ohio State,Big Ten,76.0,315.0,,25.0,,,,,22.0,0,0,0,0,0,0,0,2021
+Ben Cleveland,Offensive Guard,Georgia,SEC,78.0,343.0,5.05,30.0,28.0,102.0,,4.88,23.0,0,0,0,0,0,0,0,2021
+Royce Newman,Offensive Guard,Ole Miss,SEC,77.0,310.0,5.14,23.0,28.0,104.0,7.91,4.75,24.0,0,0,0,0,0,0,0,2021
+Jaylon Moore,Offensive Guard,Western Michigan,Mid-American,76.0,311.0,5.25,27.0,30.0,106.0,7.77,4.67,23.0,0,0,0,0,0,0,0,2021
+Trey Smith,Offensive Guard,Tennessee,SEC,78.0,321.0,,,,,,,22.0,0,0,0,0,0,0,0,2021
+Jack Anderson,Offensive Guard,Texas Tech,Big 12,77.0,314.0,5.28,27.0,29.5,105.0,7.9,4.83,22.0,0,0,0,0,0,0,0,2021
+Matt Farniok,Offensive Guard,Nebraska,Big Ten,78.0,330.0,5.2,28.0,33.0,105.0,7.14,4.8,23.0,0,0,0,0,0,0,0,2021
+Kenyon Green,Offensive Guard,Texas A&M,SEC,76.0,323.0,5.24,20.0,26.0,102.0,,5.12,21.0,0,0,0,0,0,0,0,2022
+Dylan Parham,Offensive Guard,Memphis,American Athletic,75.0,311.0,4.93,,26.5,108.0,7.78,4.7,23.0,0,0,0,0,0,0,0,2022
+Zach Tom,Offensive Guard,Wake Forest,ACC,76.0,304.0,4.94,,33.0,118.0,7.32,4.47,23.0,0,0,0,0,0,0,0,2022
+Darian Kinnard,Offensive Guard,Kentucky,SEC,77.0,322.0,5.31,,25.0,99.0,8.11,4.96,22.0,0,0,0,0,0,0,0,2022
+Justin Shaffer,Offensive Guard,Georgia,SEC,76.0,314.0,5.14,,25.5,107.0,,,24.0,0,0,0,0,0,0,0,2022
+Cade Mays,Offensive Guard,Tennessee,SEC,77.0,311.0,5.24,,26.0,102.0,7.57,4.71,23.0,0,0,0,0,0,0,0,2022
+Chasen Hines,Offensive Guard,LSU,SEC,75.0,327.0,5.22,,30.5,108.0,,,22.0,0,0,0,0,0,0,0,2022
+Chris Paul,Offensive Guard,Tulsa,American Athletic,76.0,323.0,4.89,,27.0,109.0,7.74,4.83,23.0,0,0,0,0,0,0,0,2022
+Marquis Hayes,Offensive Guard,Oklahoma,Big 12,77.0,318.0,5.3,,23.5,102.0,,,23.0,0,0,0,0,0,0,0,2022

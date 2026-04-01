@@ -1,4 +1,4 @@
 .env
 .claude/
-scrapers/.claude/
 __pycache__/
+data/raw/
