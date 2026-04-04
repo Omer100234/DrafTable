@@ -1,6 +1,6 @@
-name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23
-Garrett Bradbury,Center,NC State,ACC,75.0,306.0,4.92,34.0,31.0,104.0,7.41,4.53,24.0,0,0,0,0,0,0,0
-Erik McCoy,Center,Texas A&M,SEC,76.0,303.0,4.89,29.0,31.0,107.0,8.28,4.62,22.0,3,0,1,1,1,0,0
-Lamont Gaillard,Center,Georgia,SEC,75.0,305.0,,,,,,,23.0,0,0,0,0,0,0,0
-Nick Allegretti,Center,Illinois,Big Ten,76.0,310.0,,,,,,,23.0,0,0,0,0,0,0,0
-Javon Patterson,Center,Ole Miss,SEC,75.0,307.0,5.13,27.0,27.5,98.0,7.72,4.78,22.0,3,0,1,1,1,0,0
+name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y0_college,Y1_college,Y2_college
+Garrett Bradbury,Center,NC State,ACC,75.0,306.0,4.92,34.0,31.0,104.0,7.41,4.53,24.0,0,0,0,0,0,0,0,,,
+Erik McCoy,Center,Texas A&M,SEC,76.0,303.0,4.89,29.0,31.0,107.0,8.28,4.62,22.0,3,0,1,1,1,0,0,Texas A&M,Texas A&M,Texas A&M
+Lamont Gaillard,Center,Georgia,SEC,75.0,305.0,,,,,,,23.0,0,0,0,0,0,0,0,,,
+Nick Allegretti,Center,Illinois,Big Ten,76.0,310.0,,,,,,,23.0,0,0,0,0,0,0,0,,,
+Javon Patterson,Center,Ole Miss,SEC,75.0,307.0,5.13,27.0,27.5,98.0,7.72,4.78,22.0,3,0,1,1,1,0,0,,,Ole Miss

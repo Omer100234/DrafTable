@@ -1,10 +1,10 @@
-name,position,college,conference,height,weight,forty,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23
-Brandon Coleman,Offensive Guard,TCU,Big 12,78.0,320.0,4.99,34.0,114.0,,,23.0,0,0,0,0,0,0,0
-Cooper Beebe,Offensive Guard,Kansas State,Big 12,75.0,322.0,5.03,27.5,109.0,7.44,4.61,23.0,0,0,0,0,0,0,0
-Christian Haynes,Offensive Guard,UConn,FBS Independents,75.0,317.0,5.03,33.0,102.0,,,24.0,3,0,0,0,1,1,1
-Layden Robinson,Offensive Guard,Texas A&M,SEC,77.0,313.0,,26.5,111.0,,,23.0,2,0,0,0,1,1,0
-Trevor Keegan,Offensive Guard,Michigan,Big Ten,78.0,311.0,5.24,30.5,107.0,,,24.0,0,0,0,0,0,0,0
-Christian Mahogany,Offensive Guard,Boston College,ACC,75.0,314.0,5.13,32.5,109.0,7.81,4.53,23.0,0,0,0,0,0,0,0
-Jarrett Kingston,Offensive Guard,USC,Pac-12,76.0,306.0,5.02,31.5,111.0,7.53,4.47,24.0,3,0,0,0,1,1,1
-Elijah Klein,Offensive Guard,UTEP,Conference USA,76.0,319.0,,,,,,24.0,4,0,0,1,1,1,1
-KT Leveston,Offensive Guard,Kansas State,Big 12,76.0,326.0,,,,,,24.0,0,0,0,0,0,0,0
+name,position,college,conference,height,weight,forty,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y0_college,Y1_college,Y2_college,Y3_college
+Brandon Coleman,Offensive Guard,TCU,Big 12,78.0,320.0,4.99,34.0,114.0,,,23.0,0,0,0,0,0,0,0,,,,
+Cooper Beebe,Offensive Guard,Kansas State,Big 12,75.0,322.0,5.03,27.5,109.0,7.44,4.61,23.0,0,0,0,0,0,0,0,,,,
+Christian Haynes,Offensive Guard,UConn,FBS Independents,75.0,317.0,5.03,33.0,102.0,,,24.0,3,0,0,0,1,1,1,,,UConn,
+Layden Robinson,Offensive Guard,Texas A&M,SEC,77.0,313.0,,26.5,111.0,,,23.0,2,0,0,0,1,1,0,,Texas A&M,,
+Trevor Keegan,Offensive Guard,Michigan,Big Ten,78.0,311.0,5.24,30.5,107.0,,,24.0,0,0,0,0,0,0,0,,,,
+Christian Mahogany,Offensive Guard,Boston College,ACC,75.0,314.0,5.13,32.5,109.0,7.81,4.53,23.0,0,0,0,0,0,0,0,,,,
+Jarrett Kingston,Offensive Guard,USC,Pac-12,76.0,306.0,5.02,31.5,111.0,7.53,4.47,24.0,3,0,0,0,1,1,1,USC,,Washington State,
+Elijah Klein,Offensive Guard,UTEP,Conference USA,76.0,319.0,,,,,,24.0,4,0,0,1,1,1,1,,,,UTEP
+KT Leveston,Offensive Guard,Kansas State,Big 12,76.0,326.0,,,,,,24.0,0,0,0,0,0,0,0,,,,

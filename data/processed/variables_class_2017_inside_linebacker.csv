@@ -1,13 +1,13 @@
-name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y0_defensive_PD,Y0_defensive_QB HUR,Y0_defensive_SACKS,Y0_defensive_SOLO,Y0_defensive_TD,Y0_defensive_TFL,Y0_defensive_TOT,Y0_fumbles_FUM,Y0_fumbles_LOST,Y0_fumbles_REC,Y1_interceptions_AVG,Y1_interceptions_INT,Y1_interceptions_TD,Y1_interceptions_YDS,Y0_interceptions_AVG,Y0_interceptions_INT,Y0_interceptions_TD,Y0_interceptions_YDS,Y2_interceptions_AVG,Y2_interceptions_INT,Y2_interceptions_TD,Y2_interceptions_YDS
-Haason Reddick,Inside Linebacker,Temple,American Athletic,74.0,237.0,4.52,24.0,36.5,133.0,7.01,4.37,22.0,1,0,0,0,1,0,0,3.0,3.0,9.5,43.0,0.0,22.5,65.0,0.0,0.0,1.0,,,,,5.0,1.0,0.0,5.0,,,,
-Jarrad Davis,Inside Linebacker,Florida,SEC,73.0,238.0,,,,,,,22.0,2,0,0,1,1,0,0,4.0,5.0,2.0,29.0,0.0,6.0,60.0,,,,0.0,1.0,0.0,0.0,,,,,,,,
-Reuben Foster,Inside Linebacker,Alabama,SEC,72.0,229.0,,,,,,,23.0,1,0,0,0,0,1,0,2.0,7.0,5.0,60.0,0.0,13.0,115.0,,,,,,,,,,,,,,,
-Raekwon McMillan,Inside Linebacker,Ohio State,Big Ten,74.0,240.0,4.61,23.0,33.0,121.0,7.15,4.39,21.0,3,1,1,1,0,0,0,4.0,2.0,2.0,49.0,0.0,7.0,102.0,,,,,,,,,,,,19.0,1.0,1.0,19.0
-Zach Cunningham,Inside Linebacker,Vanderbilt,SEC,76.0,234.0,4.67,15.0,35.0,125.0,7.03,4.29,22.0,1,0,0,0,1,0,0,3.0,1.0,0.0,71.0,0.0,16.5,125.0,0.0,0.0,4.0,,,,,,,,,,,,
-Duke Riley,Inside Linebacker,LSU,SEC,73.0,232.0,4.58,18.0,34.5,122.0,6.89,4.21,23.0,1,0,0,0,0,1,0,1.0,3.0,1.5,39.0,0.0,9.0,92.0,0.0,0.0,1.0,,,,,3.0,1.0,0.0,3.0,,,,
-Alex Anzalone,Inside Linebacker,Florida,SEC,75.0,241.0,4.63,16.0,30.5,116.0,6.88,4.25,22.0,1,0,0,0,1,0,0,2.0,6.0,3.0,22.0,0.0,4.0,53.0,0.0,0.0,1.0,,,,,,,,,,,,
-Kendell Beckwith,Inside Linebacker,LSU,SEC,74.0,243.0,,20.0,,,,,22.0,3,0,1,1,1,0,0,4.0,1.0,1.0,33.0,0.0,6.0,91.0,0.0,0.0,1.0,,,,,,,,,29.0,1.0,1.0,29.0
-Ben Gedeon,Inside Linebacker,Michigan,Big Ten,74.0,244.0,4.75,27.0,34.5,119.0,6.98,4.13,22.0,1,0,0,0,1,0,0,2.0,2.0,4.5,39.0,0.0,15.0,94.0,1.0,0.0,0.0,,,,,,,,,,,,
-Blair Brown,Inside Linebacker,Ohio,Mid-American,72.0,238.0,4.65,,37.0,124.0,6.92,4.18,23.0,1,0,0,0,0,1,0,0.0,0.0,4.5,71.0,0.0,14.5,128.0,,,,,,,,,,,,,,,
-Ukeme Eligwe,Inside Linebacker,Georgia Southern,Sun Belt,74.0,234.0,,,,,,,23.0,1,0,0,0,0,1,0,3.0,3.0,2.5,65.0,0.0,8.5,104.0,0.0,0.0,1.0,,,,,6.0,1.0,0.0,6.0,,,,
-Jordan Evans,Inside Linebacker,Oklahoma,Big 12,75.0,232.0,,,,,,,22.0,3,0,1,1,1,0,0,8.0,3.0,2.5,55.0,2.0,10.0,98.0,0.0,0.0,1.0,,,,,36.3,4.0,2.0,145.0,0.0,1.0,0.0,0.0
+name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y0_college,Y0_defensive_PD,Y0_defensive_QB HUR,Y0_defensive_SACKS,Y0_defensive_SOLO,Y0_defensive_TD,Y0_defensive_TFL,Y0_defensive_TOT,Y0_fumbles_FUM,Y0_fumbles_LOST,Y0_fumbles_REC,Y1_college,Y1_interceptions_AVG,Y1_interceptions_INT,Y1_interceptions_TD,Y1_interceptions_YDS,Y2_college,Y0_interceptions_AVG,Y0_interceptions_INT,Y0_interceptions_TD,Y0_interceptions_YDS,Y2_interceptions_AVG,Y2_interceptions_INT,Y2_interceptions_TD,Y2_interceptions_YDS
+Haason Reddick,Inside Linebacker,Temple,American Athletic,74.0,237.0,4.52,24.0,36.5,133.0,7.01,4.37,22.0,1,0,0,0,1,0,0,Temple,3.0,3.0,9.5,43.0,0.0,22.5,65.0,0.0,0.0,1.0,,,,,,,5.0,1.0,0.0,5.0,,,,
+Jarrad Davis,Inside Linebacker,Florida,SEC,73.0,238.0,,,,,,,22.0,2,0,0,1,1,0,0,Florida,4.0,5.0,2.0,29.0,0.0,6.0,60.0,,,,Florida,0.0,1.0,0.0,0.0,,,,,,,,,
+Reuben Foster,Inside Linebacker,Alabama,SEC,72.0,229.0,,,,,,,23.0,1,0,0,0,0,1,0,Alabama,2.0,7.0,5.0,60.0,0.0,13.0,115.0,,,,,,,,,,,,,,,,,
+Raekwon McMillan,Inside Linebacker,Ohio State,Big Ten,74.0,240.0,4.61,23.0,33.0,121.0,7.15,4.39,21.0,3,1,1,1,0,0,0,Ohio State,4.0,2.0,2.0,49.0,0.0,7.0,102.0,,,,,,,,,Ohio State,,,,,19.0,1.0,1.0,19.0
+Zach Cunningham,Inside Linebacker,Vanderbilt,SEC,76.0,234.0,4.67,15.0,35.0,125.0,7.03,4.29,22.0,1,0,0,0,1,0,0,Vanderbilt,3.0,1.0,0.0,71.0,0.0,16.5,125.0,0.0,0.0,4.0,,,,,,,,,,,,,,
+Duke Riley,Inside Linebacker,LSU,SEC,73.0,232.0,4.58,18.0,34.5,122.0,6.89,4.21,23.0,1,0,0,0,0,1,0,LSU,1.0,3.0,1.5,39.0,0.0,9.0,92.0,0.0,0.0,1.0,,,,,,,3.0,1.0,0.0,3.0,,,,
+Alex Anzalone,Inside Linebacker,Florida,SEC,75.0,241.0,4.63,16.0,30.5,116.0,6.88,4.25,22.0,1,0,0,0,1,0,0,Florida,2.0,6.0,3.0,22.0,0.0,4.0,53.0,0.0,0.0,1.0,,,,,,,,,,,,,,
+Kendell Beckwith,Inside Linebacker,LSU,SEC,74.0,243.0,,20.0,,,,,22.0,3,0,1,1,1,0,0,LSU,4.0,1.0,1.0,33.0,0.0,6.0,91.0,0.0,0.0,1.0,,,,,,LSU,,,,,29.0,1.0,1.0,29.0
+Ben Gedeon,Inside Linebacker,Michigan,Big Ten,74.0,244.0,4.75,27.0,34.5,119.0,6.98,4.13,22.0,1,0,0,0,1,0,0,Michigan,2.0,2.0,4.5,39.0,0.0,15.0,94.0,1.0,0.0,0.0,,,,,,,,,,,,,,
+Blair Brown,Inside Linebacker,Ohio,Mid-American,72.0,238.0,4.65,,37.0,124.0,6.92,4.18,23.0,1,0,0,0,0,1,0,Ohio,0.0,0.0,4.5,71.0,0.0,14.5,128.0,,,,,,,,,,,,,,,,,
+Ukeme Eligwe,Inside Linebacker,Georgia Southern,Sun Belt,74.0,234.0,,,,,,,23.0,1,0,0,0,0,1,0,Georgia Southern,3.0,3.0,2.5,65.0,0.0,8.5,104.0,0.0,0.0,1.0,,,,,,,6.0,1.0,0.0,6.0,,,,
+Jordan Evans,Inside Linebacker,Oklahoma,Big 12,75.0,232.0,,,,,,,22.0,3,0,1,1,1,0,0,Oklahoma,8.0,3.0,2.5,55.0,2.0,10.0,98.0,0.0,0.0,1.0,,,,,,Oklahoma,36.3,4.0,2.0,145.0,0.0,1.0,0.0,0.0

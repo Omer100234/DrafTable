@@ -1,0 +1,178 @@
+{
+  "arctan": {
+    "forty": {
+      "center": 4.45,
+      "steepness": 8,
+      "xmin": 4.37,
+      "xmax": 4.67
+    },
+    "cone": {
+      "center": 6.95,
+      "steepness": 8,
+      "xmin": 6.57,
+      "xmax": 7.53
+    },
+    "shuttle": {
+      "center": 4.28,
+      "steepness": 8,
+      "xmin": 3.98,
+      "xmax": 4.63
+    }
+  },
+  "linear": {
+    "height": {
+      "min": 67.0,
+      "max": 74.0
+    },
+    "weight": {
+      "min": 176.0,
+      "max": 247.0
+    },
+    "age": {
+      "min": 21.0,
+      "max": 24.0
+    },
+    "bench": {
+      "min": 5.0,
+      "max": 30.0
+    },
+    "vertical": {
+      "min": 28.0,
+      "max": 41.0
+    },
+    "broad_jump": {
+      "min": 109.0,
+      "max": 131.0
+    }
+  },
+  "stat": {
+    "Y0_receiving_REC": {
+      "min": 1.0,
+      "max": 56.727272727272734
+    },
+    "Y0_receiving_TD": {
+      "min": 0.0,
+      "max": 5.2
+    },
+    "Y0_receiving_YDS": {
+      "min": 8.0,
+      "max": 694.909090909091
+    },
+    "Y0_receiving_YPR": {
+      "min": 1.9,
+      "max": 17.9
+    },
+    "Y0_rushing_CAR": {
+      "min": 5.0,
+      "max": 349.0
+    },
+    "Y0_rushing_TD": {
+      "min": 0.0,
+      "max": 33.800000000000004
+    },
+    "Y0_rushing_YDS": {
+      "min": 33.0,
+      "max": 2248.0
+    },
+    "Y0_rushing_YPC": {
+      "min": 3.9,
+      "max": 8.9
+    },
+    "Y1_receiving_REC": {
+      "min": 1.0,
+      "max": 51.0
+    },
+    "Y1_receiving_TD": {
+      "min": 0.0,
+      "max": 7.0
+    },
+    "Y1_receiving_YDS": {
+      "min": -1.0,
+      "max": 645.0
+    },
+    "Y1_receiving_YPR": {
+      "min": -1.0,
+      "max": 18.9
+    },
+    "Y1_rushing_CAR": {
+      "min": 13.0,
+      "max": 403.0
+    },
+    "Y1_rushing_TD": {
+      "min": 0.0,
+      "max": 32.0
+    },
+    "Y1_rushing_YDS": {
+      "min": 44.0,
+      "max": 2272.111111111111
+    },
+    "Y1_rushing_YPC": {
+      "min": 2.1,
+      "max": 10.2
+    },
+    "Y2_receiving_REC": {
+      "min": 1.0,
+      "max": 49.0
+    },
+    "Y2_receiving_TD": {
+      "min": 0.0,
+      "max": 5.0
+    },
+    "Y2_receiving_YDS": {
+      "min": -2.0,
+      "max": 515.0
+    },
+    "Y2_receiving_YPR": {
+      "min": -1.0,
+      "max": 23.0
+    },
+    "Y2_rushing_CAR": {
+      "min": 2.0,
+      "max": 312.0
+    },
+    "Y2_rushing_TD": {
+      "min": 0.0,
+      "max": 26.0
+    },
+    "Y2_rushing_YDS": {
+      "min": -2.0,
+      "max": 1867.0
+    },
+    "Y2_rushing_YPC": {
+      "min": -1.0,
+      "max": 22.8
+    },
+    "Y3_receiving_REC": {
+      "min": 1.0,
+      "max": 29.0
+    },
+    "Y3_receiving_TD": {
+      "min": 0.0,
+      "max": 3.0
+    },
+    "Y3_receiving_YDS": {
+      "min": -3.0,
+      "max": 384.0
+    },
+    "Y3_receiving_YPR": {
+      "min": -3.0,
+      "max": 44.0
+    },
+    "Y3_rushing_CAR": {
+      "min": 1.0,
+      "max": 252.0
+    },
+    "Y3_rushing_TD": {
+      "min": 0.0,
+      "max": 18.0
+    },
+    "Y3_rushing_YDS": {
+      "min": 3.0,
+      "max": 1547.0
+    },
+    "Y3_rushing_YPC": {
+      "min": 3.0,
+      "max": 11.0
+    }
+  }
+}

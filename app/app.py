@@ -3,13 +3,14 @@ import streamlit as st
 import pandas as pd
 import glob
 import os
+import json
 
 st.set_page_config(page_title="DrafTables", layout="wide")
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "raw")
 PROCESSED_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "processed")
 
-page = st.sidebar.radio("View", ["Eligible Players", "Past Drafts", "Prospect Stats", "NFL AV Leaders", "Second Contracts", "Draft Class Variables", "Training Data", "Normalized Data", "Success Scores"])
+page = st.sidebar.radio("View", ["Eligible Players", "Past Drafts", "Prospect Stats", "NFL AV Leaders", "Second Contracts", "Draft Class Variables", "Training Data", "Normalized Data", "Success Scores", "Predictions"])
 
 if page == "Eligible Players":
     st.title("2026 Eligible Players")
@@ -163,9 +164,7 @@ elif page == "NFL AV Leaders":
 
     filtered = filtered.sort_values("av_per_game", ascending=False)
 
-    display_cols = ["draft_year", "round", "pick", "name", "position", "college", "games", "w_av", "av_per_game", "probowls", "allpro"]
-    display_df = filtered[display_cols].reset_index(drop=True)
-    display_df.index = display_df.index + 1
+
 
     st.subheader(f"{len(display_df)} players ranked by AV/Game (min 5 games)")
     st.dataframe(display_df, use_container_width=True)
@@ -340,3 +339,85 @@ elif page == "Success Scores":
 
             st.subheader(f"{selected_pos} — {len(df)} players ranked by success score")
             st.dataframe(df, use_container_width=True)
+
+elif page == "Predictions":
+    st.title("ML Predictions by Draft Class")
+
+    import pickle
+    import numpy as np
+    import sys
+    sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "models"))
+    from train_model import SmartImputer  # needed for unpickling
+
+    MODEL_DIR = os.path.join(os.path.dirname(__file__), "..", "models", "trained")
+
+    # Find available models
+    model_files = sorted(glob.glob(os.path.join(MODEL_DIR, "ensemble_*.pkl")))
+    positions = []
+    for f in model_files:
+        pos = os.path.basename(f).replace("ensemble_", "").replace(".pkl", "").replace("_", " ").title()
+        positions.append(pos)
+
+    if not positions:
+        st.warning("No trained models found. Run training first.")
+    else:
+        selected_pos = st.selectbox("Position", positions)
+
+        if selected_pos:
+            pos_label = selected_pos.lower().replace(" ", "_")
+
+            # Load model
+            with open(os.path.join(MODEL_DIR, f"ensemble_{pos_label}.pkl"), "rb") as f:
+                data = pickle.load(f)
+            models = data["models"]
+            feature_cols = data["feature_cols"]
+
+            # Show model stats
+            meta_path = os.path.join(MODEL_DIR, f"ensemble_{pos_label}_meta.json")
+            if os.path.exists(meta_path):
+                with open(meta_path) as mf:
+                    meta = json.load(mf)
+                cols = st.columns(4)
+                cols[0].metric("MAE", f"{meta['cv_mae']:.4f}")
+                cols[1].metric("Correlation", f"{meta['cv_correlation']:.4f}")
+                cols[2].metric("Spearman", f"{meta['cv_spearman']:.4f}")
+                cols[3].metric("Training Size", meta['n_training'])
+
+            # Find normalized class files for this position
+            norm_files = sorted(glob.glob(os.path.join(PROCESSED_DIR, f"normalized_class_*_{pos_label}.csv")))
+            years = [int(os.path.basename(f).split("_")[2]) for f in norm_files]
+
+            if not years:
+                st.warning("No normalized prediction data found. Run the normalizer first.")
+            else:
+                selected_year = st.selectbox("Draft Class", sorted(years, reverse=True))
+
+                df = pd.read_csv(os.path.join(PROCESSED_DIR, f"normalized_class_{selected_year}_{pos_label}.csv"))
+
+                # Ensure all feature columns exist
+                for col in feature_cols:
+                    if col not in df.columns:
+                        df[col] = np.nan
+
+                # Predict
+                preds = [m.predict(df[feature_cols]) for _, m in models]
+                df["predicted_score"] = np.clip(np.mean(preds, axis=0), 0, 1).round(3)
+
+                col1, col2 = st.columns(2)
+                with col1:
+                    search = st.text_input("Search by name")
+                with col2:
+                    pass
+
+                if search:
+                    df = df[df["name"].str.contains(search, case=False, na=False)]
+
+                df = df.sort_values("predicted_score", ascending=False).reset_index(drop=True)
+                df.index = df.index + 1
+
+                display_cols = ["name", "college", "predicted_score"]
+                extra = ["height", "weight", "forty", "conference_prestige"]
+                display_cols += [c for c in extra if c in df.columns]
+
+                st.subheader(f"{selected_year} {selected_pos} — {len(df)} prospects ranked by predicted score")
+                st.dataframe(df[display_cols], use_container_width=True)

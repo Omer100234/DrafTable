@@ -1,21 +1,21 @@
-name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y0_defensive_PD,Y0_defensive_QB HUR,Y0_defensive_SACKS,Y0_defensive_SOLO,Y0_defensive_TD,Y0_defensive_TFL,Y0_defensive_TOT,Y0_fumbles_FUM,Y0_fumbles_LOST,Y0_fumbles_REC,Y1_fumbles_FUM,Y1_fumbles_LOST,Y1_fumbles_REC,Y1_defensive_PD,Y1_defensive_QB HUR,Y1_defensive_SACKS,Y1_defensive_SOLO,Y1_defensive_TD,Y1_defensive_TFL,Y1_defensive_TOT
-Bradley Chubb,Defensive End,NC State,ACC,76.0,269.0,4.65,24.0,36.0,121.0,7.37,4.41,22.0,3,0,1,1,1,0,0,2.0,9.0,10.0,39.0,0.0,25.0,72.0,,,,0.0,0.0,1.0,1.0,7.0,10.5,33.0,0.0,21.5,55.0
-Marcus Davenport,Defensive End,UTSA,Conference USA,78.0,264.0,4.58,22.0,33.5,124.0,7.2,4.41,22.0,2,0,0,1,1,0,0,4.0,8.0,8.5,33.0,0.0,17.0,55.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,8.0,6.5,30.0,0.0,10.0,67.0
-Breeland Speaks,Defensive End,Ole Miss,SEC,75.0,283.0,4.87,,32.5,110.0,7.63,4.65,22.0,2,0,0,1,1,0,0,1.0,8.0,7.0,27.0,0.0,8.0,67.0,0.0,0.0,1.0,,,,1.0,8.0,1.0,11.0,0.0,1.5,28.0
-Kemoko Turay,Defensive End,Rutgers,Big Ten,77.0,253.0,4.65,,,,,,23.0,2,0,0,0,1,1,0,1.0,7.0,4.0,32.0,0.0,6.0,60.0,0.0,0.0,2.0,,,,0.0,1.0,2.0,3.0,0.0,2.0,3.0
-Tyquan Lewis,Defensive End,Ohio State,Big Ten,75.0,269.0,,,35.5,122.0,,,23.0,2,0,0,0,1,1,0,2.0,3.0,7.0,12.0,0.0,9.5,20.0,,,,,,,2.0,5.0,8.0,17.0,0.0,10.5,29.0
-Chad Thomas,Defensive End,Miami,ACC,77.0,281.0,4.92,,29.0,116.0,,,22.0,2,0,0,1,1,0,0,1.0,3.0,5.5,17.0,0.0,12.0,37.0,,,,0.0,0.0,1.0,3.0,1.0,3.0,22.0,0.0,11.0,37.0
-Sam Hubbard,Defensive End,Ohio State,Big Ten,77.0,270.0,,,35.0,116.0,6.84,4.32,23.0,3,0,0,1,1,1,0,0.0,3.0,7.0,27.0,0.0,13.5,42.0,,,,,,,2.0,4.0,3.5,21.0,0.0,8.5,46.0
-Rasheem Green,Defensive End,USC,Pac-12,76.0,275.0,4.73,,32.5,118.0,7.24,4.39,21.0,2,0,1,1,0,0,0,4.0,5.0,10.0,19.0,0.0,12.5,43.0,,,,,,,4.0,1.0,6.0,24.0,0.0,6.5,55.0
-Arden Key,Defensive End,LSU,SEC,77.0,238.0,,,31.0,117.0,7.16,4.25,22.0,2,0,0,1,1,0,0,0.0,7.0,4.0,15.0,0.0,5.5,33.0,,,,0.0,0.0,1.0,3.0,11.0,12.0,23.0,0.0,14.5,55.0
-Jalyn Holmes,Defensive End,Ohio State,Big Ten,77.0,283.0,4.82,25.0,32.0,,,,22.0,2,0,0,1,1,0,0,3.0,2.0,2.0,18.0,0.0,3.0,30.0,,,,0.0,0.0,2.0,1.0,3.0,2.0,12.0,0.0,9.0,33.0
-Da'Shawn Hand,Defensive End,Alabama,SEC,76.0,297.0,,,,,,,22.0,2,0,0,1,1,0,0,1.0,0.0,3.0,9.0,0.0,3.5,27.0,,,,,,,0.0,5.0,2.0,10.0,0.0,3.5,21.0
-Dorance Armstrong Jr.,Defensive End,Kansas,Big 12,76.0,257.0,,,,,,,21.0,2,0,1,1,0,0,0,4.0,7.0,2.0,33.0,0.0,9.5,63.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,5.0,10.0,40.0,0.0,20.0,56.0
-Kentavius Street,Defensive End,NC State,ACC,74.0,280.0,4.87,28.0,,,,,22.0,2,0,0,1,1,0,0,2.0,4.0,3.5,16.0,0.0,6.5,38.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,4.0,5.5,14.0,0.0,9.0,29.0
-Josh Sweat,Defensive End,Florida State,ACC,77.0,251.0,4.53,,39.5,124.0,,4.28,21.0,3,1,1,1,0,0,0,3.0,6.0,5.5,31.0,0.0,12.5,56.0,,,,,,,1.0,6.0,7.0,25.0,0.0,11.5,41.0
-Andrew Brown,Defensive End,Virginia,ACC,75.0,296.0,5.03,31.0,28.0,101.0,7.51,4.48,22.0,2,0,0,1,1,0,0,0.0,3.0,3.5,18.0,0.0,10.5,46.0,,,,0.0,0.0,1.0,2.0,0.0,6.0,19.0,0.0,13.0,38.0
-Duke Ejiofor,Defensive End,Wake Forest,ACC,75.0,267.0,,,,,,,23.0,2,0,0,0,1,1,0,1.0,9.0,6.5,26.0,0.0,16.5,43.0,,,,0.0,0.0,2.0,4.0,4.0,10.5,30.0,0.0,17.0,50.0
-Kylie Fitts,Defensive End,Utah,Pac-12,76.0,263.0,4.69,31.0,32.5,117.0,6.88,4.19,23.0,2,0,0,0,1,1,0,1.0,0.0,3.0,14.0,0.0,3.0,23.0,,,,,,,0.0,0.0,1.5,2.0,0.0,3.0,4.0
-Trevon Young,Defensive End,Louisville,ACC,76.0,258.0,4.78,25.0,33.0,114.0,6.99,4.4,23.0,3,0,0,1,1,1,0,5.0,9.0,4.5,37.0,0.0,12.0,62.0,0.0,0.0,1.0,,,,,,,,,,
-Ade Aruna,Defensive End,Tulane,American Athletic,77.0,262.0,4.6,18.0,38.5,128.0,7.53,4.48,24.0,2,0,0,0,0,1,1,2.0,3.0,3.0,15.0,0.0,3.0,25.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,5.0,26.0,0.0,10.0,43.0
-Justin Lawler,Defensive End,SMU,American Athletic,76.0,265.0,,,,,,,23.0,2,0,0,0,1,1,0,2.0,10.0,9.5,42.0,0.0,15.5,74.0,,,,0.0,0.0,1.0,0.0,7.0,6.0,45.0,0.0,13.5,65.0
+name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y0_college,Y0_defensive_PD,Y0_defensive_QB HUR,Y0_defensive_SACKS,Y0_defensive_SOLO,Y0_defensive_TD,Y0_defensive_TFL,Y0_defensive_TOT,Y0_fumbles_FUM,Y0_fumbles_LOST,Y0_fumbles_REC,Y1_college,Y2_college,Y1_fumbles_FUM,Y1_fumbles_LOST,Y1_fumbles_REC,Y1_defensive_PD,Y1_defensive_QB HUR,Y1_defensive_SACKS,Y1_defensive_SOLO,Y1_defensive_TD,Y1_defensive_TFL,Y1_defensive_TOT
+Bradley Chubb,Defensive End,NC State,ACC,76.0,269.0,4.65,24.0,36.0,121.0,7.37,4.41,22.0,3,0,1,1,1,0,0,NC State,2.0,9.0,10.0,39.0,0.0,25.0,72.0,,,,NC State,NC State,0.0,0.0,1.0,1.0,7.0,10.5,33.0,0.0,21.5,55.0
+Marcus Davenport,Defensive End,UTSA,Conference USA,78.0,264.0,4.58,22.0,33.5,124.0,7.2,4.41,22.0,2,0,0,1,1,0,0,UTSA,4.0,8.0,8.5,33.0,0.0,17.0,55.0,0.0,0.0,1.0,UTSA,,0.0,0.0,1.0,1.0,8.0,6.5,30.0,0.0,10.0,67.0
+Breeland Speaks,Defensive End,Ole Miss,SEC,75.0,283.0,4.87,,32.5,110.0,7.63,4.65,22.0,2,0,0,1,1,0,0,Ole Miss,1.0,8.0,7.0,27.0,0.0,8.0,67.0,0.0,0.0,1.0,Ole Miss,,,,,1.0,8.0,1.0,11.0,0.0,1.5,28.0
+Kemoko Turay,Defensive End,Rutgers,Big Ten,77.0,253.0,4.65,,,,,,23.0,2,0,0,0,1,1,0,Rutgers,1.0,7.0,4.0,32.0,0.0,6.0,60.0,0.0,0.0,2.0,Rutgers,,,,,0.0,1.0,2.0,3.0,0.0,2.0,3.0
+Tyquan Lewis,Defensive End,Ohio State,Big Ten,75.0,269.0,,,35.5,122.0,,,23.0,2,0,0,0,1,1,0,Ohio State,2.0,3.0,7.0,12.0,0.0,9.5,20.0,,,,Ohio State,,,,,2.0,5.0,8.0,17.0,0.0,10.5,29.0
+Chad Thomas,Defensive End,Miami,ACC,77.0,281.0,4.92,,29.0,116.0,,,22.0,2,0,0,1,1,0,0,Miami,1.0,3.0,5.5,17.0,0.0,12.0,37.0,,,,Miami,,0.0,0.0,1.0,3.0,1.0,3.0,22.0,0.0,11.0,37.0
+Sam Hubbard,Defensive End,Ohio State,Big Ten,77.0,270.0,,,35.0,116.0,6.84,4.32,23.0,3,0,0,1,1,1,0,Ohio State,0.0,3.0,7.0,27.0,0.0,13.5,42.0,,,,Ohio State,Ohio State,,,,2.0,4.0,3.5,21.0,0.0,8.5,46.0
+Rasheem Green,Defensive End,USC,Pac-12,76.0,275.0,4.73,,32.5,118.0,7.24,4.39,21.0,2,0,1,1,0,0,0,USC,4.0,5.0,10.0,19.0,0.0,12.5,43.0,,,,USC,,,,,4.0,1.0,6.0,24.0,0.0,6.5,55.0
+Arden Key,Defensive End,LSU,SEC,77.0,238.0,,,31.0,117.0,7.16,4.25,22.0,2,0,0,1,1,0,0,LSU,0.0,7.0,4.0,15.0,0.0,5.5,33.0,,,,LSU,,0.0,0.0,1.0,3.0,11.0,12.0,23.0,0.0,14.5,55.0
+Jalyn Holmes,Defensive End,Ohio State,Big Ten,77.0,283.0,4.82,25.0,32.0,,,,22.0,2,0,0,1,1,0,0,Ohio State,3.0,2.0,2.0,18.0,0.0,3.0,30.0,,,,Ohio State,,0.0,0.0,2.0,1.0,3.0,2.0,12.0,0.0,9.0,33.0
+Da'Shawn Hand,Defensive End,Alabama,SEC,76.0,297.0,,,,,,,22.0,2,0,0,1,1,0,0,Alabama,1.0,0.0,3.0,9.0,0.0,3.5,27.0,,,,Alabama,,,,,0.0,5.0,2.0,10.0,0.0,3.5,21.0
+Dorance Armstrong Jr.,Defensive End,Kansas,Big 12,76.0,257.0,,,,,,,21.0,2,0,1,1,0,0,0,Kansas,4.0,7.0,2.0,33.0,0.0,9.5,63.0,0.0,0.0,1.0,Kansas,,0.0,0.0,2.0,0.0,5.0,10.0,40.0,0.0,20.0,56.0
+Kentavius Street,Defensive End,NC State,ACC,74.0,280.0,4.87,28.0,,,,,22.0,2,0,0,1,1,0,0,NC State,2.0,4.0,3.5,16.0,0.0,6.5,38.0,0.0,0.0,2.0,NC State,,0.0,0.0,1.0,1.0,4.0,5.5,14.0,0.0,9.0,29.0
+Josh Sweat,Defensive End,Florida State,ACC,77.0,251.0,4.53,,39.5,124.0,,4.28,21.0,3,1,1,1,0,0,0,Florida State,3.0,6.0,5.5,31.0,0.0,12.5,56.0,,,,Florida State,Florida State,,,,1.0,6.0,7.0,25.0,0.0,11.5,41.0
+Andrew Brown,Defensive End,Virginia,ACC,75.0,296.0,5.03,31.0,28.0,101.0,7.51,4.48,22.0,2,0,0,1,1,0,0,Virginia,0.0,3.0,3.5,18.0,0.0,10.5,46.0,,,,Virginia,,0.0,0.0,1.0,2.0,0.0,6.0,19.0,0.0,13.0,38.0
+Duke Ejiofor,Defensive End,Wake Forest,ACC,75.0,267.0,,,,,,,23.0,2,0,0,0,1,1,0,Wake Forest,1.0,9.0,6.5,26.0,0.0,16.5,43.0,,,,Wake Forest,,0.0,0.0,2.0,4.0,4.0,10.5,30.0,0.0,17.0,50.0
+Kylie Fitts,Defensive End,Utah,Pac-12,76.0,263.0,4.69,31.0,32.5,117.0,6.88,4.19,23.0,2,0,0,0,1,1,0,Utah,1.0,0.0,3.0,14.0,0.0,3.0,23.0,,,,Utah,,,,,0.0,0.0,1.5,2.0,0.0,3.0,4.0
+Trevon Young,Defensive End,Louisville,ACC,76.0,258.0,4.78,25.0,33.0,114.0,6.99,4.4,23.0,3,0,0,1,1,1,0,Louisville,5.0,9.0,4.5,37.0,0.0,12.0,62.0,0.0,0.0,1.0,,Louisville,,,,,,,,,,
+Ade Aruna,Defensive End,Tulane,American Athletic,77.0,262.0,4.6,18.0,38.5,128.0,7.53,4.48,24.0,2,0,0,0,0,1,1,Tulane,2.0,3.0,3.0,15.0,0.0,3.0,25.0,0.0,0.0,1.0,Tulane,,0.0,0.0,2.0,0.0,0.0,5.0,26.0,0.0,10.0,43.0
+Justin Lawler,Defensive End,SMU,American Athletic,76.0,265.0,,,,,,,23.0,2,0,0,0,1,1,0,SMU,2.0,10.0,9.5,42.0,0.0,15.5,74.0,,,,SMU,,0.0,0.0,1.0,0.0,7.0,6.0,45.0,0.0,13.5,65.0

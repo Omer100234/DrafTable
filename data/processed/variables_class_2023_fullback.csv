@@ -1,2 +1,2 @@
-name,position,college,conference,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y2_fumbles_FUM,Y2_fumbles_LOST,Y2_fumbles_REC,Y3_fumbles_FUM,Y3_fumbles_LOST,Y3_fumbles_REC
-Derek Parish,Fullback,Houston,American Athletic,24.0,4,0,0,1,1,1,1,0.0,0.0,2.0,0.0,0.0,1.0
+name,position,college,conference,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y2_college,Y3_college,Y2_fumbles_FUM,Y2_fumbles_LOST,Y2_fumbles_REC,Y3_fumbles_FUM,Y3_fumbles_LOST,Y3_fumbles_REC
+Derek Parish,Fullback,Houston,American Athletic,24.0,4,0,0,1,1,1,1,Houston,Houston,0.0,0.0,2.0,0.0,0.0,1.0

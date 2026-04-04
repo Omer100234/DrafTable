@@ -1,22 +1,22 @@
-name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y0_defensive_PD,Y0_defensive_QB HUR,Y0_defensive_SACKS,Y0_defensive_SOLO,Y0_defensive_TD,Y0_defensive_TFL,Y0_defensive_TOT,Y0_fumbles_FUM,Y0_fumbles_LOST,Y0_fumbles_REC
-Solomon Thomas,Defensive Tackle,Stanford,Pac-12,75.0,273.0,4.69,30.0,35.0,126.0,6.95,4.28,21.0,1,0,0,1,0,0,0,0.0,7.0,8.0,40.0,0.0,14.0,61.0,0.0,0.0,2.0
-Jonathan Allen,Defensive Tackle,Alabama,SEC,75.0,286.0,5.0,21.0,30.0,108.0,7.49,4.5,22.0,1,0,0,0,1,0,0,2.0,15.0,10.5,33.0,0.0,16.0,69.0,0.0,0.0,2.0
-Malik McDowell,Defensive Tackle,Michigan State,Big Ten,78.0,295.0,4.85,23.0,28.5,112.0,7.69,4.53,21.0,2,0,1,1,0,0,0,0.0,5.0,1.5,20.0,0.0,7.0,34.0,,,
-Dalvin Tomlinson,Defensive Tackle,Alabama,SEC,75.0,310.0,5.19,,27.0,110.0,7.68,4.59,23.0,1,0,0,0,0,1,0,4.0,7.0,3.0,17.0,0.0,5.5,62.0,,,
-Larry Ogunjobi,Defensive Tackle,Charlotte,Conference USA,75.0,305.0,4.97,26.0,32.0,116.0,7.55,4.75,23.0,1,0,0,0,0,1,0,2.0,10.0,3.0,31.0,0.0,13.5,65.0,,,
-Chris Wormley,Defensive Tackle,Michigan,Big Ten,77.0,298.0,,23.0,,,,,23.0,1,0,0,0,0,1,0,0.0,6.0,6.0,18.0,0.0,8.0,37.0,,,
-Eddie Vanderdoes,Defensive Tackle,UCLA,Pac-12,75.0,305.0,4.99,28.0,28.5,111.0,7.69,4.39,22.0,1,0,0,0,1,0,0,0.0,0.0,1.5,15.0,0.0,1.5,27.0,,,
-Montravius Adams,Defensive Tackle,Auburn,SEC,76.0,304.0,4.87,22.0,29.0,108.0,7.62,4.89,22.0,3,0,1,1,1,0,0,2.0,15.0,4.5,26.0,0.0,8.5,44.0,0.0,0.0,2.0
-Nazair Jones,Defensive Tackle,North Carolina,ACC,77.0,304.0,5.11,,24.5,101.0,7.93,4.63,22.0,3,0,1,1,1,0,0,3.0,1.0,2.5,32.0,0.0,9.5,70.0,0.0,0.0,1.0
-Jaleel Johnson,Defensive Tackle,Iowa,Big Ten,75.0,316.0,5.38,19.0,28.0,100.0,7.64,4.62,23.0,1,0,0,0,0,1,0,2.0,5.0,7.5,30.0,0.0,11.0,55.0,,,
-Ryan Glasgow,Defensive Tackle,Michigan,Big Ten,75.0,302.0,5.13,20.0,27.5,105.0,7.55,4.5,23.0,1,0,0,0,0,1,0,1.0,3.0,4.0,20.0,0.0,10.0,41.0,,,
-Carlos Watkins,Defensive Tackle,Clemson,ACC,75.0,309.0,,25.0,,,,,23.0,2,0,0,0,1,1,0,4.0,4.0,10.5,30.0,0.0,13.5,50.0,0.0,0.0,1.0
-Davon Godchaux,Defensive Tackle,LSU,SEC,75.0,310.0,,,,,,,22.0,1,0,0,0,1,0,0,1.0,3.0,6.5,24.0,0.0,8.5,62.0,0.0,0.0,2.0
-Caleb Brantley,Defensive Tackle,Florida,SEC,75.0,307.0,5.14,21.0,27.0,105.0,7.66,4.62,23.0,1,0,0,0,0,1,0,0.0,3.0,2.5,16.0,0.0,9.5,31.0,,,
-Tanzel Smart,Defensive Tackle,Tulane,American Athletic,73.0,296.0,5.24,22.0,27.0,105.0,7.53,4.57,22.0,1,0,0,0,1,0,0,0.0,2.0,5.5,34.0,0.0,19.0,68.0,0.0,0.0,1.0
-Vincent Taylor,Defensive Tackle,Oklahoma State,Big 12,75.0,304.0,5.07,26.0,28.5,108.0,7.58,4.72,23.0,1,0,0,0,0,1,0,1.0,2.0,7.0,29.0,0.0,12.5,51.0,0.0,0.0,2.0
-D.J. Jones,Defensive Tackle,Ole Miss,SEC,73.0,319.0,5.04,25.0,28.5,108.0,7.73,4.65,22.0,1,0,0,0,1,0,0,0.0,3.0,2.0,11.0,0.0,3.0,30.0,0.0,0.0,1.0
-Elijah Qualls,Defensive Tackle,Washington,Pac-12,73.0,313.0,5.13,33.0,31.5,105.0,7.65,4.66,22.0,1,0,0,0,1,0,0,0.0,3.0,3.0,18.0,0.0,5.0,38.0,,,
-Joey Ivie,Defensive Tackle,Florida,SEC,75.0,298.0,,,,,,,22.0,1,0,0,0,1,0,0,0.0,7.0,2.5,9.0,0.0,3.5,26.0,,,
-Treyvon Hester,Defensive Tackle,Toledo,Mid-American,74.0,300.0,,,,,,,24.0,1,0,0,0,0,0,1,1.0,7.0,5.0,22.0,0.0,8.5,39.0,0.0,0.0,1.0
-Jordan Carrell,Defensive Tackle,Colorado,Pac-12,74.0,290.0,,,,,,,23.0,1,0,0,0,0,1,0,0.0,1.0,5.0,25.0,0.0,6.0,47.0,0.0,0.0,1.0
+name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y0_college,Y0_defensive_PD,Y0_defensive_QB HUR,Y0_defensive_SACKS,Y0_defensive_SOLO,Y0_defensive_TD,Y0_defensive_TFL,Y0_defensive_TOT,Y0_fumbles_FUM,Y0_fumbles_LOST,Y0_fumbles_REC,Y1_college,Y2_college
+Solomon Thomas,Defensive Tackle,Stanford,Pac-12,75.0,273.0,4.69,30.0,35.0,126.0,6.95,4.28,21.0,1,0,0,1,0,0,0,Stanford,0.0,7.0,8.0,40.0,0.0,14.0,61.0,0.0,0.0,2.0,,
+Jonathan Allen,Defensive Tackle,Alabama,SEC,75.0,286.0,5.0,21.0,30.0,108.0,7.49,4.5,22.0,1,0,0,0,1,0,0,Alabama,2.0,15.0,10.5,33.0,0.0,16.0,69.0,0.0,0.0,2.0,,
+Malik McDowell,Defensive Tackle,Michigan State,Big Ten,78.0,295.0,4.85,23.0,28.5,112.0,7.69,4.53,21.0,2,0,1,1,0,0,0,Michigan State,0.0,5.0,1.5,20.0,0.0,7.0,34.0,,,,Michigan State,
+Dalvin Tomlinson,Defensive Tackle,Alabama,SEC,75.0,310.0,5.19,,27.0,110.0,7.68,4.59,23.0,1,0,0,0,0,1,0,Alabama,4.0,7.0,3.0,17.0,0.0,5.5,62.0,,,,,
+Larry Ogunjobi,Defensive Tackle,Charlotte,Conference USA,75.0,305.0,4.97,26.0,32.0,116.0,7.55,4.75,23.0,1,0,0,0,0,1,0,Charlotte,2.0,10.0,3.0,31.0,0.0,13.5,65.0,,,,,
+Chris Wormley,Defensive Tackle,Michigan,Big Ten,77.0,298.0,,23.0,,,,,23.0,1,0,0,0,0,1,0,Michigan,0.0,6.0,6.0,18.0,0.0,8.0,37.0,,,,,
+Eddie Vanderdoes,Defensive Tackle,UCLA,Pac-12,75.0,305.0,4.99,28.0,28.5,111.0,7.69,4.39,22.0,1,0,0,0,1,0,0,UCLA,0.0,0.0,1.5,15.0,0.0,1.5,27.0,,,,,
+Montravius Adams,Defensive Tackle,Auburn,SEC,76.0,304.0,4.87,22.0,29.0,108.0,7.62,4.89,22.0,3,0,1,1,1,0,0,Auburn,2.0,15.0,4.5,26.0,0.0,8.5,44.0,0.0,0.0,2.0,,Auburn
+Nazair Jones,Defensive Tackle,North Carolina,ACC,77.0,304.0,5.11,,24.5,101.0,7.93,4.63,22.0,3,0,1,1,1,0,0,North Carolina,3.0,1.0,2.5,32.0,0.0,9.5,70.0,0.0,0.0,1.0,North Carolina,North Carolina
+Jaleel Johnson,Defensive Tackle,Iowa,Big Ten,75.0,316.0,5.38,19.0,28.0,100.0,7.64,4.62,23.0,1,0,0,0,0,1,0,Iowa,2.0,5.0,7.5,30.0,0.0,11.0,55.0,,,,,
+Ryan Glasgow,Defensive Tackle,Michigan,Big Ten,75.0,302.0,5.13,20.0,27.5,105.0,7.55,4.5,23.0,1,0,0,0,0,1,0,Michigan,1.0,3.0,4.0,20.0,0.0,10.0,41.0,,,,,
+Carlos Watkins,Defensive Tackle,Clemson,ACC,75.0,309.0,,25.0,,,,,23.0,2,0,0,0,1,1,0,Clemson,4.0,4.0,10.5,30.0,0.0,13.5,50.0,0.0,0.0,1.0,Clemson,
+Davon Godchaux,Defensive Tackle,LSU,SEC,75.0,310.0,,,,,,,22.0,1,0,0,0,1,0,0,LSU,1.0,3.0,6.5,24.0,0.0,8.5,62.0,0.0,0.0,2.0,,
+Caleb Brantley,Defensive Tackle,Florida,SEC,75.0,307.0,5.14,21.0,27.0,105.0,7.66,4.62,23.0,1,0,0,0,0,1,0,Florida,0.0,3.0,2.5,16.0,0.0,9.5,31.0,,,,,
+Tanzel Smart,Defensive Tackle,Tulane,American Athletic,73.0,296.0,5.24,22.0,27.0,105.0,7.53,4.57,22.0,1,0,0,0,1,0,0,Tulane,0.0,2.0,5.5,34.0,0.0,19.0,68.0,0.0,0.0,1.0,,
+Vincent Taylor,Defensive Tackle,Oklahoma State,Big 12,75.0,304.0,5.07,26.0,28.5,108.0,7.58,4.72,23.0,1,0,0,0,0,1,0,Oklahoma State,1.0,2.0,7.0,29.0,0.0,12.5,51.0,0.0,0.0,2.0,,
+D.J. Jones,Defensive Tackle,Ole Miss,SEC,73.0,319.0,5.04,25.0,28.5,108.0,7.73,4.65,22.0,1,0,0,0,1,0,0,Ole Miss,0.0,3.0,2.0,11.0,0.0,3.0,30.0,0.0,0.0,1.0,,
+Elijah Qualls,Defensive Tackle,Washington,Pac-12,73.0,313.0,5.13,33.0,31.5,105.0,7.65,4.66,22.0,1,0,0,0,1,0,0,Washington,0.0,3.0,3.0,18.0,0.0,5.0,38.0,,,,,
+Joey Ivie,Defensive Tackle,Florida,SEC,75.0,298.0,,,,,,,22.0,1,0,0,0,1,0,0,Florida,0.0,7.0,2.5,9.0,0.0,3.5,26.0,,,,,
+Treyvon Hester,Defensive Tackle,Toledo,Mid-American,74.0,300.0,,,,,,,24.0,1,0,0,0,0,0,1,Toledo,1.0,7.0,5.0,22.0,0.0,8.5,39.0,0.0,0.0,1.0,,
+Jordan Carrell,Defensive Tackle,Colorado,Pac-12,74.0,290.0,,,,,,,23.0,1,0,0,0,0,1,0,Colorado,0.0,1.0,5.0,25.0,0.0,6.0,47.0,0.0,0.0,1.0,,

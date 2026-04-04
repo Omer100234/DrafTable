@@ -78,7 +78,8 @@ def add_derived_features(df: pd.DataFrame, position: str, draft_year: int, age_d
     season_years = {"Y3": 4, "Y2": 3, "Y1": 2, "Y0": 1}
     all_season_cols = {}
     for season in seasons:
-        all_season_cols[season] = [c for c in df.columns if c.startswith(f"{season}_")]
+        all_season_cols[season] = [c for c in df.columns if c.startswith(f"{season}_")
+                                   and not c.endswith("_college")]
 
     df["years_since_first_played"] = 0
     for _, row in df.iterrows():
@@ -157,11 +158,14 @@ def filter_position_cols(df: pd.DataFrame, position: str) -> pd.DataFrame:
                  "played_at_18", "played_at_19", "played_at_20",
                  "played_at_21", "played_at_22", "played_at_23"]
 
-    # Keep Y*_ columns only if they match a relevant stat category
+    # Keep Y*_ columns only if they match a relevant stat category or are college names
     for col in df.columns:
         if col in keep_cols:
             continue
         if col[:3] in ["Y0_", "Y1_", "Y2_", "Y3_"]:
+            if col.endswith("_college"):
+                keep_cols.append(col)
+                continue
             stat_part = col[3:]
             category = stat_part.split("_")[0]
             if category in stat_categories:
@@ -184,7 +188,7 @@ def build_class(year: int, combine_df: pd.DataFrame) -> pd.DataFrame:
     # Keep overall_pick for now — needed for age matching
     drop_cols = ["draft_year", "round", "pick", "nfl_team",
                  "pre_draft_ranking", "pre_draft_grade"]
-    drop_cols += [c for c in df.columns if c.endswith("_college") or c.endswith("_season")]
+    drop_cols += [c for c in df.columns if c.endswith("_season")]
     df = df.drop(columns=[c for c in drop_cols if c in df.columns])
 
     # Get combine measurables for this draft class

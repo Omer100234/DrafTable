@@ -1,13 +1,13 @@
-name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23
-Ikem Ekwonu,Offensive Tackle,NC State,ACC,76.0,310.0,4.93,,29.0,108.0,7.82,4.73,21.0,0,0,0,0,0,0,0
-Charles Cross,Offensive Tackle,Mississippi State,SEC,77.0,307.0,4.95,,26.0,112.0,7.88,4.61,21.0,0,0,0,0,0,0,0
-Tyler Smith,Offensive Tackle,Tulsa,American Athletic,77.0,324.0,5.02,,27.5,105.0,7.78,4.65,21.0,0,0,0,0,0,0,0
-Luke Goedeke,Offensive Tackle,Central Michigan,Mid-American,77.0,312.0,,26.0,,,,,23.0,0,0,0,0,0,0,0
-Abraham Lucas,Offensive Tackle,Washington State,Pac-12,78.0,315.0,4.92,24.0,27.0,107.0,7.25,4.4,23.0,0,0,0,0,0,0,0
-Bernhard Raimann,Offensive Tackle,Central Michigan,Mid-American,78.0,303.0,5.05,30.0,30.5,117.0,7.46,4.49,24.0,0,0,0,0,0,0,0
-Daniel Faalele,Offensive Tackle,Minnesota,Big Ten,80.0,384.0,,24.0,,,,,22.0,0,0,0,0,0,0,0
-Austin Deculus,Offensive Tackle,LSU,SEC,77.0,321.0,5.08,,28.5,109.0,,4.99,23.0,0,0,0,0,0,0,0
-Luke Tenuta,Offensive Tackle,Virginia Tech,ACC,80.0,319.0,5.41,,26.0,104.0,,4.77,23.0,0,0,0,0,0,0,0
-Thayer Munford,Offensive Tackle,Ohio State,Big Ten,78.0,328.0,5.39,,22.0,104.0,,,22.0,2,0,0,1,1,0,0
-Rasheed Walker,Offensive Tackle,Penn State,Big Ten,78.0,313.0,,,,,,,22.0,0,0,0,0,0,0,0
-AJ Arcuri,Offensive Tackle,Michigan State,Big Ten,79.0,320.0,,,,,,,25.0,0,0,0,0,0,0,0
+name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y1_college
+Ikem Ekwonu,Offensive Tackle,NC State,ACC,76.0,310.0,4.93,,29.0,108.0,7.82,4.73,21.0,0,0,0,0,0,0,0,
+Charles Cross,Offensive Tackle,Mississippi State,SEC,77.0,307.0,4.95,,26.0,112.0,7.88,4.61,21.0,0,0,0,0,0,0,0,
+Tyler Smith,Offensive Tackle,Tulsa,American Athletic,77.0,324.0,5.02,,27.5,105.0,7.78,4.65,21.0,0,0,0,0,0,0,0,
+Luke Goedeke,Offensive Tackle,Central Michigan,Mid-American,77.0,312.0,,26.0,,,,,23.0,0,0,0,0,0,0,0,
+Abraham Lucas,Offensive Tackle,Washington State,Pac-12,78.0,315.0,4.92,24.0,27.0,107.0,7.25,4.4,23.0,0,0,0,0,0,0,0,
+Bernhard Raimann,Offensive Tackle,Central Michigan,Mid-American,78.0,303.0,5.05,30.0,30.5,117.0,7.46,4.49,24.0,0,0,0,0,0,0,0,
+Daniel Faalele,Offensive Tackle,Minnesota,Big Ten,80.0,384.0,,24.0,,,,,22.0,0,0,0,0,0,0,0,
+Austin Deculus,Offensive Tackle,LSU,SEC,77.0,321.0,5.08,,28.5,109.0,,4.99,23.0,0,0,0,0,0,0,0,
+Luke Tenuta,Offensive Tackle,Virginia Tech,ACC,80.0,319.0,5.41,,26.0,104.0,,4.77,23.0,0,0,0,0,0,0,0,
+Thayer Munford,Offensive Tackle,Ohio State,Big Ten,78.0,328.0,5.39,,22.0,104.0,,,22.0,2,0,0,1,1,0,0,Ohio State
+Rasheed Walker,Offensive Tackle,Penn State,Big Ten,78.0,313.0,,,,,,,22.0,0,0,0,0,0,0,0,
+AJ Arcuri,Offensive Tackle,Michigan State,Big Ten,79.0,320.0,,,,,,,25.0,0,0,0,0,0,0,0,

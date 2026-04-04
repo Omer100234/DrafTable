@@ -1,6 +1,6 @@
-name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23
-Frank Ragnow,Center,Arkansas,SEC,77.0,312.0,,26.0,,,,,22.0,0,0,0,0,0,0,0
-Billy Price,Center,Ohio State,Big Ten,76.0,305.0,,,,,,,23.0,0,0,0,0,0,0,0
-James Daniels,Center,Iowa,Big Ten,75.0,306.0,,21.0,30.5,108.0,7.29,4.4,20.0,0,0,0,0,0,0,0
-Martinas Rankin,Center,Mississippi State,SEC,76.0,308.0,,24.0,,,,,23.0,0,0,0,0,0,0,0
-Scott Quessenberry,Center,UCLA,Pac-12,76.0,315.0,5.09,25.0,33.5,111.0,7.5,4.69,23.0,2,0,0,0,1,1,0
+name,position,college,conference,height,weight,forty,bench,vertical,broad_jump,cone,shuttle,age,years_since_first_played,played_at_18,played_at_19,played_at_20,played_at_21,played_at_22,played_at_23,Y1_college
+Frank Ragnow,Center,Arkansas,SEC,77.0,312.0,,26.0,,,,,22.0,0,0,0,0,0,0,0,
+Billy Price,Center,Ohio State,Big Ten,76.0,305.0,,,,,,,23.0,0,0,0,0,0,0,0,
+James Daniels,Center,Iowa,Big Ten,75.0,306.0,,21.0,30.5,108.0,7.29,4.4,20.0,0,0,0,0,0,0,0,
+Martinas Rankin,Center,Mississippi State,SEC,76.0,308.0,,24.0,,,,,23.0,0,0,0,0,0,0,0,
+Scott Quessenberry,Center,UCLA,Pac-12,76.0,315.0,5.09,25.0,33.5,111.0,7.5,4.69,23.0,2,0,0,0,1,1,0,UCLA

@@ -1,0 +1,224 @@
+{
+  "arctan": {
+    "forty": {
+      "center": 4.75,
+      "steepness": 8,
+      "xmin": 4.45,
+      "xmax": 5.1
+    }
+  },
+  "linear": {
+    "height": {
+      "min": 70.0,
+      "max": 78.0
+    },
+    "weight": {
+      "min": 195.0,
+      "max": 237.0
+    },
+    "age": {
+      "min": 21.0,
+      "max": 25.0
+    },
+    "vertical": {
+      "min": 26.0,
+      "max": 36.5
+    },
+    "broad_jump": {
+      "min": 96.0,
+      "max": 127.0
+    },
+    "cone": {
+      "min": 6.75,
+      "max": 7.51
+    },
+    "shuttle": {
+      "min": 4.08,
+      "max": 4.75
+    }
+  },
+  "stat": {
+    "Y0_passing_ATT": {
+      "min": 161.0,
+      "max": 686.0
+    },
+    "Y0_passing_COMPLETIONS": {
+      "min": 97.0,
+      "max": 475.0
+    },
+    "Y0_passing_INT": {
+      "min": 2.0,
+      "max": 17.0
+    },
+    "Y0_passing_PCT": {
+      "min": 0.532,
+      "max": 0.774
+    },
+    "Y0_passing_TD": {
+      "min": 11.0,
+      "max": 62.0
+    },
+    "Y0_passing_YDS": {
+      "min": 1155.0,
+      "max": 5967.0
+    },
+    "Y0_passing_YPA": {
+      "min": 6.4,
+      "max": 11.6
+    },
+    "Y0_rushing_CAR": {
+      "min": 23.0,
+      "max": 233.0
+    },
+    "Y0_rushing_TD": {
+      "min": 0.0,
+      "max": 20.0
+    },
+    "Y0_rushing_YDS": {
+      "min": -268.0,
+      "max": 1601.0
+    },
+    "Y0_rushing_YPC": {
+      "min": -4.2,
+      "max": 7.2
+    },
+    "Y1_rushing_CAR": {
+      "min": 2.0,
+      "max": 260.0
+    },
+    "Y1_rushing_TD": {
+      "min": 0.0,
+      "max": 21.0
+    },
+    "Y1_rushing_YDS": {
+      "min": -144.0,
+      "max": 1571.0
+    },
+    "Y1_rushing_YPC": {
+      "min": -5.1,
+      "max": 10.1
+    },
+    "Y2_rushing_CAR": {
+      "min": 1.0,
+      "max": 164.0
+    },
+    "Y2_rushing_TD": {
+      "min": 0.0,
+      "max": 16.0
+    },
+    "Y2_rushing_YDS": {
+      "min": -162.0,
+      "max": 960.0
+    },
+    "Y2_rushing_YPC": {
+      "min": -7.0,
+      "max": 13.3
+    },
+    "Y1_passing_ATT": {
+      "min": 11.0,
+      "max": 633.0
+    },
+    "Y1_passing_COMPLETIONS": {
+      "min": 8.0,
+      "max": 443.0
+    },
+    "Y1_passing_INT": {
+      "min": 0.0,
+      "max": 18.2
+    },
+    "Y1_passing_PCT": {
+      "min": 0.537,
+      "max": 0.857
+    },
+    "Y1_passing_TD": {
+      "min": 1.0,
+      "max": 45.0
+    },
+    "Y1_passing_YDS": {
+      "min": 110.0,
+      "max": 4653.0
+    },
+    "Y1_passing_YPA": {
+      "min": 5.9,
+      "max": 17.1
+    },
+    "Y2_passing_ATT": {
+      "min": 2.0,
+      "max": 645.0
+    },
+    "Y2_passing_COMPLETIONS": {
+      "min": 0.0,
+      "max": 448.0
+    },
+    "Y2_passing_INT": {
+      "min": 0.0,
+      "max": 13.0
+    },
+    "Y2_passing_PCT": {
+      "min": 0.0,
+      "max": 0.786
+    },
+    "Y2_passing_TD": {
+      "min": 0.0,
+      "max": 38.0
+    },
+    "Y2_passing_YDS": {
+      "min": 0.0,
+      "max": 4566.0
+    },
+    "Y2_passing_YPA": {
+      "min": 0.0,
+      "max": 10.7
+    },
+    "Y3_rushing_CAR": {
+      "min": 2.0,
+      "max": 191.0
+    },
+    "Y3_rushing_TD": {
+      "min": 0.0,
+      "max": 13.0
+    },
+    "Y3_rushing_YDS": {
+      "min": -125.0,
+      "max": 954.0
+    },
+    "Y3_rushing_YPC": {
+      "min": -3.5,
+      "max": 9.4
+    },
+    "Y3_passing_ATT": {
+      "min": 3.0,
+      "max": 382.0
+    },
+    "Y3_passing_COMPLETIONS": {
+      "min": 2.0,
+      "max": 240.0
+    },
+    "Y3_passing_INT": {
+      "min": 0.0,
+      "max": 15.0
+    },
+    "Y3_passing_PCT": {
+      "min": 0.333,
+      "max": 0.786
+    },
+    "Y3_passing_TD": {
+      "min": 0.0,
+      "max": 23.0
+    },
+    "Y3_passing_YDS": {
+      "min": 16.0,
+      "max": 2780.0
+    },
+    "Y3_passing_YPA": {
+      "min": 1.8,
+      "max": 12.0
+    }
+  },
+  "inverted": [
+    "Y0_passing_INT",
+    "Y1_passing_INT",
+    "Y2_passing_INT",
+    "Y3_passing_INT"
+  ]
+}
